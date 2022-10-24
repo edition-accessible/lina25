@@ -1,29 +1,17 @@
 ---
 layout: about
-title: pourquoi
+title: Pourquoi ce site
 permalink: 
 date: 2022-09-22 00:00:00 +0200
 ressources: 
- - Charte technique pour la production d’EPUBs “textuels” nativement accessibles (SNE)
- - Guides de description d’images
- - Atelier du groupe Normes et standards du SNE, décembre 2022.
- - Guide de description Diagram center (traduction BrailleNet)
- - (Diagram center (en anglais))[http://diagramcenter.org/]
- - (Poet description tool (anglais))[http://diagramcenter.org/poet.html]
 image: /assets/images/customizable-feature.png
 ---
+De nombreuses personnes souffrent aujourd’hui en France d’une difficulté d’accès à l’écrit du fait d’un handicap. Quelques 820 000 personnes sont empêchées de lire du fait de troubles visuels sévères, dont seule une minorité maîtrise le braille. Les jeunes et adultes souffrant de troubles cognitifs, tels que la dyslexie et les autres troubles « dys », ne peuvent accéder aux textes qu’au prix d’une adaptation personnalisée de leur présentation. Troubles auditifs précoces, handicap mental et handicap physique temporaire ou permanent peuvent aussi constituer des obstacles pour l’accès à l’écrit. 
 
-Lorem Ipsum
-"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
-"Il ny a personne qui naime la souffrance pour elle-même, qui ne la recherche et qui ne la veuille pour elle-même..."
+L’acte européen d’accessibilité, qui vise l’ensemble des services et produits dans l’Union Européenne, et parmi ceux-ci la chaîne du livre, rend nécessaire une adaptation des opérateurs économiques afin de se mettre en capacité de répondre aux exigences d’accessibilité qui leurs seront posées à l’horizon 2025.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam auctor, magna a euismod faucibus, augue mauris vehicula augue, feugiat laoreet nisi velit pharetra nibh. Suspendisse imperdiet eget tellus ac vestibulum. Integer nec purus a libero consectetur tempor vel vel magna. Duis ac ultrices massa. Suspendisse sagittis velit sem, nec malesuada ipsum ornare in. Phasellus sed sagittis nibh, in commodo leo. Phasellus sagittis risus orci.
+Ce site constitue une base de connaissance pour les acteurs de la chaîne du livre numérique, afin de leur apporter les outils nécessaires à une démarche réussie, qu'il s'agisse de concevoir, produire, décrire, distribuer des contenus, créer ou sélectionner des outils de lecture accessibles. Il est issu du travail du comité de pilotage interministériel pour le développement d’une offre de livres numériques nativement accessibles aux personnes en situation de handicap. 
 
-Proin non molestie leo. Curabitur tortor arcu, imperdiet eget tempor quis, dignissim iaculis libero. Fusce et nunc vitae diam vestibulum eleifend et sit amet quam. Vivamus fermentum, nulla tincidunt rutrum imperdiet, sem purus viverra nulla, at gravida nulla nisl sed metus. Maecenas sem urna, lacinia sed mattis et, imperdiet eu quam. Quisque et nulla urna. In rutrum nisl vel justo laoreet, eu tristique arcu ultrices. Nam massa orci, rutrum id nisi interdum, consectetur luctus tellus. Etiam urna felis, blandit quis ultrices ut, aliquam vitae urna. Donec vel nisi non justo tempor aliquet. Aenean ullamcorper ligula at elementum convallis. Nullam porttitor sed justo at suscipit.
+L'accessibilité numérique repose sur les 4 piliers du Web : perceptible, compréhensible, utilisable et robuste. En suivant les recommandations qui suivent, vous vous assurez de la grande qualité et pérennité de votre livre numérique.
 
-Phasellus pretium scelerisque arcu, at scelerisque purus aliquam ut. Phasellus feugiat libero sit amet felis vestibulum, ut bibendum est rutrum. Suspendisse arcu ligula, malesuada eget arcu ut, sollicitudin mattis leo. Mauris ut felis quis magna dictum pellentesque ac vel neque. Aliquam vel neque vel tellus accumsan vulputate. In ex nulla, elementum non sem non, auctor dapibus justo. Vivamus sit amet commodo nunc. Nullam hendrerit venenatis aliquet. Donec dignissim enim non interdum mollis. Praesent viverra mattis ante, et aliquet sapien blandit sed.
-
-Ut augue dolor, aliquam ut enim in, dignissim rhoncus justo. Donec dapibus finibus tortor non varius. Nam ornare mattis massa. Ut malesuada tempor dictum. Nam ornare odio vitae vulputate porta. Nunc ultricies tempor mauris, quis fermentum dolor fringilla et. Fusce sodales mattis ex nec imperdiet. Fusce nulla lectus, mattis vitae metus nec, tempor sagittis tellus.
-
-Pellentesque ac pharetra quam, eget vestibulum libero. Proin sagittis nunc lacus, ac ultricies urna tincidunt eget. Vivamus convallis tempus feugiat. Cras semper, augue sed gravida luctus, ante quam varius magna, lobortis tempor orci massa quis augue. In facilisis, diam vitae elementum condimentum, libero leo placerat ipsum, placerat pretium eros ante ut ex. In dictum ut neque eu accumsan. Aliquam erat volutpat. Suspendisse congue nibh fermentum tortor finibus dictum. Proin lorem eros, hendrerit non ligula id, bibendum iaculis mauris.
-5 paragraphes, 382 mots, 2584 caractères
+[En savoir plus sur le plan stratégique du comité de pilotage interministériel] (lien vers doc originel copil converti en html)

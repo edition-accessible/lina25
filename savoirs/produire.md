@@ -1,28 +1,44 @@
 ---
 layout: page
-title: About
+title: Produire des structures sémantiques riches 
 permalink: 
 ressources: 
- - Charte technique pour la production d’EPUBs “textuels” nativement accessibles (SNE)
- - Guides de description d’images
- - Atelier du groupe Normes et standards du SNE, décembre 2022.
- - Guide de description Diagram center (traduction BrailleNet)
- - (Diagram center (en anglais))[http://diagramcenter.org/]
- - (Poet description tool (anglais))[http://diagramcenter.org/poet.html]
+orientation: 
+audience: services de production et prestataires techniques des éditeurs
 image: /assets/images/customizable-feature.png
 ---
+Un environnement de lecture ne peut être accessible que s’il s’appuie sur des standards techniques ouverts et partagés. Les personnes en situation de handicap recourent à des outils de lecture spécifiquement conçus pour répondre à leurs besoins, dits technologies d’assistance, tels que : lecteurs d’écran, logiciels de synthèse vocale, lecteurs de livres audio structurés, logiciels d’adaptation automatique des paramètres d’affichage des textes, ou plages braille. Il est donc souhaitable d’utiliser des formats de publication interopérables, qui puissent être pris en charge par ces technologies. Parce qu’il répond à ces attentes, l’EPUB 3 est aujourd’hui le format de référence pour les professionnels du secteur en matière d’accessibilité du livre numérique et son utilisation tend à se généraliser.
 
-Lorem Ipsum
-"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
-"Il ny a personne qui naime la souffrance pour elle-même, qui ne la recherche et qui ne la veuille pour elle-même..."
+Afin de faciliter et standardiser la production de livres numériques nativement accessibles au format EPUB 3, le SNE (Syndicat national de l’Edition) a rédigé une charte technique, disponible au format PDF : [Charte technique pour la production d’EPUBs “textuels” nativement accessibles (SNE)]
+Cette charte “EPUB NAC” (pour Nativement ACcessible) reprend les recommandations des référentiels d’accessibilité internationaux et apporte des éclaircissements sur tout ce qui fait question dans les standards d’accessibilité applicables au format EPUB. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam auctor, magna a euismod faucibus, augue mauris vehicula augue, feugiat laoreet nisi velit pharetra nibh. Suspendisse imperdiet eget tellus ac vestibulum. Integer nec purus a libero consectetur tempor vel vel magna. Duis ac ultrices massa. Suspendisse sagittis velit sem, nec malesuada ipsum ornare in. Phasellus sed sagittis nibh, in commodo leo. Phasellus sagittis risus orci.
+Dans la plupart des cas, l’auteur du livre n’aura pas décrit les images de l’ouvrage. Les services de production devront alors se référer au guide de bonnes pratiques rédigé par le SNE pour la rédaction des descriptions d’images.
+[Titre du guide SNE pour les description d’images](lien)
 
-Proin non molestie leo. Curabitur tortor arcu, imperdiet eget tempor quis, dignissim iaculis libero. Fusce et nunc vitae diam vestibulum eleifend et sit amet quam. Vivamus fermentum, nulla tincidunt rutrum imperdiet, sem purus viverra nulla, at gravida nulla nisl sed metus. Maecenas sem urna, lacinia sed mattis et, imperdiet eu quam. Quisque et nulla urna. In rutrum nisl vel justo laoreet, eu tristique arcu ultrices. Nam massa orci, rutrum id nisi interdum, consectetur luctus tellus. Etiam urna felis, blandit quis ultrices ut, aliquam vitae urna. Donec vel nisi non justo tempor aliquet. Aenean ullamcorper ligula at elementum convallis. Nullam porttitor sed justo at suscipit.
+Bien entendu, une fois produits, les fichiers EPUB 3 devront être validés par la version à jour de EPUBCheck (https://github.com/w3c/epubcheck/releases). 
 
-Phasellus pretium scelerisque arcu, at scelerisque purus aliquam ut. Phasellus feugiat libero sit amet felis vestibulum, ut bibendum est rutrum. Suspendisse arcu ligula, malesuada eget arcu ut, sollicitudin mattis leo. Mauris ut felis quis magna dictum pellentesque ac vel neque. Aliquam vel neque vel tellus accumsan vulputate. In ex nulla, elementum non sem non, auctor dapibus justo. Vivamus sit amet commodo nunc. Nullam hendrerit venenatis aliquet. Donec dignissim enim non interdum mollis. Praesent viverra mattis ante, et aliquet sapien blandit sed.
+Mais cet outil ne teste pas l’accessibilité des publications. Pour cela, il faudra faire appel à l’outil de test [Ace by DAISY](https://daisy.org/activities/software/ace/) développé par le Consortium DAISY. Il est important de savoir que le logiciel Ace n’est pas conçu pour être utilisé de manière automatique : il ne délivre pas un jugement du type “cet EPUB est / n’est pas accessible” mais génère un rapport HTML mettant l'accent sur les violations de règles d’accessibilité, la présence ou non de métadonnées d’accessibilité ; il met également en évidence la structure de la publication et affiche les attributs d’accessibilité présents dans ses images. La qualité sémantique de la publication n’est pas jaugée par la mécanique de cet outil. La génération de métadonnées d’accessibilité, et en particulier l’évaluation d’un niveau de conformité WCAG, nécessite un audit du rapport Ace. 
 
-Ut augue dolor, aliquam ut enim in, dignissim rhoncus justo. Donec dapibus finibus tortor non varius. Nam ornare mattis massa. Ut malesuada tempor dictum. Nam ornare odio vitae vulputate porta. Nunc ultricies tempor mauris, quis fermentum dolor fringilla et. Fusce sodales mattis ex nec imperdiet. Fusce nulla lectus, mattis vitae metus nec, tempor sagittis tellus.
+Le Consortium DAISY a donc également développé un outil nommé [Ace SMART](https://daisy.org/activities/services/smart/), qui fournit les contrôles manuels nécessaires pour garantir la conformité aux exigences EPUB et WCAG. SMART est proposé directement par DAISY et ses membres dans le cadre d'un service de conseil ou d'audit, son usage libre par les éditeurs est limité à cinq livres par mois.
 
-Pellentesque ac pharetra quam, eget vestibulum libero. Proin sagittis nunc lacus, ac ultricies urna tincidunt eget. Vivamus convallis tempus feugiat. Cras semper, augue sed gravida luctus, ante quam varius magna, lobortis tempor orci massa quis augue. In facilisis, diam vitae elementum condimentum, libero leo placerat ipsum, placerat pretium eros ante ut ex. In dictum ut neque eu accumsan. Aliquam erat volutpat. Suspendisse congue nibh fermentum tortor finibus dictum. Proin lorem eros, hendrerit non ligula id, bibendum iaculis mauris.
-5 paragraphes, 382 mots, 2584 caractères
+## Pour en savoir plus
+
+### Référentiels applicables aux livres numériques au format EPUB 3 :
+* Techniques d’Accessibilité EPUB 1.0 : http://www.edrlab.org/public/sne/TAE_HTML_V3/Techniques_d_Accessibilite_EPUB%201.0.htm 
+* Guide de description des images (Diagram center, traduction BrailleNet)
+* Ressources éducatives libres relatives à l’édition inclusive (traduction française de Inclusive Publishing in Practice) :
+* Édition inclusive en pratique : https://www.inclusivepublishinginpractice.org/
+* Référentiels en anglais, version stable :
+* EPUB Accessibility 1.0 : https://www.w3.org/Submission/epub-a11y/ 
+* EPUB Accessibility Techniques 1.0 : https://idpf.org/epub/a11y/techniques/ 
+
+### Référentiels en anglais, version en cours de validation :
+* EPUB Accessibility 1.1 : https://www.w3.org/TR/epub-a11y-11/ 
+* EPUB Accessibility Techniques 1.1 : https://www.w3.org/TR/epub-a11y-tech-11/ 
+* Ouvrage en anglais, version numérique maintenant gratuite : Accessible EPUB 3, by Matt Garrish (O’Reilly, téléchargement gratuit) : https://www.oreilly.com/library/view/accessible-epub-3/9781449329297/ 
+* Guides en anglais de description d’images :
+    * Diagram center 
+    * Poet description tool 
+* Référentiels en anglais, applicables aux pages Web qui constituent les ressources des fichiers EPUB 3 :
+    * Web Content Accessibility Guidelines (WCAG) 2.0 : https://www.w3.org/TR/WCAG20/ 
+    * ARIA Authoring Practices Guide : https://www.w3.org/WAI/ARIA/apg/ 
