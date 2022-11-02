@@ -1,0 +1,30 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    height: 200px;
+    @include breakpoint-tablet {
+        padding: 0 5%;
+    }
+    ul {
+        li {
+            display: inline;
+            padding: 30px;
+            font-weight: 700;
+            @include breakpoint-tablet {
+                padding: 15px;
+                display: block;
+            }
+        }
+        @include breakpoint-mobile {
+            display: none;
+        }
+    }
+    .logo {
+        @include breakpoint-mobile {
+            margin: auto;
+        }
+    }
+}

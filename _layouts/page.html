@@ -1,24 +1,35 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "fr" }}">
 
-<aside class="sidebar">
-  <img src=" {{ page.image }} " alt="">
-  <h2 class="">Listes des ressources</h2>
-  <p>
-    {{ page.ressources | safeHTML }}
-  </p>
-</aside>
+{%- include head.html -%}
 
+<body>
 
-<article class="post">
+  {%- include nav.html -%}
+  <img src="../assets/images/banners/JPG/{{ page.title }}.jpg">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
+  <header id="contenu" class="header_pages">
+    <a href="{{ page.previous }}#contenu" target="_self"><i class="fa-solid fa-angle-left arrow"></i></a>
+    <div class="title_pages">
+      <h1>{{ page.title }}</h1>
+      <h2>{{ page.subtitle }}</h2>
+    </div>
+    <a href="{{ page.next }}#contenu" target="_self"><i class="fa-solid fa-chevron-right arrow"></i></a>
   </header>
 
-  <div class="post-content">
-    {{ content }}
-  </div>
+  <section class="audience">
+    <p><strong>Orientation : </strong>{{ page.orientation }}</p>
+    <p><strong>Audience : </strong>{{ page.audience }}</p>
+  </section>
 
-</article>
+  <main class="page" aria-label="Content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </main>
+
+  {%- include footer.html -%}
+
+</body>
+
+</html>

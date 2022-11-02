@@ -1,0 +1,26 @@
+footer ul {
+    display: flex;
+    width: 100%;
+    margin: auto;
+    justify-content: center;
+    gap: 50px;
+    padding: 2%;
+    @include breakpoint-laptop {
+        gap: 20px;
+    }
+    @include breakpoint-mobile {
+        display: block;
+        text-align: center;
+    }
+    li {
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-size: 22px;
+        @include breakpoint-tablet {
+            span {
+                display: none;
+            }
+        }
+    }
+    color: $color-tertiary;
+}

@@ -1,0 +1,188 @@
+.intro {
+    width: 100%;
+    position: relative;
+    div {
+        position: absolute;
+        top: -15%;
+        padding: 10% 0% 5% 10%;
+        width: 50%;
+        margin-right: 10%;
+        @include breakpoint-tablet {
+            padding: 10% 5%;
+            width: 60%;
+        }
+        h1,
+        h2 {
+            margin: 0%;
+            font-size: 2.5vw;
+        }
+        h2 {
+            font-weight: 400;
+            @include breakpoint-mobile {
+                padding-bottom: 0%;
+            }
+        }
+        img {
+            width: 5%;
+        }
+    }
+    h2,
+    p {
+        padding-bottom: 3%;
+    }
+    p {
+        font-weight: 200;
+        font-style: italic;
+        width: 75%;
+        font-size: 1.2vw;
+    }
+    .btn {
+        position: absolute;
+        bottom: 15%;
+        left: 10%;
+        color: white;
+        border: 1px solid $color-primary;
+        border-radius: 50px;
+        background-color: $color-primary;
+        padding: 1% 4%;
+        @include breakpoint-tablet {
+            font-size: smaller;
+        }
+        @include breakpoint-mobile {
+            font-size: 2vw;
+        }
+    }
+}
+
+.homepage-content {
+    background-color: $color_bg-main;
+}
+
+.section1 {
+    height: 33%;
+    border-radius: 50% 50% / 0px 0px 15% 15%;
+    box-shadow: 0px 5px 2px white;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 5%;
+    background-color: white;
+    position: relative;
+}
+
+.aspects {
+    display: grid;
+    justify-content: center;
+    width: 100%;
+    margin: auto;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-rows: 2;
+    gap: 27px;
+    padding-bottom: 2%;
+    @include breakpoint-tablet {
+        grid-template-columns: 25% 25% 25%;
+        grid-template-rows: 3;
+        gap: 50px;
+    }
+    @include breakpoint-mobile {
+        grid-template-columns: 50% 50%;
+        grid-template-rows: 4;
+    }
+    .tab {
+        margin: auto;
+        justify-content: center;
+        text-align: center;
+        border: 1px solid white;
+        background-color: $color_bg-blocs;
+        border-radius: 25px;
+        height: 259px;
+        width: 259px;
+        @include breakpoint-laptop {
+            height: 200px;
+            width: 200px;
+            @include breakpoint-mobile {
+                height: 150px;
+                width: 150px;
+                p {
+                    display: none;
+                }
+            }
+        }
+        h3,
+        p {
+            color: $color-primary;
+            margin: 0%;
+            font-size: 20px;
+            @include breakpoint-laptop {
+                font-size: 18px;
+            }
+        }
+        img,
+        svg {
+            width: 50px;
+            padding-top: 25%;
+            padding-bottom: 10%;
+            @include breakpoint-laptop {
+                padding-top: 15%;
+            }
+        }
+        &:hover {
+            background-color: $color-primary;
+            p,
+            h3 {
+                color: white;
+            }
+            svg .b {
+                fill: white;
+            }
+        }
+    }
+}
+
+.fa-arrow-down {
+    color: $color-primary;
+    transform: scale(1.5);
+    position: absolute;
+    bottom: -3%;
+    left: 50%;
+    z-index: 2;
+    border: 1px solid lighten($color-primary, 20%);
+    border-radius: 50%;
+    padding: 5px 7px;
+    background-color: white;
+    box-shadow: 0px 0px 0px 15px white;
+    @include breakpoint-mobile {
+        display: none;
+    }
+}
+
+#pourquoi {
+    background-color: $color_bg-main;
+    padding: 10% 10%;
+    position: relative;
+    #reading_woman {
+        position: absolute;
+        width: 25%;
+        top: -5%;
+        right: 10%;
+        @include breakpoint-XXL {
+            top: -15%;
+        }
+        @include breakpoint-tablet {
+            top: 0%;
+        }
+    }
+    .pourquoi_paragraphe {
+        display: flex;
+        width: 100%;
+        text-align: justify;
+        align-items: baseline;
+        white-space: wrap;
+        i {
+            padding-right: 2%;
+            color: $color-secondary;
+        }
+        p {
+            word-wrap: break-word;
+        }
+    }
+}
