@@ -31,23 +31,23 @@ Guide de description des images (Diagram center, traduction BrailleNet)
 
 Ressources éducatives libres relatives à l’édition inclusive (traduction française de Inclusive Publishing in Practice) :
 
-[Édition inclusive en pratique](https://www.inclusivepublishinginpractice.org/)
+<a href="https://www.inclusivepublishinginpractice.org/" class="link color_orange">Édition inclusive en pratique</a>
 
 Référentiels en anglais, version stable :
 
-[EPUB Accessibility 1.0](https://www.w3.org/Submission/epub-a11y/)
+<a href="https://www.w3.org/Submission/epub-a11y/" class="link color_orange">EPUB Accessibility 1.0</a>
 
-[EPUB Accessibility Techniques 1.0](https://idpf.org/epub/a11y/techniques/)
+<a href="https://idpf.org/epub/a11y/techniques/" class="link color_orange">EPUB Accessibility Techniques 1.0</a>
 
 Référentiels en anglais, version en cours de validation :
 
-[EPUB Accessibility 1.1](https://www.w3.org/TR/epub-a11y-11/)
+<a href="https://www.w3.org/TR/epub-a11y-11/" class="link color_orange">EPUB Accessibility 1.1</a>
 
-[EPUB Accessibility Techniques 1.1](https://www.w3.org/TR/epub-a11y-tech-11/)
+<a href="https://www.w3.org/TR/epub-a11y-tech-11/" class="link color_orange">EPUB Accessibility Techniques 1.1</a>
 
 Ouvrage en anglais, version numérique maintenant gratuite :
+<a href="https://www.oreilly.com/library/view/accessible-epub-3/9781449329297/" class="link color_orange">Accessible EPUB 3, by Matt Garrish (O’Reilly, téléchargement gratuit)</a>
 
-[Accessible EPUB 3, by Matt Garrish (O’Reilly, téléchargement gratuit)](https://www.oreilly.com/library/view/accessible-epub-3/9781449329297/)
 Guides en anglais de description d’images :
 
 Diagram center
@@ -56,6 +56,6 @@ Poet description tool
 
 Référentiels en anglais, applicables aux pages Web qui constituent les ressources des fichiers EPUB 3 :
 
-[Web Content Accessibility Guidelines (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
+<a href="https://www.w3.org/TR/WCAG20/" class="link color_orange">Web Content Accessibility Guidelines (WCAG) 2.0</a>
 
-[ARIA Authoring Practices Guide](https://www.w3.org/WAI/ARIA/apg/)
+<a href="https://www.w3.org/WAI/ARIA/apg/" class="link color_orange">ARIA Authoring Practices Guide</a>

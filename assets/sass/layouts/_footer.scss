@@ -1,6 +1,5 @@
 footer ul {
     display: flex;
-    width: 100%;
     margin: auto;
     justify-content: center;
     gap: 50px;
@@ -21,6 +20,9 @@ footer ul {
                 display: none;
             }
         }
+    }
+    a {
+        font-weight: 400;
     }
     color: $color-tertiary;
 }

@@ -2,4 +2,4 @@ $color-primary: #6975cf;
 $color-secondary: #8fbceb;
 $color-tertiary: #ee8c3d;
 $color_bg-main: #fdf4ed;
-$color_bg-blocs: #dcfbff;
+$color_bg-blocs: lighten($color-secondary, 23%);

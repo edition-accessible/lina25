@@ -8,7 +8,7 @@
     @include breakpoint-tablet {
         padding: 0 5%;
     }
-    ul {
+    .menu {
         li {
             display: inline;
             padding: 30px;
@@ -18,13 +18,53 @@
                 display: block;
             }
         }
-        @include breakpoint-mobile {
+        @include breakpoint-tablet {
             display: none;
         }
     }
     .logo {
-        @include breakpoint-mobile {
-            margin: auto;
+        transform: scale(1.5);
+        margin-left: 5%;
+        > img {
+            @include breakpoint-tablet {
+                margin-left: 5%;
+            }
+        }
+    }
+    .dropdown_menu {
+        display: none;
+        width: 185px;
+        button {
+            border: 0px;
+            cursor: pointer;
+            position: relative;
+            z-index: 4;
+            padding: 0%;
+        }
+        ul {
+            visibility: hidden;
+            display: none;
+            position: absolute;
+            right: 80px;
+            top: 1%;
+            width: 85%;
+            height: 100px;
+            background-color: $color_bg-blocs;
+            z-index: 2;
+            border: 1px solid $color-secondary;
+            border-radius: 50px;
+            padding: 2%;
+            gap: 20px;
+            align-items: center;
+        }
+        &:hover {
+            ul {
+                visibility: visible;
+                display: flex;
+            }
+        }
+        @include breakpoint-tablet {
+            display: block;
         }
     }
 }

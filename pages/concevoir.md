@@ -15,7 +15,8 @@ Voici donc ce dont les services de fabrication ont besoin pour assurer un résul
 
 L’auteur d’un livre est la personne la mieux placée pour écrire des descriptions censées pour les images qui illustrent son texte. En agissant ainsi, la description d’image s’intègre parfaitement dans l'œuvre et met en lumière la raison qui a sous-tendu sa sélection.
 Les membres du SNE ont rédigé à l’intention des auteurs et éditeurs un guide de bonnes pratiques pour la rédaction des descriptions d’images.
-[Titre du guide SNE pour les description d’images](lien)
+
+<a href="#" class="link color_orange">Titre du guide SNE pour les description d’images</a>
 
 ### Données ayant servi à la construction des diagrammes et graphiques
 
@@ -27,5 +28,6 @@ Ces données peuvent être délivrées dans un format CSV, Excel ou XML en fonct
 
 Les technologies d’assistance, et en particulier les lecteurs d’écran (logiciels capables de transformer du texte en voix synthétique), butent souvent sur les abréviations et les sigles, qui deviennent inintelligibles. Les auteurs sont les mieux placés pour fournir avec leur manuscrit une liste de formes longues des abréviations et sigles contenus dans leur texte, afin que les équipes de production de livres numériques puissent intégrer ces formes longues dans les fichiers générés, sous une forme facile à gérer par les technologies d’assistance. Ces informations peuvent être fournies sous la forme d’un document annexe de format textuel, ou sous la forme d’un fichier de données (CSV, Excel ou XML). Les formations
 
--   [• Les offres Asfored / Edinova](https://asfored.org/edinovo/notre-offre/)
--   [• Fontaine O Livres - Trouver sa formation](https://www.fontaineolivres.com/formations/trouver-sa-formation?q=accessibilit%C3%A9)
+<a href="https://asfored.org/edinovo/notre-offre/" class="link color_orange">Les offres Asfored / Edinova</a>
+
+<a href="https://www.fontaineolivres.com/formations/trouver-sa-formation?q=accessibilit%C3%A9" class="link color_orange">Fontaine O Livres - Trouver sa formation</a>

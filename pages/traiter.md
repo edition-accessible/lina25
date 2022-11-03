@@ -36,4 +36,4 @@ Sur les plateformes de livres numériques, la "longue traîne" (titres anciens e
 
 Le fait que les ebooks risquent d'être retirés du marché à grande échelle d'ici 2025 est particulièrement inquiétant lorsque la diversité culturelle du contenu et l'inclusion sociale des personnes souffrant de handicaps visuels et cognitifs sont en jeu. Selon un représentant de l'association des éditeurs néerlandais, une obligation légale de rendre accessibles tous les titres du catalogue pourrait potentiellement conduire à la suppression de 80 % de l'offre actuelle d'ebooks...
 
-[Site du projet européen ABE Lab](edrlab.org/abelab)
+<a href="edrlab.org/abelab" class="link color_orange">Site du projet européen ABE Lab</a>

@@ -13,6 +13,6 @@ Afin de rendre possible l’information de l’utilisateur, les métadonnées co
 Cela permet aussi d’avoir un chiffrage précis de l’évolution du nombre de titres rendus accessibles.
 Les métadonnées nécessaires à l’affichage de métadonnées sont les suivantes.
 
-[reprendre cas d’usage reformulé](https://edition-accessible.github.io/signalement/protoype2/references.html)
+<a href="https://edition-accessible.github.io/signalement/protoype2/references.html" class="link color_orange">reprendre cas d’usage reformulé</a>
 
-[Github.io a11y-discov-vocab](https://w3c.github.io/a11y-discov-vocab/crosswalk/)
+<a href="https://w3c.github.io/a11y-discov-vocab/crosswalk/" class="link color_orange">Github.io a11y-discov-vocab</a>

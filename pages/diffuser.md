@@ -16,21 +16,25 @@ Les recommandations issues de ce travail sont publiées ici.
 
 (reprendre sous forme d’onglets dans un bloc
 
-[Signalement Prototype - Livre 1](https://edition-accessible.github.io/signalement/protoype2/livre1.html),
+<a href="https://edition-accessible.github.io/signalement/protoype2/livre1.html" class="link color_orange">Signalement Prototype - Livre 1</a>
 
-[Signalement Prototype - Livre 2](https://edition-accessible.github.io/signalement/protoype2/livre2.html),
+<a href="https://edition-accessible.github.io/signalement/protoype2/livre2.html" class="link color_orange">Signalement Prototype - Livre 2</a>
 
-[Signalement Prototype - Livre 3](https://edition-accessible.github.io/signalement/protoype2/livre3.html),
+<a href="https://edition-accessible.github.io/signalement/protoype2/livre3.html" class="link color_orange">Signalement Prototype - Livre 3</a>
 
-[Signalement Prototype - Livre 4](https://edition-accessible.github.io/signalement/protoype2/livre4.html) ainsi que
+<a href="https://edition-accessible.github.io/signalement/protoype2/livre4.html" class="link color_orange">Signalement Prototype - Livre 4</a>
 
-[Signalement Prototype - Recherche](https://edition-accessible.github.io/signalement/protoype2/recherche.html)
+ainsi que
 
-+lien display guide (actuellement
+<a href="https://edition-accessible.github.io/signalement/protoype2/recherche.html" class="link color_orange">Signalement Prototype - Recherche</a>
 
-[Guide expérience utilisateur métadonnées accessibilité](https://edition-accessible.github.io/signalement/Guide_experience_utilisateur_metadonnees_accessibilite.html)
++lien display guide (actuellement)
 
-à republier sur [Github - UX Guide Metadata](https://github.com/w3c/publ-a11y/blob/main/UX-Guide-Metadata/draft/principles/index.html)
+<a href="https://edition-accessible.github.io/signalement/Guide_experience_utilisateur_metadonnees_accessibilite.html" class="link color_orange">Guide expérience utilisateur métadonnées accessibilité</a>
+
+à republier sur
+
+<a href="https://github.com/w3c/publ-a11y/blob/main/UX-Guide-Metadata/draft/principles/index.html" class="link color_orange">Github - UX Guide Metadata</a>
 
 Mesures techniques de protection (DRM)
 

@@ -1,6 +1,8 @@
 .intro {
     width: 100%;
     position: relative;
+    @include breakpoint-tablet {
+    }
     div {
         position: absolute;
         top: -15%;
@@ -8,13 +10,20 @@
         width: 50%;
         margin-right: 10%;
         @include breakpoint-tablet {
-            padding: 10% 5%;
-            width: 60%;
+            order: 1;
+            position: inherit;
+            padding: 5% 5%;
+            width: 90%;
+            background-color: $color_bg-main;
         }
         h1,
         h2 {
             margin: 0%;
             font-size: 2.5vw;
+            @include breakpoint-tablet {
+                font-size: 4vw;
+                width: 80%;
+            }
         }
         h2 {
             font-weight: 400;
@@ -23,7 +32,7 @@
             }
         }
         img {
-            width: 5%;
+            width: 4%;
         }
     }
     h2,
@@ -35,6 +44,17 @@
         font-style: italic;
         width: 75%;
         font-size: 1.2vw;
+        @include breakpoint-tablet {
+            font-size: 2.5vw;
+            font-weight: 400;
+            width: 100%;
+        }
+        #apostrophe_fin {
+            transform: rotate(180deg);
+            width: 20px;
+            margin-left: 2%;
+            margin-bottom: 1%;
+        }
     }
     .btn {
         position: absolute;
@@ -46,7 +66,8 @@
         background-color: $color-primary;
         padding: 1% 4%;
         @include breakpoint-tablet {
-            font-size: smaller;
+            bottom: 30%;
+            font-size: 3vw;
         }
         @include breakpoint-mobile {
             font-size: 2vw;
@@ -67,6 +88,10 @@
     padding-bottom: 5%;
     background-color: white;
     position: relative;
+    @include breakpoint-tablet {
+        border-radius: 50% 50% / 0px 0px 5% 5%;
+        padding-bottom: 10%;
+    }
 }
 
 .aspects {
@@ -79,13 +104,9 @@
     gap: 27px;
     padding-bottom: 2%;
     @include breakpoint-tablet {
-        grid-template-columns: 25% 25% 25%;
-        grid-template-rows: 3;
-        gap: 50px;
-    }
-    @include breakpoint-mobile {
         grid-template-columns: 50% 50%;
         grid-template-rows: 4;
+        gap: 50px;
     }
     .tab {
         margin: auto;
@@ -96,34 +117,17 @@
         border-radius: 25px;
         height: 259px;
         width: 259px;
-        @include breakpoint-laptop {
-            height: 200px;
-            width: 200px;
-            @include breakpoint-mobile {
-                height: 150px;
-                width: 150px;
-                p {
-                    display: none;
-                }
-            }
-        }
         h3,
         p {
             color: $color-primary;
             margin: 0%;
             font-size: 20px;
-            @include breakpoint-laptop {
-                font-size: 18px;
-            }
         }
         img,
         svg {
             width: 50px;
             padding-top: 25%;
             padding-bottom: 10%;
-            @include breakpoint-laptop {
-                padding-top: 15%;
-            }
         }
         &:hover {
             background-color: $color-primary;
@@ -150,8 +154,8 @@
     padding: 5px 7px;
     background-color: white;
     box-shadow: 0px 0px 0px 15px white;
-    @include breakpoint-mobile {
-        display: none;
+    @include breakpoint-tablet {
+        bottom: -1%;
     }
 }
 
@@ -168,7 +172,8 @@
             top: -15%;
         }
         @include breakpoint-tablet {
-            top: 0%;
+            right: 5%;
+            width: 35%;
         }
     }
     .pourquoi_paragraphe {

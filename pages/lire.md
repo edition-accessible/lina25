@@ -31,7 +31,7 @@ Les EPUB peuvent avoir une mise en page adaptable ou fixe, ils peuvent être dot
 Thorium permet de modifier facilement un grand nombre de paramètres d’affichage des texte (police, taille de la police, écartements).. Le logiciel est compatible avec les lecteurs d’écran NVDA et JAWS sous Windows, Voice Over sous MacOS.
 Thorium permet d’emprunter directement des ouvrages dans des bibliothèques numériques, et d’accéder aux livres numériques acquis auprès de libraires numériques. L’application est développée par EDRLab et fait l’objet de mises à jour fréquentes.
 
-[Documentation complète de l’application Thorium](https://edrlab.github.io/thorium-reader-doc/fr/).
+<a href="https://edrlab.github.io/thorium-reader-doc/fr/" class="link color_orange">Documentation complète de l’application Thorium</a>
 
 ### Logiciels sur appareils mobiles
 
