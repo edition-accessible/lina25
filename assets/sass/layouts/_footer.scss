@@ -22,7 +22,17 @@ footer ul {
         }
     }
     a {
+        font-family: "Poppins", sans-serif;
         font-weight: 400;
+        &:hover {
+            color: $color-tertiary;
+            transition: 200ms;
+            i,
+            span {
+                color: $color-tertiary;
+                transition: 200ms;
+            }
+        }
     }
     color: $color-tertiary;
 }

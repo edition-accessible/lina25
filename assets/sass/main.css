@@ -60,12 +60,23 @@ span {
 }
 .nav .menu li {
   display: inline;
-  padding: 30px;
+  padding-left: 30px;
   font-weight: 700;
+}
+.nav .menu li a {
+  font-size: 25px;
 }
 @media screen and (max-width: 992px) {
   .nav .menu li {
     padding: 15px;
+    display: block;
+  }
+  .nav .menu li a {
+    font-size: 20px;
+  }
+}
+@media screen and (max-width: 1300px) {
+  .nav .menu li {
     display: block;
   }
 }
@@ -128,7 +139,7 @@ footer ul {
   padding: 2%;
   color: #ee8c3d;
 }
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1300px) {
   footer ul {
     gap: 20px;
   }
@@ -150,7 +161,17 @@ footer ul li {
   }
 }
 footer ul a {
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
+}
+footer ul a:hover {
+  color: #ee8c3d;
+  transition: 200ms;
+}
+footer ul a:hover i,
+footer ul a:hover span {
+  color: #ee8c3d;
+  transition: 200ms;
 }
 
 .intro {
@@ -303,6 +324,7 @@ footer ul a {
 }
 .aspects .tab:hover {
   background-color: #6975cf;
+  transition: 500ms;
 }
 .aspects .tab:hover p,
 .aspects .tab:hover h3 {

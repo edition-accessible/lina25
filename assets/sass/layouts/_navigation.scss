@@ -11,10 +11,19 @@
     .menu {
         li {
             display: inline;
-            padding: 30px;
+            padding-left: 30px;
             font-weight: 700;
+            a {
+                font-size: 25px;
+            }
             @include breakpoint-tablet {
                 padding: 15px;
+                display: block;
+                a {
+                    font-size: 20px;
+                }
+            }
+            @include breakpoint-laptop {
                 display: block;
             }
         }

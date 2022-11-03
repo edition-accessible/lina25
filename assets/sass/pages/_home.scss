@@ -131,6 +131,7 @@
         }
         &:hover {
             background-color: $color-primary;
+            transition: 500ms;
             p,
             h3 {
                 color: white;
