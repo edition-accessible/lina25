@@ -6,7 +6,7 @@
 <body>
 
   {%- include nav.html -%}
-  <img src="../assets/images/Banners/SVG/{{ page.title }}.svg">
+  <img src="{{ '../assets/images/Banners/SVG/{{ page.title }}.svg' | relative_url }}">
 
   <header id="contenu" class="header_pages">
     <a href="{{ page.previous }}#contenu" target="_self"><i class="fa-solid fa-angle-left arrow"></i></a>

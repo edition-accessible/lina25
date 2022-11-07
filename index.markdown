@@ -2,6 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
+title: index
 ---
 
 <div id="savoirs" class="section1">
@@ -12,7 +13,7 @@ layout: home
 </div>
 
 <section id="pourquoi">
-  <img src="../assets/images/SVG/LINA_HOME_ELEMENTS-12.svg" alt="image d'une dame qui lit un livre" id="reading_woman">
+  <img src="{{ '../assets/images/SVG/LINA_HOME_ELEMENTS-12.svg' | relative_url }}" alt="image d'une dame qui lit un livre" id="reading_woman">
   <h2>Pourquoi ce site</h2>
 
 <div class="pourquoi_paragraphe">

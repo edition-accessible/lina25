@@ -22,8 +22,9 @@ title: Livre Numérique 2025
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
     Toutes les ressources nécessaires pour un écosystème du livre numérique accessible
-baseurl: "/livrenumerique2025" # the subpath of your site, e.g. /blog
+baseurl: "/livrenumerique2025/" # the subpath of your site, e.g. /blog
 url: "https://edition-accessible.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+permalink: /:title:output_ext
 
 # Build settings
 theme: minima

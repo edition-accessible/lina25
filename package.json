@@ -4,7 +4,7 @@
     "description": "Prototype pour le site de ressources Livre Numérique 2025",
     "main": "index.js",
     "scripts": {
-        "sass": "sass --watch ./assets/sass/main.scss:./assets/css/style.css"
+        "sass": "sass --watch assets/sass/main.scss assets/css/style.css"
     },
     "repository": {
         "type": "git",

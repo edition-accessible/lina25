@@ -1,13 +1,22 @@
 <nav class="nav">
     <a class="logo" href="../index.html" target="_self">
-        <img src="../assets/images/Icons/Logo.svg" alt="Logo" />
+        <img
+            src="{{ '../assets/images/Icons/Logo.svg' | relative_url }}"
+            alt="Logo"
+        />
     </a>
     <ul class="menu">
         <li>
-            <a href="../index.html#pourquoi" target="_self">Pourquoi ce site</a>
+            <a
+                href="{{ '/pages/index.html#pourquoi' | relative_url }}"
+                target="_self"
+                >Pourquoi ce site</a
+            >
         </li>
         <li>
-            <a href="../index.html#savoirs" target="_self"
+            <a
+                href="{{ '/pages/index.html#savoirs' | relative_url }}"
+                target="_self"
                 >Ce que vous devez savoir ></a
             >
         </li>
@@ -15,18 +24,22 @@
     <div class="dropdown_menu">
         <ul>
             <li>
-                <a href="../index.html#pourquoi" target="_self"
+                <a
+                    href="{{ '/pages/index.html#pourquoi' | relative_url }}"
+                    target="_self"
                     >Pourquoi ce site</a
                 >
             </li>
             <li>
-                <a href="../index.html#savoirs" target="_self"
+                <a
+                    href="{{ '/pages/index.html#savoirs' | relative_url }}"
+                    target="_self"
                     >Ce que vous devez savoir ></a
                 >
             </li>
         </ul>
         <button class="nav_button" type="menu">
-            <img src="../assets/images/Icons/Menu.png" />
+            <img src="{{ '../assets/images/Icons/Menu.png' | relative_url }}" />
         </button>
     </div>
 </nav>
