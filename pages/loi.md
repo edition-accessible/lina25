@@ -2,8 +2,8 @@
 layout: page
 title: Ce que dit
 subtitle: la loi
-previous: ./lire
-next: ../index
+previous: ./lire.html
+next: ../index.html
 ---
 
 -   La Directive Européenne (fr)

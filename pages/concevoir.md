@@ -4,8 +4,8 @@ title: Concevoir
 subtitle: des contenus complets
 orientation: problématique de fourniteur de contenu permettant la production de livres numériques accessibles. pas de document de référence, donc un texte simple pour le moment, et un unique lien pour le guide SNE.
 audience: auteurs et éditeurs.
-previous: ../index
-next: ./produire
+previous: ../index.html
+next: ./produire.html
 ---
 
 La grande majorité des livres ont ou auront une version numérique, et cette version numérique doit sauf exception être nativement accessible. Dès l’écriture d’un ouvrage, il est donc nécessaire que ses auteurs et éditeurs préparent le matériel qui permettra de produire facilement un livre numérique accessible.

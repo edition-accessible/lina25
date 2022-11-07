@@ -4,8 +4,8 @@ title: Collecter
 subtitle: et référencer des informations précises
 orientation:
 audience: Agences bibliographiques (Dilicom, Electre, ABES, BNF dépôt légal numérique)
-previous: ./traiter
-next: ./diffuser
+previous: ./traiter.html
+next: ./diffuser.html
 ---
 
 Afin de rendre possible l’information de l’utilisateur, les métadonnées collectées sur les ouvrages numériques référencés doivent inclure les informations d’accessibilité.

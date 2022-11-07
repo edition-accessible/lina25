@@ -4,8 +4,8 @@ title: Diffuser
 subtitle: et distribuer au plus près des besoins
 orientation:
 audience: distributeurs (DRM), libraires et bibliothèques
-previous: ./collecter
-next: ./afficher
+previous: ./collecter.html
+next: ./afficher.html
 ---
 
 ### Signalement des livres numériques accessibles

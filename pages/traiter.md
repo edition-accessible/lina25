@@ -4,8 +4,8 @@ title: Traiter
 subtitle: le fond
 orientation:
 audience: services de production des éditeurs
-previous: ./produire
-next: ./collecter
+previous: ./produire.html
+next: ./collecter.html
 ---
 
 ### Le format ouvert pour les livres électroniques accessibles n'est pas encore universellement utilisé.

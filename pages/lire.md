@@ -4,8 +4,8 @@ title: Lire
 subtitle: dans les meilleures conditions
 orientation:
 audience: lecteurs, prescripteurs, accompagnants
-previous: ./afficher
-next: ./loi
+previous: ./afficher.html
+next: ./loi.html
 ---
 
 Les lecteurs en situation de handicap visuel ou cognitif, ainsi que les personnes qui les accompagnent, ont souvent des difficultés à trouver des informations sur les outils de lecture qui permettent d’accéder aux ouvrages écrits dans de bonnes conditions.

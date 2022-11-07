@@ -4,8 +4,8 @@ title: Afficher
 subtitle: une expérience de lecture riche
 orientation:
 audience: développeurs d'outils de lecture
-previous: ./diffuser
-next: ./lire
+previous: ./diffuser.html
+next: ./lire.html
 ---
 
 Pour que le travail de mise en accessibilité des livres numériques soit utiles aux personnes qui ont besoin d’aménager la lecture visuelle ou font appels à d’autres sens que la vue pour lire, il est nécessaire que les systèmes de lecture respectent les standards d’accessibilité et proposent de larges choix de personnalisation. Cela concerne les applications de lecture ainsi que le matériel de type liseuses numériques.
