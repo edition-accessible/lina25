@@ -5,8 +5,8 @@
     }
     div {
         position: absolute;
-        top: -15%;
-        padding: 10% 0% 5% 10%;
+        top: 5%;
+        padding: 0% 0% 5% 10%;
         width: 50%;
         margin-right: 10%;
         @include breakpoint-tablet {
@@ -103,10 +103,16 @@
     grid-template-rows: 2;
     gap: 27px;
     padding-bottom: 2%;
+    @include breakpoint-laptop_small {
+        grid-template-columns: 30% 30% 30%;
+    }
     @include breakpoint-tablet {
         grid-template-columns: 50% 50%;
         grid-template-rows: 4;
         gap: 50px;
+    }
+    @include breakpoint-mobile_small {
+        grid-template-columns: 100%;
     }
     .tab {
         margin: auto;
@@ -138,6 +144,13 @@
             }
             svg .b {
                 fill: white;
+            }
+        }
+        @include breakpoint-mobile {
+            height: 200px;
+            width: 200px;
+            p {
+                display: none;
             }
         }
     }
@@ -175,6 +188,10 @@
         @include breakpoint-tablet {
             right: 5%;
             width: 35%;
+        }
+        @include breakpoint-mobile_small {
+            position: relative;
+            width: 50%;
         }
     }
     .pourquoi_paragraphe {

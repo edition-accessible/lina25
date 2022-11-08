@@ -80,14 +80,13 @@ span {
     display: block;
   }
 }
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 1150px) {
   .nav .menu {
     display: none;
   }
 }
 .nav .logo {
-  transform: scale(1.5);
-  margin-left: 5%;
+  width: 400px;
 }
 @media screen and (max-width: 992px) {
   .nav .logo > img {
@@ -96,36 +95,90 @@ span {
 }
 .nav .dropdown_menu {
   display: none;
-  width: 185px;
+  width: 200px;
+  text-align: end;
 }
-.nav .dropdown_menu button {
-  border: 0px;
+.nav .dropdown_menu .nav_button {
   cursor: pointer;
   position: relative;
+  border: 0px;
+  background-color: #8fbceb;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
   z-index: 4;
-  padding: 0%;
+  text-align: center;
+  align-items: center;
+  margin: auto;
 }
-.nav .dropdown_menu ul {
+.nav .dropdown_menu .nav_button i {
+  color: white;
+  padding-top: 15px;
+}
+.nav .dropdown_menu .nav_button span {
+  display: none;
+  visibility: hidden;
+  color: white;
+}
+.nav .dropdown_menu .nav_button span i {
+  transform: scale(1.3);
+  padding-top: 13px;
+}
+.nav .dropdown_menu > ul {
   visibility: hidden;
   display: none;
   position: absolute;
-  right: 80px;
-  top: 1%;
-  width: 85%;
-  height: 100px;
-  background-color: #f3f8fd;
+  right: 0px;
+  top: 200px;
+  background-color: white;
+  text-align: center;
   z-index: 2;
-  border: 1px solid #8fbceb;
-  border-radius: 50px;
-  padding: 2%;
-  gap: 20px;
   align-items: center;
+  padding-left: 0%;
+  padding-right: 0%;
+  width: 60%;
+  margin: 0;
 }
-.nav .dropdown_menu:hover ul {
+.nav .dropdown_menu > ul li {
+  padding: 15px;
+}
+.nav .dropdown_menu > ul li:first-child::after {
+  content: "";
+  position: absolute;
+  top: 50px;
+  left: 10%;
+  width: 80%;
+  border-bottom: 1px solid #6975cf;
+  padding-bottom: 2%;
+}
+.nav .dropdown_menu input {
+  display: none;
+}
+.nav .dropdown_menu input:checked + label div > i {
+  display: none;
+}
+.nav .dropdown_menu input:checked + label div span {
+  display: contents;
   visibility: visible;
-  display: flex;
 }
-@media screen and (max-width: 992px) {
+.nav .dropdown_menu input:checked + label + ul {
+  visibility: visible;
+  display: block;
+  border-top: 1px solid #ee8c3d;
+  border-bottom: 1px solid #ee8c3d;
+}
+.nav .dropdown_menu .dropdown_savoir {
+  padding-left: 0%;
+}
+.nav .dropdown_menu .dropdown_savoir li a {
+  font-weight: 100;
+  font-size: 18px;
+  padding-left: 0%;
+}
+.nav .dropdown_menu #myDropdown a:hover {
+  color: #ee8c3d;
+}
+@media screen and (max-width: 1150px) {
   .nav .dropdown_menu {
     display: block;
   }
@@ -144,9 +197,9 @@ footer ul {
     gap: 20px;
   }
 }
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 576px) {
   footer ul {
-    display: block;
+    flex-wrap: wrap;
     text-align: center;
   }
 }
@@ -180,8 +233,8 @@ footer ul a:hover span {
 }
 .intro div {
   position: absolute;
-  top: -15%;
-  padding: 10% 0% 5% 10%;
+  top: 5%;
+  padding: 0% 0% 5% 10%;
   width: 50%;
   margin-right: 10%;
 }
@@ -209,7 +262,7 @@ footer ul a:hover span {
 .intro div h2 {
   font-weight: 400;
 }
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 576px) {
   .intro div h2 {
     padding-bottom: 0%;
   }
@@ -256,7 +309,7 @@ footer ul a:hover span {
     font-size: 3vw;
   }
 }
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 576px) {
   .intro .btn {
     font-size: 2vw;
   }
@@ -293,11 +346,21 @@ footer ul a:hover span {
   gap: 27px;
   padding-bottom: 2%;
 }
+@media screen and (max-width: 1150px) {
+  .aspects {
+    grid-template-columns: 30% 30% 30%;
+  }
+}
 @media screen and (max-width: 992px) {
   .aspects {
     grid-template-columns: 50% 50%;
     grid-template-rows: 4;
     gap: 50px;
+  }
+}
+@media screen and (max-width: 500px) {
+  .aspects {
+    grid-template-columns: 100%;
   }
 }
 .aspects .tab {
@@ -332,6 +395,15 @@ footer ul a:hover span {
 }
 .aspects .tab:hover svg .b {
   fill: white;
+}
+@media screen and (max-width: 576px) {
+  .aspects .tab {
+    height: 200px;
+    width: 200px;
+  }
+  .aspects .tab p {
+    display: none;
+  }
 }
 
 .fa-arrow-down {
@@ -373,6 +445,12 @@ footer ul a:hover span {
   #pourquoi #reading_woman {
     right: 5%;
     width: 35%;
+  }
+}
+@media screen and (max-width: 500px) {
+  #pourquoi #reading_woman {
+    position: relative;
+    width: 50%;
   }
 }
 #pourquoi .pourquoi_paragraphe {

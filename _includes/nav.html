@@ -18,7 +18,14 @@
         </li>
     </ul>
     <div class="dropdown_menu">
-        <ul>
+        <input type="checkbox" id="check" />
+        <label for="check">
+            <div class="nav_button">
+                <i class="fa-solid fa-bars"></i>
+                <span><i class="fa-solid fa-xmark"></i></span>
+            </div>
+        </label>
+        <ul id="myDropdown">
             <li>
                 <a
                     href='{{ "/index.html#pourquoi" | relative_url }}'
@@ -27,15 +34,70 @@
                 >
             </li>
             <li>
-                <a
-                    href='{{ "/index.html#savoirs" | relative_url }}'
-                    target="_self"
-                    >Ce que vous devez savoir ></a
-                >
+                <ul class="dropdown_savoir">
+                    <a
+                        href='{{ "/index.html#savoirs" | relative_url }}'
+                        target="_self"
+                        >Ce que vous devez savoir &or;</a
+                    >
+                    <li>
+                        <a
+                            href='{{ "/pages/concevoir.html" | relative_url }}'
+                            target="_self"
+                            >Concevoir des contenus complets</a
+                        >
+                    </li>
+                    <li>
+                        <a
+                            href='{{ "/pages/produire.html" | relative_url }}'
+                            target="_self"
+                            >Produire des structures sémantiques riches</a
+                        >
+                    </li>
+                    <li>
+                        <a
+                            href='{{ "/pages/traiter.html" | relative_url }}'
+                            target="_self"
+                            >Traiter le fond</a
+                        >
+                    </li>
+                    <li>
+                        <a
+                            href='{{ "/pages/collecter.html" | relative_url }}'
+                            target="_self"
+                            >Collecter & référencer des informations précises</a
+                        >
+                    </li>
+                    <li>
+                        <a
+                            href='{{ "/pages/diffuser.html" | relative_url }}'
+                            target="_self"
+                            >Diffuser & distribuer au plus près des besoins</a
+                        >
+                    </li>
+                    <li>
+                        <a
+                            href='{{ "/pages/afficher.html" | relative_url }}'
+                            target="_self"
+                            >Afficher une expérience de lecture riche</a
+                        >
+                    </li>
+                    <li>
+                        <a
+                            href='{{ "/pages/lire.html" | relative_url }}'
+                            target="_self"
+                            >Lire dans les meilleures conditions</a
+                        >
+                    </li>
+                    <li>
+                        <a
+                            href='{{ "/pages/loi.html" | relative_url }}'
+                            target="_self"
+                            >Ce que dit la loi</a
+                        >
+                    </li>
+                </ul>
             </li>
         </ul>
-        <button class="nav_button" type="menu">
-            <img src='{{ "/assets/images/Icons/Menu.png" | relative_url }}' />
-        </button>
     </div>
 </nav>

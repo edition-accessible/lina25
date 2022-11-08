@@ -8,7 +8,7 @@ footer ul {
         gap: 20px;
     }
     @include breakpoint-mobile {
-        display: block;
+        flex-wrap: wrap;
         text-align: center;
     }
     li {
