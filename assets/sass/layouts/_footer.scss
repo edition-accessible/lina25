@@ -11,6 +11,29 @@ footer ul {
         flex-wrap: wrap;
         text-align: center;
     }
+    @include breakpoint-mobile_small {
+        display: grid;
+        grid-template-columns: 40% 60%;
+        grid-template-rows: 50% 50%;
+        width: 100%;
+        text-align: left;
+        #GH {
+            grid-column: 2;
+            grid-row: 2;
+            text-align: left;
+        }
+        #RSS {
+            grid-column: 2;
+            grid-row: 2;
+            text-align: center;
+        }
+        span {
+            display: none;
+        }
+    }
+    > span {
+        color: $color-tertiary;
+    }
     li {
         font-family: "Poppins", sans-serif;
         font-weight: 400;
@@ -19,6 +42,9 @@ footer ul {
             span {
                 display: none;
             }
+        }
+        @include breakpoint-mobile {
+            font-size: 14px;
         }
     }
     a {
@@ -34,5 +60,9 @@ footer ul {
             }
         }
     }
-    color: $color-tertiary;
+}
+footer {
+    @include breakpoint-mobile_small {
+        padding: 2% 10%;
+    }
 }

@@ -8,6 +8,9 @@
     @include breakpoint-tablet {
         padding: 0 5%;
     }
+    @include breakpoint-mobile {
+        height: 150px;
+    }
     .menu {
         li {
             display: inline;
@@ -38,6 +41,9 @@
                 margin-left: 5%;
             }
         }
+        @include breakpoint-mobile {
+            width: 300px;
+        }
     }
     .dropdown_menu {
         display: none;
@@ -58,6 +64,9 @@
             i {
                 color: white;
                 padding-top: 15px;
+                @include breakpoint-mobile {
+                    font-size: 20px;
+                }
             }
             span {
                 display: none;
@@ -93,6 +102,18 @@
                     width: 80%;
                     border-bottom: 1px solid $color-primary;
                     padding-bottom: 2%;
+                }
+            }
+            @include breakpoint-mobile {
+                top: 150px;
+            }
+            @include breakpoint-mobile_small {
+                width: 100%;
+                li {
+                    padding: 2px;
+                    &:first-child::after {
+                        top: 25px;
+                    }
                 }
             }
         }

@@ -46,6 +46,7 @@ Référentiels en anglais, version en cours de validation :
 <a href="https://www.w3.org/TR/epub-a11y-tech-11/" class="link color_orange">EPUB Accessibility Techniques 1.1</a>
 
 Ouvrage en anglais, version numérique maintenant gratuite :
+
 <a href="https://www.oreilly.com/library/view/accessible-epub-3/9781449329297/" class="link color_orange">Accessible EPUB 3, by Matt Garrish (O’Reilly, téléchargement gratuit)</a>
 
 Guides en anglais de description d’images :
