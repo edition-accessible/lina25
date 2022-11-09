@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Traiter
-subtitle: le fond
+subtitle: le fonds
 orientation:
 audience: services de production des éditeurs
 previous: ./produire.html

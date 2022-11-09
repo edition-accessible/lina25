@@ -64,7 +64,7 @@
             i {
                 color: white;
                 padding-top: 15px;
-                @include breakpoint-mobile {
+                @include breakpoint-tablet {
                     font-size: 20px;
                 }
             }
