@@ -1,5 +1,5 @@
 {
-    "name": "livrenumerique2025",
+    "name": "Lina25",
     "version": "1.0.0",
     "description": "Prototype pour le site de ressources Livre Numérique 2025",
     "main": "index.js",
@@ -8,12 +8,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/edition-accessible/livrenumerique2025.git"
+        "url": "git+https://github.com/edition-accessible/lina25.git"
     },
     "author": "Arthur Le Meur",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/edition-accessible/livrenumerique2025/issues"
+        "url": "https://github.com/edition-accessible/lina25/issues"
     },
-    "homepage": "https://github.com/edition-accessible/livrenumerique2025#readme"
+    "homepage": "https://github.com/edition-accessible/lina25#readme"
 }
