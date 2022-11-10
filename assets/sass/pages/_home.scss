@@ -1,0 +1,226 @@
+.intro {
+    width: 100%;
+    position: relative;
+    @include breakpoint-tablet {
+    }
+    div {
+        position: absolute;
+        top: 5%;
+        padding: 0% 0% 5% 10%;
+        width: 50%;
+        margin-right: 10%;
+        @include breakpoint-tablet {
+            order: 1;
+            position: inherit;
+            padding: 5% 5%;
+            width: 90%;
+            background-color: $color_bg-main;
+        }
+        h1,
+        h2 {
+            margin: 0%;
+            font-size: 2.5vw;
+            @include breakpoint-tablet {
+                font-size: 4vw;
+                width: 80%;
+            }
+            @include breakpoint-mobile_small {
+                font-size: 5vw;
+                width: 100%;
+            }
+        }
+        h2 {
+            font-weight: 400;
+            @include breakpoint-mobile {
+                padding-bottom: 5%;
+            }
+        }
+        img {
+            width: 4%;
+            @include breakpoint-mobile {
+                width: 6%;
+            }
+        }
+    }
+    h2,
+    p {
+        padding-bottom: 3%;
+    }
+    p {
+        font-weight: 200;
+        font-style: italic;
+        width: 75%;
+        font-size: 1.2vw;
+        @include breakpoint-tablet {
+            font-size: 2.5vw;
+            font-weight: 400;
+            width: 100%;
+        }
+        @include breakpoint-mobile {
+            font-size: 3.5vw;
+        }
+        #apostrophe_fin {
+            transform: rotate(180deg);
+            width: 20px;
+            margin-left: 2%;
+            margin-bottom: 1%;
+            @include breakpoint-mobile {
+                width: 15px;
+            }
+        }
+    }
+    .btn {
+        position: absolute;
+        bottom: 15%;
+        left: 10%;
+        color: white;
+        border: 1px solid $color-primary;
+        border-radius: 50px;
+        background-color: $color-primary;
+        padding: 1% 4%;
+        @include breakpoint-tablet {
+            bottom: 30%;
+            font-size: 3vw;
+        }
+        @include breakpoint-mobile {
+            font-size: 3vw;
+            bottom: 20%;
+        }
+    }
+}
+
+.homepage-content {
+    background-color: $color_bg-main;
+}
+
+.section1 {
+    height: 33%;
+    border-radius: 50% 50% / 0px 0px 15% 15%;
+    box-shadow: 0px 5px 2px white;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 5%;
+    background-color: white;
+    position: relative;
+    @include breakpoint-tablet {
+        border-radius: 50% 50% / 0px 0px 5% 5%;
+        padding-bottom: 10%;
+    }
+}
+
+.aspects {
+    display: grid;
+    justify-content: center;
+    width: 100%;
+    margin: auto;
+    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-rows: 2;
+    gap: 27px;
+    padding-bottom: 2%;
+    @include breakpoint-laptop_small {
+        grid-template-columns: 30% 30% 30%;
+    }
+    @include breakpoint-tablet {
+        grid-template-columns: 50% 50%;
+        grid-template-rows: 4;
+        gap: 25px;
+    }
+    @include breakpoint-mobile_small {
+        grid-template-columns: 100%;
+    }
+    .tab {
+        margin: auto;
+        justify-content: center;
+        text-align: center;
+        border: 1px solid white;
+        background-color: $color_bg-blocs;
+        border-radius: 25px;
+        height: 259px;
+        width: 259px;
+        h3,
+        p {
+            color: $color-primary;
+            margin: 0%;
+            font-size: 20px;
+        }
+        img,
+        svg {
+            width: 50px;
+            padding-top: 25%;
+            padding-bottom: 10%;
+        }
+        &:hover {
+            background-color: $color-primary;
+            transition: 500ms;
+            p,
+            h3 {
+                color: white;
+            }
+            svg .b {
+                fill: white;
+            }
+        }
+        @include breakpoint-mobile {
+            height: 200px;
+            width: 200px;
+            p {
+                display: none;
+            }
+        }
+    }
+}
+
+.fa-arrow-down {
+    color: $color-primary;
+    transform: translateX(-50%) scale(1.5);
+    position: absolute;
+    bottom: -3%;
+    left: 50%;
+    z-index: 2;
+    border: 1px solid lighten($color-primary, 20%);
+    border-radius: 50%;
+    padding: 5px 7px;
+    background-color: white;
+    box-shadow: 0px 0px 0px 15px white;
+    @include breakpoint-tablet {
+        bottom: -1%;
+    }
+}
+
+#pourquoi {
+    background-color: $color_bg-main;
+    padding: 10% 10%;
+    position: relative;
+    #reading_woman {
+        position: absolute;
+        width: 25%;
+        top: -5%;
+        right: 10%;
+        @include breakpoint-XXL {
+            top: -15%;
+        }
+        @include breakpoint-tablet {
+            right: 5%;
+            width: 35%;
+        }
+        @include breakpoint-mobile_small {
+            width: 40%;
+            top: -4%;
+            z-index: 4;
+        }
+    }
+    .pourquoi_paragraphe {
+        display: flex;
+        width: 100%;
+        text-align: justify;
+        align-items: baseline;
+        white-space: wrap;
+        i {
+            padding-right: 2%;
+            color: $color-secondary;
+        }
+        p {
+            word-wrap: break-word;
+        }
+    }
+}

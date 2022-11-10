@@ -1,0 +1,41 @@
+* {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    color: black;
+    font-size: 20px;
+    @include breakpoint-tablet {
+        font-size: 14px;
+    }
+}
+
+h1 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    @include breakpoint-mobile_small {
+        font-size: 2em;
+    }
+}
+
+li,
+li a {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+}
+
+h2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 2em;
+    font-weight: 700;
+    @include breakpoint-mobile_small {
+        font-size: 1.2em;
+    }
+}
+.nav li {
+    font-size: 25px;
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 25px;
+}

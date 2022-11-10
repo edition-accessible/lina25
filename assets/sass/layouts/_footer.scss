@@ -1,0 +1,68 @@
+footer ul {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    gap: 50px;
+    padding: 2%;
+    @include breakpoint-laptop {
+        gap: 20px;
+    }
+    @include breakpoint-mobile {
+        flex-wrap: wrap;
+        text-align: center;
+    }
+    @include breakpoint-mobile_small {
+        display: grid;
+        grid-template-columns: 40% 60%;
+        grid-template-rows: 50% 50%;
+        width: 100%;
+        text-align: left;
+        #GH {
+            grid-column: 2;
+            grid-row: 2;
+            text-align: left;
+        }
+        #RSS {
+            grid-column: 2;
+            grid-row: 2;
+            text-align: center;
+        }
+        span {
+            display: none;
+        }
+    }
+    > span {
+        color: $color-tertiary;
+    }
+    li {
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-size: 22px;
+        @include breakpoint-tablet {
+            span {
+                display: none;
+            }
+        }
+        @include breakpoint-mobile {
+            font-size: 14px;
+        }
+    }
+    a {
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        &:hover {
+            color: $color-tertiary;
+            transition: 200ms;
+            i,
+            span {
+                color: $color-tertiary;
+                transition: 200ms;
+            }
+        }
+    }
+}
+footer {
+    @include breakpoint-mobile_small {
+        padding: 2% 10%;
+    }
+}

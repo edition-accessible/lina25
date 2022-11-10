@@ -1,0 +1,160 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    height: 200px;
+    @include breakpoint-tablet {
+        padding: 0 5%;
+    }
+    @include breakpoint-mobile {
+        height: 150px;
+    }
+    .menu {
+        li {
+            display: inline;
+            padding-left: 30px;
+            font-weight: 700;
+            a {
+                font-size: 25px;
+            }
+            @include breakpoint-tablet {
+                padding: 15px;
+                display: block;
+                a {
+                    font-size: 20px;
+                }
+            }
+            @include breakpoint-laptop {
+                display: block;
+            }
+        }
+        @include breakpoint-laptop_small {
+            display: none;
+        }
+    }
+    .logo {
+        width: 400px;
+        > img {
+            @include breakpoint-tablet {
+                margin-left: 5%;
+            }
+        }
+        @include breakpoint-mobile {
+            width: 300px;
+        }
+    }
+    .dropdown_menu {
+        display: none;
+        width: 200px;
+        text-align: end;
+        .nav_button {
+            cursor: pointer;
+            position: relative;
+            border: 0px;
+            background-color: $color-secondary;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            z-index: 4;
+            text-align: center;
+            align-items: center;
+            margin: auto;
+            i {
+                color: white;
+                padding-top: 15px;
+                @include breakpoint-tablet {
+                    font-size: 20px;
+                }
+            }
+            span {
+                display: none;
+                visibility: hidden;
+                color: white;
+                i {
+                    transform: scale(1.3);
+                    padding-top: 13px;
+                }
+            }
+        }
+        > ul {
+            visibility: hidden;
+            display: none;
+            position: absolute;
+            right: 0px;
+            top: 200px;
+            background-color: white;
+            text-align: center;
+            z-index: 2;
+            align-items: center;
+            padding-left: 0%;
+            padding-right: 0%;
+            width: 60%;
+            margin: 0;
+            li {
+                padding: 15px;
+                &:first-child::after {
+                    content: "";
+                    position: absolute;
+                    top: 50px;
+                    left: 10%;
+                    width: 80%;
+                    border-bottom: 1px solid $color-primary;
+                    padding-bottom: 2%;
+                }
+            }
+            @include breakpoint-mobile {
+                top: 150px;
+            }
+            @include breakpoint-mobile_small {
+                width: 100%;
+                li {
+                    padding: 2px;
+                    &:first-child::after {
+                        top: 25px;
+                    }
+                }
+            }
+        }
+        input {
+            display: none;
+            &:checked {
+                + label {
+                    div {
+                        > i {
+                            display: none;
+                        }
+                        span {
+                            display: contents;
+                            visibility: visible;
+                        }
+                    }
+                    + ul {
+                        visibility: visible;
+                        display: block;
+                        border-top: 1px solid $color-tertiary;
+                        border-bottom: 1px solid $color-tertiary;
+                    }
+                }
+            }
+        }
+
+        .dropdown_savoir {
+            padding-left: 0%;
+            li a {
+                font-weight: 100;
+                font-size: 18px;
+                padding-left: 0%;
+            }
+        }
+
+        #myDropdown a:hover {
+            color: $color-tertiary;
+        }
+
+        @include breakpoint-laptop_small {
+            display: block;
+        }
+    }
+}

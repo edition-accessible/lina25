@@ -1,0 +1,35 @@
+@mixin breakpoint-XXL {
+    @media screen and (min-width: 2000px) {
+        @content;
+    }
+}
+
+@mixin breakpoint-laptop {
+    @media screen and (max-width: 1300px) {
+        @content;
+    }
+}
+
+@mixin breakpoint-laptop_small {
+    @media screen and (max-width: 1150px) {
+        @content;
+    }
+}
+
+@mixin breakpoint-tablet {
+    @media screen and (max-width: 992px) {
+        @content;
+    }
+}
+
+@mixin breakpoint-mobile {
+    @media screen and (max-width: 576px) {
+        @content;
+    }
+}
+
+@mixin breakpoint-mobile_small {
+    @media screen and (max-width: 500px) {
+        @content;
+    }
+}

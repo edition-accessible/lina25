@@ -1,17 +1,103 @@
-<nav id="site-nav" class="greedy-nav">
-  <a class="site-title" href="/">
-    Livre numérique 2025
-    <span class="site-subtitle">moderne, solide et accessible</span>
-  </a>
-  <ul class="visible-links">
-    <li class="headmaster__menu-item">
-      <a href="../pages/pourquoi">Pourquoi</a>
-    </li>
-    <li class="headmaster__menu-item">
-      <a href="/index.html#references">Références</a>
-    </li>
-    <li class="headmaster__menu-item">
-      <a href="/index.html#savoirs">Savoirs</a>
-    </li>
-  </ul>
+<nav class="nav">
+    <a class="logo" href='{{ "/index.html" | relative_url }}' target="_self">
+        <img
+            src='{{ "/assets/images/Icons/Logo.svg" | relative_url }}'
+            alt="Logo"
+        />
+    </a>
+    <ul class="menu">
+        <li>
+            <a href='{{ "/index.html#pourquoi" | relative_url }}' target="_self"
+                >Pourquoi ce site</a
+            >
+        </li>
+        <li>
+            <a href='{{ "/index.html#savoirs" | relative_url }}' target="_self"
+                >Ce que vous devez savoir</a
+            >
+        </li>
+    </ul>
+    <div class="dropdown_menu">
+        <input type="checkbox" id="check" />
+        <label for="check">
+            <div class="nav_button">
+                <i class="fa-solid fa-bars"></i>
+                <span><i class="fa-solid fa-xmark"></i></span>
+            </div>
+        </label>
+        <ul id="myDropdown">
+            <li>
+                <a
+                    href='{{ "/index.html#pourquoi" | relative_url }}'
+                    target="_self"
+                    >Pourquoi ce site</a
+                >
+            </li>
+            <li>
+                <ul class="dropdown_savoir">
+                    <a
+                        href='{{ "/index.html#savoirs" | relative_url }}'
+                        target="_self"
+                        >Ce que vous devez savoir</a
+                    >
+                    <li>
+                        <a
+                            href='{{ "/pages/concevoir.html" | relative_url }}'
+                            target="_self"
+                            >Concevoir des contenus complets</a
+                        >
+                    </li>
+                    <li>
+                        <a
+                            href='{{ "/pages/produire.html" | relative_url }}'
+                            target="_self"
+                            >Produire des structures sémantiques riches</a
+                        >
+                    </li>
+                    <li>
+                        <a
+                            href='{{ "/pages/traiter.html" | relative_url }}'
+                            target="_self"
+                            >Traiter le fonds</a
+                        >
+                    </li>
+                    <li>
+                        <a
+                            href='{{ "/pages/collecter.html" | relative_url }}'
+                            target="_self"
+                            >Collecter & référencer des informations précises</a
+                        >
+                    </li>
+                    <li>
+                        <a
+                            href='{{ "/pages/diffuser.html" | relative_url }}'
+                            target="_self"
+                            >Diffuser & distribuer au plus près des besoins</a
+                        >
+                    </li>
+                    <li>
+                        <a
+                            href='{{ "/pages/afficher.html" | relative_url }}'
+                            target="_self"
+                            >Afficher une expérience de lecture riche</a
+                        >
+                    </li>
+                    <li>
+                        <a
+                            href='{{ "/pages/lire.html" | relative_url }}'
+                            target="_self"
+                            >Lire dans les meilleures conditions</a
+                        >
+                    </li>
+                    <li>
+                        <a
+                            href='{{ "/pages/loi.html" | relative_url }}'
+                            target="_self"
+                            >Ce que dit la loi</a
+                        >
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </div>
 </nav>
