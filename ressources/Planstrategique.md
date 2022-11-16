@@ -17,6 +17,7 @@ est difficile de se satisfaire. L’accès aux livres est en effet porteur d’e
 personnes en situation de handicap comme pour l’ensemble de la population : il permet de
 découvrir des œuvres littéraires, de forger sa culture générale et citoyenne, d’apprendre et
 de se former tout au long de la vie.
+
 Le travail mené par les organismes qui adaptent des livres dans le cadre de l’exception au droit
 d’auteur en faveur des personnes handicapées est précieux et indispensable. Il ne permet
 pourtant pas de combler un retard qui se creuse d’année en année.
@@ -36,6 +37,7 @@ international par des acteurs comme le W3C, le consortium Daisy ou EDRLab, offre
 désormais un socle technique abouti pour le développement d’une offre de livres numériques
 accessibles pour les ouvrages à maquette simple et faiblement illustrés (littérature générale,
 essais, sciences humaines, etc.).
+
 Pour qu’une telle offre se développe, il est essentiel que l’ensemble des professionnels de la
 chaîne du livre et des acteurs impliqués dans l’accès à la culture pour les personnes
 handicapées, pleinement accompagnés par les ministères en charge de la culture et des
@@ -50,10 +52,12 @@ numériques. Elles doivent pouvoir s’équiper d’outils de lecture dédiés q
 correctement en charge ces livres numériques accessibles. Enfin, celles qui ne disposent pas
 d’une familiarité suffisante avec les technologies numériques doivent être accompagnées afin
 de s’approprier ces nouvelles pratiques de lecture.
+
 Enfin, la directive européenne dite acte européen d’accessibilité, qui vise l’ensemble de la
 chaîne du livre numérique, rend nécessaire une adaptation des opérateurs économiques afin
 de se mettre en capacité de répondre aux exigences d’accessibilité qui leurs seront posées à
 l’horizon 2025.
+
 Soucieux d’encourager la construction d’une société inclusive qui permet une pleine et entière
 participation des personnes en situation de handicap à la vie culturelle, aux débats d’idées, à
 la diversité des créations littéraires et des savoirs, et d’anticiper la mise en œuvre du futur
