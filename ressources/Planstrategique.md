@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: document
 title: "Plan stratégique du comité de pilotage interministériel pour le
 développement d’une offre de livres numériques accessibles aux
 personnes en situation de handicap"
-permalink: /plan-strategique-copil/
 ---
 
 De nombreuses personnes souffrent aujourd’hui en France d’une difficulté d’accès à l’écrit du fait d’un
