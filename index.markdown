@@ -13,7 +13,7 @@ title: index
 </div>
 
 <section id="pourquoi">
-  <img src='{{ "/assets/images/SVG/LINA_HOME_ELEMENTS-12.svg" | relative_url }}' alt="image d'une dame qui lit un livre" id="reading_woman">
+  <img src='{{ "/assets/images/SVG/LINA_HOME_ELEMENTS-12.svg" | relative_url }}' alt="dessin d'une dame qui lit un livre" id="reading_woman">
   <h2>Pourquoi ce site</h2>
 
 <div class="pourquoi_paragraphe">

@@ -132,6 +132,8 @@ span {
   display: none;
   width: 200px;
   text-align: end;
+  background-color: transparent;
+  border: 0;
 }
 .nav .dropdown_menu .nav_button {
   cursor: pointer;
@@ -339,29 +341,30 @@ footer ul a:hover span {
   }
 }
 .intro div h1,
-.intro div h2 {
+.intro div span {
   margin: 0%;
   font-size: 2.5vw;
+  color: black;
 }
 @media screen and (max-width: 992px) {
   .intro div h1,
-.intro div h2 {
+.intro div span {
     font-size: 4vw;
     width: 80%;
   }
 }
 @media screen and (max-width: 500px) {
   .intro div h1,
-.intro div h2 {
+.intro div span {
     font-size: 5vw;
     width: 100%;
   }
 }
-.intro div h2 {
+.intro div span {
   font-weight: 400;
 }
 @media screen and (max-width: 576px) {
-  .intro div h2 {
+  .intro div span {
     padding-bottom: 5%;
   }
 }
@@ -488,7 +491,7 @@ footer ul a:hover span {
   width: 259px;
 }
 .aspects .tab h3,
-.aspects .tab p {
+.aspects .tab span {
   color: #6975cf;
   margin: 0%;
   font-size: 20px;
@@ -629,19 +632,19 @@ img {
   text-align: center;
 }
 .header_pages .title_pages h1,
-.header_pages .title_pages h2 {
+.header_pages .title_pages span {
   color: #6975cf;
   font-size: 50px;
 }
 @media screen and (max-width: 992px) {
   .header_pages .title_pages h1,
-.header_pages .title_pages h2 {
+.header_pages .title_pages span {
     font-size: 40px;
   }
 }
 @media screen and (max-width: 576px) {
   .header_pages .title_pages h1,
-.header_pages .title_pages h2 {
+.header_pages .title_pages span {
     font-size: 30px;
   }
 }
@@ -650,11 +653,11 @@ img {
     margin-bottom: 0;
   }
 }
-.header_pages .title_pages h2 {
+.header_pages .title_pages span {
   font-weight: 400;
 }
 @media screen and (max-width: 992px) {
-  .header_pages .title_pages h2 {
+  .header_pages .title_pages span {
     margin-top: 0;
   }
 }
