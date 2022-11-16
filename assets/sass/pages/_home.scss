@@ -17,9 +17,10 @@
             background-color: $color_bg-main;
         }
         h1,
-        h2 {
+        span {
             margin: 0%;
             font-size: 2.5vw;
+            color: black;
             @include breakpoint-tablet {
                 font-size: 4vw;
                 width: 80%;
@@ -29,7 +30,7 @@
                 width: 100%;
             }
         }
-        h2 {
+        span {
             font-weight: 400;
             @include breakpoint-mobile {
                 padding-bottom: 5%;
@@ -138,7 +139,7 @@
         height: 259px;
         width: 259px;
         h3,
-        p {
+        span {
             color: $color-primary;
             margin: 0%;
             font-size: 20px;
