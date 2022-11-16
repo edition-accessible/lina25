@@ -201,6 +201,7 @@
         }
         @include breakpoint-tablet {
             right: 5%;
+            top: -10%;
             width: 35%;
         }
         @include breakpoint-mobile_small {

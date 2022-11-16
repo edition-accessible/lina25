@@ -60,6 +60,16 @@ span {
   color: #6975cf;
 }
 
+#skip_link {
+  position: absolute;
+  top: -1000000px;
+}
+#skip_link:focus {
+  display: block;
+  top: 5px;
+  left: 10px;
+}
+
 .nav {
   display: flex;
   justify-content: space-between;
@@ -548,6 +558,7 @@ footer ul a:hover span {
 @media screen and (max-width: 992px) {
   #pourquoi #reading_woman {
     right: 5%;
+    top: -10%;
     width: 35%;
   }
 }

@@ -6,7 +6,7 @@
 <body>
 
   {%- include nav.html -%}
-  <img src="{{ site.baseurl }}assets/images/Banners/SVG/{{ page.title }}.svg">
+  <img src="{{ site.baseurl }}/assets/images/Banners/SVG/{{ page.title }}.svg">
 
   <header id="contenu" class="header_pages">
     <a href="{{ page.previous }}#contenu" target="_self"><i class="fa-solid fa-angle-left arrow"></i></a>
@@ -22,7 +22,7 @@
     <p><strong>Audience : </strong>{{ page.audience }}</p>
   </section>
 
-  <main class="page" aria-label="Content">
+  <main class="page" aria-label="Content" id="main">
     <div class="wrapper">
       {{ content }}
     </div>

@@ -1,3 +1,12 @@
+#skip_link {
+    position: absolute;
+    top: -1000000px;
+    &:focus {
+        display: block;
+        top: 5px;
+        left: 10px;
+    }
+}
 .nav {
     display: flex;
     justify-content: space-between;
