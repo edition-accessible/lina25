@@ -6,7 +6,7 @@ previous: ./lire.html
 next: ../index.html
 ---
 <p>
-<a href="/ressources/Planstrategique.html" class="link color_orange">Plan stratégique</a>
+<a href="lina25/ressources/Planstrategique.html" class="link color_orange">Plan stratégique</a>
 </p>
 
 -   La Directive Européenne (fr)
