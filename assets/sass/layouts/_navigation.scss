@@ -56,7 +56,7 @@
     }
     .dropdown_menu {
         display: none;
-        width: 200px;
+        width: 60px;
         text-align: end;
         background-color: transparent;
         border: 0;
@@ -128,29 +128,6 @@
                 }
             }
         }
-        input {
-            display: none;
-            &:checked {
-                + label {
-                    div {
-                        > i {
-                            display: none;
-                        }
-                        span {
-                            display: contents;
-                            visibility: visible;
-                        }
-                    }
-                    + ul {
-                        visibility: visible;
-                        display: block;
-                        border-top: 1px solid $color-tertiary;
-                        border-bottom: 1px solid $color-tertiary;
-                    }
-                }
-            }
-        }
-
         .dropdown_savoir {
             padding-left: 0%;
             li a {
@@ -166,6 +143,24 @@
 
         @include breakpoint-laptop_small {
             display: block;
+        }
+
+        &:focus {
+            div {
+                > i {
+                    display: none;
+                }
+                span {
+                    display: contents;
+                    visibility: visible;
+                }
+            }
+            > ul {
+                visibility: visible;
+                display: block;
+                border-top: 1px solid $color-tertiary;
+                border-bottom: 1px solid $color-tertiary;
+            }
         }
     }
 }
