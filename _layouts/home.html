@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "fr" }}">
+
+{%- include head.html -%}
+
+<body>
+
+  {%- include nav.html -%}
+  <header class="intro">
+    <div>
+      <h1 id="page-title" class="page__title" itemprop="headline">
+        Toutes les ressources nécessaires<br/><span>pour un écosystème de publication numérique accessible.</span></h1>
+      <img src='{{ "/assets/images/SVG/LINA_HOME_ELEMENTS-01.svg" | relative_url }}' alt="" />
+      <p class="page__lead">Quel bonheur de pouvoir acheter son livre, numérique donc, et de pouvoir le lire quand il nous plaît !!! 
+        sans devoir passer par une transcription longue et très coûteuse.... 
+        Et, même si nous n’avons pas forcément le plaisir de toucher le livre, le papier, de tourner les pages, 
+        de sentir son odeur, au moins pouvons-nous lire ce que nous voulons, quand nous le voulons, 
+        au même tarif que n’importe qui !.... (Laeticia, empêchée de lire)
+        <img src='{{ "/assets/images/SVG/LINA_HOME_ELEMENTS-01.svg" | relative_url }}' id="apostrophe_fin" alt="" />
+      </p>
+    </div>
+    <a class="btn" href="#pourquoi" target="_self">Pourquoi ce site</a>
+    <img src='{{ "/assets/images/Banners/SVG/Home.svg" | relative_url }}' alt="">
+  </header>
+
+  <main class="homepage-content" aria-label="Content" id="main">
+      {{ content }}
+  </main>
+
+  {% include footer.html %}
+
+</body>
+
+</html>

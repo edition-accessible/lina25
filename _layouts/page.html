@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "fr" }}">
+
+{%- include head.html -%}
+
+<body>
+
+  {%- include nav.html -%}
+  <img src="{{ site.baseurl }}/assets/images/Banners/SVG/{{ page.title }}.svg" alt="">
+
+  <header id="contenu" class="header_pages">
+    <a href="{{ page.previous }}#contenu" target="_self" title="page précédente"><i class="fa-solid fa-angle-left arrow"></i></a>
+    <div class="title_pages">
+      <h1>{{ page.title }}<br/><span>{{ page.subtitle }}</span></h1>
+    </div>
+    <a href="{{ page.next }}#contenu" target="_self" title="page suivante"><i class="fa-solid fa-chevron-right arrow"></i></a>
+  </header>
+
+  <section class="audience">
+    <p><strong>Orientation : </strong>{{ page.orientation }}</p>
+    <p><strong>Audience : </strong>{{ page.audience }}</p>
+  </section>
+
+  <main class="page" id="main">
+    <section>
+      {{ content }}
+    </section>
+  </main>
+
+  {%- include footer.html -%}
+
+</body>
+
+</html>
