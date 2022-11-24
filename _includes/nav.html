@@ -1,4 +1,4 @@
-<nav role="navigation" aria-label="Accès rapide" id="skip_link">
+<nav aria-label="Accès rapide" id="skip_link">
     <a href="#main" target="_self">contenu</a>
 </nav>
 
@@ -21,32 +21,37 @@
             >
         </li>
     </ul>
-    <button
-        type="button"
-        class="dropdown_menu"
-        role="navigation"
-        aria-label="dropdown menu"
-        aria-expanded="false"
-    >
-        <div class="nav_button">
-            <i class="fa-solid fa-bars"></i>
-            <span><i class="fa-solid fa-xmark"></i></span>
-        </div>
-        <ul id="myDropdown">
-            <li>
-                <a
-                    href='{{ "/index.html#pourquoi" | relative_url }}'
-                    target="_self"
-                    >Pourquoi ce site</a
-                >
-            </li>
-            <li>
-                <ul class="dropdown_savoir">
+    <div>
+        <button
+            type="button"
+            class="dropdown_btn"
+            aria-label="dropdown menu"
+            tabindex="1"
+            hidden
+        >
+            <span class="nav_button">
+                <i class="fa-solid fa-bars"></i>
+                <span><i class="fa-solid fa-xmark"></i></span>
+            </span>
+        </button>
+        <nav>
+            <ul id="dpdn" class="dropdown-content_wrapper" role="menu">
+                <li>
                     <a
-                        href='{{ "/index.html#savoirs" | relative_url }}'
+                        href='{{ "/index.html#pourquoi" | relative_url }}'
                         target="_self"
-                        >Ce que vous devez savoir</a
+                        >Pourquoi ce site</a
                     >
+                </li>
+                <ul class="dropdown_savoir">
+                    <li>
+                        <a
+                            href='{{ "/index.html#savoirs" | relative_url }}'
+                            target="_self"
+                            id="savoir"
+                            >Ce que vous devez savoir</a
+                        >
+                    </li>
                     <li>
                         <a
                             href='{{ "/pages/concevoir.html" | relative_url }}'
@@ -104,7 +109,7 @@
                         >
                     </li>
                 </ul>
-            </li>
-        </ul>
-    </button>
+            </ul>
+        </nav>
+    </div>
 </nav>
