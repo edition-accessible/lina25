@@ -124,18 +124,30 @@ span {
   }
 }
 @media screen and (max-width: 576px) {
+  .nav .logo > img {
+    margin-left: 0;
+  }
+}
+@media screen and (max-width: 576px) {
   .nav .logo {
     width: 300px;
   }
 }
-.nav .dropdown_menu {
+.nav div .dropdown_btn {
   display: none;
-  width: 200px;
+  width: 60px;
   text-align: end;
   background-color: transparent;
   border: 0;
 }
-.nav .dropdown_menu .nav_button {
+@media screen and (max-width: 1150px) {
+  .nav div .dropdown_btn {
+    display: block;
+    flex-grow: 0;
+  }
+}
+.nav div .dropdown_btn .nav_button {
+  display: inline-block;
   cursor: pointer;
   position: relative;
   border: 0px;
@@ -148,43 +160,60 @@ span {
   align-items: center;
   margin: auto;
 }
-.nav .dropdown_menu .nav_button i {
+.nav div .dropdown_btn .nav_button i {
   color: white;
   padding-top: 15px;
 }
 @media screen and (max-width: 992px) {
-  .nav .dropdown_menu .nav_button i {
+  .nav div .dropdown_btn .nav_button i {
     font-size: 20px;
   }
 }
-.nav .dropdown_menu .nav_button span {
+.nav div .dropdown_btn .nav_button span {
   display: none;
   visibility: hidden;
   color: white;
 }
-.nav .dropdown_menu .nav_button span i {
+.nav div .dropdown_btn .nav_button span i {
   transform: scale(1.3);
   padding-top: 13px;
 }
-.nav .dropdown_menu > ul {
-  visibility: hidden;
+.nav div .dropdown_btn:focus + nav {
+  opacity: 1;
+  visibility: visible;
+  border-top: 1px solid #ee8c3d;
+  border-bottom: 1px solid #ee8c3d;
+}
+.nav div .dropdown_btn:focus > .nav_button > i {
   display: none;
+}
+.nav div .dropdown_btn:focus > .nav_button span {
+  display: contents;
+  visibility: visible;
+}
+.nav div > nav {
+  visibility: collapse;
   position: absolute;
-  right: 0px;
   top: 200px;
+  opacity: 0;
+  z-index: 1;
+  right: 0;
+  transition: opacity 0s, visibility 0.1s, ease-out 0.5s;
   background-color: white;
   text-align: center;
-  z-index: 2;
   align-items: center;
   padding-left: 0%;
   padding-right: 0%;
   width: 60%;
   margin: 0;
 }
-.nav .dropdown_menu > ul li {
+.nav div > nav a {
   padding: 15px;
+  display: block;
+  font-size: 16px;
+  transition: font-size 50ms;
 }
-.nav .dropdown_menu > ul li:first-child::after {
+.nav div > nav a::after {
   content: "";
   position: absolute;
   top: 50px;
@@ -193,53 +222,46 @@ span {
   border-bottom: 1px solid #6975cf;
   padding-bottom: 2%;
 }
+.nav div > nav a:hover {
+  font-size: 18px;
+}
 @media screen and (max-width: 576px) {
-  .nav .dropdown_menu > ul {
+  .nav div > nav {
     top: 150px;
   }
 }
 @media screen and (max-width: 500px) {
-  .nav .dropdown_menu > ul {
+  .nav div > nav {
     width: 100%;
   }
-  .nav .dropdown_menu > ul li {
-    padding: 2px;
+  .nav div > nav li {
+    padding: 5px;
   }
-  .nav .dropdown_menu > ul li:first-child::after {
-    top: 25px;
+  .nav div > nav li a:first-child::after {
+    top: 60px;
   }
 }
-.nav .dropdown_menu input {
-  display: none;
-}
-.nav .dropdown_menu input:checked + label div > i {
-  display: none;
-}
-.nav .dropdown_menu input:checked + label div span {
-  display: contents;
-  visibility: visible;
-}
-.nav .dropdown_menu input:checked + label + ul {
-  visibility: visible;
-  display: block;
-  border-top: 1px solid #ee8c3d;
-  border-bottom: 1px solid #ee8c3d;
-}
-.nav .dropdown_menu .dropdown_savoir {
+.nav div .dropdown_savoir {
   padding-left: 0%;
 }
-.nav .dropdown_menu .dropdown_savoir li a {
+.nav div .dropdown_savoir #savoir {
+  font-weight: 700;
+}
+.nav div .dropdown_savoir a {
   font-weight: 100;
-  font-size: 18px;
+  font-size: 16px;
   padding-left: 0%;
 }
-.nav .dropdown_menu #myDropdown a:hover {
-  color: #ee8c3d;
+.nav div .dropdown_savoir a:hover {
+  font-size: 18px;
 }
-@media screen and (max-width: 1150px) {
-  .nav .dropdown_menu {
-    display: block;
+@media screen and (max-width: 576px) {
+  .nav div .dropdown_savoir li {
+    font-size: 16px;
   }
+}
+.nav div .dropdown-content_wrapper a:hover {
+  color: #ee8c3d;
 }
 
 footer ul {
@@ -495,6 +517,7 @@ footer ul a:hover span {
   color: #6975cf;
   margin: 0%;
   font-size: 20px;
+  text-align: center;
 }
 .aspects .tab img,
 .aspects .tab svg {
@@ -506,8 +529,8 @@ footer ul a:hover span {
   background-color: #6975cf;
   transition: 500ms;
 }
-.aspects .tab:hover p,
-.aspects .tab:hover h3 {
+.aspects .tab:hover h3,
+.aspects .tab:hover span {
   color: white;
 }
 .aspects .tab:hover svg .b {
@@ -518,8 +541,15 @@ footer ul a:hover span {
     height: 200px;
     width: 200px;
   }
-  .aspects .tab p {
-    display: none;
+  .aspects .tab svg {
+    padding-top: 15%;
+  }
+  .aspects .tab h3 {
+    font-size: 18px;
+    padding: 0px 5px;
+  }
+  .aspects .tab span {
+    font-size: 14px;
   }
 }
 
@@ -577,7 +607,6 @@ footer ul a:hover span {
   width: 100%;
   text-align: justify;
   align-items: baseline;
-  white-space: wrap;
 }
 #pourquoi .pourquoi_paragraphe i {
   padding-right: 2%;

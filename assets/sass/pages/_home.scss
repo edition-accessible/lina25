@@ -143,6 +143,7 @@
             color: $color-primary;
             margin: 0%;
             font-size: 20px;
+            text-align: center;
         }
         img,
         svg {
@@ -153,8 +154,8 @@
         &:hover {
             background-color: $color-primary;
             transition: 500ms;
-            p,
-            h3 {
+            h3,
+            span {
                 color: white;
             }
             svg .b {
@@ -164,8 +165,15 @@
         @include breakpoint-mobile {
             height: 200px;
             width: 200px;
-            p {
-                display: none;
+            svg {
+                padding-top: 15%;
+            }
+            h3 {
+                font-size: 18px;
+                padding: 0px 5px;
+            }
+            span {
+                font-size: 14px;
             }
         }
     }
@@ -216,7 +224,6 @@
         width: 100%;
         text-align: justify;
         align-items: baseline;
-        white-space: wrap;
         i {
             padding-right: 2%;
             color: $color-secondary;
