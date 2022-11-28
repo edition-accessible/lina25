@@ -133,20 +133,46 @@ span {
     width: 300px;
   }
 }
-.nav div .dropdown_btn {
+
+div .dropdown_btn {
   display: none;
   width: 60px;
   text-align: end;
   background-color: transparent;
   border: 0;
+  /*            &:focus {
+      + nav {
+          opacity: 1;
+          visibility: visible;
+          border-top: 1px solid $color-tertiary;
+          border-bottom: 1px solid $color-tertiary;
+      }
+      &-within {
+          + nav {
+              opacity: 1;
+              visibility: visible;
+              border-top: 1px solid $color-tertiary;
+              border-bottom: 1px solid $color-tertiary;
+          }
+      }
+      > .nav_button {
+          > i {
+              display: none;
+          }
+          span {
+              display: contents;
+              visibility: visible;
+          }
+      }
+  }*/
 }
 @media screen and (max-width: 1150px) {
-  .nav div .dropdown_btn {
+  div .dropdown_btn {
     display: block;
     flex-grow: 0;
   }
 }
-.nav div .dropdown_btn .nav_button {
+div .dropdown_btn .nav_button {
   display: inline-block;
   cursor: pointer;
   position: relative;
@@ -160,45 +186,30 @@ span {
   align-items: center;
   margin: auto;
 }
-.nav div .dropdown_btn .nav_button i {
+div .dropdown_btn .nav_button i {
   color: white;
   padding-top: 15px;
 }
 @media screen and (max-width: 992px) {
-  .nav div .dropdown_btn .nav_button i {
+  div .dropdown_btn .nav_button i {
     font-size: 20px;
   }
 }
-.nav div .dropdown_btn .nav_button span {
+div .dropdown_btn .nav_button span {
   display: none;
   visibility: hidden;
   color: white;
 }
-.nav div .dropdown_btn .nav_button span i {
+div .dropdown_btn .nav_button span i {
   transform: scale(1.3);
   padding-top: 13px;
 }
-.nav div .dropdown_btn:focus + nav {
-  opacity: 1;
-  visibility: visible;
-  border-top: 1px solid #ee8c3d;
-  border-bottom: 1px solid #ee8c3d;
-}
-.nav div .dropdown_btn:focus > .nav_button > i {
-  display: none;
-}
-.nav div .dropdown_btn:focus > .nav_button span {
-  display: contents;
-  visibility: visible;
-}
-.nav div > nav {
+div > nav {
   visibility: collapse;
   position: absolute;
   top: 200px;
-  opacity: 0;
   z-index: 1;
   right: 0;
-  transition: opacity 0s, visibility 0.1s, ease-out 0.5s;
   background-color: white;
   text-align: center;
   align-items: center;
@@ -207,13 +218,13 @@ span {
   width: 60%;
   margin: 0;
 }
-.nav div > nav a {
+div > nav a {
   padding: 15px;
   display: block;
   font-size: 16px;
   transition: font-size 50ms;
 }
-.nav div > nav a::after {
+div > nav a::after {
   content: "";
   position: absolute;
   top: 50px;
@@ -222,46 +233,59 @@ span {
   border-bottom: 1px solid #6975cf;
   padding-bottom: 2%;
 }
-.nav div > nav a:hover {
+div > nav a:hover {
   font-size: 18px;
 }
 @media screen and (max-width: 576px) {
-  .nav div > nav {
+  div > nav {
     top: 150px;
   }
 }
 @media screen and (max-width: 500px) {
-  .nav div > nav {
+  div > nav {
     width: 100%;
   }
-  .nav div > nav li {
+  div > nav li {
     padding: 5px;
   }
-  .nav div > nav li a:first-child::after {
+  div > nav li a:first-child::after {
     top: 60px;
   }
 }
-.nav div .dropdown_savoir {
+div .dropdown_savoir {
   padding-left: 0%;
 }
-.nav div .dropdown_savoir #savoir {
+div .dropdown_savoir #savoir {
   font-weight: 700;
 }
-.nav div .dropdown_savoir a {
+div .dropdown_savoir a {
   font-weight: 100;
   font-size: 16px;
   padding-left: 0%;
 }
-.nav div .dropdown_savoir a:hover {
+div .dropdown_savoir a:hover {
   font-size: 18px;
 }
 @media screen and (max-width: 576px) {
-  .nav div .dropdown_savoir li {
+  div .dropdown_savoir li {
     font-size: 16px;
   }
 }
-.nav div .dropdown-content_wrapper a:hover {
+div .dropdown-content_wrapper a:hover {
   color: #ee8c3d;
+}
+
+.button-open nav {
+  visibility: visible;
+  border-top: 1px solid #ee8c3d;
+  border-bottom: 1px solid #ee8c3d;
+}
+.button-open > button .nav_button > i {
+  display: none;
+}
+.button-open > button .nav_button span {
+  display: contents;
+  visibility: visible;
 }
 
 footer ul {
