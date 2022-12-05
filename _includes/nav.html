@@ -21,12 +21,12 @@
             >
         </li>
     </ul>
-    <div>
+    <div id="dropdown_button">
         <button
             type="button"
             class="dropdown_btn"
             aria-label="dropdown menu"
-            tabindex="1"
+            tabindex="0"
             hidden
         >
             <span class="nav_button">
@@ -113,3 +113,10 @@
         </nav>
     </div>
 </nav>
+
+<script>
+    const btn = document.getElementById("dropdown_button");
+    btn.addEventListener("click", function () {
+        this.classList.toggle("button-open");
+    });
+</script>
