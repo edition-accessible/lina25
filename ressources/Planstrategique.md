@@ -263,3 +263,6 @@ personnes en situation de handicap.
 
 [1]« Les structures ayant une activité d’adaptation des œuvres au bénéfice des personnes en situation de
 handicap – réalités observées et perspectives », rapport établi par Pierre Naves, inspecteur général des affaires sociales, Isabelle Neuschwander, inspectrice général des affaires culturelles et Stéphane Pellet, inspecteur général de l’administration de l’éducation nationale, décembre 2016, p. 33.
+
+
+Télécharger le [plan stratégique du comité de pilotage interministériel (PDF)](https://www.culture.gouv.fr/content/download/206507/pdf_file/20190215_Publication%20strat%C3%A9gie%20livre%20num%C3%A9rique.pdf?inLanguage=fre-FR)
