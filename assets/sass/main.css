@@ -789,7 +789,6 @@ img {
   width: 80%;
   margin: auto;
   margin-bottom: 5%;
-  display: flex;
   text-align: center;
   align-items: center;
   border-top: 1px solid #6975cf;
@@ -799,7 +798,6 @@ img {
 .audience p {
   display: block;
   color: #6975cf;
-  width: 45%;
   text-align: justify;
 }
 @media screen and (max-width: 992px) {
@@ -817,20 +815,31 @@ img {
   font-weight: bold;
   color: #6975cf;
 }
-@media screen and (max-width: 992px) {
-  .audience {
-    flex-direction: column;
-  }
-}
-
 .page {
   width: 80%;
   margin: auto;
-  column-count: 2;
-  column-gap: 100px;
   text-align: justify;
   padding-bottom: 2%;
   border-bottom: 1px solid #6975cf;
+}
+.page > section {
+  display: flex;
+  gap: 50px;
+}
+.page > section > div {
+  flex: 2;
+}
+.page > section > div li {
+  list-style: disc;
+  margin: 10px;
+}
+.page > section > aside {
+  flex: 1;
+}
+.page > section > aside h2,
+.page > section > aside h3,
+.page > section > aside p {
+  text-align: left;
 }
 @media screen and (max-width: 992px) {
   .page {

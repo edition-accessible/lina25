@@ -8,16 +8,9 @@ previous: ./afficher.html
 next: ./loi.html
 ---
 
-<details open="">
-<summary>
-<h2  style="display:inline" class="color_orange link">  Ressources</h2>
-</summary>
-En 2018 EDRLab a consacré un travail d’étude intitulé [Pour une meilleure prise en compte de l’accessibilité au sein de l’écosystème Epub3](https://www.edrlab.org/public/a11y/EDRLab-a11y-2018.pdf). Et produit un guide [Comment accéder à une offre de lecture adaptée quand on est déficient visuel](https://www.edrlab.org/accessibility/lecture-et-deficience-visuelle/)
+<div markdown="1">
 
-</details>
-
-
-<h2 class="color_orange link"> Principes</h2>
+<h2>Principes</h2>
 
 Les lecteurs en situation de handicap visuel ou cognitif, ainsi que les personnes qui les accompagnent, ont souvent des difficultés à trouver des informations sur les outils de lecture qui permettent d’accéder aux ouvrages écrits dans de bonnes conditions.
 
@@ -51,3 +44,13 @@ On trouve jusqu’à présent très peu d’applications mobiles localisées en 
 ### Liseuses
 
 Les liseuses sont des appareils grand public sans clavier, de basse consommation grâce à leur technologie d’écran e-Ink. On trouve jusqu’à présent très peu de liseuses localisées en français qui puissent se prétendre accessibles. Certaines liseuses n’ont pas de sortie audio et rares sont celles munies d’une sortie audio qui ont des capacités de lecture à voix hautes de livres numériques au format EPUB.
+
+</div>
+
+<aside markdown="1">
+
+## Ressources
+
+En 2018 EDRLab a consacré un travail d’étude intitulé [Pour une meilleure prise en compte de l’accessibilité au sein de l’écosystème Epub3](https://www.edrlab.org/public/a11y/EDRLab-a11y-2018.pdf). Et produit un guide [Comment accéder à une offre de lecture adaptée quand on est déficient visuel](https://www.edrlab.org/accessibility/lecture-et-deficience-visuelle/)
+
+</aside>

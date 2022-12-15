@@ -124,7 +124,6 @@ img {
     width: 80%;
     margin: auto;
     margin-bottom: 5%;
-    display: flex;
     text-align: center;
     align-items: center;
     border-top: 1px solid $color-primary;
@@ -133,7 +132,6 @@ img {
     p {
         display: block;
         color: $color-primary;
-        width: 45%;
         text-align: justify;
         @include breakpoint-tablet {
             width: 100%;
@@ -148,18 +146,34 @@ img {
         color: $color-primary;
     }
     @include breakpoint-tablet {
-        flex-direction: column;
     }
 }
 
 .page {
     width: 80%;
     margin: auto;
-    column-count: 2;
-    column-gap: 100px;
     text-align: justify;
     padding-bottom: 2%;
     border-bottom: 1px solid $color-primary;
+    > section {
+        display: flex;
+        gap: 50px;
+        > div {
+            flex: 2;
+            li {
+                list-style: disc;
+                margin: 10px;
+            }
+        }
+        > aside {
+            flex: 1;
+            h2,
+            h3,
+            p {
+                text-align: left;
+            }
+        }
+    }
     @include breakpoint-tablet {
         column-count: 1;
     }
