@@ -2,11 +2,22 @@
 layout: page
 title: Lire
 subtitle: dans les meilleures conditions
-orientation:
+orientation: Savoir exploiter au mieux les fonctionnalitées d'accessibilité des livres numériques.
 audience: lecteurs, prescripteurs, accompagnants
 previous: ./afficher.html
 next: ./loi.html
 ---
+
+<details open="">
+<summary>
+<h2  style="display:inline" class="color_orange link">  Ressources</h2>
+</summary>
+En 2018 EDRLab a consacré un travail d’étude intitulé [Pour une meilleure prise en compte de l’accessibilité au sein de l’écosystème Epub3](https://www.edrlab.org/public/a11y/EDRLab-a11y-2018.pdf). Et produit un guide [Comment accéder à une offre de lecture adaptée quand on est déficient visuel](https://www.edrlab.org/accessibility/lecture-et-deficience-visuelle/)
+
+</details>
+
+
+<h2 class="color_orange link"> Principes</h2>
 
 Les lecteurs en situation de handicap visuel ou cognitif, ainsi que les personnes qui les accompagnent, ont souvent des difficultés à trouver des informations sur les outils de lecture qui permettent d’accéder aux ouvrages écrits dans de bonnes conditions.
 
