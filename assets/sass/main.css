@@ -76,6 +76,7 @@ span {
   top: 0px;
   background-color: white;
   border-bottom: 1px solid #6975cf;
+  z-index: 1;
 }
 @media screen and (max-width: 1300px) {
   .nav {

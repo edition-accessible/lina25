@@ -19,6 +19,7 @@
     top: 0px;
     background-color: white;
     border-bottom: 1px solid $color-primary;
+    z-index: 1;
     @include breakpoint-laptop {
         padding-right: 3%;
     }
