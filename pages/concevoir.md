@@ -8,7 +8,7 @@ previous: ../index.html
 next: ./produire.html
 ---
 
-<div markdown="1">
+<div markdown="1" id="principes">
 
 <h2>Principes</h2>
 
@@ -63,3 +63,5 @@ Et le document intitulé [Édition accessible, Pratiques recommandées à l’in
 [inclusive publishing](https://inclusivepublishing.org/) est une initiative du consortium daisy qui publie et regroupe les ressources utiles.
 
 Le [consortium Daisy](https://daisy.org) regroupe les organisations qui travaillent à améliorer l’accès à la lecture pour les personnes empêchées de lire. Depuis 2020 des webinaires participatifs sont régulièrement proposés. Enregistrés, ils peuvent être visionnés à posteriori. La liste est disponible sur la page dédiée [Webinaires Daisy (en anglais)](https://daisy.org/webinar-series/)
+
+</aside>

@@ -7,13 +7,15 @@
 
   {%- include nav.html -%}
   <img src="{{ site.baseurl }}/assets/images/Banners/SVG/{{ page.title }}.svg" alt="">
+  <a href="{{ page.previous }}" target="_self" title="page précédente" id="arrow_left"><i class="fa-solid fa-angle-left arrow" ></i></a>
+  <a href="{{ page.next }}" target="_self" title="page suivante" id="arrow_right"><i class="fa-solid fa-chevron-right arrow"></i></a>
 
   <header id="contenu" class="header_pages">
-    <a href="{{ page.previous }}" target="_self" title="page précédente"><i class="fa-solid fa-angle-left arrow"></i></a>
+    
     <div class="title_pages">
       <h1>{{ page.title }}<br/><span>{{ page.subtitle }}</span></h1>
     </div>
-    <a href="{{ page.next }}" target="_self" title="page suivante"><i class="fa-solid fa-chevron-right arrow"></i></a>
+    
   </header>
 
   <section class="audience">
@@ -28,6 +30,41 @@
   </main>
 
   {%- include footer.html -%}
+
+  <script>
+    let button = document.createElement("div");
+    button.classList.add("toggle-button");
+    let main = document.querySelector(".audience");
+    main.appendChild(button);
+
+    let i = 0;
+    let principes = document.getElementById("principes");
+    let content = document.querySelector(".page");
+
+    function toggle() {
+      if (i == 0) {
+        button.innerHTML = "Texte justifié";
+        principes.style.hyphens = "auto";
+        content.style.textAlign = "justify";
+      } else {
+        button.innerHTML = "Texte non-justifié";
+        principes.style.hyphens = "none";
+        content.style.textAlign = "left";
+      }
+    };
+
+    toggle();
+
+    button.addEventListener('click', function() {
+      if (i == 0) {
+        i++; 
+      } else {
+        i--; 
+      }
+      toggle();
+    });
+
+  </script>
 
 </body>
 

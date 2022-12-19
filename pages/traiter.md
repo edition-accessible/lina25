@@ -8,7 +8,7 @@ previous: ./produire.html
 next: ./collecter.html
 ---
 
-<div markdown="1">
+<div markdown="1" id="principes">
 
 <h2>Principes</h2>
 

@@ -32,11 +32,6 @@ h2 {
   font-size: 2em;
   font-weight: 700;
 }
-@media screen and (max-width: 500px) {
-  h2 {
-    font-size: 1.2em;
-  }
-}
 
 .nav li {
   font-size: 25px;
@@ -44,11 +39,11 @@ h2 {
 
 h3 {
   font-weight: 700;
-  font-size: 25px;
+  font-size: 1.5em;
 }
 
 body {
-  max-width: 100%;
+  max-width: 1800px;
   margin: auto;
 }
 
@@ -74,13 +69,17 @@ span {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding-left: 10%;
-  padding-right: 10%;
+  padding: 0 5%;
   height: 200px;
+  transition: height 300ms ease-in-out;
+  position: sticky;
+  top: 0px;
+  background-color: white;
+  border-bottom: 1px solid #6975cf;
 }
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 1300px) {
   .nav {
-    padding: 0 5%;
+    padding-right: 3%;
   }
 }
 @media screen and (max-width: 576px) {
@@ -134,8 +133,15 @@ span {
   }
 }
 
-div .dropdown_btn {
+#dropdown_button {
   display: none;
+}
+@media screen and (max-width: 1150px) {
+  #dropdown_button {
+    display: block;
+  }
+}
+#dropdown_button .dropdown_btn {
   width: 60px;
   text-align: end;
   background-color: transparent;
@@ -167,12 +173,12 @@ div .dropdown_btn {
   }*/
 }
 @media screen and (max-width: 1150px) {
-  div .dropdown_btn {
+  #dropdown_button .dropdown_btn {
     display: block;
     flex-grow: 0;
   }
 }
-div .dropdown_btn .nav_button {
+#dropdown_button .dropdown_btn .nav_button {
   display: inline-block;
   cursor: pointer;
   position: relative;
@@ -186,25 +192,25 @@ div .dropdown_btn .nav_button {
   align-items: center;
   margin: auto;
 }
-div .dropdown_btn .nav_button i {
+#dropdown_button .dropdown_btn .nav_button i {
   color: white;
   padding-top: 15px;
 }
 @media screen and (max-width: 992px) {
-  div .dropdown_btn .nav_button i {
+  #dropdown_button .dropdown_btn .nav_button i {
     font-size: 20px;
   }
 }
-div .dropdown_btn .nav_button span {
+#dropdown_button .dropdown_btn .nav_button span {
   display: none;
   visibility: hidden;
   color: white;
 }
-div .dropdown_btn .nav_button span i {
+#dropdown_button .dropdown_btn .nav_button span i {
   transform: scale(1.3);
   padding-top: 13px;
 }
-div > nav {
+#dropdown_button > nav {
   visibility: collapse;
   position: absolute;
   top: 200px;
@@ -218,13 +224,13 @@ div > nav {
   width: 60%;
   margin: 0;
 }
-div > nav a {
+#dropdown_button > nav a {
   padding: 15px;
   display: block;
   font-size: 16px;
   transition: font-size 50ms;
 }
-div > nav a::after {
+#dropdown_button > nav a::after {
   content: "";
   position: absolute;
   top: 50px;
@@ -233,45 +239,45 @@ div > nav a::after {
   border-bottom: 1px solid #6975cf;
   padding-bottom: 2%;
 }
-div > nav a:hover {
+#dropdown_button > nav a:hover {
   font-size: 18px;
 }
 @media screen and (max-width: 576px) {
-  div > nav {
+  #dropdown_button > nav {
     top: 150px;
   }
 }
 @media screen and (max-width: 500px) {
-  div > nav {
+  #dropdown_button > nav {
     width: 100%;
   }
-  div > nav li {
+  #dropdown_button > nav li {
     padding: 5px;
   }
-  div > nav li a:first-child::after {
+  #dropdown_button > nav li a:first-child::after {
     top: 60px;
   }
 }
-div .dropdown_savoir {
+#dropdown_button .dropdown_savoir {
   padding-left: 0%;
 }
-div .dropdown_savoir #savoir {
+#dropdown_button .dropdown_savoir #savoir {
   font-weight: 700;
 }
-div .dropdown_savoir a {
+#dropdown_button .dropdown_savoir a {
   font-weight: 100;
   font-size: 16px;
   padding-left: 0%;
 }
-div .dropdown_savoir a:hover {
+#dropdown_button .dropdown_savoir a:hover {
   font-size: 18px;
 }
 @media screen and (max-width: 576px) {
-  div .dropdown_savoir li {
+  #dropdown_button .dropdown_savoir li {
     font-size: 16px;
   }
 }
-div .dropdown-content_wrapper a:hover {
+#dropdown_button .dropdown-content_wrapper a:hover {
   color: #ee8c3d;
 }
 
@@ -645,8 +651,48 @@ img {
   margin: auto;
 }
 
+#arrow_left,
+#arrow_right {
+  border: 1px solid white;
+  border-radius: 50%;
+  padding: 20px 30px;
+  box-shadow: 6px 7px 20px 2px #8fbceb;
+  position: fixed;
+  transform: translateY(-50%);
+  top: 50%;
+}
+#arrow_left:hover,
+#arrow_right:hover {
+  transform: translateY(-50%) scale(1.2);
+  box-shadow: 2px 2px 5px 1px #8fbceb;
+  transition: all 300ms;
+}
+#arrow_left:hover:active,
+#arrow_right:hover:active {
+  border: inset;
+  border: 2px solid #6975cf;
+}
+@media screen and (max-width: 992px) {
+  #arrow_left,
+#arrow_right {
+    border: 0;
+    padding: 0;
+    border-radius: 0;
+    box-shadow: 0px 0px 0px;
+    scale: 2;
+  }
+}
+
+#arrow_left {
+  left: 3%;
+}
+
+#arrow_right {
+  right: 3%;
+}
+
 .header_pages {
-  display: flex;
+  /*        display: flex;*/
   justify-content: space-between;
   align-items: center;
   padding-left: 5%;
@@ -659,26 +705,6 @@ img {
 @media screen and (max-width: 992px) {
   .header_pages i {
     transform: scale(1.5);
-  }
-}
-.header_pages a {
-  border: 1px solid white;
-  border-radius: 50%;
-  padding: 20px 30px;
-  box-shadow: 6px 7px 20px 2px #8fbceb;
-}
-.header_pages a:hover {
-  transform: scale(1.2);
-  box-shadow: 2px 2px 5px 1px #8fbceb;
-  transition: all 300ms;
-}
-.header_pages a:hover:active {
-  border: inset;
-  border: 2px solid #6975cf;
-}
-@media screen and (max-width: 992px) {
-  .header_pages a {
-    padding: 10px 20px;
   }
 }
 .header_pages .title_pages {
@@ -827,11 +853,15 @@ img {
   gap: 50px;
 }
 .page > section > div {
+  hyphens: auto;
   flex: 2;
 }
 .page > section > div li {
   list-style: disc;
   margin: 10px;
+  color: black;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
 }
 .page > section > aside {
   flex: 1;
@@ -842,18 +872,8 @@ img {
   text-align: left;
 }
 @media screen and (max-width: 992px) {
-  .page {
-    column-count: 1;
-  }
-}
-@media screen and (max-width: 992px) {
-  .page h3 {
-    font-size: 30px;
-  }
-}
-@media screen and (max-width: 576px) {
-  .page h3 {
-    font-size: 20px;
+  .page > section {
+    flex-direction: column;
   }
 }
 @media screen and (max-width: 992px) {
@@ -921,4 +941,12 @@ img {
 }
 .color_cyan {
   color: #8fbceb;
+}
+
+.toggle-button {
+  width: 130px;
+  border: 1px solid #6975cf;
+  background-color: #dde0f4;
+  color: #ee8c3d;
+  font-size: 14px;
 }/*# sourceMappingURL=main.css.map */

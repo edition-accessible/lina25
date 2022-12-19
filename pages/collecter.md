@@ -8,7 +8,7 @@ previous: ./traiter.html
 next: ./diffuser.html
 ---
 
-<div markdown="1">
+<div markdown="1" id="principes">
 
 ## Principes
 

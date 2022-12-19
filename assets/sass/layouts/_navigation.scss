@@ -7,15 +7,20 @@
         left: 10px;
     }
 }
+
 .nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding: 0 5%;
     height: 200px;
-    @include breakpoint-tablet {
-        padding: 0 5%;
+    transition: height 300ms ease-in-out;
+    position: sticky;
+    top: 0px;
+    background-color: white;
+    border-bottom: 1px solid $color-primary;
+    @include breakpoint-laptop {
+        padding-right: 3%;
     }
     @include breakpoint-mobile {
         height: 150px;
@@ -58,9 +63,12 @@
         }
     }
 }
-div {
+#dropdown_button {
+    display: none;
+    @include breakpoint-laptop_small {
+        display: block;
+    }
     .dropdown_btn {
-        display: none;
         width: 60px;
         text-align: end;
         background-color: transparent;

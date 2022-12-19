@@ -8,7 +8,7 @@ previous: ./concevoir.html
 next: ./traiter.html
 ---
 
-<div markdown="1">
+<div markdown="1" id="principes">
 
 <h2>Principes</h2>
 
@@ -58,6 +58,7 @@ Les métadonnées obligatoires sont **accessMode**, **accessModeSufficient**, **
 <a href="https://www.sne.fr/app/uploads/2020/12/ePubAccessibleCharteSNE_v1.0-au-08-12-2020.pdf" class="link color_orange">Charte technique pour la production d’EPUBs “textuels” nativement accessibles (SNE)</a>
 
 La liste des epub:type et leur définition est consultable en anglais sur le site du W3C :
+
 <a href="https://www.w3.org/TR/epub-ssv/" class="link color_orange">EPUB 3 Structural Semantics Vocabulary 1.1</a>
 
 <a href="http://kb.daisy.org/" class="link color_orange">Base de connaissance (en anglais)</a>
@@ -73,19 +74,23 @@ Référentiels applicables aux livres numériques au format EPUB 3 :
 Référentiels en anglais, version stable :
 
 <a href="https://www.w3.org/Submission/epub-a11y/" class="link color_orange">EPUB Accessibility 1.0</a>
+
 <a href="https://idpf.org/epub/a11y/techniques/" class="link color_orange">EPUB Accessibility Techniques 1.0</a>
 
 Référentiels en anglais, version en cours de validation :
 
 <a href="https://www.w3.org/TR/epub-a11y-11/" class="link color_orange">EPUB Accessibility 1.1</a>
+
 <a href="https://www.w3.org/TR/epub-a11y-tech-11/" class="link color_orange">EPUB Accessibility Techniques 1.1</a>
 
 Ouvrage en anglais :
+
 <a href="https://www.oreilly.com/library/view/accessible-epub-3/9781449329297/" class="link color_orange">Accessible EPUB 3, by Matt Garrish (O’Reilly, téléchargement gratuit)</a>
 
 Référentiels en anglais, applicables aux pages Web qui constituent les ressources des fichiers EPUB 3 :
 
 <a href="https://www.w3.org/TR/WCAG20/" class="link color_orange">Web Content Accessibility Guidelines (WCAG) 2.0</a>
+
 <a href="https://www.w3.org/WAI/ARIA/apg/" class="link color_orange">ARIA Authoring Practices Guide</a>
 
 ### Alternatives aux ressources graphiques
@@ -95,7 +100,9 @@ Référentiels en anglais, applicables aux pages Web qui constituent les ressour
 ### Contrôle
 
 <a href="https://github.com/w3c/epubcheck/releases" class="link color_orange">EPUBCheck</a>
+
 <a href="https://daisy.org/activities/software/ace/" class="link color_orange">Ace by DAISY</a>
+
 <a href="https://daisy.org/activities/services/smart/" class="link color_orange">SMART by DAISY</a>
 
 ### Métadonnées

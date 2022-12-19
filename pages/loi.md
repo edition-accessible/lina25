@@ -6,7 +6,7 @@ previous: ./lire.html
 next: ../index.html
 ---
 
-<div markdown="1">
+<div markdown="1" id="principes">
 
 <h2>Principes</h2>
 

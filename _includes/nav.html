@@ -119,4 +119,17 @@
     btn.addEventListener("click", function () {
         this.classList.toggle("button-open");
     });
+
+    const nav = document.querySelector(".nav");
+    const logo = document.querySelector(".logo");
+
+    window.onscroll = function (e) {
+        if (window.pageYOffset > 1) {
+            nav.style.height = "75px";
+            logo.style.width = "300px";
+        } else {
+            nav.style.height = "200px";
+            logo.style.width = "400px";
+        }
+    };
 </script>

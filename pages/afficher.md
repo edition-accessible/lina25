@@ -8,7 +8,7 @@ previous: ./diffuser.html
 next: ./lire.html
 ---
 
-<div>
+<div markdown="1" id="principes">
 
 <h2>Principes</h2>
 
@@ -30,7 +30,7 @@ next: ./lire.html
 
 </div>
 
-<aside markdown="1">
+<aside markdown="1" >
 
 ## Ressources
 
