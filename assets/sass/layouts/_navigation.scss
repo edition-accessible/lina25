@@ -206,8 +206,8 @@
     }
 }
 
-.button-open {
-    nav {
+#dropdown_button.button-open {
+    > nav {
         visibility: visible;
         border-top: 1px solid $color-tertiary;
         border-bottom: 1px solid $color-tertiary;

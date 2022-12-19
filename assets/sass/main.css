@@ -282,15 +282,15 @@ span {
   color: #ee8c3d;
 }
 
-.button-open nav {
+#dropdown_button.button-open > nav {
   visibility: visible;
   border-top: 1px solid #ee8c3d;
   border-bottom: 1px solid #ee8c3d;
 }
-.button-open > button .nav_button > i {
+#dropdown_button.button-open > button .nav_button > i {
   display: none;
 }
-.button-open > button .nav_button span {
+#dropdown_button.button-open > button .nav_button span {
   display: contents;
   visibility: visible;
 }
@@ -950,4 +950,18 @@ img {
   background-color: #dde0f4;
   color: #ee8c3d;
   font-size: 14px;
+}
+
+.contentButton {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.contentButton > div {
+  gap: 10px;
+}
+.contentButton i {
+  border-radius: 50%;
+  padding: 7px 10px;
+  background-color: #dde0f4;
 }/*# sourceMappingURL=main.css.map */

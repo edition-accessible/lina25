@@ -265,3 +265,17 @@ img {
     color: $color-tertiary;
     font-size: 14px;
 }
+
+.contentButton {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    > div {
+        gap: 10px;
+    }
+    i {
+        border-radius: 50%;
+        padding: 7px 10px;
+        background-color: lighten($color-primary, 30%);
+    }
+}

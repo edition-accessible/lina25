@@ -9,7 +9,7 @@ next: ./afficher.html
 ---
 
 <div markdown="1" id="principes">
-<h2>Principes</h2>
+{%- include principes.html -%}
 
 ### Informer sur l’accessibilité des livres numériques
 

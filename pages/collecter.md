@@ -10,7 +10,7 @@ next: ./diffuser.html
 
 <div markdown="1" id="principes">
 
-## Principes
+{%- include principes.html -%}
 
 Afin de rendre possible l’information de l’utilisateur, les métadonnées collectées sur les ouvrages numériques référencés doivent inclure les informations d’accessibilité. Cela permet aussi d’avoir un chiffrage précis de l’évolution du nombre de titres rendus accessibles.
 

@@ -10,7 +10,7 @@ next: ./loi.html
 
 <div markdown="1" id="principes">
 
-<h2>Principes</h2>
+{%- include principes.html -%}
 
 Les lecteurs en situation de handicap visuel ou cognitif, ainsi que les personnes qui les accompagnent, ont souvent des difficultés à trouver des informations sur les outils de lecture qui permettent d’accéder aux ouvrages écrits dans de bonnes conditions.
 

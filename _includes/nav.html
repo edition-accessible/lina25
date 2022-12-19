@@ -34,7 +34,7 @@
                 <span><i class="fa-solid fa-xmark"></i></span>
             </span>
         </button>
-        <nav>
+        <nav id="nav_dpdn">
             <ul id="dpdn" class="dropdown-content_wrapper" role="menu">
                 <li>
                     <a
@@ -127,9 +127,19 @@
         if (window.pageYOffset > 1) {
             nav.style.height = "75px";
             logo.style.width = "300px";
+            if (window.screen.width < 1150) {
+                let navdpdn = document.getElementById("nav_dpdn");
+                navdpdn.style.top = "75px";
+            }
         } else {
-            nav.style.height = "200px";
             logo.style.width = "400px";
+            if (window.screen.width < 1150) {
+                let navdpdn = document.getElementById("nav_dpdn");
+                navdpdn.style.top = "150px";
+                nav.style.height = "150px";
+            } else {
+                nav.style.height = "200px";
+            }
         }
     };
 </script>

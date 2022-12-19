@@ -8,7 +8,7 @@ next: ../index.html
 
 <div markdown="1" id="principes">
 
-<h2>Principes</h2>
+{%- include principes.html -%}
 
 La directive 2019/882 du parlement Européen relative aux exigences en matière d’accessibilité applicables aux produits et services adoptée le 17 avril 2019 entrera en vigueur en juin 2025.
 Elle a pour objet de contribuer au bon fonctionnement du marché intérieur en rapprochant les dispositions législatives, réglementaires et administratives des États membres en ce qui concerne les exigences en matière d’accessibilité applicables à certains produits et services, grâce, notamment, à l’élimination et à la prévention des obstacles qui entravent la libre circulation de certains produits et services accessibles découlant d’exigences divergentes en matière d’accessibilité dans les États membres.

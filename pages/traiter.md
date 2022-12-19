@@ -10,7 +10,7 @@ next: ./collecter.html
 
 <div markdown="1" id="principes">
 
-<h2>Principes</h2>
+{%- include principes.html -%}
 
 L'industrie du livre électronique est confrontée à une tâche énorme : remédier à la liste des livres électroniques en souffrance en Europe, c'est-à-dire les quelque 2,5 millions de fichiers européens qui ne répondent pas aux normes d'accessibilité.
 

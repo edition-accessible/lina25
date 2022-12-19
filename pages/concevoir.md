@@ -9,8 +9,7 @@ next: ./produire.html
 ---
 
 <div markdown="1" id="principes">
-
-<h2>Principes</h2>
+{%- include principes.html -%}
 
 La grande majorité des livres ont ou auront une version numérique, et cette version numérique doit sauf exception être nativement accessible. Dès l’écriture d’un ouvrage, il est donc nécessaire que ses auteurs et éditeurs préparent le matériel qui permettra de produire facilement un livre numérique accessible.
 Voici donc ce dont les services de fabrication ont besoin pour assurer un résultat satisfaisant.

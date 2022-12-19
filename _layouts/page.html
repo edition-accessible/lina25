@@ -32,37 +32,40 @@
   {%- include footer.html -%}
 
   <script>
-    let button = document.createElement("div");
-    button.classList.add("toggle-button");
-    let main = document.querySelector(".audience");
-    main.appendChild(button);
 
     let i = 0;
     let principes = document.getElementById("principes");
     let content = document.querySelector(".page");
 
-    function toggle() {
-      if (i == 0) {
-        button.innerHTML = "Texte justifié";
-        principes.style.hyphens = "auto";
-        content.style.textAlign = "justify";
-      } else {
-        button.innerHTML = "Texte non-justifié";
-        principes.style.hyphens = "none";
-        content.style.textAlign = "left";
-      }
+
+    function justify() {
+      principes.style.hyphens = "auto";
+      content.style.textAlign = "justify";
     };
 
-    toggle();
+    function left() {
+      principes.style.hyphens = "none";
+      content.style.textAlign = "left";
+    };
 
-    button.addEventListener('click', function() {
-      if (i == 0) {
-        i++; 
-      } else {
-        i--; 
-      }
-      toggle();
+    let buttonJustified = document.getElementById("iconJustify");
+    let buttonLeft = document.getElementById("iconAlignLeft");
+    buttonLeft.style.color = "#6975cf";
+    buttonJustified.style.color = "#ee8c3d";
+
+    buttonJustified.addEventListener('click', function() {
+      justify();
+      buttonLeft.style.color = "#6975cf";
+      buttonJustified.style.color = "#ee8c3d";
     });
+
+    buttonLeft.addEventListener('click', function() {
+      left();
+      buttonJustified.style.color = "#6975cf";
+      buttonLeft.style.color = "#ee8c3d";
+    });
+
+
 
   </script>
 
