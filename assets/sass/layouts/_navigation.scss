@@ -19,7 +19,7 @@
     top: 0px;
     background-color: white;
     border-bottom: 1px solid $color-primary;
-    z-index: 1;
+    z-index: 5;
     @include breakpoint-laptop {
         padding-right: 3%;
     }
@@ -138,7 +138,6 @@
         visibility: collapse;
         position: absolute;
         top: 200px;
-        z-index: 1;
         right: 0;
         background-color: white;
         text-align: center;
@@ -148,7 +147,7 @@
         width: 60%;
         margin: 0;
         a {
-            padding: 15px;
+            padding: 10px;
             display: block;
             font-size: 16px;
             transition: font-size 50ms;
@@ -172,10 +171,9 @@
         @include breakpoint-mobile_small {
             width: 100%;
             li {
-                padding: 5px;
                 a {
                     &:first-child::after {
-                        top: 60px;
+                        top: 50px;
                     }
                 }
             }
