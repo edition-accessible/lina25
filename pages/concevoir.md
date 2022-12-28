@@ -26,7 +26,7 @@ Pour vous aider dans les choix éditoriaux relatifs aux alternatives aux images,
 
 Les diagrammes, graphiques et autre images d’illustration issues de données ne sont pas accessibles. Pour que des alternatives textuelles puissent être rédigées facilement pendant la phase de production numérique, il est nécessaire que les données - éventuellement simplifiées pour mieux s’intégrer à l’expérience de lecture - soient remises aux services de production de l’éditeur en même temps que le manuscrit.
 
--   Ces données peuvent être délivrées dans un format CSV, Excel ou XML en fonction des possibilités.
+<blockquote>Ces données peuvent être délivrées dans un format CSV, Excel ou XML en fonction des possibilités.</blockquote>
 
 ### Formes longues des abréviations et des sigles
 
@@ -44,23 +44,22 @@ Les technologies d’assistance, et en particulier les lecteurs d’écran (logi
 
 <a href="https://www.sne.fr/app/uploads/2022/10/SNE-Normes-et-stanrdards-Textes-alternatifs-image-Document-de-synthese-.._vdef2.pdf" class ="link color_orange">Mise en accessibilité des images dans les EPUBs - synthése des travaux du groupe normes et standard du SNE, octobre 2022 (PDF non balisé, 2 Mo)</a>
 
-<a href="https://www.sne.fr/app/uploads/2022/10/SNE_Atelier_Normes-et-Standards_Accessibilite_Textes-alternatifs_2022.pptx.pdf" class ="link color_orange">Présentation de l’atelier sur la production de textes alternatifs aux images du groupe normes et standard du SNE, octobre 2022 (PDF non balisé, 5.6 Mo</a>
+<a href="https://www.sne.fr/app/uploads/2022/10/SNE_Atelier_Normes-et-Standards_Accessibilite_Textes-alternatifs_2022.pptx.pdf" class ="link color_orange">Présentation de l’atelier sur la production de textes alternatifs aux images du groupe normes et standard du SNE, octobre 2022 (PDF non balisé, 5.6 Mo)</a>
 
-Concernant la façon de rédiger les textes alternatifs le [Diagram Center (en anglais)](http://diagramcenter.org/) est la ressource de référence. Il regroupe des experts et des utilisateurs issus de différents secteurs, dont l'éducation, la technologie et l'édition.
+<a href="https://github.com/benetech/AccessibleImageSampleBook/blob/master/AccessibleImageSampleBookFrench/DIAGRAM_Image-Description-Guidelines_FR.epub?raw=true" class ="link color_orange"><i>Comment décrire les images ?</i> DIAGRAM Center ; NCAM ; Association BrailleNet (EPUB, 7.7 Mo) </a>
 
-Le Diagram Center propose un outil d’exercices en ligne ([Poet training tool, en anglais](https://poet.diagramcenter.org/)), des ressources video et un [guide de bonnes pratiques](http://diagramcenter.org/table-of-contents-2.html) et un un [livre d’exemples, traduit en français par l’association BrailleNet](https://github.com/benetech/AccessibleImageSampleBook/blob/master/AccessibleImageSampleBookFrench/DIAGRAM_Image-Description-Guidelines_FR.epub?raw=true).
+<a href="https://diagramcenter.org" class ="link color_orange">Le Diagram Center (en anglais)</a> regroupe des experts et des utilisateurs issus de différents secteurs, dont l'éducation, la technologie et l'édition. Le Diagram Center propose un outil d’exercices en ligne ([Poet training tool, en anglais](https://poet.diagramcenter.org/)), des ressources video et un [guide de bonnes pratiques](http://diagramcenter.org/table-of-contents-2.html).
 
 ### Autres ressources
 
-#### en Français
 
-Le [Consortium pour des livres accessibles (ABC)](https://www.accessiblebooksconsortium.org/publishing/fr/) est un partenariat public privé placé sous la responsabilité de l’organisation mondiale pour la propriété intellectuelle (OMPI). Son site web comporte une section dédiée à l’édition accessible. On y trouve notamment La [charte de l’édition accessible](https://www.accessiblebooksconsortium.org/docs/fr/charter.docx)
+<a href="https://www.accessiblebooksconsortium.org/publishing/fr/" class ="link color_orange">
+Le Consortium pour des livres accessibles (ABC)</a> est un partenariat public privé placé sous la responsabilité de l’organisation mondiale pour la propriété intellectuelle (OMPI). Son site web comporte une section dédiée à l’édition accessible. On y trouve notamment La [charte de l’édition accessible](https://www.accessiblebooksconsortium.org/docs/fr/charter.docx)
 Et le document intitulé [Édition accessible, Pratiques recommandées à l’intention des éditeurs](https://www.accessiblebooksconsortium.org/export/abc/fr/best_practice_guidelines.doc), élaboré par EDitEUR avec un apport financier de l’OMPI.
 
-#### en Anglais
 
-[inclusive publishing](https://inclusivepublishing.org/) est une initiative du consortium daisy qui publie et regroupe les ressources utiles.
+<a href="https://inclusivepublishing.org/" class ="link color_orange">inclusive publishing (en anglais)</a> est une initiative du consortium daisy qui publie et regroupe les ressources utiles.
 
-Le [consortium Daisy](https://daisy.org) regroupe les organisations qui travaillent à améliorer l’accès à la lecture pour les personnes empêchées de lire. Depuis 2020 des webinaires participatifs sont régulièrement proposés. Enregistrés, ils peuvent être visionnés à posteriori. La liste est disponible sur la page dédiée [Webinaires Daisy (en anglais)](https://daisy.org/webinar-series/)
+<a href="https://daisy.org" class ="link color_orange">Le consortium Daisy (en anglais)</a> regroupe les organisations qui travaillent à améliorer l’accès à la lecture pour les personnes empêchées de lire. Depuis 2020 des webinaires participatifs sont régulièrement proposés. Enregistrés, ils peuvent être visionnés à posteriori. La liste est disponible sur la page dédiée [Webinaires Daisy (en anglais)](https://daisy.org/webinar-series/)
 
 </aside>
