@@ -26,7 +26,7 @@ Le fait que les ebooks risquent d'être retirés du marché à grande échelle d
 
 <h2>Ressources</h2>
 
-ABELab est un projet porté par EDRLab en collaboration avec la Fundazione LIA et KB pour apporter des réponses et permettre de chiffrer les solutions.
+ABELab est un projet porté par EDRLab en collaboration avec la <span lang="it">Fundazione LIA</span> et la <span lang="nl">Koninklijke Bibliotheek</span> pour apporter des réponses et permettre de chiffrer les solutions.
 
 <a href="edrlab.org/abelab" class="link color_orange">Site du projet européen ABE Lab</a>
 
