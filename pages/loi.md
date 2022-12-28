@@ -31,6 +31,8 @@ Les critères d’accessibilité retenus pour le livre numérique sont listés d
 -   Permettre la découverte en fournissant des informations, via les métadonnées, sur les caractéristiques d’accessibilité; (Section IV-f-v)
 -   S’assurer que les mesures de gestion des droits numériques ne bloquent pas les caractéristiques d’accessibilité; (Section IV-f-vi)
 
+Le document [EPUB Accessibility - EU Accessibility Act Mapping](https://www.w3.org/TR/epub-a11y-eaa-mapping/) est un travail en cours permettant de faire le lien entre ces exigences et les fonctionnalités du format EPUB redistribuable. 
+
 ### Exigences relatives à la distribution du livre numérique
 
 Les critères d’accessibilité retenus pour la distribution des livres numériques sont indiquées à la section 3 (III) de l’annexe 1 :

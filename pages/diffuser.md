@@ -19,7 +19,7 @@ Imaginons maintenant que vous soyez aveugle et que vous ayez recours à une tech
 
 Les lecteurs peuvent utiliser différents services en ligne que ce soient les sites des librairies indépendantes, des portails reliés à un dispositif de lecture ou encore des bibliothèques publiques ou spécialisées. La recherche d’un ouvrage particulier peut aussi amener le lecteur à consulter des sites internationaux ou localisés dans d’autres pays. Les mêmes informations devraient être retrouvées dans ces différents cas de figure afin de garantir une expérience utilisateur équivalente sans avoir à comprendre un nouveau mode de fonctionnement pour trouver l’information pertinente.
 
-Le groupement des éditeurs du W3C propose un guide pour homogénéiser cette expérience utilisateur. Initialement publié en septembre 2021, il a servit de base à plusieurs projets d’implémentation et sera revue courant 2022 en fonction des retours obtenus de ces expériences.
+Le groupement des éditeurs du W3C propose un guide pour homogénéiser cette expérience utilisateur. Initialement publié en septembre 2021, il a servit de base à plusieurs projets d’implémentation et sera revue courant 2023 en fonction des retours obtenus de ces expériences.
 
 En France EDRLab a été missionné pour étudier, en collaboration avec les différents acteurs de la chaîne du livre en France, comment devraient être affichées sur les sites de distribution les métadonnées relatives à l’accessibilité des livres numériques. Ce travail est en lien étroit avec les recommandations du W3C.
 

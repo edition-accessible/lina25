@@ -22,7 +22,7 @@ next: ./lire.html
 
 <h3>Application de lecture</h3>
 
-<p>pubTest.org propose des procédures et des fichiers de test pour vérifier la prise en charge correct des fonctionnalités de lecture attendues.</p>
+<p>epubTest.org propose des procédures et des fichiers de test pour vérifier la prise en charge correct des fonctionnalités de lecture attendues.</p>
 
 <p>Les Règles pour l’accessibilité des contenus Web (WCAG) 2.1 sont les recommandations de référence pour rendre les contenus Web plus accessibles. Les critères de succès des WCAG 2.1 sont écrits sous la forme d’énoncés testables qui ne se rattachent pas à une technologie particulière. Des consignes sur la façon de satisfaire à un critère de succès spécifique pour une technologie particulière ainsi que de l’information générale à propos de l’interprétation d’un critère de succès sont données dans des documents distincts.</p>
 
