@@ -177,6 +177,7 @@ img {
         gap: 50px;
         > div {
             hyphens: auto;
+            hyphenate-limit-chars: 6 3 3;
             flex: 2;
             li {
                 list-style: disc;

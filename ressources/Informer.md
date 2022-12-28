@@ -3,7 +3,7 @@ layout: document
 title: "Informer sur l'accessibilité des livres numériques"
 ---
 
- <section>
+
 <h1 id="recommandationTitre">Recommandations pour l'affichage des informations d'accessibilité
 </h1>
 <p>L'approche retenue vise à proposer un accès rapide aux informations clés en les affichant à priori, c'est à dire non masquées et clairement identifiées. 
@@ -17,14 +17,12 @@ Les informations plus détaillées sont contenues dans un element masqué et peu
 <ul>
 <li>Format du fichier (EPUB, PDF, Etc.)</li>
 <li>La mesure de protection ou son absence</li>
-<li>Date de publication</li>
-<li>Nom de la maison d'édition</li>
 </ul>
 
 <h3>Accessibilité</h3>
 <p><em>Un niveau de titre logique doit regrouper les informations d'accessibilité. L'intitulé de ce titre devrait être <strong>Accessibilité</strong> ou <strong>Informations d'accessibilité</strong>. Il contiendra à minima les informations suivantes : </em></p>
 <ul>
-<li>Si une conformité WCAG AA est déclarée, indiquer : Accessible, sinon ne rien afficher.</li>
+<li>Si une conformité WCAG AA est déclarée, indiquer : Accessible et mettre le niveau entre parenthéses. Sinon ne rien afficher.</li>
 <li>Mode de lecture (Affichage adaptable ou Mise en page fixe ou Livre audio)</li>
 <li>Si le livre contient de l'audio et du texte synchronisés, </li>
 <li>Référence à la pagination du livre imprimé</li>
@@ -42,37 +40,30 @@ l'éditeur</a></li>
 les technologies d'assistance. Les images de cette publication sont
 décrites.</p>
 </details>
-</article>
-</section>
 
-</div>
+
+
 <hr />
-<section>
-<article class="fichelivre">
-<h3>Options de filtrage</h3>
-<ul class="facet-multiselect-checkbox">
-<li><input type="checkbox"><label class="option">Accessibilité</label></li>
-<li><input type="checkbox"><label class="option">Texte et images accessibles en voix de synthèse et braille</label></li>
 
-<li><input type="checkbox"><label class="option">Texte et audio synchronisés</label></li>
-
-</ul>
-</article>
-</section>
 <h2>Correspondances</h2>
 <h3 id="filtres-de-recherche">Filtres de recherche</h3>
+
+Les filtres de recherche devraient se concentrer sur les modes de lecture et la présence d'informations de conformité.
+
 <ul>
-<li>Accessible</li>
-<li>Texte et audio synchronisés: </li>
+<li>Conformité d'accessibilité (A)</li>
+<li>Conformité d'accessibilité (AA)</li>
+<li>Texte et images disponibles en vocal</li>
+<li>Affichage adaptable</li>
+<li>Texte et audio synchronisés</li>
 </ul>
-<p>Un pictogramme Homme de Vitruve avec texte alt “entièrement accessible” peut-être affecté à
-tout fichier déclarant <a href="#conformsTo">conforme aux WCAG AA</a>: <img
+<p>Un pictogramme Homme de Vitruve avec texte alt "Accessible” peut-être affecté à
+tout fichier déclarant conforme aux WCAG AA : <img
 src="https://www.w3.org/2021/09/UX-Guide-metadata-1.0/principles/media/accessibility.svg"
-alt="entièrement accessible" width="15"></p>
+alt="Conformité d'accessibilité (AA)" style="width:25px"></p>
 
+<hr />
 
-</section>
-<section>
 <h2>Exemples</h2>
 
 <article id="livreex1">  <h3>Fiche livre : un epub redistribuable accessible</h3>
@@ -178,6 +169,4 @@ Galdo to find a rare and special gift for a very special visitor...YOU!</span>
 <li>Effets sonores</li>
 </ul>
 </details>
-</div>
-</article>
-</section>
+

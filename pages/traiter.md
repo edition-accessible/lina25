@@ -12,7 +12,10 @@ next: ./collecter.html
 
 {%- include principes.html -%}
 
-L'industrie du livre électronique est confrontée à une tâche énorme : remédier à la liste des livres électroniques en souffrance en Europe, c'est-à-dire les quelque 2,5 millions de fichiers européens qui ne répondent pas aux normes d'accessibilité.
+Un problème se posera néanmoins pour les livres électroniques publiés avant 2025, c'est-à-dire pour les quelque 2,5 millions de fichiers européens qui ne répondent pas aux normes d'accessibilité. Même si l'objectif de la loi européenne sur l'accessibilité est de garantir des services universellement accessibles, le texte ne précise pas explicitement si les titres de la "backlist" doivent être rendus accessibles pour rester sur le marché après 2025 ; dans la pratique, la réponse diffère selon les pays. 
+
+En pratique, la réponse varie d'un pays à l'autre. Jusqu'à présent, aucun pays n'a pleinement analysé les implications des CEA pour sa liste nationale de livres électroniques. Même le volume des listes nationales d'ebooks est à peine connu des fédérations nationales d'éditeurs. Le coût de la remédiation (c'est-à-dire la conversion en une forme accessible) des livres électroniques individuels n'est pas non plus connu avec précision.
+
 
 Il existe un risque de retrait du marché de nombreux livres électroniques.
 
@@ -20,17 +23,19 @@ Sur les plateformes de livres numériques, la "longue traîne" (titres anciens e
 
 Le fait que les ebooks risquent d'être retirés du marché à grande échelle d'ici 2025 est particulièrement inquiétant lorsque la diversité culturelle du contenu et l'inclusion sociale des personnes souffrant de handicaps visuels et cognitifs sont en jeu. Selon un représentant de l'association des éditeurs néerlandais, une obligation légale de rendre accessibles tous les titres du catalogue pourrait potentiellement conduire à la suppression de 80 % de l'offre actuelle d'ebooks…
 
+ABELab est un projet porté par EDRLab en collaboration avec la <span lang="it">Fundazione LIA</span> et la <span lang="nl">Koninklijke Bibliotheek</span> pour apporter des réponses et permettre de chiffrer les solutions au niveau Européen en prenant en compte les différences entre les type d'oeuvres.
+
+C'est un projet de 18 mois dont les conclusions seront disponibles en juin 2024. Plusieurs ateliers et événements permettront de connaitre les avancées.
+
 </div>
 
 <aside markdown="1">
 
 <h2>Ressources</h2>
 
-ABELab est un projet porté par EDRLab en collaboration avec la Fundazione LIA et KB pour apporter des réponses et permettre de chiffrer les solutions.
-
 <a href="edrlab.org/abelab" class="link color_orange">Site du projet européen ABE Lab</a>
 
-Liste non exhaustive de soutils de rémediation existants :
+Liste non exhaustive des outils de rémediation existants :
 
 <a href="https://www.circularsoftware.com/" class="link color_orange">Circular Flo</a>
 

@@ -31,6 +31,8 @@ Les critères d’accessibilité retenus pour le livre numérique sont listés d
 -   Permettre la découverte en fournissant des informations, via les métadonnées, sur les caractéristiques d’accessibilité; (Section IV-f-v)
 -   S’assurer que les mesures de gestion des droits numériques ne bloquent pas les caractéristiques d’accessibilité; (Section IV-f-vi)
 
+Le document [EPUB Accessibility - EU Accessibility Act Mapping](https://www.w3.org/TR/epub-a11y-eaa-mapping/) est un travail en cours permettant de faire le lien entre ces exigences et les fonctionnalités du format EPUB redistribuable. 
+
 ### Exigences relatives à la distribution du livre numérique
 
 Les critères d’accessibilité retenus pour la distribution des livres numériques sont indiquées à la section 3 (III) de l’annexe 1 :
@@ -46,10 +48,10 @@ Les critères d’accessibilité retenus pour la distribution des livres numéri
 
 Deux exemptions sont prévues par la directive Européenne.
 
--   Les microentreprises qui proposent des services (Article 4 point 5 : https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32019L0882&from=EN#004.005). Ces dernières sont définies à l’article 3 point 23 comme une entreprise qui emploie moins de dix personnes et dont le chiffre d’affaires annuel n’excède pas 2 000 000 EUR ou dont le total du bilan annuel n’excède pas 2 000 000 EUR https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32019L0882&from=EN#003
--   Les services pour lesquels la mise en accessibilité entraînerait une modification fondamentale ou une charge disproportionnée (Article 14) https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32019L0882&from=EN#01
+-   Les microentreprises qui proposent des services ([Article 4 point 5](https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32019L0882&from=EN#004.005)). Ces dernières sont définies à l[’article 3 point 23]( https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32019L0882&from=EN#003) comme une entreprise qui emploie moins de dix personnes et dont le chiffre d’affaires annuel n’excède pas 2 000 000 EUR ou dont le total du bilan annuel n’excède pas 2 000 000 EUR
+-   Les services pour lesquels la mise en accessibilité entraînerait une modification fondamentale ou une charge disproportionnée ([Article 14](https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32019L0882&from=EN#014)) 
 
-Les critères d’évaluation de la charge disproportionnée sont précisés à l’Annexe 6 (VI) https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32019L0882&from=EN#L_2019151FR.01011501
+Les critères d’évaluation de la charge disproportionnée sont précisés à l’[Annexe 6 (VI)](https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32019L0882&from=EN#L_2019151FR.01011501) 
 
 </div>
 
@@ -59,6 +61,6 @@ Les critères d’évaluation de la charge disproportionnée sont précisés à 
 
 <a href="https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32019L0882&from=EN" class="link color_orange">Directive 2019/882 du parlement Européen Journal officiel de l'Union européenne</a>
 
-<a href="http://127.0.0.1:4000/lina25/ressources/CELEX_32019L0882_FR_TXT_adaptation.html#ntc1-L_2019151FR.01007001-E0001" class="link color_orange">Directive 2019/882, adaptation accessible</a>
+<a href="/lina25/ressources/CELEX_32019L0882_FR_TXT_adaptation.html#ntc1-L_2019151FR.01007001-E0001" class="link color_orange">Directive 2019/882, adaptation accessible</a>
 
 </aside>
