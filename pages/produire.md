@@ -19,7 +19,8 @@ Afin de faciliter et standardiser la production de livres numériques nativement
 
 Cette charte “EPUB NAC” (pour Nativement ACcessible) reprend les recommandations des référentiels d’accessibilité internationaux et apporte des éclaircissements sur tout ce qui fait question dans les standards d’accessibilité applicables au format EPUB.
 
-### Insérer les descriptions des ressources graphiques
+
+### Insérer les descriptions des ressources graphiques
 
 Dans la plupart des cas, l’auteur du livre n’aura pas décrit les images de l’ouvrage. Les services de production devront alors se référer au guide de bonnes pratiques rédigé par le SNE pour la rédaction des descriptions d’images.
 
@@ -57,11 +58,9 @@ Les métadonnées obligatoires sont **accessMode**, **accessModeSufficient**, **
 
 <a href="https://www.sne.fr/app/uploads/2020/12/ePubAccessibleCharteSNE_v1.0-au-08-12-2020.pdf" class="link color_orange">Charte technique pour la production d’EPUBs “textuels” nativement accessibles (SNE)</a>
 
-La liste des epub:type et leur définition est consultable en anglais sur le site du W3C :
+<a href="http://kb.daisy.org/" class="link color_orange">Base de connaissance (en anglais)</a>
 
 <a href="https://www.w3.org/TR/epub-ssv/" class="link color_orange">EPUB 3 Structural Semantics Vocabulary 1.1</a>
-
-<a href="http://kb.daisy.org/" class="link color_orange">Base de connaissance (en anglais)</a>
 
 <a href="https://www.w3.org/TR/dpub-aria/" class="link color_orange">DPUB-ARIA vocabulary</a>
 
