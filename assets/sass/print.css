@@ -1,0 +1,66 @@
+
+@media print {
+
+  * {
+    font-family: serif;
+    font-weight: 100;
+    color: black;
+    font-size: 12px;
+  }
+
+  body {
+      background: white;
+      font-size: 8pt;
+      max-width: auto;
+      column-count: 1;
+      margin: 0mm;
+      }
+
+.header_pages .title_pages h1,
+.header_pages .title_pages span {
+  color: black;
+  font-size: 20px;
+  margin: 0.5mm;
+}
+
+
+  h2{
+    font-size: 14pt;
+  }
+  h3{
+    font-size: 12pt;
+  }
+  img{
+    display: none;
+  }
+
+  footer{
+    display: none;
+  }
+
+  #arrow_left
+  {
+    display: none;
+}
+#arrow_right
+{
+  display: none;
+}
+  .menu {
+      display: none;
+  }
+  blockquote{font-size: 8pt;}
+  li{font-size: 12pt;}
+  section{font-size: 12pt;}
+  aside{font-size: 12pt;}
+  p{font-size: 12pt;}
+  .link{font-size: 12pt;}
+
+  aside {
+    flex: 1;
+  }
+
+    .page > section {
+      flex-direction: column;
+    }
+}
