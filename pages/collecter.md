@@ -20,11 +20,12 @@ Les informations indiquées ici sont exprimées en ONIX. Des tableaux de corresp
 
 ### Les informations nécessaires
 
-Les [exigences de la directive Européenne](/lina25/pages/loi.html#exigences-relatives-au-livre-numrique) impliquent que des informations sont disponibles sur les modes de lecture (tout le contenu disponible en format texte, mise en forme modifiable, synchronisation texte et audio), sur les possibilitées de navigation dans le fichier (TOC nav ; Page Navigation) et sur le non blocage des fonctionnalités d’accessibilité (DRM).
+Les [exigences de la directive Européenne](/lina25/pages/loi.html#exigences-relatives-au-livre-numrique) impliquent que des informations sont disponibles sur les modes de lecture (tout le contenu disponible en format texte, mise en forme modifiable, synchronisation texte et audio) ; sur les possibilitées de navigation dans le fichier (Table des matières dans le contenu, pagination de référence d’un imprimé) et sur le non blocage des fonctionnalités d’accessibilité par des mesures de protection inadéquates (DRM).
+
 
 Une façon simple d’assurer cette information consiste à s’assurer que le document est conforme à EPUB accessibility AA ([liste 196 code 03](https://ns.editeur.org/onix/en/196/03)).
 
-Si le document est conforme EPUB accessibility A ([liste 196 code 02](https://ns.editeur.org/onix/en/196/02)) il devrait aussi assurer qu’il est redistribuable (Liste 175 Code E200 : Redimensionnable).
+Si le document est conforme EPUB accessibility A ([liste 196 code 02](https://ns.editeur.org/onix/en/196/02)) il devrait aussi assurer que la mise en forme est modifiable (Liste 175 Code E200 : Redimensionnable).
 
 Si aucune des conformité n’est atteinte ou déclarée, il faut alors recueillir les informations suivantes :
 
@@ -44,6 +45,13 @@ Si le contenu des ouvrages le justifie, les informations
 -   196 18 Contenu chimique accessible
 
 devraient toujours être recueillies et transportées. Même si elles sont induites par la conformité EPUB Accessibility il est utile de les recueillir car elles ne concernent que certains ouvrages.
+
+Pour la pagination de référence au livre imprimé deux informations sont nécessaires : 
+
+* Liste 196 Code 19 Numérotation de pages équivalente au document imprimé
+* Liste 51 Code 13 Publication numérique basée sur (édition papier)
+
+
 
 Si des risques existent ils doivent être déclarés. Ces informations sont transportées par les codes suivants : 
 
@@ -73,6 +81,8 @@ Les informations relatives à la conformité et à la politique d'accessibilité
 <a href="https://ns.editeur.org/onix/fr/196" class="link color_orange">ONIX liste 196</a>
 
 <a href="https://edition-accessible.github.io/signalement/references/references.html" class="link color_orange">Tableau de correspondances schema.org et ONIX en Français</a>
+
+<a href="https://w3c.github.io/publ-a11y/drafts/a11y-crosswalk-MARC/" class="link color_orange">Tableau de correspondances schema.org, ONIX, MARC21 et UNIMARC en Anglais</a>
 
 <a href="https://w3c.github.io/publ-a11y/drafts/a11y-crosswalk-MARC/" class="link color_orange">Tableau de correspondances schema.org, ONIX, MARC21 et UNIMARC en Anglais</a>
 
