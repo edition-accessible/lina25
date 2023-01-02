@@ -850,7 +850,6 @@ img {
   gap: 50px;
 }
 .page > section > div {
-  hyphens: auto;
   flex: 2;
 }
 .page > section > div li {
@@ -948,16 +947,41 @@ img {
   font-size: 14px;
 }
 
-.contentButton {
+.title {
   display: flex;
   align-items: center;
   gap: 20px;
 }
-.contentButton > div {
+.title > div {
   gap: 10px;
 }
-.contentButton i {
+.title i {
+  width: fit-content;
   border-radius: 50%;
   padding: 7px 10px;
-  background-color: #dde0f4;
+  background-color: #bad6f3;
+  color: #ee8c3d;
+  cursor: pointer;
+}
+
+#contentButton {
+  background-color: #9099db;
+  width: 50px;
+  border-radius: 50px;
+}
+
+.hyphens {
+  hyphens: auto;
+}
+
+.alignLeft {
+  text-align: left;
+}
+
+.fa-align-justify {
+  transform: translateX(-2px);
+}
+
+.fa-align-left {
+  transform: translateX(18px);
 }/*# sourceMappingURL=main.css.map */

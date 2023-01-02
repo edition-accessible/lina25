@@ -39,32 +39,31 @@
 
 
     function justify() {
-      principes.style.hyphens = "auto";
-      content.style.textAlign = "justify";
+      buttonJustified.style.display = 'none'
+      buttonLeft.style.display = 'block';
+      principes.classList.add("hyphens");
+      content.classList.remove("alignLeft");
     };
 
     function left() {
-      principes.style.hyphens = "none";
-      content.style.textAlign = "left";
+      principes.classList.remove("hyphens");
+      content.classList.add("alignLeft");
+      buttonLeft.style.display = 'none';
+      buttonJustified.style.display = 'block';
     };
 
     let buttonJustified = document.getElementById("iconJustify");
     let buttonLeft = document.getElementById("iconAlignLeft");
-    buttonLeft.style.color = "#6975cf";
-    buttonJustified.style.color = "#ee8c3d";
 
     buttonJustified.addEventListener('click', function() {
       justify();
-      buttonLeft.style.color = "#6975cf";
-      buttonJustified.style.color = "#ee8c3d";
     });
 
     buttonLeft.addEventListener('click', function() {
       left();
-      buttonJustified.style.color = "#6975cf";
-      buttonLeft.style.color = "#ee8c3d";
     });
 
+    justify();
 
 
   </script>
