@@ -19,9 +19,11 @@ Les objets éditoriaux sont divers, chaque collection peut nécessiter une liste
 
 Les personnes aveugles ne peuvent pas voir les images. Elles lisent des livres numériques à l’aide de technologies d'assistance qui reproduisent le contenu textuel en audio ou en braille. Cela concerne aussi les personnes qui vont utiliser les fonctionnalités de lecture audio (<abbr title="text to speech">TTS</abbr>) de leur lecteur pour lire en pratiquant une autre activité comme du sport, de la cuisine ou de la conduite.
 
-Pour ces cas d’usages il est nécessaire de proposer des alternatives textuelles pour les images porteuses d’information. L’auteur d’un livre est la personne la mieux placée pour écrire ces alternatives et s’assurer qu’elles font sens et s’intègrent parfaitement dans l'œuvre.
+Pour ces cas d’usages il est nécessaire de proposer des alternatives textuelles aux images porteuses d’information. L’auteur d’un livre est la personne la mieux placée pour écrire ces alternatives et s’assurer qu’elles font sens et s’intègrent parfaitement dans l'œuvre.
 
 Pour vous aider dans les choix éditoriaux relatifs aux alternatives aux images, les membres du <abbr title="Syndicat national de l'édition">SNE</abbr> ont rédigé à l’intention des auteurs et éditeurs des documents d’aide à la décision qui proposent aussi des pistes d’organisation pour assurer que toutes les ressources ont bien étées traitées.
+
+Le guide <i>Comment décrire les images ?<i> produit par le Diagram Center et traduit par l’association Braillenet propose des exemples expliqués de descriptions, d’autres ressources d’auto formation sont disponibles en anglais sur le site du Diagram Center. 
 
 ### Données ayant servi à la construction des diagrammes et graphiques
 
@@ -70,11 +72,13 @@ Voici une liste non exhaustive des situations que vous pouvez rencontrer et auxq
 
 
 <a href="https://www.accessiblebooksconsortium.org/publishing/fr/" class ="link color_orange">
-Le Consortium pour des livres accessibles (ABC)</a> propose une [charte de l’édition accessible](https://www.accessiblebooksconsortium.org/docs/fr/charter.docx)
-ainsi qu'un guide [Édition accessible, Pratiques recommandées à l’intention des éditeurs](https://www.accessiblebooksconsortium.org/export/abc/fr/best_practice_guidelines.doc).
+Site web du Consortium pour des livres accessibles (ABC)</a> 
+
+<a href="https://www.accessiblebooksconsortium.org/docs/fr/charter.docx" class ="link color_orange">Charte de l’édition accessible</a>
+
+<a href="https://www.accessiblebooksconsortium.org/export/abc/fr/best_practice_guidelines.doc" class ="link color_orange">Édition accessible, Pratiques recommandées à l’intention des éditeurs.</a>
 
 <a href="https://inclusivepublishing.org/" class ="link color_orange">inclusive publishing (en anglais)</a> regroupe des ressources utiles.
 
-<a href="https://daisy.org" class ="link color_orange">Le consortium Daisy (en anglais)</a> propose des webinaires   visibles sur la page dédiée [Webinaires Daisy (en anglais)](https://daisy.org/webinar-series/)
-
+<a href="https://daisy.org/webinar-series/" class ="link color_orange">Les webinaires du consortium Daisy (en anglais)</a> 
 </aside>
