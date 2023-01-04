@@ -19,14 +19,13 @@
         h1,
         span {
             margin: 0%;
-            font-size: 2.5vw;
+            font-size: 48px;
             color: black;
             @include breakpoint-tablet {
-                font-size: 4vw;
                 width: 80%;
+                font-size: 30px;
             }
             @include breakpoint-mobile_small {
-                font-size: 5vw;
                 width: 100%;
             }
         }
@@ -47,18 +46,14 @@
     p {
         padding-bottom: 3%;
     }
-    p {
+    > p {
         font-weight: 200;
         font-style: italic;
         width: 75%;
-        font-size: 1.2vw;
+        font-size: 23px;
         @include breakpoint-tablet {
-            font-size: 2.5vw;
             font-weight: 400;
             width: 100%;
-        }
-        @include breakpoint-mobile {
-            font-size: 3.5vw;
         }
         #apostrophe_fin {
             transform: rotate(180deg);

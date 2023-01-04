@@ -6,6 +6,8 @@ orientation: éviter la disparition d’un grand nombre de livres numériques
 audience: services de production
 previous: ./produire.html
 next: ./collecter.html
+titleNext: Collecter
+titlePrev: Produire
 ---
 
 <div markdown="1" id="principes">
@@ -32,7 +34,7 @@ C'est un projet de 18 mois dont les conclusions seront disponibles en juin 2024.
 
 </div>
 
-<aside markdown="1">
+<section  class="ressources" markdown="1">
 
 <h2>Ressources</h2>
 
@@ -46,4 +48,4 @@ Liste non exhaustive des outils de rémediation existants :
 
 <a href="https://epub.tools/" class="link color_orange">epub.tools</a>
 
-</aside>
+</section>

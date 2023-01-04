@@ -6,6 +6,8 @@ orientation: Savoir exploiter au mieux les fonctionnalitées d'accessibilité de
 audience: lecteurs, prescripteurs, accompagnants
 previous: ./afficher.html
 next: ./loi.html
+titleNext: Ce que dit la loi
+titlePrev: Afficher
 ---
 
 <div markdown="1" id="principes">
@@ -45,7 +47,7 @@ Les liseuses sont des appareils grand public sans clavier, de basse consommation
 
 </div>
 
-<aside markdown="1">
+<section  class="ressources" markdown="1">
 
 ## Ressources
 
@@ -56,3 +58,5 @@ Les liseuses sont des appareils grand public sans clavier, de basse consommation
 <a href="https://www.edrlab.org/accessibility/epub-and-dyslexia/" class="link color_orange">Uses and potential of EPUB ebooks for dyslexic people. </a> Étude menée entre 2017 et 2019 par Luc Maumet pour EDRLab. Les rappports sont disponibles en français : [mission “EPUB et dyslexie”, 2018. EPUB, 1.7 Mo](https://www.edrlab.org/public/a11y/EDRLab-Dyslexie-2018.epub) et [EPUB et dyslexie en Europe, 2019. EPUB, 120 Ko](https://www.edrlab.org/public/a11y/EPUB-dyslexie-en-Europe-2019.epub).
 
 <a href="https://edrlab.github.io/thorium-reader-doc/fr/" class="link color_orange">Documentation complète de l’application Thorium</a>
+
+</section>

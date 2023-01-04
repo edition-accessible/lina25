@@ -6,6 +6,8 @@ orientation: assurer la qualité des fichiers produits et leur conformité avec 
 audience: services de production et prestataires techniques des éditeurs
 previous: ./concevoir.html
 next: ./traiter.html
+titleNext: Traiter
+titlePrev: Concevoir
 ---
 
 <div markdown="1" id="principes">
@@ -16,20 +18,19 @@ Un environnement de lecture ne peut être accessible que s’il s’appuie sur d
 
 ### Reproduire les information sémantiques dans le code
 
-Les technologies d'assistance comme les dispositifs de lecture s'appuient sur la richesse sémantique du balisage des contenus. Les balises génériques comme `div` et `span` ne devraient être utilisées qu'en dernier recours. Pour chaque groupe et portion de texte, il faut ainsi assigner la sémantique correspondante. Il faut privilégier le vocabulaire HTML5, mais comme ce dernier reste très générique, il est nécessaire de le préciser à l'aide des vocabulaires EPUB type et DPUB ARIA. Ces deux derniers sont complémentaires, le premier adressant les dispositifs de lecture et le second les technologies d'assistance. Vous pouvez vous référer aux document des standards <span lang="en">*EPUB 3 Structural Semantics Vocabulary 1.1*</span> et <span lang="en">*DPUB-ARIA vocabulary*</span>. En cas de doute la Base de connaissance <span lang="en">*Accessible Publishing Knowledge Base*</span> maintenue par le Consortium Daisy vous permettra de consulter des exemples et de trouver de l'information supplémentaire. 
+Les technologies d'assistance comme les dispositifs de lecture s'appuient sur la richesse sémantique du balisage des contenus. Les balises génériques comme `div` et `span` ne devraient être utilisées qu'en dernier recours. Pour chaque groupe et portion de texte, il faut ainsi assigner la sémantique correspondante. Il faut privilégier le vocabulaire HTML5, mais comme ce dernier reste très générique, il est nécessaire de le préciser à l'aide des vocabulaires EPUB type et DPUB ARIA. Ces deux derniers sont complémentaires, le premier adressant les dispositifs de lecture et le second les technologies d'assistance. Vous pouvez vous référer aux document des standards <span lang="en">_EPUB 3 Structural Semantics Vocabulary 1.1_</span> et <span lang="en">_DPUB-ARIA vocabulary_</span>. En cas de doute la Base de connaissance <span lang="en">_Accessible Publishing Knowledge Base_</span> maintenue par le Consortium Daisy vous permettra de consulter des exemples et de trouver de l'information supplémentaire.
 
-Afin de faciliter et standardiser la production de livres numériques nativement accessibles au format EPUB 3, le SNE (Syndicat national de l’Edition) a rédigé une charte technique, disponible au format PDF.  Cette charte “EPUB NAC” (pour *Nativement ACcessible*) reprend les recommandations des référentiels d’accessibilité internationaux et apporte des éclaircissements sur tout ce qui fait question dans les standards d’accessibilité applicables au format EPUB.
+Afin de faciliter et standardiser la production de livres numériques nativement accessibles au format EPUB 3, le SNE (Syndicat national de l’Edition) a rédigé une charte technique, disponible au format PDF. Cette charte “EPUB NAC” (pour _Nativement ACcessible_) reprend les recommandations des référentiels d’accessibilité internationaux et apporte des éclaircissements sur tout ce qui fait question dans les standards d’accessibilité applicables au format EPUB.
 
 ### Insérer les descriptions des ressources graphiques
 
-Dans la plupart des cas, l’auteur du livre n’aura pas décrit les images de l’ouvrage. Les services de production devront alors se référer au guide de bonnes pratiques rédigé par le SNE pour la rédaction des alternatives aux images. Le document *Mise en accessibilité des images dans les EPUBs - synthése des travaux du groupe normes et standard du SNE* apporte des explications sur les principes et techniques à appliquer. 
+Dans la plupart des cas, l’auteur du livre n’aura pas décrit les images de l’ouvrage. Les services de production devront alors se référer au guide de bonnes pratiques rédigé par le SNE pour la rédaction des alternatives aux images. Le document _Mise en accessibilité des images dans les EPUBs - synthése des travaux du groupe normes et standard du SNE_ apporte des explications sur les principes et techniques à appliquer.
 
-Le groupe de travail sur la transition vers l'EPUB du Consortium DAISY maintient un document *Experimental Accessibility Tests: Extended Descriptions* qui vous permettra de tester les possibilitées et d'étudier leur réalisation. 
-
+Le groupe de travail sur la transition vers l'EPUB du Consortium DAISY maintient un document _Experimental Accessibility Tests: Extended Descriptions_ qui vous permettra de tester les possibilitées et d'étudier leur réalisation.
 
 ### Contrôler la qualité des fichiers
 
-Une fois produits, les fichiers EPUB 3 devront être validés par la version à jour de EPUBCheck. Mais cet outil ne teste pas l’accessibilité des publications. Pour cela, il faudra faire appel à l’outil de test Ace by DAISY développé par le Consortium DAISY. Le logiciel Ace n’est pas conçu pour être utilisé de manière automatique : il ne délivre pas un jugement du type *“cet EPUB est / n’est pas accessible”* mais génère un rapport HTML mettant l'accent sur les enfreintes aux règles d’accessibilité ; il met également en évidence la structure de la publication et affiche les attributs d’accessibilité présents dans ses images. La qualité sémantique de la publication n’est pas jaugée par la mécanique de cet outil. La génération de métadonnées d’accessibilité, et en particulier l’évaluation d’un niveau de conformité WCAG, nécessite un audit du rapport Ace.
+Une fois produits, les fichiers EPUB 3 devront être validés par la version à jour de EPUBCheck. Mais cet outil ne teste pas l’accessibilité des publications. Pour cela, il faudra faire appel à l’outil de test Ace by DAISY développé par le Consortium DAISY. Le logiciel Ace n’est pas conçu pour être utilisé de manière automatique : il ne délivre pas un jugement du type _“cet EPUB est / n’est pas accessible”_ mais génère un rapport HTML mettant l'accent sur les enfreintes aux règles d’accessibilité ; il met également en évidence la structure de la publication et affiche les attributs d’accessibilité présents dans ses images. La qualité sémantique de la publication n’est pas jaugée par la mécanique de cet outil. La génération de métadonnées d’accessibilité, et en particulier l’évaluation d’un niveau de conformité WCAG, nécessite un audit du rapport Ace.
 
 Le Consortium DAISY a donc également développé un outil nommé SMART (Simple Manual Accessibility Report Tool), qui indique les contrôles manuels nécessaires pour garantir la conformité aux exigences EPUB et WCAG. SMART est le compagnon idéal de Ace, il vous guide pour établir et générer un rapport de conformité complet. Ensemble, ils fournissent la méthode la plus complète pour les tests de conformité d'accessibilité des publications EPUB.
 
@@ -53,17 +54,15 @@ Les métadonnées obligatoires sont <span lang="en">**accessMode**, **accessMode
 
 ### Le cas des EPUB Fixed Layout et des PDF
 
-La directive Européenne exige que le livre numérique utilise *une police de caractères de taille et de forme appropriées compte tenu des conditions d’utilisation prévisibles, ainsi qu’un contraste suffisant, et en ménageant un espace ajustable entre les lettres, les lignes et les paragraphes (Section III-b-v)*. 
+La directive Européenne exige que le livre numérique utilise _une police de caractères de taille et de forme appropriées compte tenu des conditions d’utilisation prévisibles, ainsi qu’un contraste suffisant, et en ménageant un espace ajustable entre les lettres, les lignes et les paragraphes (Section III-b-v)_.
 
-Cette exigence est remplie par le format EPUB redistribuable puisqu'il permet à l'utilisateur de modifier la police, la taille et les espacements. Ce n'est pas le cas des formats fixes tels que l'EPUB Fixed-Layout ou le PDF. 
+Cette exigence est remplie par le format EPUB redistribuable puisqu'il permet à l'utilisateur de modifier la police, la taille et les espacements. Ce n'est pas le cas des formats fixes tels que l'EPUB Fixed-Layout ou le PDF.
 
-Dans ce cas, il est recommandé de prévoir une version accessible de l'ouvrage au format EPUB redistribuable. Un groupe de travail du W3C dédié à la question de l'accessibilité du Fixed Layout travaille actuellement sur l'élaboration de techniques pour surmonter les difficultés inhérentes au format. 
-    
-
+Dans ce cas, il est recommandé de prévoir une version accessible de l'ouvrage au format EPUB redistribuable. Un groupe de travail du W3C dédié à la question de l'accessibilité du Fixed Layout travaille actuellement sur l'élaboration de techniques pour surmonter les difficultés inhérentes au format.
 
 </div>
 
-<aside markdown="1">
+<section  class="ressources" markdown="1">
 
 <h2>Ressources</h2>
 
@@ -107,15 +106,11 @@ Travaux en cours sur l'accessibilité des formats EPUB Fixed Layout :
 
 <a href="https://w3c.github.io/epub-specs/epub33/fxl-a11y/" class="link color_orange">EPUB Fixed Layout Accessibility</a>
 
-
 ### Alternatives aux ressources graphiques
 
 <a href="https://www.sne.fr/app/uploads/2022/10/SNE-Normes-et-stanrdards-Textes-alternatifs-image-Document-de-synthese-.._vdef2.pdf" class="link color_orange">Mise en accessibilité des images dans les EPUBs - synthése des travaux du groupe normes et standard du SNE, octobre 2022 (PDF non balisé, 2 Mo)</a>
 
 <a href="https://github.com/daisy/transitiontoepub/blob/main/experimental/build/Experimental-Accessibility-Tests-Extended-Descriptions-v1.2.12.epub?raw=true" class="link color_orange">Experimental Accessibility Tests: Extended Descriptions</a>
-
-
-
 
 ### Contrôle
 
@@ -132,4 +127,4 @@ Travaux en cours sur l'accessibilité des formats EPUB Fixed Layout :
 <span lang="en"><a href="https://w3c.github.io/publ-a11y/drafts/schema-a11y-summary/" class="link color_orange">
 Accessibility Summary Authoring Guidelines for EPUB Publications Draft Community Group Report 07 December 2022</a></span>
 
-</aside>
+</section>

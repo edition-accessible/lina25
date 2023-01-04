@@ -6,6 +6,8 @@ orientation: Permettre aux lecteurs d’exploiter les fonctionnalités d’acces
 audience: développeurs d'outils de lecture
 previous: ./diffuser.html
 next: ./lire.html
+titleNext: Lire
+titlePrev: Diffuser
 ---
 
 <div markdown="1" id="principes">
@@ -30,7 +32,7 @@ next: ./lire.html
 
 </div>
 
-<aside markdown="1" >
+<section  class="ressources" markdown="1">
 
 ## Ressources
 
@@ -50,4 +52,4 @@ next: ./lire.html
 
 <a href="https://www.w3.org/WAI/WCAG21/quickref/" class="link color_orange">How to Meet WCAG (Quick Reference)</a>
 
-</aside>
+</section>

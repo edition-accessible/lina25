@@ -3,6 +3,7 @@ layout: document
 title: "Recommandations pour l'affichage des informations d'accessibilité"
 ---
 
+<div markdown = "1" id="principes">
 Le signalement des livres numériques accessibles signifie l’information donnée au lecteur avant achat pour lui permettre d’identifier les livres numériques qui lui permettront une lecture dans les meilleures conditions possibles.
 
 <p>L'approche retenue vise à proposer un accès rapide aux informations clés en les affichant à priori, c'est à dire non masquées et clairement identifiées. 
@@ -15,13 +16,13 @@ Les informations plus détaillées sont contenues dans un element masqué et peu
 <p>
 <em>Doivent être affiché à minima les informations suivantes : </em>
 </p>
-<ul>
-<li>Format de fichier (EPUB, PDF, MP3, Audiobook, Etc.)</li>
-<li>La mesure de protection ou son absence</li>
-<li>Date de publication</li>
-<li>Nom de la maison d’édition</li>
-<li>La langue principale du contenu</li>
-</ul>
+
+-   Format de fichier (EPUB, PDF, MP3, Audiobook, Etc.
+-   La mesure de protection ou son absence
+-   ate de publication
+-   de la maison d’édition
+-   La langue principale du contenu
+
 <details>
 <summary>Pourquoi ces informations sont importantes pour l’accessibilité</summary>
 <p>
@@ -217,23 +218,20 @@ Si aucune des informations n’est fournie, afficher : <strong>Aucune informatio
 <td>ignorer</td>
 <td>Peut ne pas être affiché si la <a href="https://ns.editeur.org/onix/fr/196/02">Spécifications d’accessibilité EPUB 1.0 A (Liste 196 Code 02)</a> ou <a href="https://ns.editeur.org/onix/fr/196/03">Spécifications d’accessibilité EPUB 1.0 AA (Liste 196 Code 03)</a> est présente.</td></tr>
 
-
-
 </tbody>
 </table>
 <h4>Points d'attention</h4>
 <table  class="zebra">
     <thead>
-    <tr class="header">
-    <th>Valeur affichée</th>
-    <th>Définition</th>
-    <th>code ONIX</th>
-    <th>En cas d’absence</th>
-    <th>Importance</th>
-    </tr>
+        <tr class="header">
+            <th>Valeur affichée</th>
+            <th>Définition</th>
+            <th>code ONIX</th>
+            <th>En cas d’absence</th>
+            <th>Importance</th>
+        </tr>
     </thead>
     <tbody>
-    </tr> 
     <tr class="odd">
     <td>Attention ce livre inclut des Flashs lumineux</td>
     <td></td>
@@ -311,7 +309,6 @@ Si aucune des informations n’est fournie, afficher : <strong>Aucune informatio
 <td></td>
 </tr>
 
-
 <tr class="odd">
 <td><a href="infos-accessibilite-ed.html">Politique d’accessibilité de l’éditeur</a></td>
 <td></td>
@@ -328,7 +325,7 @@ Si aucune des informations n’est fournie, afficher : <strong>Aucune informatio
 </tr>
 </tbody>
 </table>
-</article>
+
 <article>
 <h2 id="filtres-de-recherche">Filtres de recherche</h2>
 <ul class="facet-multiselect-checkbox">
@@ -345,7 +342,6 @@ Si aucune des informations n’est fournie, afficher : <strong>Aucune informatio
 <p>Un pictogramme Homme de Vitruve avec texte alt " accessible" peut-être affecté à tout fichier déclarant <strong>Liste 196 Code 03 Spécifications d’accessibilité EPUB 1.0 AA</strong> : <img src="https://www.w3.org/2021/09/UX-Guide-metadata-1.0/principles/media/accessibility.svg" alt="Informations sur l'accessibilité" width="15"></p>
 </article>
 
-
 <article>
     <h2>Au sujet des livres imprimés</h2>
     <p>Les livres imprimés ne peuvent prétendre à une accessibilité universelle, à moins d'être livrées en différentes versions dans une même édition. Cependant certaines édition spécialisées peuvent répondre à des besoins spécifiques. </p>
@@ -358,5 +354,3 @@ Si aucune des informations n’est fournie, afficher : <strong>Aucune informatio
         <li><a href="https://ns.editeur.org/onix/fr/21/ULP">21:ULP Édition en très gros caractères</a></li>
     </ul>
     <p>Les libellés peuvent être utilisés tels que proposés par ONIX.</p>
-
-

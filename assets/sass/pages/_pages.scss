@@ -187,8 +187,11 @@ img {
             a {
                 font-weight: bold;
             }
+            span {
+                color: black;
+            }
         }
-        > aside {
+        > .ressources {
             flex: 1;
             h2,
             h3,
@@ -215,6 +218,16 @@ img {
     text-align: justify;
     padding-bottom: 2%;
     border-bottom: 1px solid $color-primary;
+    li {
+        list-style: disc;
+        margin: 10px;
+        color: black;
+        font-family: "Poppins", sans-serif;
+        font-weight: 400;
+    }
+    ul [class*="checkbox"] li {
+        list-style: none;
+    }
     @include breakpoint-tablet {
         column-count: 1;
     }

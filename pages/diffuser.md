@@ -6,12 +6,14 @@ orientation: Informer le lecteur avant achat ou emprunt.
 audience: distributeurs (DRM), libraires et bibliothèques
 previous: ./collecter.html
 next: ./afficher.html
+titleNext: Afficher
+titlePrev: Collecter
 ---
 
 <div markdown="1" id="principes">
 {%- include principes.html -%}
 
-Trouver, acheter et finalement lire une publication est une expérience très personnelle. Pour les personnes empêchées de lire le texte imprimé du fait d'un handicap, cette démarche implique de se poser des questions du type *mon lecteur d’écran fonctionnera-t-il avec ce titre ; y a-t-il des descriptions d’images qui seront énoncées ; y a-t-il des référence aux pages du livre imprimé ; l’ordre de lecture est-il logique*.
+Trouver, acheter et finalement lire une publication est une expérience très personnelle. Pour les personnes empêchées de lire le texte imprimé du fait d'un handicap, cette démarche implique de se poser des questions du type _mon lecteur d’écran fonctionnera-t-il avec ce titre ; y a-t-il des descriptions d’images qui seront énoncées ; y a-t-il des référence aux pages du livre imprimé ; l’ordre de lecture est-il logique_.
 
 Les lecteurs peuvent utiliser différents services en ligne que ce soient les sites des librairies indépendantes, des portails reliés à un dispositif de lecture ou encore des bibliothèques publiques ou spécialisées. La recherche d’un ouvrage particulier peut aussi amener le lecteur à consulter des sites internationaux ou localisés dans d’autres pays. Les mêmes informations devraient être retrouvées dans ces différents cas de figure afin de garantir une expérience utilisateur équivalente sans avoir à comprendre un nouveau mode de fonctionnement pour trouver l’information pertinente.
 
@@ -23,48 +25,46 @@ En France EDRLab a été missionné pour étudier, en collaboration avec les dif
 
 Les livres qui répondent aux exigences de la directive Européenne doivent indiquer qu'ils
 
-* permettent la lecture non visuelle (vocalisée ou transmise à un dispositif braille)
-* permettent la modification de l'affichage
-* permettent la navigation via une table des matières et la structure
+-   permettent la lecture non visuelle (vocalisée ou transmise à un dispositif braille)
+-   permettent la modification de l'affichage
+-   permettent la navigation via une table des matières et la structure
 
-Les fonctionnalités spécifiques à certains types de contenus doivent aussi être indiquées. Cela comprend : 
+Les fonctionnalités spécifiques à certains types de contenus doivent aussi être indiquées. Cela comprend :
 
-* la présence d'audio pré enregistrés synchronisés avec le texte
-* la présence d'une pagination de référence à un livre imprimé
-* la présence de formules mathématiques, chimiques ou physiques dans un format accessibles
-* la présence de descriptions détaillées pour les graphiques de données
-* la présence de flashs, sons ou simulations de mouvement qui peuvent déclencher des crises chez les personnes à risque 
+-   la présence d'audio pré enregistrés synchronisés avec le texte
+-   la présence d'une pagination de référence à un livre imprimé
+-   la présence de formules mathématiques, chimiques ou physiques dans un format accessibles
+-   la présence de descriptions détaillées pour les graphiques de données
+-   la présence de flashs, sons ou simulations de mouvement qui peuvent déclencher des crises chez les personnes à risque
 
 <blockquote>Le tableau de correspondances de la recommandation française indique comment obtenir, prioriser et labelliser ces informations. Ces travaux sont encore en cours.</blockquote>
 
 ### Les autres informations utiles
 
-Certains éditeurs font le choix de déclarer la conformité de leurs livres numériques que cette conformité soit attestée par leurs services ou par des tiers de confiance. Dans ces cas, il est important d'informer les lecteurs de cette démarche et de donner accès aux documents mis à disposition comme les rapports d'accessibilité, les liens vers les déclarations des éditeurs ou les contacts définis par ces derniers. 
+Certains éditeurs font le choix de déclarer la conformité de leurs livres numériques que cette conformité soit attestée par leurs services ou par des tiers de confiance. Dans ces cas, il est important d'informer les lecteurs de cette démarche et de donner accès aux documents mis à disposition comme les rapports d'accessibilité, les liens vers les déclarations des éditeurs ou les contacts définis par ces derniers.
 
-Certains livres particuliers ont des fonctionnalités d'accessibilité peu communes ou bien seront presque accessibles à un détail prêt. Pour cela le résumé d'accessibilité permet à l'éditeur de donner une information que les autres métadonnées ne peuvent pas transporter. 
+Certains livres particuliers ont des fonctionnalités d'accessibilité peu communes ou bien seront presque accessibles à un détail prêt. Pour cela le résumé d'accessibilité permet à l'éditeur de donner une information que les autres métadonnées ne peuvent pas transporter.
 
 <blockquote>Le tableau de correspondances de la recommandation française indique comment obtenir, prioriser et labelliser ces informations. Ces travaux sont encore en cours.</blockquote>
 
-
 ### Le choix du vocabulaire
 
-Afin que les lecteurs n'aient pas à interpréter un nouveau vocabulaire sur chaque site de vente ou de prêt en ligne, un vocabulaire type est proposé. Il est issue de plusieurs sondages et panels organisés en partenariat avec les acteurs concernés. Si vous voulez plus de renseignements sur la démarche et les résultats vous pouvez vous référer aux résultats de l'étude. 
+Afin que les lecteurs n'aient pas à interpréter un nouveau vocabulaire sur chaque site de vente ou de prêt en ligne, un vocabulaire type est proposé. Il est issue de plusieurs sondages et panels organisés en partenariat avec les acteurs concernés. Si vous voulez plus de renseignements sur la démarche et les résultats vous pouvez vous référer aux résultats de l'étude.
 
 ### Mesures techniques de protection (DRM)
 
 Lorsqu’ils choisissent de recourir à des mesures techniques de protection des livres numériques qu’ils commercialisent, les éditeurs doivent veiller à ce que celles-ci ne puissent faire obstacle aux fonctions d’accessibilité.
 
-Les techniques de marquage par filigrane ne posent aucun problème d'accessibilité. En revanche des techniques plus robustes faisant appel au chiffrement des données peuvent avoir un impact non négligeable si elles empêchent l'extraction du texte dont les technologies d'assistance ont besoin pour restituer le contenu en audio ou en braille. 
+Les techniques de marquage par filigrane ne posent aucun problème d'accessibilité. En revanche des techniques plus robustes faisant appel au chiffrement des données peuvent avoir un impact non négligeable si elles empêchent l'extraction du texte dont les technologies d'assistance ont besoin pour restituer le contenu en audio ou en braille.
 
-Les deux solutions actuellement disponibles pour le chiffrement des fichiers sont Adobe Adopt et Readium LCP. Leur usage implique une restriction des dispositifs utilisables par le lecteur. 
+Les deux solutions actuellement disponibles pour le chiffrement des fichiers sont Adobe Adopt et Readium LCP. Leur usage implique une restriction des dispositifs utilisables par le lecteur.
 
-* Adobe Adopt permet la lecture sur le logiciel Adobe Digital Edition. Cette DRM nécessite aussi la création d'un compte et son usage est soumis au Règlement Général pour la Protection des Données (RGPD). 
-* Readium LCP permet la lecture sur un grand nombre d'applications comme Aldiko Next, Thorium Reader et d'autres applications basées sur Readium SDK ; mais permet aussi la lecture sur des dispositifs matériels comme les Pocketbook e-ink readers (dont les liseuses Vivlio). Readium LCP ne collecte aucune information sur les lecteurs qui l'utilisent. 
-
+-   Adobe Adopt permet la lecture sur le logiciel Adobe Digital Edition. Cette DRM nécessite aussi la création d'un compte et son usage est soumis au Règlement Général pour la Protection des Données (RGPD).
+-   Readium LCP permet la lecture sur un grand nombre d'applications comme Aldiko Next, Thorium Reader et d'autres applications basées sur Readium SDK ; mais permet aussi la lecture sur des dispositifs matériels comme les Pocketbook e-ink readers (dont les liseuses Vivlio). Readium LCP ne collecte aucune information sur les lecteurs qui l'utilisent.
 
 </div>
 
-<aside markdown="1">
+<section  class="ressources" markdown="1">
 
 <h2>Ressources</h2>
 
@@ -82,4 +82,4 @@ Les deux solutions actuellement disponibles pour le chiffrement des fichiers son
 
 <a href="https://www.edrlab.org/readium-lcp/" class="link color_orange">Readium LCP</a>
 
-</aside>
+</section>
