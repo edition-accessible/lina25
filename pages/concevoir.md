@@ -80,5 +80,7 @@ Site web du Consortium pour des livres accessibles (ABC)</a>
 
 <a href="https://inclusivepublishing.org/" class ="link color_orange">inclusive publishing (en anglais)</a> regroupe des ressources utiles.
 
+<a href="https://www.inclusivepublishinginpractice.org/" class ="link color_orange">L'édition inclusive en pratique</a> est un site d'autoformation.
+
 <a href="https://daisy.org/webinar-series/" class ="link color_orange">Les webinaires du consortium Daisy (en anglais)</a> 
 </aside>
