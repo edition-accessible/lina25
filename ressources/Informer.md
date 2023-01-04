@@ -69,7 +69,6 @@ Si aucune des informations n’est fournie, afficher : <strong>Aucune informatio
 </tr>
 </thead>
 <tbody>
-</tr> 
 <tr class="even">
 <td>Texte et images disponibles en voix de synthèse et braille</td>
 <td><em>Le contenu nécessaire à la compréhension est entièrement restitué aux technologies d’assistance</em></td>
