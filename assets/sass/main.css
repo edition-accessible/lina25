@@ -106,11 +106,6 @@ span {
   }
 }
 @media screen and (max-width: 1300px) {
-  .nav .menu li {
-    display: block;
-  }
-}
-@media screen and (max-width: 1150px) {
   .nav .menu {
     display: none;
   }
@@ -137,7 +132,7 @@ span {
 #dropdown_button {
   display: none;
 }
-@media screen and (max-width: 1150px) {
+@media screen and (max-width: 1300px) {
   #dropdown_button {
     display: block;
   }
@@ -173,7 +168,7 @@ span {
       }
   }*/
 }
-@media screen and (max-width: 1150px) {
+@media screen and (max-width: 1300px) {
   #dropdown_button .dropdown_btn {
     display: block;
     flex-grow: 0;
@@ -652,7 +647,7 @@ img {
 #arrow_right {
   border: 1px solid white;
   border-radius: 50%;
-  padding: 20px 30px;
+  padding: 15px 25px;
   box-shadow: 6px 7px 20px 2px #8fbceb;
   position: fixed;
   transform: translateY(-50%);
@@ -858,6 +853,9 @@ img {
   color: black;
   font-family: "Poppins", sans-serif;
   font-weight: 400;
+}
+.page > section > div a {
+  font-weight: bold;
 }
 .page > section > aside {
   flex: 1;

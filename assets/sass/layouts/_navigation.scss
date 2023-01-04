@@ -41,11 +41,8 @@
                     font-size: 20px;
                 }
             }
-            @include breakpoint-laptop {
-                display: block;
-            }
         }
-        @include breakpoint-laptop_small {
+        @include breakpoint-laptop {
             display: none;
         }
     }
@@ -66,7 +63,7 @@
 }
 #dropdown_button {
     display: none;
-    @include breakpoint-laptop_small {
+    @include breakpoint-laptop {
         display: block;
     }
     .dropdown_btn {
@@ -74,7 +71,7 @@
         text-align: end;
         background-color: transparent;
         border: 0;
-        @include breakpoint-laptop_small {
+        @include breakpoint-laptop {
             display: block;
             flex-grow: 0;
         }
