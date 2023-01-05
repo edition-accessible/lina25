@@ -70,7 +70,7 @@ Les deux solutions actuellement disponibles pour le chiffrement des fichiers son
 
 ### Informer sur l’accessibilité des livres numériques
 
-<a href="https://www.w3.org/2021/09/UX-Guide-metadata-1.0/principles/" class="link color_cyan">User Experience Guide for Displaying Accessibility Metadata 1.0 (en cours de réécriture)</a>
+<a href="https://www.w3.org/2021/09/UX-Guide-metadata-1.0/principles/" class="link color_orange">User Experience Guide for Displaying Accessibility Metadata 1.0 (en cours de réécriture)</a>
 
 <a href="https://edition-accessible.github.io/lina25/ressources/Informer" class="link color_orange">Page de recommandations françaises</a>
 
