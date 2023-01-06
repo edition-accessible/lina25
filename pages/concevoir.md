@@ -97,7 +97,6 @@ Site web du Consortium pour des livres accessibles (ABC)</a>
 
 <a href="https://daisy.org/webinar-series/" class ="link color_orange">Les webinaires du consortium Daisy (en anglais)</a>
 
-</section>
 <a href="https://daisy.org/webinar-series/" class ="link color_orange">Les webinaires du consortium Daisy (en anglais)</a>
 
-</aside>
+</section>
