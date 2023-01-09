@@ -5,13 +5,13 @@
 }
 
 @mixin breakpoint-laptop {
-    @media screen and (max-width: 1300px) {
+    @media screen and (max-width: 1500px) {
         @content;
     }
 }
 
 @mixin breakpoint-laptop_small {
-    @media screen and (max-width: 1150px) {
+    @media screen and (max-width: 1200px) {
         @content;
     }
 }

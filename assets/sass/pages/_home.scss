@@ -16,23 +16,38 @@
             width: 90%;
             background-color: $color_bg-main;
         }
-        h1,
-        span {
+        h1 {
             margin: 0%;
-            font-size: 48px;
+            font-size: 35px;
             color: black;
-            @include breakpoint-tablet {
-                width: 80%;
-                font-size: 30px;
+            @include breakpoint-laptop_small {
+                width: 100%;
+                font-size: 24px;
             }
             @include breakpoint-mobile_small {
                 width: 100%;
             }
+            @include breakpoint-XXL {
+                font-size: 50px;
+            }
         }
         span {
             font-weight: 400;
+            margin: 0%;
+            font-size: 30px;
+            color: black;
+            @include breakpoint-laptop_small {
+                width: 100%;
+                font-size: 18px;
+            }
+            @include breakpoint-laptop {
+                font-size: 16px;
+            }
             @include breakpoint-mobile {
                 padding-bottom: 5%;
+            }
+            @include breakpoint-XXL {
+                font-size: 40px;
             }
         }
         img {
@@ -50,10 +65,16 @@
         font-weight: 200;
         font-style: italic;
         width: 75%;
-        font-size: 23px;
-        @include breakpoint-tablet {
-            font-weight: 400;
-            width: 100%;
+        font-size: 20px;
+        @include breakpoint-laptop {
+            font-size: 16px;
+            width: 80%;
+        }
+        @include breakpoint-laptop_small {
+            font-size: 14px;
+        }
+        @include breakpoint-XXL {
+            font-size: 24px;
         }
         #apostrophe_fin {
             transform: rotate(180deg);

@@ -78,7 +78,7 @@ span {
   border-bottom: 1px solid #5c64b4;
   z-index: 5;
 }
-@media screen and (max-width: 1300px) {
+@media screen and (max-width: 1500px) {
   .nav {
     padding-right: 3%;
   }
@@ -105,7 +105,7 @@ span {
     font-size: 20px;
   }
 }
-@media screen and (max-width: 1300px) {
+@media screen and (max-width: 1500px) {
   .nav .menu {
     display: none;
   }
@@ -132,7 +132,7 @@ span {
 #dropdown_button {
   display: none;
 }
-@media screen and (max-width: 1300px) {
+@media screen and (max-width: 1500px) {
   #dropdown_button {
     display: block;
   }
@@ -168,7 +168,7 @@ span {
       }
   }*/
 }
-@media screen and (max-width: 1300px) {
+@media screen and (max-width: 1500px) {
   #dropdown_button .dropdown_btn {
     display: block;
     flex-grow: 0;
@@ -293,7 +293,7 @@ footer ul {
   gap: 50px;
   padding: 2%;
 }
-@media screen and (max-width: 1300px) {
+@media screen and (max-width: 1500px) {
   footer ul {
     gap: 20px;
   }
@@ -384,31 +384,52 @@ footer ul a:hover span {
     background-color: #fdf4ed;
   }
 }
-.intro div h1,
-.intro div span {
+.intro div h1 {
   margin: 0%;
-  font-size: 48px;
+  font-size: 35px;
   color: black;
 }
-@media screen and (max-width: 992px) {
-  .intro div h1,
-.intro div span {
-    width: 80%;
-    font-size: 30px;
+@media screen and (max-width: 1200px) {
+  .intro div h1 {
+    width: 100%;
+    font-size: 24px;
   }
 }
 @media screen and (max-width: 500px) {
-  .intro div h1,
-.intro div span {
+  .intro div h1 {
     width: 100%;
+  }
+}
+@media screen and (min-width: 2000px) {
+  .intro div h1 {
+    font-size: 50px;
   }
 }
 .intro div span {
   font-weight: 400;
+  margin: 0%;
+  font-size: 30px;
+  color: black;
+}
+@media screen and (max-width: 1200px) {
+  .intro div span {
+    width: 100%;
+    font-size: 18px;
+  }
+}
+@media screen and (max-width: 1500px) {
+  .intro div span {
+    font-size: 16px;
+  }
 }
 @media screen and (max-width: 576px) {
   .intro div span {
     padding-bottom: 5%;
+  }
+}
+@media screen and (min-width: 2000px) {
+  .intro div span {
+    font-size: 40px;
   }
 }
 .intro div img {
@@ -427,12 +448,22 @@ footer ul a:hover span {
   font-weight: 200;
   font-style: italic;
   width: 75%;
-  font-size: 23px;
+  font-size: 20px;
 }
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 1500px) {
   .intro .page__lead {
-    font-weight: 400;
-    width: 100%;
+    font-size: 16px;
+    width: 80%;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .intro .page__lead {
+    font-size: 14px;
+  }
+}
+@media screen and (min-width: 2000px) {
+  .intro .page__lead {
+    font-size: 24px;
   }
 }
 .intro .page__lead #apostrophe_fin {
@@ -500,7 +531,7 @@ footer ul a:hover span {
   gap: 27px;
   padding-bottom: 2%;
 }
-@media screen and (max-width: 1150px) {
+@media screen and (max-width: 1200px) {
   .aspects {
     grid-template-columns: 30% 30% 30%;
   }
