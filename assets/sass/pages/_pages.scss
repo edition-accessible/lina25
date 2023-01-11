@@ -175,6 +175,10 @@ img {
     > section {
         display: flex;
         gap: 50px;
+        h2,
+        h3 {
+            text-align: left;
+        }
         > div {
             flex: 2;
             li {
@@ -307,6 +311,7 @@ img {
 
 .hyphens {
     hyphens: auto;
+    hyphenate-limit-chars: 6 3 3;
 }
 
 .alignLeft {

@@ -868,6 +868,10 @@ img {
   display: flex;
   gap: 50px;
 }
+.page > section h2,
+.page > section h3 {
+  text-align: left;
+}
 .page > section > div {
   flex: 2;
 }
@@ -1007,6 +1011,7 @@ img {
 
 .hyphens {
   hyphens: auto;
+  hyphenate-limit-chars: 6 3 3;
 }
 
 .alignLeft {
