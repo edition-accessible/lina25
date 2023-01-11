@@ -7,7 +7,7 @@ audience: auteurs et éditeurs.
 previous: ../index.html
 next: ./produire.html
 titleNext: Produire
-titlePrev: Index
+titlePrev: Accueil
 ---
 
 <div markdown="1" id="principes">

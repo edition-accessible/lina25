@@ -1,6 +1,8 @@
 ---
 layout: document
 title: "DIRECTIVE (UE) 2019/882 DU PARLEMENT EUROPÉEN ET DU CONSEIL"
+previous: ./loi.html
+titlePrev: Ce que dit la loi
 ---
 
 <p class="doc-ti">du 17 avril 2019 relative aux exigences en matière d’accessibilité applicables aux produits et services. Journal officiel de l'Union européenne 7 juin 2019 </p>
@@ -808,7 +810,6 @@ Exigences en matière d’accessibilité</h3>
 <p>Chaque État membre veille à ce que le public soit informé de l’existence, des responsabilités, de l’identité, du travail et des décisions des autorités visées au premier alinéa. Ces autorités mettent ces informations à disposition sur demande dans des formats appropriés.</p>
 </article>
 
-
 </section>
 <section id="d1e2824-70-1" class="ti-section-1">
 <h2 id="chX">Chapitre X <span class="bold">
@@ -973,7 +974,6 @@ Exigences en matière d’accessibilité</h3>
 </section>
 </details>
 </section>
-
 
 <hr class="note"/>
 <aside>
@@ -1141,61 +1141,60 @@ Exigences en matière d’accessibilité</h3>
 
 <h6>1. Exigences relatives à la fourniture d’informations</h6>
 
-* a) informations sur l’utilisation du produit, figurant sur le produit lui-même (étiquetage, instructions et avertissement). Ces informations sont:
-  * i) disponibles au moyen de plusieurs canaux sensoriels;
-  * ii) présentées de façon compréhensible;
-  * iii) présentées aux utilisateurs de manière à ce qu’ils les perçoivent;
-  * iv) présentées en utilisant une police de caractères de taille et de forme appropriées compte tenu des conditions d’utilisation prévisibles, ainsi qu’un contraste suffisant, et en ménageant un espace ajustable entre les lettres, les lignes et les paragraphes;
-* b) instructions concernant l’utilisation d’un produit lorsqu’elles ne sont pas fournies sur le produit lui-même, mais sont disponibles lors de l’utilisation du produit ou par d’autres moyens comme un site internet, notamment les fonctions d’accessibilité du produit, leur activation et leur interopérabilité avec des solutions d’assistance. Ces instructions sont mises à la disposition du public lorsque le produit est mis sur le marché et:
-  * i)sont disponibles au moyen de plusieurs canaux sensoriels;
-  * ii)sont présentées de façon compréhensible;
-  * iii)sont présentées aux utilisateurs de manière à ce qu’ils les perçoivent;
-  * iv)sont présentées en utilisant une police de caractères de taille et de forme appropriées compte tenu des conditions d’utilisation prévisibles, ainsi qu’un contraste suffisant, et en ménageant un espace ajustable entre les lettres, les lignes et les paragraphes;
-  * v) sont disponibles, en ce qui concerne leur contenu, dans des formats texte permettant de générer d’autres formats auxiliaires pouvant être présentés de différentes manières et par l’intermédiaire de plusieurs canaux sensoriels;
-  * vi)sont accompagnées d’une présentation de substitution de tout contenu non textuel;
-  * vii)comprennent une description de l’interface utilisateur du produit (manipulation, commande et retour d’informations, entrée-sortie) conformément au point 2; la description indique, pour chacun des éléments énumérés au point 2, si le produit présente ces caractéristiques;
-  * viii)comprennent une description des fonctionnalités du produit. Des fonctions adaptées aux besoins des personnes handicapées sont proposées conformément au point 2; la description indique, pour chacun des éléments énumérés au point 2, si le produit présente ces caractéristiques;
-  * ix) comprennent une description de l’interfaçage logiciel et matériel du produit avec des dispositifs d’assistance; la description inclut une liste des dispositifs d’assistance qui ont été testés avec le produit.
- 
+-   a) informations sur l’utilisation du produit, figurant sur le produit lui-même (étiquetage, instructions et avertissement). Ces informations sont:
+    -   i) disponibles au moyen de plusieurs canaux sensoriels;
+    -   ii) présentées de façon compréhensible;
+    -   iii) présentées aux utilisateurs de manière à ce qu’ils les perçoivent;
+    -   iv) présentées en utilisant une police de caractères de taille et de forme appropriées compte tenu des conditions d’utilisation prévisibles, ainsi qu’un contraste suffisant, et en ménageant un espace ajustable entre les lettres, les lignes et les paragraphes;
+-   b) instructions concernant l’utilisation d’un produit lorsqu’elles ne sont pas fournies sur le produit lui-même, mais sont disponibles lors de l’utilisation du produit ou par d’autres moyens comme un site internet, notamment les fonctions d’accessibilité du produit, leur activation et leur interopérabilité avec des solutions d’assistance. Ces instructions sont mises à la disposition du public lorsque le produit est mis sur le marché et:
+    -   i)sont disponibles au moyen de plusieurs canaux sensoriels;
+    -   ii)sont présentées de façon compréhensible;
+    -   iii)sont présentées aux utilisateurs de manière à ce qu’ils les perçoivent;
+    -   iv)sont présentées en utilisant une police de caractères de taille et de forme appropriées compte tenu des conditions d’utilisation prévisibles, ainsi qu’un contraste suffisant, et en ménageant un espace ajustable entre les lettres, les lignes et les paragraphes;
+    -   v) sont disponibles, en ce qui concerne leur contenu, dans des formats texte permettant de générer d’autres formats auxiliaires pouvant être présentés de différentes manières et par l’intermédiaire de plusieurs canaux sensoriels;
+    -   vi)sont accompagnées d’une présentation de substitution de tout contenu non textuel;
+    -   vii)comprennent une description de l’interface utilisateur du produit (manipulation, commande et retour d’informations, entrée-sortie) conformément au point 2; la description indique, pour chacun des éléments énumérés au point 2, si le produit présente ces caractéristiques;
+    -   viii)comprennent une description des fonctionnalités du produit. Des fonctions adaptées aux besoins des personnes handicapées sont proposées conformément au point 2; la description indique, pour chacun des éléments énumérés au point 2, si le produit présente ces caractéristiques;
+    -   ix) comprennent une description de l’interfaçage logiciel et matériel du produit avec des dispositifs d’assistance; la description inclut une liste des dispositifs d’assistance qui ont été testés avec le produit.
+
 <h6>2. Conception de l’interface utilisateur et des fonctionnalités</h6>
 
-  Le produit, y compris son interface utilisateur, comporte des caractéristiques, des éléments et des fonctions permettant aux personnes handicapées d’accéder au produit, de le percevoir, de l’utiliser, de le comprendre et de le commander, en veillant aux aspects suivants:
+Le produit, y compris son interface utilisateur, comporte des caractéristiques, des éléments et des fonctions permettant aux personnes handicapées d’accéder au produit, de le percevoir, de l’utiliser, de le comprendre et de le commander, en veillant aux aspects suivants:
 
- * a) lorsque le produit permet la communication, y compris la communication interpersonnelle, l’utilisation, la fourniture d’informations, la commande et l’orientation, ces fonctions sont disponibles au moyen de plusieurs canaux sensoriels, notamment en proposant des solutions de substitution à la vision, à l’audition, à la parole et au toucher;
- * b) lorsque le produit utilise la parole, des solutions de substitution à la parole et à l’intervention vocale sont proposées pour la communication, l’utilisation, la commande et l’orientation;
- * c) lorsque le produit utilise des éléments visuels, des fonctions flexibles d’agrandissement, de réglage de la luminosité et de contraste sont proposées pour la communication, la fourniture d’informations et l’utilisation et il est veillé à l’interopérabilité avec des programmes et des dispositifs d’assistance pour explorer l’interface;
- * d) lorsque le produit utilise des couleurs pour transmettre des informations, indiquer une action, demander une réponse ou signaler des éléments, une solution de substitution à la couleur est proposée;
- * e) lorsque le produit utilise des signaux auditifs pour transmettre des informations, indiquer une action, demander une réponse ou signaler des éléments, une solution de substitution aux signaux auditifs est proposée;
- * f) lorsque le produit utilise des éléments visuels, des fonctions flexibles sont proposées pour améliorer la clarté visuelle;
- * g) lorsque le produit utilise des sons, une fonction de réglage du volume et de la vitesse est proposée, ainsi que des caractéristiques audio avancées, notamment de réduction des interférences provenant de produits proches et de clarté auditive;
- * h) lorsque le produit nécessite une utilisation et une commande manuelles, une commande séquentielle et des possibilités de commande autres que fondées sur la motricité fine sont proposées, en évitant que des commandes simultanées soient nécessaires pour la manipulation, et des éléments perceptibles au toucher sont disponibles;
- * i) le produit est conçu pour éviter les modes de fonctionnement exigeant une forte amplitude de mouvements et une grande force;
- * j) le produit est conçu pour éviter le déclenchement de réactions photosensibles;
- * k) le produit préserve la vie privée de l’utilisateur lors de son utilisation des caractéristiques d’accessibilité;
- * l) le produit offre une solution de substitution à l’identification et à la commande biométriques;
- * m) le produit garantit la cohérence des fonctionnalités et prévoit un laps de temps suffisant et flexible pour l’interaction;
- * n) le produit prévoit un interfaçage logiciel et matériel avec les technologies d’assistance;
- * o) le produit satisfait aux exigences sectorielles suivantes:
-  * i) les terminaux en libre-service:
-   * — intègrent une technologie de synthèse vocale de texte,
-   * — permettent l’utilisation d’un casque personnel,
-   * — lorsque le temps de réponse est limité, transmettent à l’utilisateur un signal par l’intermédiaire de plusieurs canaux sensoriels,
-   * — donnent la possibilité de prolonger le temps de réponse,
-   * — lorsque des touches et boutons de commande sont disponibles, présentent un contraste suffisant et des touches et boutons de commande perceptibles au toucher,
-   * — n’exigent pas, pour qu’un utilisateur puisse s’en servir, qu’une caractéristique d’accessibilité soit activée,
-   * — lorsque le produit utilise des signaux audio ou auditifs, il est compatible avec des dispositifs et technologies d’assistance disponibles au niveau de l’Union, y compris des technologies auditives, telles que des appareils auditifs, boucles auditives, implants cochléaires et dispositifs d’aide à l’audition;
-  * ii) les liseuses numériques intègrent une technologie de synthèse vocale de texte;
-  * iii) les équipements terminaux grand public avec des capacités informatiques interactives utilisés pour la fourniture de services de communications électroniques:
-   * — permettent, lorsqu’ils ont des capacités textuelles en complément des capacités vocales, le traitement de texte en temps réel, et supportent un son haute fidélité,
-   * — permettent, lorsqu’ils ont des capacités vidéo en complément du texte et de la voix ou en association avec ces deux canaux, l’utilisation de la conversation totale, y compris la synchronisation vocale, le texte en temps réel et la vidéo avec une résolution permettant une communication en langue des signes,
-   * — assurent une connexion sans fil efficace aux technologies auditives,
-   * — évitent les interférences avec les dispositifs d’assistance;
-  * iv) les équipements terminaux grand public avec des capacités informatiques interactives utilisés pour accéder à des services de médias audiovisuels mettent à disposition des personnes handicapées les éléments en matière d’accessibilité fournis par le prestataire de services de médias audiovisuels en ce qui concerne l’accès, la sélection, la commande et la personnalisation par l’utilisateur ainsi que la transmission aux dispositifs d’assistance.
+-   a) lorsque le produit permet la communication, y compris la communication interpersonnelle, l’utilisation, la fourniture d’informations, la commande et l’orientation, ces fonctions sont disponibles au moyen de plusieurs canaux sensoriels, notamment en proposant des solutions de substitution à la vision, à l’audition, à la parole et au toucher;
+-   b) lorsque le produit utilise la parole, des solutions de substitution à la parole et à l’intervention vocale sont proposées pour la communication, l’utilisation, la commande et l’orientation;
+-   c) lorsque le produit utilise des éléments visuels, des fonctions flexibles d’agrandissement, de réglage de la luminosité et de contraste sont proposées pour la communication, la fourniture d’informations et l’utilisation et il est veillé à l’interopérabilité avec des programmes et des dispositifs d’assistance pour explorer l’interface;
+-   d) lorsque le produit utilise des couleurs pour transmettre des informations, indiquer une action, demander une réponse ou signaler des éléments, une solution de substitution à la couleur est proposée;
+-   e) lorsque le produit utilise des signaux auditifs pour transmettre des informations, indiquer une action, demander une réponse ou signaler des éléments, une solution de substitution aux signaux auditifs est proposée;
+-   f) lorsque le produit utilise des éléments visuels, des fonctions flexibles sont proposées pour améliorer la clarté visuelle;
+-   g) lorsque le produit utilise des sons, une fonction de réglage du volume et de la vitesse est proposée, ainsi que des caractéristiques audio avancées, notamment de réduction des interférences provenant de produits proches et de clarté auditive;
+-   h) lorsque le produit nécessite une utilisation et une commande manuelles, une commande séquentielle et des possibilités de commande autres que fondées sur la motricité fine sont proposées, en évitant que des commandes simultanées soient nécessaires pour la manipulation, et des éléments perceptibles au toucher sont disponibles;
+-   i) le produit est conçu pour éviter les modes de fonctionnement exigeant une forte amplitude de mouvements et une grande force;
+-   j) le produit est conçu pour éviter le déclenchement de réactions photosensibles;
+-   k) le produit préserve la vie privée de l’utilisateur lors de son utilisation des caractéristiques d’accessibilité;
+-   l) le produit offre une solution de substitution à l’identification et à la commande biométriques;
+-   m) le produit garantit la cohérence des fonctionnalités et prévoit un laps de temps suffisant et flexible pour l’interaction;
+-   n) le produit prévoit un interfaçage logiciel et matériel avec les technologies d’assistance;
+-   o) le produit satisfait aux exigences sectorielles suivantes:
+-   i) les terminaux en libre-service:
+-   — intègrent une technologie de synthèse vocale de texte,
+-   — permettent l’utilisation d’un casque personnel,
+-   — lorsque le temps de réponse est limité, transmettent à l’utilisateur un signal par l’intermédiaire de plusieurs canaux sensoriels,
+-   — donnent la possibilité de prolonger le temps de réponse,
+-   — lorsque des touches et boutons de commande sont disponibles, présentent un contraste suffisant et des touches et boutons de commande perceptibles au toucher,
+-   — n’exigent pas, pour qu’un utilisateur puisse s’en servir, qu’une caractéristique d’accessibilité soit activée,
+-   — lorsque le produit utilise des signaux audio ou auditifs, il est compatible avec des dispositifs et technologies d’assistance disponibles au niveau de l’Union, y compris des technologies auditives, telles que des appareils auditifs, boucles auditives, implants cochléaires et dispositifs d’aide à l’audition;
+-   ii) les liseuses numériques intègrent une technologie de synthèse vocale de texte;
+-   iii) les équipements terminaux grand public avec des capacités informatiques interactives utilisés pour la fourniture de services de communications électroniques:
+-   — permettent, lorsqu’ils ont des capacités textuelles en complément des capacités vocales, le traitement de texte en temps réel, et supportent un son haute fidélité,
+-   — permettent, lorsqu’ils ont des capacités vidéo en complément du texte et de la voix ou en association avec ces deux canaux, l’utilisation de la conversation totale, y compris la synchronisation vocale, le texte en temps réel et la vidéo avec une résolution permettant une communication en langue des signes,
+-   — assurent une connexion sans fil efficace aux technologies auditives,
+-   — évitent les interférences avec les dispositifs d’assistance;
+-   iv) les équipements terminaux grand public avec des capacités informatiques interactives utilisés pour accéder à des services de médias audiovisuels mettent à disposition des personnes handicapées les éléments en matière d’accessibilité fournis par le prestataire de services de médias audiovisuels en ce qui concerne l’accès, la sélection, la commande et la personnalisation par l’utilisateur ainsi que la transmission aux dispositifs d’assistance.
 
 <h6> 3. Services d’assistance:</h6>
 
 Le cas échéant, les services d’assistance (services d’aide, centres d’appel, assistance technique, services de relais et services de formation) fournissent des informations sur l’accessibilité du produit et sur sa compatibilité avec les technologies d’assistance, via des modes de communication accessibles.
-
 
 <h5 class="expanded">Section II</h5>
 
@@ -1203,15 +1202,14 @@ Exigences en matière d’accessibilité liées aux produits visés à l’artic
 
 Outre les exigences de la section I, afin de garantir une utilisation prévisible optimale par les personnes handicapées, les emballages des produits relevant de la présente section et les instructions doivent être rendus accessibles. Cela signifie que:
 
-* a. l’emballage du produit, y compris les informations contenues dans celui-ci (par exemple concernant l’ouverture, la fermeture, l’utilisation, l’élimination), notamment, le cas échéant, les informations sur les caractéristiques du produit en matière d’accessibilité, est rendu accessible; et, dans la mesure du possible, ces informations accessibles sont mentionnées sur l’emballage;
-* b. les instructions concernant l’installation, l’entretien, le stockage et l’élimination du produit qui ne sont pas fournies sur le produit lui-même, mais sont disponibles par d’autres moyens comme un site internet, sont mises à la disposition du public lorsque le produit est mis sur le marché et sont conformes aux exigences suivantes:
- * i. elles sont disponibles au moyen de plusieurs canaux sensoriels;
- * ii. elles sont présentées de façon compréhensible;
- * iii. elles sont présentées aux utilisateurs de manière à ce qu’ils les perçoivent;
- * iv. elles sont présentées en utilisant une police de caractères de taille et de forme appropriées compte tenu des conditions d’utilisation prévisibles, ainsi qu’un contraste suffisant, et ménagent un espace ajustable entre les lettres, les lignes et les paragraphes;
- * v. leur contenu est disponible dans des formats texte permettant de générer d’autres formats auxiliaires pouvant être présentés de différentes manières et par l’intermédiaire de plusieurs canaux sensoriels; et
- * vi. elles sont accompagnées d’une présentation de substitution du contenu lorsqu’elles contiennent du contenu non textuel.
-
+-   a. l’emballage du produit, y compris les informations contenues dans celui-ci (par exemple concernant l’ouverture, la fermeture, l’utilisation, l’élimination), notamment, le cas échéant, les informations sur les caractéristiques du produit en matière d’accessibilité, est rendu accessible; et, dans la mesure du possible, ces informations accessibles sont mentionnées sur l’emballage;
+-   b. les instructions concernant l’installation, l’entretien, le stockage et l’élimination du produit qui ne sont pas fournies sur le produit lui-même, mais sont disponibles par d’autres moyens comme un site internet, sont mises à la disposition du public lorsque le produit est mis sur le marché et sont conformes aux exigences suivantes:
+-   i. elles sont disponibles au moyen de plusieurs canaux sensoriels;
+-   ii. elles sont présentées de façon compréhensible;
+-   iii. elles sont présentées aux utilisateurs de manière à ce qu’ils les perçoivent;
+-   iv. elles sont présentées en utilisant une police de caractères de taille et de forme appropriées compte tenu des conditions d’utilisation prévisibles, ainsi qu’un contraste suffisant, et ménagent un espace ajustable entre les lettres, les lignes et les paragraphes;
+-   v. leur contenu est disponible dans des formats texte permettant de générer d’autres formats auxiliaires pouvant être présentés de différentes manières et par l’intermédiaire de plusieurs canaux sensoriels; et
+-   vi. elles sont accompagnées d’une présentation de substitution du contenu lorsqu’elles contiennent du contenu non textuel.
 
 <h5 class="expanded">Section III</h5>
 
@@ -1219,49 +1217,47 @@ Exigences générales en matière d’accessibilité liées à tous les services
 
 Afin de garantir une utilisation prévisible optimale par les personnes handicapées, les services proposés doivent être conformes aux exigences suivantes:
 
-* a. veiller à ce que les produits utilisés dans la fourniture du service soient accessibles, conformément à la section I et, le cas échéant, à la section II;
-* b. fournir des informations sur le fonctionnement du service et, lorsque des produits sont utilisés dans la fourniture du service, sur son lien avec ces produits, ainsi que des informations sur leurs caractéristiques en matière d’accessibilité et sur leur interopérabilité avec des dispositifs et fonctionnalités d’assistance:
-  * i. en mettant à disposition les informations au moyen de plusieurs canaux sensoriels;
-  * ii. en présentant les informations de façon compréhensible;
-  * iii. en présentant les informations aux utilisateurs de manière à ce qu’ils les perçoivent;
-  * iv. en mettant à disposition le contenu informatif dans des formats texte permettant de générer d’autres formats auxiliaires pouvant être présentés de différentes manières par les utilisateurs et par l’intermédiaire de plusieurs canaux sensoriels;
-  * v. en utilisant une police de caractères de taille et de forme appropriées compte tenu des conditions d’utilisation prévisibles, ainsi qu’un contraste suffisant, et en ménageant un espace ajustable entre les lettres, les lignes et les paragraphes;
-  * vi. en accompagnant tout contenu non textuel d’une présentation de substitution dudit contenu; et
-  * vii. en fournissant les informations électroniques nécessaires à la fourniture du service d’une manière cohérente et adéquate en les rendant perceptibles, utilisables, compréhensibles et robustes;
-* c. rendre les sites internet, y compris les applications en ligne connexes, et les services intégrés sur appareils mobiles, y compris les applications mobiles, accessibles d’une manière cohérente et appropriée en les rendant perceptibles, utilisables, compréhensibles et robustes;
-* d. le cas échéant, veiller à ce que les services d’assistance (services d’aide, centres d’appel, assistance technique, services de relais et services de formation) fournissent des informations sur l’accessibilité du service et sur sa compatibilité avec les technologies d’assistance, via des modes de communication accessibles.
-
+-   a. veiller à ce que les produits utilisés dans la fourniture du service soient accessibles, conformément à la section I et, le cas échéant, à la section II;
+-   b. fournir des informations sur le fonctionnement du service et, lorsque des produits sont utilisés dans la fourniture du service, sur son lien avec ces produits, ainsi que des informations sur leurs caractéristiques en matière d’accessibilité et sur leur interopérabilité avec des dispositifs et fonctionnalités d’assistance:
+    -   i. en mettant à disposition les informations au moyen de plusieurs canaux sensoriels;
+    -   ii. en présentant les informations de façon compréhensible;
+    -   iii. en présentant les informations aux utilisateurs de manière à ce qu’ils les perçoivent;
+    -   iv. en mettant à disposition le contenu informatif dans des formats texte permettant de générer d’autres formats auxiliaires pouvant être présentés de différentes manières par les utilisateurs et par l’intermédiaire de plusieurs canaux sensoriels;
+    -   v. en utilisant une police de caractères de taille et de forme appropriées compte tenu des conditions d’utilisation prévisibles, ainsi qu’un contraste suffisant, et en ménageant un espace ajustable entre les lettres, les lignes et les paragraphes;
+    -   vi. en accompagnant tout contenu non textuel d’une présentation de substitution dudit contenu; et
+    -   vii. en fournissant les informations électroniques nécessaires à la fourniture du service d’une manière cohérente et adéquate en les rendant perceptibles, utilisables, compréhensibles et robustes;
+-   c. rendre les sites internet, y compris les applications en ligne connexes, et les services intégrés sur appareils mobiles, y compris les applications mobiles, accessibles d’une manière cohérente et appropriée en les rendant perceptibles, utilisables, compréhensibles et robustes;
+-   d. le cas échéant, veiller à ce que les services d’assistance (services d’aide, centres d’appel, assistance technique, services de relais et services de formation) fournissent des informations sur l’accessibilité du service et sur sa compatibilité avec les technologies d’assistance, via des modes de communication accessibles.
 
 <h5 class="expanded">Section IV. Exigences supplémentaires en matière d’accessibilité liées à des services spécifiques</h5>
 
 Afin de garantir une utilisation prévisible optimale par les personnes handicapées, les services proposés doivent inclure des fonctions, des pratiques, des stratégies et des procédures ainsi que des modifications du fonctionnement du service visant à répondre aux besoins des personnes handicapées et à garantir l’interopérabilité avec les technologies d’assistance, selon les modalités suivantes:
 
-* a. pour les services de communications électroniques, y compris les communications d’urgence visées à l’article 109, paragraphe 2, de la directive (UE) 2018/1972:
-  * i. fournir du texte en temps réel en plus de la communication vocale; 
-  * ii. fournir la conversation totale lorsque de la vidéo est proposée en plus de la communication vocale;
-  * iii. veiller à ce que les communications d’urgence utilisant la voix et du texte (y compris du texte en temps réel) soient synchronisées et, lorsque de la vidéo est proposée, qu’elles soient également synchronisées en mode conversation totale et transmises par les prestataires de services de communications électroniques au PSAP le plus approprié;
-* b. pour les services fournissant un accès à des services de médias audiovisuels:
-  *i. fournir des guides électroniques de programme perceptibles, utilisables, compréhensibles et robustes et fournir des informations sur la disponibilité des caractéristiques d’accessibilité;
-  * ii. veiller à ce que les éléments d’accessibilité (services d’accès) des services de médias audiovisuels, tels que le sous-titrage pour les personnes sourdes ou malentendantes, l’audiodescription, le sous-titrage audio et l’interprétation en langue des signes, soient entièrement transmis avec une qualité appropriée à un affichage net et synchronisés avec le son et la vidéo, tout en permettant à l’utilisateur de régler leur affichage et leur utilisation;
-* c. pour les services de transport aérien, ferroviaire, par voie de navigation intérieure et par autobus de voyageurs et de passagers, à l’exception des services de transport urbains et suburbains et des services de transport régionaux:
-  i. veiller à fournir des informations sur l’accessibilité des véhicules, des infrastructures avoisinantes et de l’environnement bâti ainsi que sur l’assistance pour les personnes handicapées;
-  * ii. veiller à fournir des informations sur les systèmes de billetterie intelligents (réservation électronique, réservation de billets, etc.) ou la communication d’informations en temps réel sur le voyage (horaires, informations relatives aux perturbations du trafic, services de liaison, connexion avec d’autres modes de transport, etc.) et d’informations supplémentaires concernant le service (par exemple sur le personnel présent en gare, les ascenseurs hors service ou les services momentanément indisponibles);
-* d. pour les services de transport urbains et suburbains et les services de transport régionaux: veiller à ce que les terminaux en libre-service utilisés pour la fourniture du service soient accessibles, conformément à la section I;
-* e. pour les services bancaires aux consommateurs:
-  i. fournir des méthodes d’identification, des signatures électroniques et des services de sécurité et de paiement perceptibles, utilisables, compréhensibles et robustes;
-  * ii. veiller à ce que les informations soient compréhensibles, sans dépasser un niveau de complexité supérieur au niveau B2 (avancé) du cadre européen commun de référence pour les langues du Conseil de l’Europe;
-* f. pour les livres numériques:
-  * i. veiller à ce qu’un livre numérique contenant des éléments audio en plus du texte fournisse des contenus textuels et audio synchronisés;
-  * ii. veiller à ce que les fichiers numériques n’empêchent pas les technologies d’assistance de fonctionner correctement;
-  * iii. garantir l’accès au contenu, la navigation dans le contenu et dans la mise en page du fichier, y compris la mise en page dynamique, la mise à disposition de la structure du fichier, la flexibilité et le choix de la présentation du contenu;
-  * iv. permettre des restitutions alternatives du contenu et son interopérabilité avec diverses technologies d’assistance, de manière à ce qu’il soit perceptible, utilisable, compréhensible et robuste;
-  * v. permettre la découverte en fournissant des informations, via les métadonnées, sur les caractéristiques d’accessibilité;
-  * vi. s’assurer que les mesures de gestion des droits numériques ne bloquent pas les caractéristiques d’accessibilité;
-* g. pour les services de commerce électronique:
-  * i. fournir les informations relatives à l’accessibilité des produits et services mis en vente lorsque ces informations sont fournies par l’opérateur économique responsable;
-  * ii. veiller à l’accessibilité des fonctionnalités relatives à l’identification, à la sécurité et au paiement lorsqu’elles sont fournies en tant qu’éléments d’un service plutôt que d’un produit, en les rendant perceptibles, utilisables, compréhensibles et robustes;
-  * iii. fournir des méthodes d’identification, des signatures électroniques et des services de paiement perceptibles, utilisables, compréhensibles et robustes. 
-
+-   a. pour les services de communications électroniques, y compris les communications d’urgence visées à l’article 109, paragraphe 2, de la directive (UE) 2018/1972:
+    -   i. fournir du texte en temps réel en plus de la communication vocale;
+    -   ii. fournir la conversation totale lorsque de la vidéo est proposée en plus de la communication vocale;
+    -   iii. veiller à ce que les communications d’urgence utilisant la voix et du texte (y compris du texte en temps réel) soient synchronisées et, lorsque de la vidéo est proposée, qu’elles soient également synchronisées en mode conversation totale et transmises par les prestataires de services de communications électroniques au PSAP le plus approprié;
+-   b. pour les services fournissant un accès à des services de médias audiovisuels:
+    \*i. fournir des guides électroniques de programme perceptibles, utilisables, compréhensibles et robustes et fournir des informations sur la disponibilité des caractéristiques d’accessibilité;
+    -   ii. veiller à ce que les éléments d’accessibilité (services d’accès) des services de médias audiovisuels, tels que le sous-titrage pour les personnes sourdes ou malentendantes, l’audiodescription, le sous-titrage audio et l’interprétation en langue des signes, soient entièrement transmis avec une qualité appropriée à un affichage net et synchronisés avec le son et la vidéo, tout en permettant à l’utilisateur de régler leur affichage et leur utilisation;
+-   c. pour les services de transport aérien, ferroviaire, par voie de navigation intérieure et par autobus de voyageurs et de passagers, à l’exception des services de transport urbains et suburbains et des services de transport régionaux:
+    i. veiller à fournir des informations sur l’accessibilité des véhicules, des infrastructures avoisinantes et de l’environnement bâti ainsi que sur l’assistance pour les personnes handicapées;
+    -   ii. veiller à fournir des informations sur les systèmes de billetterie intelligents (réservation électronique, réservation de billets, etc.) ou la communication d’informations en temps réel sur le voyage (horaires, informations relatives aux perturbations du trafic, services de liaison, connexion avec d’autres modes de transport, etc.) et d’informations supplémentaires concernant le service (par exemple sur le personnel présent en gare, les ascenseurs hors service ou les services momentanément indisponibles);
+-   d. pour les services de transport urbains et suburbains et les services de transport régionaux: veiller à ce que les terminaux en libre-service utilisés pour la fourniture du service soient accessibles, conformément à la section I;
+-   e. pour les services bancaires aux consommateurs:
+    i. fournir des méthodes d’identification, des signatures électroniques et des services de sécurité et de paiement perceptibles, utilisables, compréhensibles et robustes;
+    -   ii. veiller à ce que les informations soient compréhensibles, sans dépasser un niveau de complexité supérieur au niveau B2 (avancé) du cadre européen commun de référence pour les langues du Conseil de l’Europe;
+-   f. pour les livres numériques:
+    -   i. veiller à ce qu’un livre numérique contenant des éléments audio en plus du texte fournisse des contenus textuels et audio synchronisés;
+    -   ii. veiller à ce que les fichiers numériques n’empêchent pas les technologies d’assistance de fonctionner correctement;
+    -   iii. garantir l’accès au contenu, la navigation dans le contenu et dans la mise en page du fichier, y compris la mise en page dynamique, la mise à disposition de la structure du fichier, la flexibilité et le choix de la présentation du contenu;
+    -   iv. permettre des restitutions alternatives du contenu et son interopérabilité avec diverses technologies d’assistance, de manière à ce qu’il soit perceptible, utilisable, compréhensible et robuste;
+    -   v. permettre la découverte en fournissant des informations, via les métadonnées, sur les caractéristiques d’accessibilité;
+    -   vi. s’assurer que les mesures de gestion des droits numériques ne bloquent pas les caractéristiques d’accessibilité;
+-   g. pour les services de commerce électronique:
+    -   i. fournir les informations relatives à l’accessibilité des produits et services mis en vente lorsque ces informations sont fournies par l’opérateur économique responsable;
+    -   ii. veiller à l’accessibilité des fonctionnalités relatives à l’identification, à la sécurité et au paiement lorsqu’elles sont fournies en tant qu’éléments d’un service plutôt que d’un produit, en les rendant perceptibles, utilisables, compréhensibles et robustes;
+    -   iii. fournir des méthodes d’identification, des signatures électroniques et des services de paiement perceptibles, utilisables, compréhensibles et robustes.
 
 <h5 class="expanded">Section V. Exigences spécifiques en matière d’accessibilité liées à la réception, par le PSAP le plus approprié, des communications d’urgence dirigées vers le numéro d’urgence unique européen «112»</h5>
 
@@ -1275,10 +1271,10 @@ Pour qu’il soit présumé que les obligations pertinentes énoncées dans d’
 
 <h6> 1. Produits:</h6>
 
- * a. L’accessibilité des informations relatives au fonctionnement et aux caractéristiques d’accessibilité liées aux produits est conforme aux éléments correspondants figurant à la section I, point 1, de la présente annexe, à savoir les informations sur l’utilisation du produit figurant sur le produit lui-même et les instructions concernant l’utilisation du produit qui ne sont pas fournies sur le produit lui-même, mais sont disponibles lors de l’utilisation du produit ou par d’autres moyens comme un site internet.
- * b. L’accessibilité des caractéristiques, éléments et fonctions de la conception de l’interface utilisateur et des fonctionnalités des produits est conforme aux exigences en matière d’accessibilité correspondantes énoncées à la section I, point 2, de la présente annexe.
- * c. L’accessibilité de l’emballage, y compris les informations contenues dans celui-ci, et des instructions concernant l’installation, l’entretien, le stockage et l’élimination du produit qui ne sont pas fournies sur le produit lui-même, mais sont disponibles par d’autres moyens comme un site internet, sauf en ce qui concerne les terminaux en libre-service, est conforme aux exigences en matière d’accessibilité correspondantes énoncées à la section II de la présente annexe.
- 
+-   a. L’accessibilité des informations relatives au fonctionnement et aux caractéristiques d’accessibilité liées aux produits est conforme aux éléments correspondants figurant à la section I, point 1, de la présente annexe, à savoir les informations sur l’utilisation du produit figurant sur le produit lui-même et les instructions concernant l’utilisation du produit qui ne sont pas fournies sur le produit lui-même, mais sont disponibles lors de l’utilisation du produit ou par d’autres moyens comme un site internet.
+-   b. L’accessibilité des caractéristiques, éléments et fonctions de la conception de l’interface utilisateur et des fonctionnalités des produits est conforme aux exigences en matière d’accessibilité correspondantes énoncées à la section I, point 2, de la présente annexe.
+-   c. L’accessibilité de l’emballage, y compris les informations contenues dans celui-ci, et des instructions concernant l’installation, l’entretien, le stockage et l’élimination du produit qui ne sont pas fournies sur le produit lui-même, mais sont disponibles par d’autres moyens comme un site internet, sauf en ce qui concerne les terminaux en libre-service, est conforme aux exigences en matière d’accessibilité correspondantes énoncées à la section II de la présente annexe.
+
 <h6>2. Services:</h6>
 
 L’accessibilité des caractéristiques, éléments et fonctions des services est conforme aux exigences en matière d’accessibilité correspondantes en ce qui concerne ces caractéristiques, éléments et fonctions énoncées dans les sections relatives aux services de la présente annexe.
@@ -1288,6 +1284,7 @@ L’accessibilité des caractéristiques, éléments et fonctions des services e
 Afin de garantir une utilisation prévisible optimale par les personnes handicapées, lorsque les exigences en matière d’accessibilité énoncées dans les sections I à VI ne traitent pas d’une ou plusieurs fonctions de la conception et de la fabrication des produits ou de la fourniture des services, ces fonctions ou moyens sont rendus accessibles par le respect des critères en matière de performances fonctionnelles qui y sont liés.
 
 Lorsque les exigences en matière d’accessibilité comportent des exigences techniques spécifiques, les critères en matière de performances fonctionnelles ne peuvent se substituer à une ou plusieurs exigences techniques spécifiques que si et seulement si l’application des critères pertinents en matière de performances fonctionnelles est conforme aux exigences en matière d’accessibilité et qu’il est déterminé que la conception et la fabrication des produits et la fourniture des services donnent lieu à une accessibilité équivalente ou accrue dans le cadre d’une utilisation prévisible par les personnes handicapées.
+
 <ul>
 <li class="ti-grseq-1" id="d1e746-100-1">a) Utilisation en l’absence de vision
 <p>Lorsque le produit ou service prévoit des modes visuels d’utilisation, il prévoit au moins un mode d’utilisation pour lequel la vue n’est pas nécessaire.</p></li>
@@ -1598,18 +1595,18 @@ Critères pour l’évaluation et preuves à apporter à l’appui de cette éva
 
 <h6>a. critères liés à des coûts organisationnels ponctuels à prendre en considération dans l’évaluation:</h6>
 
-* i. coûts liés à des ressources humaines supplémentaires spécialisées dans les questions d’accessibilité;
-* ii. coûts liés à la formation des ressources humaines et à l’acquisition de compétences en matière d’accessibilité;
-* iii. coûts liés à la mise au point d’un nouveau procédé pour inclure l’accessibilité dans le développement de produits ou la prestation de services;
-* iv. coûts liés à la mise au point d’orientations concernant l’accessibilité;
- * coûts ponctuels liés à l’examen de la législation sur l’accessibilité;
+-   i. coûts liés à des ressources humaines supplémentaires spécialisées dans les questions d’accessibilité;
+-   ii. coûts liés à la formation des ressources humaines et à l’acquisition de compétences en matière d’accessibilité;
+-   iii. coûts liés à la mise au point d’un nouveau procédé pour inclure l’accessibilité dans le développement de produits ou la prestation de services;
+-   iv. coûts liés à la mise au point d’orientations concernant l’accessibilité;
+-   coûts ponctuels liés à l’examen de la législation sur l’accessibilité;
 
 <h6>b. critères liés aux coûts récurrents de développement et de production à prendre en considération dans l’évaluation:</h6>
 
-* i. coûts liés à la conception des caractéristiques d’accessibilité pour le produit ou le service; 
-* ii. coûts supportés dans le cadre des procédés de fabrication;
-* iii. coûts liés aux essais d’accessibilité concernant le produit ou le service;
-* iv. coûts liés à l’établissement de la documentation.
+-   i. coûts liés à la conception des caractéristiques d’accessibilité pour le produit ou le service;
+-   ii. coûts supportés dans le cadre des procédés de fabrication;
+-   iii. coûts liés aux essais d’accessibilité concernant le produit ou le service;
+-   iv. coûts liés à l’établissement de la documentation.
 
 <h5>2. Estimation des coûts et des avantages pour les opérateurs économiques, y compris en ce qui concerne les processus de production et les investissements, par rapport à l’avantage estimé pour les personnes handicapées, compte tenu de la quantité et de la fréquence d’utilisation d’un produit ou d’un service spécifique.</h5>
 
@@ -1619,19 +1616,18 @@ Critères pour l’évaluation et preuves à apporter à l’appui de cette éva
 
 <h6> a. critères liés à des coûts organisationnels ponctuels à prendre en considération dans l’évaluation:</h6>
 
- * i. coûts liés à des ressources humaines supplémentaires spécialisées dans les questions d’accessibilité;
- * ii. coûts liés à la formation des ressources humaines et à l’acquisition de compétences en matière d’accessibilité;
- * iii. coûts liés à la mise au point d’un nouveau procédé pour inclure l’accessibilité dans le développement de produits ou la prestation de services;
- * iv . coûts liés à la mise au point d’orientations concernant l’accessibilité;
- * v. coûts ponctuels liés à l’examen de la législation sur l’accessibilité;
+-   i. coûts liés à des ressources humaines supplémentaires spécialisées dans les questions d’accessibilité;
+-   ii. coûts liés à la formation des ressources humaines et à l’acquisition de compétences en matière d’accessibilité;
+-   iii. coûts liés à la mise au point d’un nouveau procédé pour inclure l’accessibilité dans le développement de produits ou la prestation de services;
+-   iv . coûts liés à la mise au point d’orientations concernant l’accessibilité;
+-   v. coûts ponctuels liés à l’examen de la législation sur l’accessibilité;
 
 <h6> b. critères liés aux coûts récurrents de développement et de production à prendre en considération dans l’évaluation:</h6>
 
-* i. coûts liés à la conception des caractéristiques d’accessibilité pour le produit ou le service; 
-* ii. coûts supportés dans le cadre des procédés de fabrication;
-* iii. coûts liés aux essais d’accessibilité concernant le produit ou le service;
-* iv. coûts liés à l’établissement de la documentation.
- 
+-   i. coûts liés à la conception des caractéristiques d’accessibilité pour le produit ou le service;
+-   ii. coûts supportés dans le cadre des procédés de fabrication;
+-   iii. coûts liés aux essais d’accessibilité concernant le produit ou le service;
+-   iv. coûts liés à l’établissement de la documentation.
 
 </article>
 </details>

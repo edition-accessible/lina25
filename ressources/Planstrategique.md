@@ -3,6 +3,8 @@ layout: document
 title: "Plan stratégique du comité de pilotage interministériel pour le
 développement d’une offre de livres numériques accessibles aux
 personnes en situation de handicap"
+previous: ../index.html
+titlePrev: Accueil
 ---
 
 De nombreuses personnes souffrent aujourd’hui en France d’une difficulté d’accès à l’écrit du fait d’un
@@ -142,7 +144,7 @@ aboutissant à l’attribution d’un label d’accessibilité pourra être mis 
 organisme indépendant. Un tel dispositif donnerait toute sa visibilité aux efforts effectués par
 les éditeurs, qui garderaient la liberté d’y soumettre ou non leurs publications. Il constituerait
 une garantie pour les personnes en situation de handicap, leur permettant d’identifier l’offre
-qui correspond de manière certaine à leurs besoins. Le référentiel servant de base à la 
+qui correspond de manière certaine à leurs besoins. Le référentiel servant de base à la
 certification, fondé sur les standards techniques internationaux en matière d’accessibilité
 numérique, devrait être rendu public et le processus de certification devrait être compatible
 avec l’organisation des chaînes de production des éditeurs.
@@ -198,7 +200,7 @@ handicapées
 
 Les livres numériques en format accessible doivent être correctement pris en charge par les
 outils de lecture destinés au grand public (logiciels et applications de lecture installés sur des
-ordinateurs, des liseuses, des tablettes, etc.) et par les technologies d’assistance couramment 
+ordinateurs, des liseuses, des tablettes, etc.) et par les technologies d’assistance couramment
 utilisées par les personnes handicapées. Cela concerne aussi les éventuelles mesures
 techniques de protection qui s’y attachent. Les échanges entre professionnels de l’édition
 numérique et fabricants d’outils de lecture grand public ou dédiés aux personnes handicapées
@@ -232,6 +234,7 @@ dispositifs d’aide à destination des personnes handicapées ou des personnes 
 les bibliothèques, les associations et organismes publics œuvrant dans le domaine de l’accès
 à la culture pour les personnes handicapées pourront développer des activités de médiation
 pour favoriser la prise en main de ces technologies de lecture numérique.
+
 <h2 id="planstrat_adopted">
 5Ce plan stratégique a été adopté par les organisations membres du comité de pilotage
 interministériel pour le développement d’une offre de livres numériques accessibles aux
@@ -239,30 +242,32 @@ personnes en situation de handicap.
 </h2>
 
 ### Administrations et établissements publics :
-* Le ministère de la culture
-* Le secrétariat d’Etat chargé des personnes handicapées
-* Le secrétariat général du Comité interministériel du handicap
-* Le ministère de l’enseignement supérieur, de la recherche et de l’innovation
-* Le Centre national du livre (CNL)
+
+-   Le ministère de la culture
+-   Le secrétariat d’Etat chargé des personnes handicapées
+-   Le secrétariat général du Comité interministériel du handicap
+-   Le ministère de l’enseignement supérieur, de la recherche et de l’innovation
+-   Le Centre national du livre (CNL)
 
 ### Organismes représentatifs des personnes handicapées :
-* La Confédération française pour la promotion sociale des aveugles et amblyopes (CFPSAA)
-* La Fédération française des dys (FFDYS)
-* L’association Valentin Haüy
+
+-   La Confédération française pour la promotion sociale des aveugles et amblyopes (CFPSAA)
+-   La Fédération française des dys (FFDYS)
+-   L’association Valentin Haüy
 
 ### Organismes professionnels du secteur du livre numérique :
-* Le Syndicat national de l’édition (SNE)
-* Le Syndicat de la librairie française (SLF)
-* Le Syndicat des loisirs culturels (SDLC)
-* La Fédération du e-commerce et de la vente à distance (FEVAD)
-* L’Association des bibliothécaires de France (ABF)
-* La Commission de liaison interprofessionnelle du livre (CLIL)
-* European Digital Reading Lab (EDRLab)
-* Dilicom
-* Electre
+
+-   Le Syndicat national de l’édition (SNE)
+-   Le Syndicat de la librairie française (SLF)
+-   Le Syndicat des loisirs culturels (SDLC)
+-   La Fédération du e-commerce et de la vente à distance (FEVAD)
+-   L’Association des bibliothécaires de France (ABF)
+-   La Commission de liaison interprofessionnelle du livre (CLIL)
+-   European Digital Reading Lab (EDRLab)
+-   Dilicom
+-   Electre
 
 [1]« Les structures ayant une activité d’adaptation des œuvres au bénéfice des personnes en situation de
 handicap – réalités observées et perspectives », rapport établi par Pierre Naves, inspecteur général des affaires sociales, Isabelle Neuschwander, inspectrice général des affaires culturelles et Stéphane Pellet, inspecteur général de l’administration de l’éducation nationale, décembre 2016, p. 33.
-
 
 Télécharger le [plan stratégique du comité de pilotage interministériel (PDF)](https://www.culture.gouv.fr/content/download/206507/pdf_file/20190215_Publication%20strat%C3%A9gie%20livre%20num%C3%A9rique.pdf?inLanguage=fre-FR)

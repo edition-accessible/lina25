@@ -1,6 +1,8 @@
 ---
 layout: document
 title: "Recommandations pour l'affichage des informations d'accessibilité"
+previous: ./diffuser.html
+titlePrev: Diffuser
 ---
 
 <div markdown = "1" id="principes">
