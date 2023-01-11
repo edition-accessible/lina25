@@ -42,6 +42,15 @@ h3 {
   font-size: 1.5em;
 }
 
+.bold {
+  font-weight: bold;
+}
+
+html,
+body {
+  scroll-behavior: smooth;
+}
+
 body {
   max-width: 1800px;
   margin: auto;
@@ -762,15 +771,6 @@ img {
   padding-left: 5%;
   padding-right: 5%;
 }
-.header_documents i {
-  transform: scale(2);
-  color: #5c64b4;
-}
-@media screen and (max-width: 992px) {
-  .header_documents i {
-    transform: scale(1.5);
-  }
-}
 .header_documents a {
   border: 1px solid white;
   border-radius: 50%;
@@ -800,6 +800,7 @@ img {
 .header_documents .title_pages h2 {
   color: #5c64b4;
   font-size: 50px;
+  margin: 2% 5%;
 }
 @media screen and (max-width: 992px) {
   .header_documents .title_pages h1,

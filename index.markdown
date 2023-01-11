@@ -34,7 +34,7 @@ title: index
   <p>Ce site constitue une base de connaissance pour les acteurs de la chaîne du livre numérique, afin de leur apporter les outils nécessaires à une démarche réussie, qu'il s'agisse de concevoir, produire, décrire, distribuer des contenus, créer ou sélectionner des outils de lecture accessibles. Il est issu du travail du comité de pilotage interministériel pour le développement d’une offre de livres numériques nativement accessibles aux personnes en situation de handicap.</p>
 </div>
 
-<p><a class="link color_orange" href="{{site.baseurl}}/ressources/Planstrategique">Consulter le Plan stratégique du comité de pilotage interministériel pour le
+<p><a class="link color_orange" href="{{site.baseurl}}/ressources/Planstrategique" target="_self">Consulter le Plan stratégique du comité de pilotage interministériel pour le
 développement d’une offre de livres numériques accessibles aux
 personnes en situation de handicap</a></p>
 </section>

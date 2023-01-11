@@ -1,7 +1,7 @@
 ---
 layout: document
 title: "Recommandations pour l'affichage des informations d'accessibilité"
-previous: ./diffuser.html
+previous: ../pages/diffuser.html
 titlePrev: Diffuser
 ---
 

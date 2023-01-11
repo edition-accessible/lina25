@@ -72,7 +72,7 @@ Les deux solutions actuellement disponibles pour le chiffrement des fichiers son
 
 <a href="https://www.w3.org/2021/09/UX-Guide-metadata-1.0/principles/" class="link color_orange">User Experience Guide for Displaying Accessibility Metadata 1.0 (en cours de réécriture)</a>
 
-<a href="https://edition-accessible.github.io/lina25/ressources/Informer" class="link color_orange">Page de recommandations françaises</a>
+<a href="https://edition-accessible.github.io/lina25/ressources/Informer" class="link color_orange" target="_self">Page de recommandations françaises</a>
 
 <a href="https://edition-accessible.github.io/signalement/index.html" class="link color_orange">Le site compagnon de l'étude française (en cours)</a>
 

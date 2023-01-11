@@ -1,7 +1,7 @@
 ---
 layout: document
 title: "DIRECTIVE (UE) 2019/882 DU PARLEMENT EUROPÉEN ET DU CONSEIL"
-previous: ./loi.html
+previous: ../pages/loi.html
 titlePrev: Ce que dit la loi
 ---
 

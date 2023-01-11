@@ -83,13 +83,6 @@ img {
         align-items: center;
         padding-left: 5%;
         padding-right: 5%;
-        i {
-            transform: scale(2);
-            color: $color-primary;
-            @include breakpoint-tablet {
-                transform: scale(1.5);
-            }
-        }
         a {
             border: 1px solid white;
             border-radius: 50%;
@@ -116,6 +109,7 @@ img {
             h2 {
                 color: $color-primary;
                 font-size: 50px;
+                margin: 2% 5%;
                 @include breakpoint-tablet {
                     font-size: 40px;
                 }

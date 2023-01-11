@@ -76,8 +76,9 @@ Voici une liste non exhaustive des situations que vous pouvez rencontrer et auxq
 
 <a href="https://www.sne.fr/app/uploads/2022/10/SNE_Atelier_Normes-et-Standards_Accessibilite_Textes-alternatifs_2022.pptx.pdf" class ="link color_orange">Présentation de l’atelier sur la production de textes alternatifs aux images du groupe normes et standard du SNE, octobre 2022 (PDF non balisé, 5.6 Mo)</a>
 
-<a href="https://github.com/benetech/AccessibleImageSampleBook/blob/master/AccessibleImageSampleBookFrench/DIAGRAM_Image-Description-Guidelines_FR.epub?raw=true" class ="link color_orange"><i class="color_orange">Comment décrire les images ?</i> DIAGRAM Center ; NCAM ; Association BrailleNet (EPUB, 7.7 Mo) </a>
-<a href="https://github.com/benetech/AccessibleImageSampleBook/blob/master/AccessibleImageSampleBookFrench/DIAGRAM_Image-Description-Guidelines_FR.epub?raw=true" class ="link color_orange"><i class="color_orange">Comment décrire les images ?</i> DIAGRAM Center ; NCAM ; Association BrailleNet (EPUB, 7.7 Mo) </a>
+<a href="https://github.com/benetech/AccessibleImageSampleBook/blob/master/AccessibleImageSampleBookFrench/DIAGRAM_Image-Description-Guidelines_FR.epub?raw=true" class ="link color_orange"><i class="color_orange bold">Comment décrire les images ?</i> DIAGRAM Center ; NCAM ; Association BrailleNet (EPUB, 7.7 Mo) </a>
+
+<a href="https://github.com/benetech/AccessibleImageSampleBook/blob/master/AccessibleImageSampleBookFrench/DIAGRAM_Image-Description-Guidelines_FR.epub?raw=true" class ="link color_orange"><i class="color_orange bold">Comment décrire les images ?</i> DIAGRAM Center ; NCAM ; Association BrailleNet (EPUB, 7.7 Mo) </a>
 
 <a href="https://diagramcenter.org" class ="link color_orange">Le Diagram Center (en anglais)</a> propose un outil d’exercices en ligne ([Poet training tool, en anglais](https://poet.diagramcenter.org/)), des ressources video et un [guide de bonnes pratiques (en anglais)](http://diagramcenter.org/table-of-contents-2.html).
 
