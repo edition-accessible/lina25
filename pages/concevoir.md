@@ -25,8 +25,7 @@ Pour ces cas d’usages il est nécessaire de proposer des alternatives textuell
 
 Pour vous aider dans les choix éditoriaux relatifs aux alternatives aux images, les membres du <abbr title="Syndicat national de l'édition">SNE</abbr> ont rédigé à l’intention des auteurs et éditeurs des documents d’aide à la décision qui proposent aussi des pistes d’organisation pour assurer que toutes les ressources ont bien étées traitées.
 
-Le guide <i>Comment décrire les images&#8239;?<i> produit par le Diagram Center et traduit par l’association Braillenet propose des exemples expliqués de descriptions, d’autres ressources d’auto formation sont disponibles en anglais sur le site du Diagram Center.
-Le guide <i>Comment décrire les images&#8239;?<i> produit par le Diagram Center et traduit par l’association Braillenet propose des exemples expliqués de descriptions, d’autres ressources d’auto formation sont disponibles en anglais sur le site du Diagram Center.
+Le guide <i>Comment décrire les images&#8239;?</i> produit par le Diagram Center et traduit par l’association Braillenet propose des exemples expliqués de descriptions, d’autres ressources d’auto formation sont disponibles en anglais sur le site du Diagram Center.
 
 ### Données ayant servi à la construction des diagrammes et graphiques
 
@@ -44,23 +43,15 @@ Les technologies d’assistance, et en particulier les lecteurs d’écran (logi
 
 Selon les contenus de votre livre numérique, vous pourrez avoir à vous assurer de l’accessibilité d’autres aspects de votre œuvre. Pour y répondre au mieux une série de ressources sélectionnée vous permettra de vous imprégner des cas pratiques.
 
-Selon les contenus de votre livre numérique, vous pourrez avoir à vous assurer de l’accessibilité d’autres aspects de votre œuvre. Pour y répondre au mieux une série de ressources sélectionnée vous permettra de vous imprégner des cas pratiques.
-
-Voici une liste non exhaustive des situations que vous pouvez rencontrer et auxquelles vous devrez être attentif&#8239;:
 Voici une liste non exhaustive des situations que vous pouvez rencontrer et auxquelles vous devrez être attentif&#8239;:
 
 -   Les médias temporels (audio, vidéo) doivent disposer d’une alternative textuelle comme une transcription ou des sous-titres non incrustés.
 -   Les médias temporels (audio, vidéo) ne doivent pas se déclencher sans action de l’utilisateur, et l’utilisateur doit toujours avoir la possibilité de les stopper.
--   Le langage utilisé doit correspondre aux personnes qui utilisent le support. Adapter au mieux le vocabulaire et les formulations de phrases permet d’éviter la double tâche ou des tâches complexes qui entraineraient une surcharge cognitive.
+-   Le langage utilisé doit correspondre aux personnes qui utilisent le support. Adapter au mieux le vocabulaire et les formulations de phrases permet d’éviter la double tâche ou des tâches complexes qui entraîneraient une surcharge cognitive.
 -   Les contenus complexes comme les mathématiques ou les formules chimiques devraient être fournies dans un langage informatique adapté (LaTeX, MathJax ou MathML par exemple) pour permettre leur conversion.
 -   Si votre ouvrage propose des indications qui reposent sur une discrimination visuelle, une seconde méthode d’identification doit être proposée.
 -   Les conséquences des actions de l’utilisateur doivent être clairement identifiées (par exemple si cliquer sur un lien déclenche le téléchargement d’un document ou redirige vers un site en ligne).
--   Les médias temporels (audio, vidéo) doivent disposer d’une alternative textuelle comme une transcription ou des sous-titres non incrustés.
--   Les médias temporels (audio, vidéo) ne doivent pas se déclencher sans action de l’utilisateur, et l’utilisateur doit toujours avoir la possibilité de les stopper.
--   Le langage utilisé doit correspondre aux personnes qui utilisent le support. Adapter au mieux le vocabulaire et les formulations de phrases permet d’éviter la double tâche ou des tâches complexes qui entraineraient une surcharge cognitive.
--   Les contenus complexes comme les mathématiques ou les formules chimiques devraient être fournies dans un langage informatique adapté (LaTeX, MathJax ou MathML par exemple) pour permettre leur conversion.
--   Si votre ouvrage propose des indications qui reposent sur une discrimination visuelle, une seconde méthode d’identification doit être proposée.
--   Les conséquences des actions de l’utilisateur doivent être clairement identifiées (par exemple si cliquer sur un lien déclenche le téléchargement d’un document ou redirige vers un site en ligne).
+
 
 <blockquote> <i>Vos contenus doivent être perceptibles, utilisables et compréhensibles même lorsqu'ils sont consultés sur un écran petit, n'affichant pas les couleurs ou encore sans écran, via une vocalisation ou un rendu en braille. </i></blockquote>
 
@@ -78,25 +69,21 @@ Voici une liste non exhaustive des situations que vous pouvez rencontrer et auxq
 
 <a href="https://github.com/benetech/AccessibleImageSampleBook/blob/master/AccessibleImageSampleBookFrench/DIAGRAM_Image-Description-Guidelines_FR.epub?raw=true" class ="link color_orange"><i class="color_orange bold">Comment décrire les images&#8239;?</i> DIAGRAM Center&#8239;; NCAM&#8239;; Association BrailleNet (EPUB, 7.7 Mo) </a>
 
-<a href="https://github.com/benetech/AccessibleImageSampleBook/blob/master/AccessibleImageSampleBookFrench/DIAGRAM_Image-Description-Guidelines_FR.epub?raw=true" class ="link color_orange"><i class="color_orange bold">Comment décrire les images&#8239;?</i> DIAGRAM Center&#8239;; NCAM&#8239;; Association BrailleNet (EPUB, 7.7 Mo) </a>
-
 <a href="https://diagramcenter.org" class ="link color_orange">Le Diagram Center (en anglais)</a> propose un outil d’exercices en ligne ([Poet training tool, en anglais](https://poet.diagramcenter.org/)), des ressources video et un [guide de bonnes pratiques (en anglais)](http://diagramcenter.org/table-of-contents-2.html).
 
 ### Autres ressources
 
 <a href="https://www.accessiblebooksconsortium.org/publishing/fr/" class ="link color_orange">
 Site web du Consortium pour des livres accessibles (ABC)</a>
-Site web du Consortium pour des livres accessibles (ABC)</a>
 
 <a href="https://www.accessiblebooksconsortium.org/docs/fr/charter.docx" class ="link color_orange">Charte de l’édition accessible</a>
 
-<a href="https://www.accessiblebooksconsortium.org/export/abc/fr/best_practice_guidelines.doc" class ="link color_orange">Édition accessible, Pratiques recommandées à l’intention des éditeurs.</a>
+<a href="https://www.accessiblebooksconsortium.org/documents/abc/docs/fr/best_practice_guidelines.doc" class ="link color_orange">Édition accessible, Pratiques recommandées à l’intention des éditeurs (fichier .doc téléchargé).</a>
 
 <a href="https://inclusivepublishing.org/" class ="link color_orange">inclusive publishing (en anglais)</a> regroupe des ressources utiles.
 
 <a href="https://www.inclusivepublishinginpractice.org/" class ="link color_orange">L'édition inclusive en pratique</a> est un site d'autoformation.
 
-<a href="https://daisy.org/webinar-series/" class ="link color_orange">Les webinaires du consortium Daisy (en anglais)</a>
 
 <a href="https://daisy.org/webinar-series/" class ="link color_orange">Les webinaires du consortium Daisy (en anglais)</a>
 

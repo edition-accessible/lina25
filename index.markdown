@@ -1,6 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 title: index
 ---
@@ -19,7 +17,7 @@ title: index
 <div class="pourquoi_paragraphe">
   <i class="fa-solid fa-circle-right"></i>
 
-  <p>De nombreuses personnes souffrent aujourd’hui en France d’une difficulté d’accès à l’écrit du fait d’un handicap. Quelques 820 000 personnes sont empêchées de lire du fait de troubles visuels sévères, dont seule une minorité maîtrise le braille. Les jeunes et adultes souffrant de troubles cognitifs, tels que la dyslexie et les autres troubles « dys », ne peuvent accéder aux textes qu’au prix d’une adaptation personnalisée de leur présentation. Troubles auditifs précoces, handicap mental et handicap physique temporaire ou permanent peuvent aussi constituer des obstacles pour l’accès à l’écrit.</p>
+  <p>De nombreuses personnes souffrent aujourd’hui en France d’une difficulté d’accès à l’écrit du fait d’un handicap. Quelque 820 000 personnes sont empêchées de lire du fait de troubles visuels sévères, dont seule une minorité maîtrise le braille. Les jeunes et adultes souffrant de troubles cognitifs, tels que la dyslexie et les autres troubles « dys », ne peuvent accéder aux textes qu’au prix d’une adaptation personnalisée de leur présentation. Troubles auditifs précoces, handicap mental et handicap physique temporaire ou permanent peuvent aussi constituer des obstacles pour l’accès à l’écrit.</p>
 </div>
 
 <div class="pourquoi_paragraphe">
