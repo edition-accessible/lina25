@@ -13,7 +13,7 @@ titlePrev: Collecter
 <div markdown="1" id="principes">
 {%- include principes.html -%}
 
-Trouver, acheter et finalement lire une publication est une expérience très personnelle. Pour les personnes empêchées de lire le texte imprimé du fait d'un handicap, cette démarche implique de se poser des questions du type _mon lecteur d’écran fonctionnera-t-il avec ce titre ; y a-t-il des descriptions d’images qui seront énoncées ; y a-t-il des référence aux pages du livre imprimé ; l’ordre de lecture est-il logique_.
+Trouver, acheter et finalement lire une publication est une expérience très personnelle. Pour les personnes empêchées de lire le texte imprimé du fait d'un handicap, cette démarche implique de se poser des questions du type _mon lecteur d’écran fonctionnera-t-il avec ce titre&#8239;; y a-t-il des descriptions d’images qui seront énoncées&#8239;; y a-t-il des référence aux pages du livre imprimé&#8239;; l’ordre de lecture est-il logique_.
 
 Les lecteurs peuvent utiliser différents services en ligne que ce soient les sites des librairies indépendantes, des portails reliés à un dispositif de lecture ou encore des bibliothèques publiques ou spécialisées. La recherche d’un ouvrage particulier peut aussi amener le lecteur à consulter des sites internationaux ou localisés dans d’autres pays. Les mêmes informations devraient être retrouvées dans ces différents cas de figure afin de garantir une expérience utilisateur équivalente sans avoir à comprendre un nouveau mode de fonctionnement pour trouver l’information pertinente.
 
@@ -29,7 +29,7 @@ Les livres qui répondent aux exigences de la directive Européenne doivent indi
 -   permettent la modification de l'affichage
 -   permettent la navigation via une table des matières et la structure
 
-Les fonctionnalités spécifiques à certains types de contenus doivent aussi être indiquées. Cela comprend :
+Les fonctionnalités spécifiques à certains types de contenus doivent aussi être indiquées. Cela comprend&#8239;:
 
 -   la présence d'audio pré enregistrés synchronisés avec le texte
 -   la présence d'une pagination de référence à un livre imprimé
@@ -60,7 +60,7 @@ Les techniques de marquage par filigrane ne posent aucun problème d'accessibili
 Les deux solutions actuellement disponibles pour le chiffrement des fichiers sont Adobe Adopt et Readium LCP. Leur usage implique une restriction des dispositifs utilisables par le lecteur.
 
 -   Adobe Adopt permet la lecture sur le logiciel Adobe Digital Edition. Cette DRM nécessite aussi la création d'un compte et son usage est soumis au Règlement Général pour la Protection des Données (RGPD).
--   Readium LCP permet la lecture sur un grand nombre d'applications comme Aldiko Next, Thorium Reader et d'autres applications basées sur Readium SDK ; mais permet aussi la lecture sur des dispositifs matériels comme les Pocketbook e-ink readers (dont les liseuses Vivlio). Readium LCP ne collecte aucune information sur les lecteurs qui l'utilisent.
+-   Readium LCP permet la lecture sur un grand nombre d'applications comme Aldiko Next, Thorium Reader et d'autres applications basées sur Readium SDK&#8239;; mais permet aussi la lecture sur des dispositifs matériels comme les Pocketbook e-ink readers (dont les liseuses Vivlio). Readium LCP ne collecte aucune information sur les lecteurs qui l'utilisent.
 
 </div>
 

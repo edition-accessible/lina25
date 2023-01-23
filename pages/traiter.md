@@ -20,7 +20,7 @@ Jusqu'à présent, aucun pays n'a pleinement analysé les implications pour sa l
 
 Il existe un risque de retrait du marché de nombreux livres électroniques.
 
-Sur les plateformes de livres numériques, la "longue traîne" (titres anciens et de niche) est plus importante que dans le monde du livre physique, où les magasins ont tendance à promouvoir les best-sellers et les titres relativement nouveaux. Mais la plupart des titres de fond ne se vendent qu'à quelques exemplaires par an et de nombreux titres ont une structure assez complexe : si l'accessibilité est nécessaire mais que rendre les titres accessibles implique des coûts élevés, les éditeurs retireront ces ebooks du marché.
+Sur les plateformes de livres numériques, la "longue traîne" (titres anciens et de niche) est plus importante que dans le monde du livre physique, où les magasins ont tendance à promouvoir les best-sellers et les titres relativement nouveaux. Mais la plupart des titres de fond ne se vendent qu'à quelques exemplaires par an et de nombreux titres ont une structure assez complexe&#8239;: si l'accessibilité est nécessaire mais que rendre les titres accessibles implique des coûts élevés, les éditeurs retireront ces ebooks du marché.
 
 Le fait que les ebooks risquent d'être retirés du marché à grande échelle d'ici 2025 est particulièrement inquiétant lorsque la diversité culturelle du contenu et l'inclusion sociale des personnes souffrant de handicaps visuels et cognitifs sont en jeu. Selon un représentant de l'association des éditeurs néerlandais, une obligation légale de rendre accessibles tous les titres du catalogue pourrait potentiellement conduire à la suppression de 80 % de l'offre actuelle d'ebooks…
 
@@ -38,9 +38,9 @@ C'est un projet de 18 mois dont les conclusions seront disponibles en juin 2024.
 
 <h2>Ressources</h2>
 
-<a href="edrlab.org/abelab" class="link color_orange">Site du projet européen ABE Lab</a>
+<a href="abelab.edrlab.org" class="link color_orange">Site du projet européen ABE Lab</a>
 
-Liste non exhaustive des outils de rémediation existants :
+Liste non exhaustive des outils de rémediation existants&#8239;:
 
 <a href="https://www.circularsoftware.com/" class="link color_orange">Circular Flo</a>
 

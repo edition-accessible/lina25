@@ -13,10 +13,10 @@ Les informations plus détaillées sont contenues dans un element masqué et peu
 <p>Une attention particulière est portée sur l'évitement de possibles redondances. </p>
 <p>Une grille de correspondance, en fin de document, permet d'identifier les métadonnées ONIX qui assurent cette information. Un Crosswalk est disponible pour assurer l'interopérabilité des principales autres normes de métadonnées (Schema.org, MARC, MARC21 et UNIMARC).</p>
 
-<h2 id="fiche-livre-informations-générales">Fiche livre : informations générales</h2>
+<h2 id="fiche-livre-informations-générales">Fiche livre&#8239;: informations générales</h2>
 <h3 id="détails-du-produit">Détails du produit</h3>
 <p>
-<em>Doivent être affiché à minima les informations suivantes : </em>
+<em>Doivent être affiché à minima les informations suivantes&#8239;: </em>
 </p>
 
 -   Format de fichier (EPUB, PDF, MP3, Audiobook, Etc.
@@ -52,9 +52,9 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
 <h3 id="accessibilité">Accessibilité</h3>
 <ul>
 <li>
-<p>Si le code 196- 09 Inaccessible est présent, afficher : <strong>Défauts d'accessibilité reconnus</strong>. </p></li>
+<p>Si le code 196- 09 Inaccessible est présent, afficher&#8239;: <strong>Défauts d'accessibilité reconnus</strong>. </p></li>
         <li><p>
-Si aucune des informations n’est fournie, afficher : <strong>Aucune information sur l’accessibilité n’est disponible</strong>.
+Si aucune des informations n’est fournie, afficher&#8239;: <strong>Aucune information sur l’accessibilité n’est disponible</strong>.
 </p></li>
 <li><p>Si une ou plusieurs des informations ci-dessous sont présentes, elles devraient être regroupées sous un niveau de titre logique. <br/>L’intitulé de ce titre devrait être <strong>Accessibilité</strong> ou <strong>Informations d’accessibilité</strong>. <br/>Le pictogramme de l’homme de Vitruve pourra être utilisé en complément.</li>
     </ul>
@@ -82,21 +82,21 @@ Si aucune des informations n’est fournie, afficher : <strong>Aucune informatio
 <tr class="odd">
 <td>Affichage adaptable</td>
 <td><em>L’aspect du texte et la mise en page peuvent-être modifiés selon les possibilitées offertes par le système de lecture</em></td>
-<td><a href="https://ns.editeur.org/onix/fr/175/E200">Liste 175 Code E200 : Redimensionnable</a> ou  <a href="https://ns.editeur.org/onix/fr/196/03">Spécifications d’accessibilité EPUB 1.0 AA (Liste 196 Code 03)</a></td>
+<td><a href="https://ns.editeur.org/onix/fr/175/E200">Liste 175 Code E200&#8239;: Redimensionnable</a> ou  <a href="https://ns.editeur.org/onix/fr/196/03">Spécifications d’accessibilité EPUB 1.0 AA (Liste 196 Code 03)</a></td>
 <td>ignorer</td>
 <td>forte</td>
 </tr>
 <tr class="even">
 <td>Mise en page fixe</td>
 <td><em>L’aspect du texte et la mise en page ne peuvent pas être modifiées ou de façon limitée.</em></td>
-<td><a href="https://ns.editeur.org/onix/fr/175/E201">Liste 175 Code E201 : Format fixe.</a></td>
+<td><a href="https://ns.editeur.org/onix/fr/175/E201">Liste 175 Code E201&#8239;: Format fixe.</a></td>
 <td>ignorer</td>
 <td>forte</td>
 </tr>
 <tr class="odd">
 <td>Texte et audio synchronisés</td>
 <td><em>Le livre contient de l'audio préenregistré pour lequel une version textuelle visible est synchronisée.</em></td>
-<td><a href="https://ns.editeur.org/onix/fr/196/20">iste 196 Code 20 : Audio préenregistré synchronisé</a></td>
+<td><a href="https://ns.editeur.org/onix/fr/196/20">iste 196 Code 20&#8239;: Audio préenregistré synchronisé</a></td>
 <td>ignorer</td>
 <td>forte</td>
 </tr>
@@ -237,42 +237,42 @@ Si aucune des informations n’est fournie, afficher : <strong>Aucune informatio
     <tr class="odd">
     <td>Attention ce livre inclut des Flashs lumineux</td>
     <td></td>
-    <td><a href="https://ns.editeur.org/onix/fr/143/13/">Liste 143 Code 13 : Avertissement : risque de clignotement</a></td>
+    <td><a href="https://ns.editeur.org/onix/fr/143/13/">Liste 143 Code 13&#8239;: Avertissement&#8239;: risque de clignotement</a></td>
     <td>ignorer</td>
     <td>forte</td>
     </tr>
     <tr class="odd">
         <td>Ce livre ne comporte pas de risques liés à des Flashs lumineux</td>
         <td></td>
-        <td><a href="https://ns.editeur.org/onix/fr/143/14/">Liste 143 Code 14 : Aucun avertissement nécessaire pour les risques liés à un clignotement</a></td>
+        <td><a href="https://ns.editeur.org/onix/fr/143/14/">Liste 143 Code 14&#8239;: Aucun avertissement nécessaire pour les risques liés à un clignotement</a></td>
         <td>ignorer</td>
         <td>Ne devrait pas être affiché</td>
         </tr>
     <tr class="even">
     <td>Attention ce livre inclut des bruitages sonores</td>
     <td></td>
-    <td><a href="https://ns.editeur.org/onix/fr/143/15/">Liste 143 Code 15 : risque sonore</a></td>
+    <td><a href="https://ns.editeur.org/onix/fr/143/15/">Liste 143 Code 15&#8239;: risque sonore</a></td>
     <td>ignorer</td>
     <td>forte</td>
     </tr>
     <tr class="even">
         <td>Ce livre ne comporte pas de risques liés à des bruitages sonores</td>
         <td></td>
-        <td><a href="https://ns.editeur.org/onix/fr/143/16/">Liste 143 Code 16 : Aucun avertissement nécessaire pour les risques liés à un niveau sonore</a></td>
+        <td><a href="https://ns.editeur.org/onix/fr/143/16/">Liste 143 Code 16&#8239;: Aucun avertissement nécessaire pour les risques liés à un niveau sonore</a></td>
         <td>ignorer</td>
         <td>Ne devrait pas être affiché</td>
         </tr>
     <tr class="odd">
     <td>Attention ce livre inclut des sensations de mouvement</td>
     <td></td>
-    <td><a href="https://ns.editeur.org/onix/fr/143/17/">Liste 143 Code 17 : Avertissement : risque de simulation de mouvement</a></td>
+    <td><a href="https://ns.editeur.org/onix/fr/143/17/">Liste 143 Code 17&#8239;: Avertissement&#8239;: risque de simulation de mouvement</a></td>
     <td>ignorer</td>
     <td>forte</td>
     </tr>
     <tr class="odd">
         <td>Ce livre ne comporte pas de risques liés à des sensations de mouvement</td>
         <td></td>
-        <td><a href="https://ns.editeur.org/onix/fr/143/18/">Liste 143 Code 18 : Aucun avertissement nécessaire pour les risques liés à des simulations de mouvement</a></td>
+        <td><a href="https://ns.editeur.org/onix/fr/143/18/">Liste 143 Code 18&#8239;: Aucun avertissement nécessaire pour les risques liés à des simulations de mouvement</a></td>
         <td>ignorer</td>
         <td>Ne devrait pas être affiché</td>
         </tr>
@@ -299,7 +299,7 @@ Si aucune des informations n’est fournie, afficher : <strong>Aucune informatio
 <tr class="odd">
 <td>Contenus accessibles conformes aux standards (A <em>ou</em> AA)</td>
 <td></td>
-<td><a href="https://ns.editeur.org/onix/fr/196/02">Liste 196 Code 02 Spécifications d’accessibilité EPUB 1.0 A ou <br/>Liste 196 Code 03 : Spécifications d’accessibilité EPUB 1.0 AA</a></td>
+<td><a href="https://ns.editeur.org/onix/fr/196/02">Liste 196 Code 02 Spécifications d’accessibilité EPUB 1.0 A ou <br/>Liste 196 Code 03&#8239;: Spécifications d’accessibilité EPUB 1.0 AA</a></td>
 <td>Aucune conformité déclarée</td>
 <td>forte</td>
 </tr>
@@ -321,7 +321,7 @@ Si aucune des informations n’est fournie, afficher : <strong>Aucune informatio
 <tr class="even">
 <td><em>texte</em></td>
 <td>Le résumé d'accessibilité doit être considéré comme un addendum. C'est un texte écrit par l’éditeur indiquant les limites ou les particularitées qui ne sont pas exprimable autrement en ONIX.</td>
-<td><a href="https://ns.editeur.org/onix/fr/196/00">Liste 196 Code 00 : Résumé sur l’accessibilité content=“lorem ipsum …”</a></td>
+<td><a href="https://ns.editeur.org/onix/fr/196/00">Liste 196 Code 00&#8239;: Résumé sur l’accessibilité content=“lorem ipsum …”</a></td>
 <td>ignorer</td>
 <td></td>
 </tr>
@@ -341,13 +341,13 @@ Si aucune des informations n’est fournie, afficher : <strong>Aucune informatio
 <input type="checkbox"><label class="option">Texte et audio synchronisés</label>
 </li>
 </ul>
-<p>Un pictogramme Homme de Vitruve avec texte alt " accessible" peut-être affecté à tout fichier déclarant <strong>Liste 196 Code 03 Spécifications d’accessibilité EPUB 1.0 AA</strong> : <img src="https://www.w3.org/2021/09/UX-Guide-metadata-1.0/principles/media/accessibility.svg" alt="Informations sur l'accessibilité" width="15"></p>
+<p>Un pictogramme Homme de Vitruve avec texte alt " accessible" peut-être affecté à tout fichier déclarant <strong>Liste 196 Code 03 Spécifications d’accessibilité EPUB 1.0 AA</strong>&#8239;: <img src="https://www.w3.org/2021/09/UX-Guide-metadata-1.0/principles/media/accessibility.svg" alt="Informations sur l'accessibilité" width="15"></p>
 </article>
 
 <article>
     <h2>Au sujet des livres imprimés</h2>
     <p>Les livres imprimés ne peuvent prétendre à une accessibilité universelle, à moins d'être livrées en différentes versions dans une même édition. Cependant certaines édition spécialisées peuvent répondre à des besoins spécifiques. </p>
-    <p>ONIX permet d'informer sur ces éditions. Si la liste 196 est dédiée à l'accessibilité numérique, la <a href="https://ns.editeur.org/onix/fr/21">liste 21</a> permet d'indiquer un type d'édition particulier. On retiendra en particulier :</p>
+    <p>ONIX permet d'informer sur ces éditions. Si la liste 196 est dédiée à l'accessibilité numérique, la <a href="https://ns.editeur.org/onix/fr/21">liste 21</a> permet d'indiquer un type d'édition particulier. On retiendra en particulier&#8239;:</p>
         <ul>
         <li><a href="https://ns.editeur.org/onix/fr/21/HRE">21:HRE Édition haute lisibilité</a></li>
         <li><a href="https://ns.editeur.org/onix/fr/21/BRL">21:BRL Édition en Braille</a></li>

@@ -14,7 +14,7 @@ titlePrev: Concevoir
 
 {%- include principes.html -%}
 
-Un environnement de lecture ne peut être accessible que s’il s’appuie sur des standards techniques ouverts et partagés. Les personnes en situation de handicap recourent à des outils de lecture spécifiquement conçus pour répondre à leurs besoins. Ces dispositifs dits technologies d’assistance, sont par exemple : lecteurs d’écran, logiciels de synthèse vocale, lecteurs de livres audio structurés, logiciels d’adaptation automatique des paramètres d’affichage des textes, ou plages braille. Il est donc souhaitable d’utiliser des formats de publication interopérables, qui puissent être pris en charge par ces technologies. Parce qu’il répond à ces attentes, l’EPUB 3 est aujourd’hui le format de référence pour les professionnels du secteur en matière d’accessibilité du livre numérique et son utilisation tend à se généraliser.
+Un environnement de lecture ne peut être accessible que s’il s’appuie sur des standards techniques ouverts et partagés. Les personnes en situation de handicap recourent à des outils de lecture spécifiquement conçus pour répondre à leurs besoins. Ces dispositifs dits technologies d’assistance, sont par exemple&#8239;: lecteurs d’écran, logiciels de synthèse vocale, lecteurs de livres audio structurés, logiciels d’adaptation automatique des paramètres d’affichage des textes, ou plages braille. Il est donc souhaitable d’utiliser des formats de publication interopérables, qui puissent être pris en charge par ces technologies. Parce qu’il répond à ces attentes, l’EPUB 3 est aujourd’hui le format de référence pour les professionnels du secteur en matière d’accessibilité du livre numérique et son utilisation tend à se généraliser.
 
 ### Reproduire les information sémantiques dans le code
 
@@ -30,13 +30,13 @@ Le groupe de travail sur la transition vers l'EPUB du Consortium DAISY maintient
 
 ### Contrôler la qualité des fichiers
 
-Une fois produits, les fichiers EPUB 3 devront être validés par la version à jour de EPUBCheck. Mais cet outil ne teste pas l’accessibilité des publications. Pour cela, il faudra faire appel à l’outil de test Ace by DAISY développé par le Consortium DAISY. Le logiciel Ace n’est pas conçu pour être utilisé de manière automatique : il ne délivre pas un jugement du type _“cet EPUB est / n’est pas accessible”_ mais génère un rapport HTML mettant l'accent sur les enfreintes aux règles d’accessibilité ; il met également en évidence la structure de la publication et affiche les attributs d’accessibilité présents dans ses images. La qualité sémantique de la publication n’est pas jaugée par la mécanique de cet outil. La génération de métadonnées d’accessibilité, et en particulier l’évaluation d’un niveau de conformité WCAG, nécessite un audit du rapport Ace.
+Une fois produits, les fichiers EPUB 3 devront être validés par la version à jour de EPUBCheck. Mais cet outil ne teste pas l’accessibilité des publications. Pour cela, il faudra faire appel à l’outil de test Ace by DAISY développé par le Consortium DAISY. Le logiciel Ace n’est pas conçu pour être utilisé de manière automatique&#8239;: il ne délivre pas un jugement du type _“cet EPUB est / n’est pas accessible”_ mais génère un rapport HTML mettant l'accent sur les enfreintes aux règles d’accessibilité&#8239;; il met également en évidence la structure de la publication et affiche les attributs d’accessibilité présents dans ses images. La qualité sémantique de la publication n’est pas jaugée par la mécanique de cet outil. La génération de métadonnées d’accessibilité, et en particulier l’évaluation d’un niveau de conformité WCAG, nécessite un audit du rapport Ace.
 
 Le Consortium DAISY a donc également développé un outil nommé SMART (Simple Manual Accessibility Report Tool), qui indique les contrôles manuels nécessaires pour garantir la conformité aux exigences EPUB et WCAG. SMART est le compagnon idéal de Ace, il vous guide pour établir et générer un rapport de conformité complet. Ensemble, ils fournissent la méthode la plus complète pour les tests de conformité d'accessibilité des publications EPUB.
 
 Pour utiliser SMART, vous devez d'abord faire passer votre EPUB par Ace, qui effectue une vérification automatisée et recueille des informations sur les caractéristiques du titre. Ace génère un rapport au format JSON, qui est ensuite chargé par l'utilisateur dans l'outil SMART. SMART remplit les informations de l'évaluation et configure intelligemment le protocole de test manuel sur la base des résultats de Ace.
 
-À partir de ce moment :
+À partir de ce moment&#8239;:
 
 -   SMART vous guide tout au long du processus de vérification manuelle
 -   Les points de contrôle sont adaptés en fonction des propriétés de votre publication
@@ -76,33 +76,33 @@ Dans ce cas, il est recommandé de prévoir une version accessible de l'ouvrage 
 
 ### Les référentiels
 
-Référentiels applicables aux livres numériques au format EPUB 3 :
+Référentiels applicables aux livres numériques au format EPUB 3&#8239;:
 
 <a href="http://www.edrlab.org/public/sne/TAE_HTML_V3/Techniques_d_Accessibilite_EPUB%201.0.html" class="link color_orange">Techniques d’Accessibilité EPUB 1.0</a>
 
-Référentiels en anglais, version stable :
+Référentiels en anglais, version stable&#8239;:
 
 <a href="https://www.w3.org/Submission/epub-a11y/" class="link color_orange">EPUB Accessibility 1.0</a>
 
 <a href="https://idpf.org/epub/a11y/techniques/" class="link color_orange">EPUB Accessibility Techniques 1.0</a>
 
-Référentiels en anglais, version en cours de validation :
+Référentiels en anglais, version en cours de validation&#8239;:
 
 <a href="https://www.w3.org/TR/epub-a11y-11/" class="link color_orange">EPUB Accessibility 1.1</a>
 
 <a href="https://www.w3.org/TR/epub-a11y-tech-11/" class="link color_orange">EPUB Accessibility Techniques 1.1</a>
 
-Ouvrage en anglais :
+Ouvrage en anglais&#8239;:
 
 <a href="https://www.oreilly.com/library/view/accessible-epub-3/9781449329297/" class="link color_orange">Accessible EPUB 3, by Matt Garrish (O’Reilly, téléchargement gratuit)</a>
 
-Référentiels en anglais, applicables aux pages Web qui constituent les ressources des fichiers EPUB 3 :
+Référentiels en anglais, applicables aux pages Web qui constituent les ressources des fichiers EPUB 3&#8239;:
 
 <a href="https://www.w3.org/TR/WCAG20/" class="link color_orange">Web Content Accessibility Guidelines (WCAG) 2.0</a>
 
 <a href="https://www.w3.org/WAI/ARIA/apg/" class="link color_orange">ARIA Authoring Practices Guide</a>
 
-Travaux en cours sur l'accessibilité des formats EPUB Fixed Layout :
+Travaux en cours sur l'accessibilité des formats EPUB Fixed Layout&#8239;:
 
 <a href="https://w3c.github.io/epub-specs/epub33/fxl-a11y/" class="link color_orange">EPUB Fixed Layout Accessibility</a>
 

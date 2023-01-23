@@ -32,7 +32,7 @@ Les Mac sont dotés nativement d’un logiciel de lecture nommé Voice Over. Les
 
 [Thorium Reader](https://www.edrlab.org/software/thorium-reader/) est une application de lecture gratuite et hautement accessible, qui fonctionne sur ordinateur Windows, MacOS et Linux. Cette application permet la lecture de livres numériques au format EPUB ou PDF, ainsi que l’écoute de livres audio.
 
-Les EPUB peuvent avoir une mise en page adaptable ou fixe, ils peuvent être dotés d’une piste audio synchronisée ou être lus à voix haute par une voix de synthèse ; les livres interactifs sont également supportés.
+Les EPUB peuvent avoir une mise en page adaptable ou fixe, ils peuvent être dotés d’une piste audio synchronisée ou être lus à voix haute par une voix de synthèse&#8239;; les livres interactifs sont également supportés.
 
 Thorium permet de modifier facilement un grand nombre de paramètres d’affichage des texte (police, taille de la police, écartements).. Le logiciel est compatible avec les lecteurs d’écran NVDA et JAWS sous Windows, Voice Over sous MacOS.
 Thorium permet d’emprunter directement des ouvrages dans des bibliothèques numériques, et d’accéder aux livres numériques acquis auprès de libraires numériques. L’application est développée par EDRLab et fait l’objet de mises à jour fréquentes.
@@ -55,7 +55,7 @@ Les liseuses sont des appareils grand public sans clavier, de basse consommation
 
 <a href="https://www.edrlab.org/accessibility/lecture-et-deficience-visuelle/" class="link color_orange">Comment accéder à une offre de lecture adaptée quand on est déficient visuel.</a> Guide de 2018 par Fernando Pinto Da Silva pour EDRLab.
 
-<a href="https://www.edrlab.org/accessibility/epub-and-dyslexia/" class="link color_orange">Uses and potential of EPUB ebooks for dyslexic people. </a> Étude menée entre 2017 et 2019 par Luc Maumet pour EDRLab. Les rappports sont disponibles en français : [mission “EPUB et dyslexie”, 2018. EPUB, 1.7 Mo](https://www.edrlab.org/public/a11y/EDRLab-Dyslexie-2018.epub) et [EPUB et dyslexie en Europe, 2019. EPUB, 120 Ko](https://www.edrlab.org/public/a11y/EPUB-dyslexie-en-Europe-2019.epub).
+<a href="https://www.edrlab.org/accessibility/epub-and-dyslexia/" class="link color_orange">Uses and potential of EPUB ebooks for dyslexic people. </a> Étude menée entre 2017 et 2019 par Luc Maumet pour EDRLab. Les rappports sont disponibles en français&#8239;: [mission “EPUB et dyslexie”, 2018. EPUB, 1.7 Mo](https://www.edrlab.org/public/a11y/EDRLab-Dyslexie-2018.epub) et [EPUB et dyslexie en Europe, 2019. EPUB, 120 Ko](https://www.edrlab.org/public/a11y/EPUB-dyslexie-en-Europe-2019.epub).
 
 <a href="https://edrlab.github.io/thorium-reader-doc/fr/" class="link color_orange">Documentation complète de l’application Thorium</a>
 

@@ -15,7 +15,7 @@ aux textes qu’au prix d’une adaptation personnalisée de leur présentation.
 handicap mental et handicap physique peuvent aussi constituer des obstacles pour l’accès à l’écrit.
 La pénurie de livres adaptés aux besoins de ces publics est un phénomène persistant dont il
 est difficile de se satisfaire. L’accès aux livres est en effet porteur d’enjeux majeurs pour les
-personnes en situation de handicap comme pour l’ensemble de la population : il permet de
+personnes en situation de handicap comme pour l’ensemble de la population&#8239;: il permet de
 découvrir des œuvres littéraires, de forger sa culture générale et citoyenne, d’apprendre et
 de se former tout au long de la vie.
 
@@ -64,16 +64,16 @@ participation des personnes en situation de handicap à la vie culturelle, aux d
 la diversité des créations littéraires et des savoirs, et d’anticiper la mise en œuvre du futur
 Acte européen d’accessibilité, le comité de pilotage interministériel pour le développement
 d’une offre de livres numériques accessible s’engage sur un plan stratégique dont les lignes
-directrices sont les suivantes :
+directrices sont les suivantes&#8239;:
 
 <h2 id="planstrat_item1">
-Généraliser l’utilisation d’un format de livres numériques permettant l’accessibilité et l’interopérabilité tant avec les outils grand public qu’avec les technologiesd’assistance : le format EPUB 3
+Généraliser l’utilisation d’un format de livres numériques permettant l’accessibilité et l’interopérabilité tant avec les outils grand public qu’avec les technologiesd’assistance&#8239;: le format EPUB 3
 </h2>
 
 Un environnement de lecture ne peut être accessible que s’il s’appuie sur des standards
 techniques ouverts et partagés. Les personnes en situation de handicap recourent à des outils
 de lecture spécifiquement conçus pour répondre à leurs besoins, dits technologies
-d’assistance, tels que : lecteurs d’écran, logiciels de synthèse vocale, lecteurs de livres audio
+d’assistance, tels que&#8239;: lecteurs d’écran, logiciels de synthèse vocale, lecteurs de livres audio
 structurés, logiciels d’adaptation automatique des paramètres d’affichage des textes, ou
 plages braille. Il est donc souhaitable d’utiliser des formats de publication interopérables, qui
 puissent être pris en charge par ces technologies. Parce qu’il répond à ces attentes, l’EPUB 3
@@ -241,7 +241,7 @@ interministériel pour le développement d’une offre de livres numériques acc
 personnes en situation de handicap.
 </h2>
 
-### Administrations et établissements publics :
+### Administrations et établissements publics&#8239;:
 
 -   Le ministère de la culture
 -   Le secrétariat d’Etat chargé des personnes handicapées
@@ -249,13 +249,13 @@ personnes en situation de handicap.
 -   Le ministère de l’enseignement supérieur, de la recherche et de l’innovation
 -   Le Centre national du livre (CNL)
 
-### Organismes représentatifs des personnes handicapées :
+### Organismes représentatifs des personnes handicapées&#8239;:
 
 -   La Confédération française pour la promotion sociale des aveugles et amblyopes (CFPSAA)
 -   La Fédération française des dys (FFDYS)
 -   L’association Valentin Haüy
 
-### Organismes professionnels du secteur du livre numérique :
+### Organismes professionnels du secteur du livre numérique&#8239;:
 
 -   Le Syndicat national de l’édition (SNE)
 -   Le Syndicat de la librairie française (SLF)

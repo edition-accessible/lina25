@@ -37,7 +37,7 @@ Le document [EPUB Accessibility - EU Accessibility Act Mapping](https://www.w3.o
 
 ### Exigences relatives à la distribution du livre numérique
 
-Les critères d’accessibilité retenus pour la distribution des livres numériques sont indiquées à la section 3 (III) de l’annexe 1 :
+Les critères d’accessibilité retenus pour la distribution des livres numériques sont indiquées à la section 3 (III) de l’annexe 1&#8239;:
 
 -   Mettre à disposition les informations au moyen de plusieurs canaux sensoriels (Section III-b-i).
 -   Présenter les informations de façon compréhensible (Section III-b-ii).
