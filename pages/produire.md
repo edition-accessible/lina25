@@ -18,15 +18,17 @@ Un environnement de lecture ne peut être accessible que s’il s’appuie sur d
 
 ### Reproduire les information sémantiques dans le code
 
-Les technologies d'assistance comme les dispositifs de lecture s'appuient sur la richesse sémantique du balisage des contenus. Les balises génériques comme `div` et `span` ne devraient être utilisées qu'en dernier recours. Pour chaque groupe et portion de texte, il faut ainsi assigner la sémantique correspondante. Il faut privilégier le vocabulaire HTML5, mais comme ce dernier reste très générique, il est nécessaire de le préciser à l'aide des vocabulaires EPUB type et DPUB ARIA. Ces deux derniers sont complémentaires, le premier adressant les dispositifs de lecture et le second les technologies d'assistance. Vous pouvez vous référer aux document des standards <span lang="en">_EPUB 3 Structural Semantics Vocabulary 1.1_</span> et <span lang="en">_DPUB-ARIA vocabulary_</span>. En cas de doute la Base de connaissance <span lang="en">_Accessible Publishing Knowledge Base_</span> maintenue par le Consortium Daisy vous permettra de consulter des exemples et de trouver de l'information supplémentaire.
+Les technologies d'assistance comme les dispositifs de lecture s'appuient sur la richesse sémantique du balisage des contenus. Pour chaque groupe et portion de texte, il faut ainsi assigner la sémantique correspondante. Il faut privilégier le vocabulaire HTML5, mais comme ce dernier reste très générique, il est nécessaire de le préciser à l'aide des vocabulaires EPUB type et DPUB ARIA. Ces deux derniers sont complémentaires, le premier adressant les dispositifs de lecture et le second les technologies d'assistance. Vous pouvez vous référer aux document des standards <span lang="en">_EPUB 3 Structural Semantics Vocabulary 1.1_</span> et <span lang="en">_DPUB-ARIA vocabulary_</span>. En cas de doute la Base de connaissance <span lang="en">_Accessible Publishing Knowledge Base_</span> maintenue par le Consortium Daisy vous permettra de consulter des exemples et de trouver de l'information supplémentaire. Les balises génériques comme `div` et `span` ne devraient être utilisées que pour des besoins non couverts par les balises HTML.
 
 Afin de faciliter et standardiser la production de livres numériques nativement accessibles au format EPUB 3, le SNE (Syndicat national de l’Edition) a rédigé une charte technique, disponible au format PDF. Cette charte “EPUB NAC” (pour _Nativement ACcessible_) reprend les recommandations des référentiels d’accessibilité internationaux et apporte des éclaircissements sur tout ce qui fait question dans les standards d’accessibilité applicables au format EPUB.
+
+Il n'existe pas à ce jour de document répertoriant l'usage des roles ARIA par les technologies d'assistance comme les lecteurs d'écrans. Nous savons néanmoins que les meilleures prises en charge sont assurées par talkback (android) et donc constatables sur les applications Google Play Livre ou Aldiko.
 
 ### Insérer les descriptions des ressources graphiques
 
 Dans la plupart des cas, l’auteur du livre n’aura pas décrit les images de l’ouvrage. Les services de production devront alors se référer au guide de bonnes pratiques rédigé par le SNE pour la rédaction des alternatives aux images. Le document _Mise en accessibilité des images dans les EPUBs - synthése des travaux du groupe normes et standard du SNE_ apporte des explications sur les principes et techniques à appliquer.
 
-Le groupe de travail sur la transition vers l'EPUB du Consortium DAISY maintient un document _Experimental Accessibility Tests: Extended Descriptions_ qui vous permettra de tester les possibilitées et d'étudier leur réalisation.
+Le groupe de travail sur la transition vers l'EPUB du Consortium DAISY maintient un document _Best Practices for Authoring Extended Descriptions in EPUB_ qui vous permettra de tester les possibilitées et d'étudier leur réalisation.
 
 ### Contrôler la qualité des fichiers
 
@@ -45,6 +47,10 @@ Pour utiliser SMART, vous devez d'abord faire passer votre EPUB par Ace, qui eff
 SMART est conçu pour être polyvalent. Il s'intègre à la base de connaissances sur la publication accessible de DAISY pour fournir des informations sur l'accessibilité qui font autorité aux auteurs, aux éditeurs et aux fournisseurs de la chaîne d'approvisionnement. Il peut être intégré à de nombreux flux de travail différents dans une variété de points de contrôle d'assurance qualité.
 
 SMART est libre d'utilisation. Créez un compte à l’adresse smart.daisy.org pour avoir un accès complet à l'application. À ce jour SMART n’est disponible qu’en anglais.
+
+Notez que pour vérifier comment sont rendues les arguments ARIA Role il est nécessaire de lire et manipuler le livre avec un lecteur d'écran. Les fabricants de ces derniers ne communiquent pas sur l'usage qu'ils en font, ce dernier pouvant être influencé par le paramétrage de verbosité sélectionné par l'utilisateur. 
+
+epubtest.org donne une visibilité sur la prise en charge des fonctionnalitées d'accessibilité par les dispositifs de lecture. Les fichiers utilisés pour ce stests sont disponibles à la même adresse et peuvent servir d'exemple si vous avez des doutes sur les formes et imbrications à utiliser. 
 
 ### Ajouter des métadonnées d’accessibilité aux fichiers
 
@@ -106,11 +112,13 @@ Travaux en cours sur l'accessibilité des formats EPUB Fixed Layout&#8239;:
 
 <a href="https://w3c.github.io/epub-specs/epub33/fxl-a11y/" class="link color_orange">EPUB Fixed Layout Accessibility</a>
 
+
+
 ### Alternatives aux ressources graphiques
 
 <a href="https://www.sne.fr/app/uploads/2022/10/SNE-Normes-et-stanrdards-Textes-alternatifs-image-Document-de-synthese-.._vdef2.pdf" class="link color_orange">Mise en accessibilité des images dans les EPUBs - synthése des travaux du groupe normes et standard du SNE, octobre 2022 (PDF non balisé, 2 Mo)</a>
 
-<a href="https://github.com/daisy/transitiontoepub/blob/main/experimental/build/Experimental-Accessibility-Tests-Extended-Descriptions-v1.2.12.epub?raw=true" class="link color_orange">Experimental Accessibility Tests: Extended Descriptions</a>
+<a href="https://daisy.github.io/transitiontoepub/best-practices/extended-desc/ExtendedDescriptionsBestPractices.html" class="link color_orange">Best Practices for Authoring Extended Descriptions in EPUB</a>
 
 ### Contrôle
 
@@ -119,6 +127,8 @@ Travaux en cours sur l'accessibilité des formats EPUB Fixed Layout&#8239;:
 <a href="https://daisy.org/activities/software/ace/" class="link color_orange">Ace by DAISY</a>
 
 <a href="https://daisy.org/activities/services/smart/" class="link color_orange">SMART by DAISY</a>
+
+<a href="https://epubtest.org/results" class="link color_orange">epubtest.org</a> permet de vérifier la prise en charge des fonctionnalitées par les dispositifs de lecture. Les fichiers test peuvent aussi être utiles comme exemples.
 
 ### Métadonnées
 
