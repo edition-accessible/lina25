@@ -2,6 +2,8 @@
 layout: page
 title: Ce que dit
 subtitle: la loi
+orientation: appréhender les cadres juridiques européen et national en termes d’accessibilité du livre numérique
+audience: tous les métiers du livre
 previous: ./lire.html
 next: ../index.html
 titleNext: Accueil
@@ -13,6 +15,7 @@ titlePrev: Lire
 {%- include principes.html -%}
 
 La directive 2019/882 du parlement Européen relative aux exigences en matière d’accessibilité applicables aux produits et services adoptée le 17 avril 2019 entrera en vigueur en juin 2025.
+
 Elle a pour objet de contribuer au bon fonctionnement du marché intérieur en rapprochant les dispositions législatives, réglementaires et administratives des États membres en ce qui concerne les exigences en matière d’accessibilité applicables à certains produits et services, grâce, notamment, à l’élimination et à la prévention des obstacles qui entravent la libre circulation de certains produits et services accessibles découlant d’exigences divergentes en matière d’accessibilité dans les États membres.
 
 La directive doit-être transposée dans les législations nationales, la transposition française n’est pas encore connue et sera ajoutée ici dès parution.
