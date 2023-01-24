@@ -1,7 +1,7 @@
 layout: page
 title: Afficher
 subtitle: une expérience de lecture riche
-orientation: Permettre aux lecteurs d’exploiter les fonctionnalités d’accessibilité des livres numériques
+orientation: permettre aux lecteurs d’exploiter les fonctionnalités d’accessibilité des livres numériques
 audience: développeurs d'outils de lecture
 previous: ./diffuser.html
 next: ./lire.html
