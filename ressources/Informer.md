@@ -1,4 +1,4 @@
-
+---
 layout: document
 title: "Recommandations pour l'affichage des informations d'accessibilité"
 previous: ../pages/diffuser.html

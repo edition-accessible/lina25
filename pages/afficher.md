@@ -1,3 +1,4 @@
+---
 layout: page
 title: Afficher
 subtitle: une expérience de lecture riche

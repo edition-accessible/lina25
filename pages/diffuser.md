@@ -1,4 +1,4 @@
-
+---
 layout: page
 title: Diffuser
 subtitle: et distribuer au plus près des besoins

@@ -1,4 +1,3 @@
-
 ---
 layout: document
 title: "Dictionnaire des métadonnées d'accessibilité"
