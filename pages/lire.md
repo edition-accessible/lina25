@@ -59,4 +59,8 @@ Les liseuses sont des appareils grand public sans clavier, de basse consommation
 
 <a href="https://edrlab.github.io/thorium-reader-doc/fr/" class="link color_orange">Documentation complète de l’application Thorium</a>
 
+<a href="https://inclusivepublishing.org/rs-accessibility/" class="link color_orange">Reading Systems Accessibility Support Roundup</a> Un tour d'horizon des applications de lectures testées par epubtest.org (en anglais).
+
+
+
 </section>
