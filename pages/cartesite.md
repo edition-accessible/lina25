@@ -5,16 +5,18 @@ subtitle:
 date: 2023-01-01
 ---
 
-* [[/lina25/index.html]](Accueil)
-* [[/lina25/index.html#pourquoi]](Pourquoi ce site)
-* [[/lina25/index.html#savoirs]](Ce que vous devez savoir)
-  * [[/lina25/pages/concevoir.html]](Concevoir des contenus complets)
-  * [[/lina25/pages/produire.html]](Produire des structures sémantiques riches)
-  * [[/lina25/pages/traiter.html]](Traiter le fonds)
-  * [[/lina25/pages/collecter.html]](Collecter & référencer des informations précises)
-  * [[/lina25/pages/diffuser.html]](Diffuser & distribuer au plus près des besoins)
-  * [[/lina25/pages/afficher.html]](Afficher une expérience de lecture riche)
-  * [[/lina25/pages/lire.html]](Lire dans les meilleures conditions)
-  * [[/lina25/pages/loi.html]](Ce que dit la loi)
- * [[/lina25/pages/apropos]](À propos de ce site)
- * [[/lina25/pages/accessibilite]](Accessibilité de ce site)
+<ul>
+<li><a href="../index.html">Accueil</a></li>
+<li><a href="../index.html#pourquoi">Pourquoi ce site</a></li>
+<li><a href="../index.html#savoirs">Ce que vous devez savoir</a></li>
+<li><a href="concevoir.html">Concevoir des contenus complets</a></li>
+<li><a href="produire.html">Produire des structures sémantiques riches</a></li>
+<li><a href="traiter.html">Traiter le fonds</a></li>
+<li><a href="collecter.html">Collecter & référencer des informations précises</a></li>
+<li><a href="diffuser.html">Diffuser et distribuer au plus près des besoins</a></li>
+<li><a href="afficher.html">Afficher une expérience de lecture riche</a></li>
+<li><a href="lire.html">Lire dans les meilleures conditions</a></li>
+<li><a href="loi.html">Ce que dit la loi</a></li>
+<li><a href="apropos">À propos de ce site</a></li>
+<li><a href="accessibilite">Accessibilité de ce site</a></li>
+</ul>
