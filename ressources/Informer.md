@@ -21,8 +21,8 @@ Les informations plus détaillées sont contenues dans un élément masqué et p
 
 -   Format de fichier (EPUB, PDF, MP3, Audiobook, Etc.
 -   La mesure de protection ou son absence
--   ate de publication
--   de la maison d’édition
+-   Date de publication
+-   Nom de la maison d’édition
 -   La langue principale du contenu
 
 <details>
@@ -50,14 +50,11 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
 </p>
 </details>
 <h3 id="accessibilité">Accessibilité</h3>
-<ul>
-<li>
-<p>Si le code 196- 09 Inaccessible est présent, afficher&#8239;: <strong>Défauts d'accessibilité reconnus</strong>. </p></li>
-        <li><p>
-Si aucune des informations n’est fournie, afficher&#8239;: <strong>Aucune information sur l’accessibilité n’est disponible</strong>.
-</p></li>
-<li><p>Si une ou plusieurs des informations ci-dessous sont présentes, elles devraient être regroupées sous un niveau de titre logique. <br/>L’intitulé de ce titre devrait être <strong>Accessibilité</strong> ou <strong>Informations d’accessibilité</strong>. <br/>Le pictogramme de l’homme de Vitruve pourra être utilisé en complément.</li>
-    </ul>
+
+* Si le code 196- 09 Inaccessible est présent, afficher&#8239;: <strong>Défauts d'accessibilité reconnus</strong>. 
+* Si aucune des informations n’est fournie, afficher&#8239;: <strong>Aucune information sur l’accessibilité n’est disponible</strong>.
+* Si une ou plusieurs des informations ci-dessous sont présentes, elles devraient être regroupées sous un niveau de titre logique. L’intitulé de ce titre devrait être <strong>Accessibilité</strong> ou <strong>Informations d’accessibilité</strong>. Le pictogramme de l’homme de Vitruve pourra être utilisé en complément.
+
 <p>Chaque tableau indique une catégorie d'information qui peuvent être affichées sur une seule ligne ou regroupées sous l'intitulé correspondant. Les intitulés des catégories peuvent être repris ou omis.</p>
 <p>Les éléments d'importance forte devraient toujours être affichés et visibles sans action spécifique de l'utilisateur. Les autres éléments peuvent être masqués et disponibles seulement après action de l'utilisateur (élément détail, tooltip, popup ou lien vers une portion plus lointaine de la page web). Certains éléments peuvent ne pas être affichés si une conformité est déclarée.</p>
 <h4>Modes de lecture</h4>
@@ -102,6 +99,56 @@ Si aucune des informations n’est fournie, afficher&#8239;: <strong>Aucune info
 </tr>
 </tbody>
 </table>
+
+
+<h4>Navigation</h4>
+<table  class="zebra">
+<thead>
+<tr class="header">
+<th>Valeur affichée</th>
+<th>Définition</th>
+<th>code ONIX</th>
+<th>En cas d’absence</th>
+<th>Importance</th>
+</tr>
+</thead>
+<tbody>
+    <tr class="even">
+<td>Référence à la pagination du livre imprimé {contenu de 51-13 RelatedProduct}</td>
+<td><em>Le livre peut être utilisé en complément de sa version imprimée, la pagination de référence étant préservée.</em></td>
+<td><a href="https://ns.editeur.org/onix/fr/196/19">Liste 196 Code 19 Numérotation de pages équivalente au document imprimé et 51 - 13 - Publication numérique basée sur (édition papier)</a></td>
+<td>ignorer</td>
+<td>forte</td>
+</tr>
+<tr class="even">
+<td>Table des matières adaptable</td>
+<td><em>Un sommaire est présent dans le contenu du livre, ce qui permet de l'utiliser avec un affichage adapté.</em></td>
+<td><a href="https://ns.editeur.org/onix/fr/196/11">Liste 196 Code 11 Navigation dans la table des matières</a></td>
+<td>ignorer</td>
+<td></td></tr>
+<tr class="even">
+<td>Index fonctionnels</td>
+<td><em>Un ou des index sont présents dans le contenu du livre. Ils sont composés avec des liens hypertextes et permettent d'accéder aux points de référence indexés.</em></td>
+<td><a href="https://ns.editeur.org/onix/fr/196/">Liste 196 Code 12 Navigation dans l’index</a></td>
+<td>ignorer</td>
+<td></td></tr>
+<tr class="even">
+<td>Navigation logique </td>
+<td><em>La voix de synthèse lira les éléments dans un ordre logique déterminé par l'éditeur ou l'auteur.</em></td>
+<td><a href="https://ns.editeur.org/onix/fr/196/">Liste 196 Code 13 Ordre de lecture</a></td>
+<td>ignorer</td>
+<td>Peut ne pas être affiché si la <a href="https://ns.editeur.org/onix/fr/196/02">Spécifications d’accessibilité EPUB 1.0 A (Liste 196 Code 02)</a> ou <a href="https://ns.editeur.org/onix/fr/196/03">Spécifications d’accessibilité EPUB 1.0 AA (Liste 196 Code 03)</a> est présente.</td></tr>
+<tr class="even">
+<td>Navigation logique entre les chapitres</td>
+<td><em>La structure du livre sera correctement interprétée par les dispositifs de lecture.</em></td>
+<td><a href="https://ns.editeur.org/onix/fr/196/">Liste 196 Code 29 Navigation suivant/précédent</a></td>
+<td>ignorer</td>
+<td>Peut ne pas être affiché si la <a href="https://ns.editeur.org/onix/fr/196/02">Spécifications d’accessibilité EPUB 1.0 A (Liste 196 Code 02)</a> ou <a href="https://ns.editeur.org/onix/fr/196/03">Spécifications d’accessibilité EPUB 1.0 AA (Liste 196 Code 03)</a> est présente.</td></tr>
+
+</tbody>
+</table>
+
+
 <h4>Fonctionnalités</h4>
 <table  class="zebra">
 <thead>
@@ -176,52 +223,6 @@ Si aucune des informations n’est fournie, afficher&#8239;: <strong>Aucune info
 </tbody>
 </table>
 
-<h4>Navigation</h4>
-<table  class="zebra">
-<thead>
-<tr class="header">
-<th>Valeur affichée</th>
-<th>Définition</th>
-<th>code ONIX</th>
-<th>En cas d’absence</th>
-<th>Importance</th>
-</tr>
-</thead>
-<tbody>
-    <tr class="even">
-<td>Référence à la pagination du livres imprimé {contenu de 51-13 RelatedProduct}</td>
-<td><em>Le livre peut être utilisé en complément de sa version imprimée, la pagination de référence étant préservée.</em></td>
-<td><a href="https://ns.editeur.org/onix/fr/196/19">Liste 196 Code 19 Numérotation de pages équivalente au document imprimé et 51 - 13 - Publication numérique basée sur (édition papier)</a></td>
-<td>ignorer</td>
-<td>forte</td>
-</tr>
-<tr class="even">
-<td>Table des matières adaptable</td>
-<td><em>Un sommaire est présent dans le contenu du livre, ce qui permet de l'utiliser avec un affichage adapté.</em></td>
-<td><a href="https://ns.editeur.org/onix/fr/196/11">Liste 196 Code 11 Navigation dans la table des matières</a></td>
-<td>ignorer</td>
-<td></td></tr>
-<tr class="even">
-<td>Index fonctionnels</td>
-<td><em>Un ou des index sont présents dans le contenu du livre. Ils sont composés avec des liens hypertextes et permettent d'accéder aux points de référence indexés.</em></td>
-<td><a href="https://ns.editeur.org/onix/fr/196/">Liste 196 Code 12 Navigation dans l’index</a></td>
-<td>ignorer</td>
-<td></td></tr>
-<tr class="even">
-<td>Navigation logique </td>
-<td><em>La voix de synthèse lira les éléments dans un ordre logique déterminé par l'éditeur ou l'auteur.</em></td>
-<td><a href="https://ns.editeur.org/onix/fr/196/">Liste 196 Code 13 Ordre de lecture</a></td>
-<td>ignorer</td>
-<td>Peut ne pas être affiché si la <a href="https://ns.editeur.org/onix/fr/196/02">Spécifications d’accessibilité EPUB 1.0 A (Liste 196 Code 02)</a> ou <a href="https://ns.editeur.org/onix/fr/196/03">Spécifications d’accessibilité EPUB 1.0 AA (Liste 196 Code 03)</a> est présente.</td></tr>
-<tr class="even">
-<td>Navigation logique entre les chapitres</td>
-<td><em>La structure du livre sera correctement interprétée par les dispositifs de lecture.</em></td>
-<td><a href="https://ns.editeur.org/onix/fr/196/">Liste 196 Code 29 Navigation suivant/précédent</a></td>
-<td>ignorer</td>
-<td>Peut ne pas être affiché si la <a href="https://ns.editeur.org/onix/fr/196/02">Spécifications d’accessibilité EPUB 1.0 A (Liste 196 Code 02)</a> ou <a href="https://ns.editeur.org/onix/fr/196/03">Spécifications d’accessibilité EPUB 1.0 AA (Liste 196 Code 03)</a> est présente.</td></tr>
-
-</tbody>
-</table>
 <h4>Points d'attention</h4>
 <table  class="zebra">
     <thead>
