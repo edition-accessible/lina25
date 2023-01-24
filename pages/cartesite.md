@@ -3,6 +3,8 @@ layout: document
 title: "Carte du site"
 subtitle: 
 date: 2023-01-01
+previous: ../index.html
+titlePrev: Accueil
 ---
 
 <ul>
