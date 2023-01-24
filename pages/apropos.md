@@ -2,7 +2,7 @@
 layout: document
 title: "À propos"
 subtitle: 
-date: 2021-01-20
+date: 2023-01-01
 ---
 
 Ce site est réalisé par EDRLab. 
