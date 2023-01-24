@@ -341,7 +341,7 @@ Si aucune des informations n’est fournie, afficher&#8239;: <strong>Aucune info
 <input type="checkbox"><label class="option">Texte et audio synchronisés</label>
 </li>
 </ul>
-<p>Un pictogramme Homme de Vitruve avec texte alt " accessible" peut-être affecté à tout fichier déclarant <strong>Liste 196 Code 03 Spécifications d’accessibilité EPUB 1.0 AA</strong>&#8239;: <img src="https://www.w3.org/2021/09/UX-Guide-metadata-1.0/principles/media/accessibility.svg" alt="Informations sur l'accessibilité" width="15"></p>
+<p>Un pictogramme Homme de Vitruve avec texte alt " accessible" peut-être affecté à tout fichier déclarant <strong>Liste 196 Code 03 Spécifications d’accessibilité EPUB 1.0 AA</strong>&#8239;: <img src="https://www.w3.org/2021/09/UX-Guide-metadata-1.0/principles/media/accessibility.svg" alt="Informations sur l'accessibilité" width="15px"></p>
 </article>
 
 <article>
