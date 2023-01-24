@@ -28,8 +28,10 @@ Les exigences de la directive Européenne impliquent que des informations sont d
 * les **modes de lecture** (tout le contenu disponible en voix de synthèse et braille, affichage modifiable, synchronisation texte et audio, etc.)&#8239;; 
 * les possibilitées de **navigation** dans le fichier (table des matières dans le contenu, pagination de référence d’un imprimé, etc.), 
 * les **fonctionnalités du livre** (illustrations, tableaux, schémas, math, etc.) et leur accessibilité. 
-* Le **blocage** éventuel des fonctionnalités d’accessibilité par des mesures de protection inadéquates (DRM) devrait aussi être renseigné.
+* les **risques** physiologiques éventuels liés à l'épilepsie ou à l'hypersensibilité.
+* le **blocage** éventuel des fonctionnalités d’accessibilité par des mesures de protection inadéquates (DRM) devrait aussi être renseigné.
 
+Chacune de ces catégorie est détaillée dans le dictionnaire des métadonnées d'accessibilité. 
 ### Les informations supplémentaires utiles
 
 #### La conformité
@@ -42,7 +44,7 @@ L'ajout d'un résumé d'accessibilité (<a href="https://ns.editeur.org/onix/en/
 
 Lors de la création du résumé d'accessibilité, il faut partir du principe que les autres métadonnées d'accessibilité ont déjà été présentées et que le résumé d'accessibilité sert à améliorer ces métadonnées. Si la publication présente des caractéristiques ou des lacunes qui ne sont pas exprimées dans les autres métadonnées d'accessibilité, le résumé d'accessibilité est l'endroit approprié pour inclure ces informations. 
 
-Ce résumé devrait être le même que celui contenu dans le fichier EPUB (schema.org accessibility summary) et préciser notament les déficiences potentielles. Un guide de rédaction de ce résumé est en cours d'élaboration au sein du groupe des éditeurs du W3C. 
+Ce résumé devrait être le même que celui contenu dans le fichier EPUB (<span lang="en"><i>schema.org accessibility summary</i></span>) et préciser notament les déficiences potentielles. Un guide de rédaction de ce résumé est en cours d'élaboration au sein du groupe des éditeurs du W3C. 
 
 #### Cerificats et démarches d'accessibilité
 
