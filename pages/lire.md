@@ -1,8 +1,9 @@
+
 ---
 layout: page
 title: Lire
 subtitle: dans les meilleures conditions
-orientation: Savoir exploiter au mieux les fonctionnalitées d'accessibilité des livres numériques.
+orientation: savoir exploiter au mieux les fonctionnalités d'accessibilité des livres numériques.
 audience: lecteurs, prescripteurs, accompagnants
 previous: ./afficher.html
 next: ./loi.html
@@ -20,7 +21,7 @@ Dans cette page, nous donnons des pistes d’outils de lecture numérique qui fa
 
 ### Matériels spécialisés
 
-On trouve jusqu’à présent très peu d’appareils spécialisés et gérant le format EPUB qui puissent se prétendre accessibles. La grande majorité des appareil spécialisés ont été conçus pour gérer le format DAISY, un format étudié spécifiquement pour les personnes en situation de handicap visuel. Ces appareils sont dotés d’une voix de synthèse de bonne qualité et permettent la navigation dans les ouvrage via un nombre réduit de touches.
+On trouve jusqu’à présent très peu d’appareils spécialisés et gérant le format EPUB qui puissent se prétendre accessibles. La grande majorité des appareils spécialisés ont été conçus pour gérer le format DAISY, un format étudié spécifiquement pour les personnes en situation de handicap visuel. Ces appareils sont dotés d’une voix de synthèse de bonne qualité et permettent la navigation dans les ouvrages via un nombre réduit de touches.
 
 ### Logiciels sur ordinateur
 
@@ -59,8 +60,9 @@ Les liseuses sont des appareils grand public sans clavier, de basse consommation
 
 <a href="https://edrlab.github.io/thorium-reader-doc/fr/" class="link color_orange">Documentation complète de l’application Thorium</a>
 
-<a href="https://inclusivepublishing.org/rs-accessibility/" class="link color_orange">Reading Systems Accessibility Support Roundup</a> Un tour d'horizon des applications de lectures testées par epubtest.org (en anglais).
+<a href="https://inclusivepublishing.org/rs-accessibility/" class="link color_orange">Reading Systems Accessibility Support Roundup</a> Un tour d'horizon des applications de lecture testées par epubtest.org (en anglais).
 
 
 
 </section>
+

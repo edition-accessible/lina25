@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: Produire
@@ -22,17 +23,17 @@ Les technologies d'assistance comme les dispositifs de lecture s'appuient sur la
 
 Afin de faciliter et standardiser la production de livres numériques nativement accessibles au format EPUB 3, le SNE (Syndicat national de l’Edition) a rédigé une charte technique, disponible au format PDF. Cette charte “EPUB NAC” (pour _Nativement ACcessible_) reprend les recommandations des référentiels d’accessibilité internationaux et apporte des éclaircissements sur tout ce qui fait question dans les standards d’accessibilité applicables au format EPUB.
 
-Il n'existe pas à ce jour de document répertoriant l'usage des roles ARIA par les technologies d'assistance comme les lecteurs d'écrans. Nous savons néanmoins que les meilleures prises en charge sont assurées par talkback (android) et donc constatables sur les applications Google Play Livre ou Aldiko.
+Il n'existe pas à ce jour de document répertoriant l'usage des Roles ARIA par les technologies d'assistance comme les lecteurs d'écrans. Nous savons néanmoins que les meilleures prises en charge sont assurées par talkback (android) et donc constatables sur les applications Google Play Livre ou Aldiko.
 
 ### Insérer les descriptions des ressources graphiques
 
-Dans la plupart des cas, l’auteur du livre n’aura pas décrit les images de l’ouvrage. Les services de production devront alors se référer au guide de bonnes pratiques rédigé par le SNE pour la rédaction des alternatives aux images. Le document _Mise en accessibilité des images dans les EPUBs - synthése des travaux du groupe normes et standard du SNE_ apporte des explications sur les principes et techniques à appliquer.
+Dans la plupart des cas, l’auteur du livre n’aura pas décrit les images de l’ouvrage. Les services de production devront alors se référer au guide de bonnes pratiques rédigé par le SNE pour la rédaction des alternatives aux images. Le document _Mise en accessibilité des images dans les EPUBs - synthèse des travaux du groupe normes et standard du SNE_ apporte des explications sur les principes et techniques à appliquer.
 
-Le groupe de travail sur la transition vers l'EPUB du Consortium DAISY maintient un document _Best Practices for Authoring Extended Descriptions in EPUB_ qui vous permettra de tester les possibilitées et d'étudier leur réalisation.
+Le groupe de travail sur la transition vers l'EPUB du Consortium DAISY maintient un document _Best Practices for Authoring Extended Descriptions in EPUB_ qui vous permettra de tester les possibilités et d'étudier leur réalisation.
 
 ### Contrôler la qualité des fichiers
 
-Une fois produits, les fichiers EPUB 3 devront être validés par la version à jour de EPUBCheck. Mais cet outil ne teste pas l’accessibilité des publications. Pour cela, il faudra faire appel à l’outil de test Ace by DAISY développé par le Consortium DAISY. Le logiciel Ace n’est pas conçu pour être utilisé de manière automatique&#8239;: il ne délivre pas un jugement du type _“cet EPUB est / n’est pas accessible”_ mais génère un rapport HTML mettant l'accent sur les enfreintes aux règles d’accessibilité&#8239;; il met également en évidence la structure de la publication et affiche les attributs d’accessibilité présents dans ses images. La qualité sémantique de la publication n’est pas jaugée par la mécanique de cet outil. La génération de métadonnées d’accessibilité, et en particulier l’évaluation d’un niveau de conformité WCAG, nécessite un audit du rapport Ace.
+Une fois produits, les fichiers EPUB 3 devront être validés par la version à jour de EPUBCheck. Mais cet outil ne teste pas l’accessibilité des publications. Pour cela, il faudra faire appel à l’outil de test Ace by DAISY développé par le Consortium DAISY. Le logiciel Ace n’est pas conçu pour être utilisé de manière automatique&#8239;: il ne délivre pas un jugement du type _“cet EPUB est / n’est pas accessible”_ mais génère un rapport HTML mettant l'accent sur les enfreintes aux règles d'accessibilité&#8239;; il met également en évidence la structure de la publication et affiche les attributs d’accessibilité présents dans ses images. La qualité sémantique de la publication n’est pas jaugée par la mécanique de cet outil. La génération de métadonnées d’accessibilité, et en particulier l’évaluation d’un niveau de conformité WCAG, nécessite un audit du rapport Ace.
 
 Le Consortium DAISY a donc également développé un outil nommé SMART (Simple Manual Accessibility Report Tool), qui indique les contrôles manuels nécessaires pour garantir la conformité aux exigences EPUB et WCAG. SMART est le compagnon idéal de Ace, il vous guide pour établir et générer un rapport de conformité complet. Ensemble, ils fournissent la méthode la plus complète pour les tests de conformité d'accessibilité des publications EPUB.
 
@@ -46,15 +47,15 @@ Pour utiliser SMART, vous devez d'abord faire passer votre EPUB par Ace, qui eff
 
 SMART est conçu pour être polyvalent. Il s'intègre à la base de connaissances sur la publication accessible de DAISY pour fournir des informations sur l'accessibilité qui font autorité aux auteurs, aux éditeurs et aux fournisseurs de la chaîne d'approvisionnement. Il peut être intégré à de nombreux flux de travail différents dans une variété de points de contrôle d'assurance qualité.
 
-SMART est libre d'utilisation. Créez un compte à l’adresse smart.daisy.org pour avoir un accès complet à l'application. À ce jour SMART n’est disponible qu’en anglais.
+SMART est libre d'utilisation. Créez un compte à l’adresse smart.daisy.org pour avoir un accès complet à l'application. À ce jour, SMART n’est disponible qu’en anglais.
 
-Notez que pour vérifier comment sont rendues les arguments ARIA Role il est nécessaire de lire et manipuler le livre avec un lecteur d'écran. Les fabricants de ces derniers ne communiquent pas sur l'usage qu'ils en font, ce dernier pouvant être influencé par le paramétrage de verbosité sélectionné par l'utilisateur. 
+Notez que pour vérifier comment sont rendus les arguments ARIA Role il est nécessaire de lire et manipuler le livre avec un lecteur d'écran. Les fabricants de ces derniers ne communiquent pas sur l'usage qu'ils en font, ce dernier pouvant être influencé par le paramétrage de verbosité sélectionné par l'utilisateur. 
 
-epubtest.org donne une visibilité sur la prise en charge des fonctionnalitées d'accessibilité par les dispositifs de lecture. Les fichiers utilisés pour ce stests sont disponibles à la même adresse et peuvent servir d'exemple si vous avez des doutes sur les formes et imbrications à utiliser. 
+epubtest.org donne une visibilité sur la prise en charge des fonctionnalités d'accessibilité par les dispositifs de lecture. Les fichiers utilisés pour ces tests sont disponibles à la même adresse et peuvent servir d'exemple si vous avez des doutes sur les formes et imbrications à utiliser. 
 
 ### Ajouter des métadonnées d’accessibilité aux fichiers
 
-La classe schema.org CreativeWork comprend un ensemble de propriétés utilisées pour identifier les qualités d’accessiblité d'une publication. Ces métadonnées doivent être incluses dans le paquet OPF du fichier EPUB.
+La classe schema.org CreativeWork comprend un ensemble de propriétés utilisées pour identifier les qualités d'accessibilité d'une publication. Ces métadonnées doivent être incluses dans le paquet OPF du fichier EPUB.
 
 Les métadonnées obligatoires sont <span lang="en">**accessMode**, **accessModeSufficient**, **accessibilityFeature**</span> et <span lang="en">**accessibilityHazard**. **accessibilitySummary**</span> est fortement recommandé. Le nom de ce dernier est trompeur. Il ne s'agit pas d'un résumé complet, mais d'un complément d'information, d'une clarification et d'une amélioration des autres métadonnées d'accessibilité. Lors de la création du résumé d'accessibilité, il faut partir du principe que les autres métadonnées d'accessibilité ont déjà été présentées et que le résumé d'accessibilité sert à améliorer ces métadonnées. Si la publication présente des caractéristiques ou des lacunes qui ne sont pas exprimées dans les autres métadonnées d'accessibilité, le résumé d'accessibilité est l'endroit approprié pour inclure ces informations. Un guide de rédaction de ce résumé est en cours d'élaboration au sein du groupe des éditeurs du W3C. <span lang="en">[Accessibility Summary Authoring Guidelines for EPUB Publications Draft Community Group Report 07 December 2022](https://w3c.github.io/publ-a11y/drafts/schema-a11y-summary/)</span>.
 

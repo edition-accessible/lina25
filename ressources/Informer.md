@@ -1,4 +1,4 @@
----
+
 layout: document
 title: "Recommandations pour l'affichage des informations d'accessibilité"
 previous: ../pages/diffuser.html
@@ -9,7 +9,7 @@ titlePrev: Diffuser
 Le signalement des livres numériques accessibles signifie l’information donnée au lecteur avant achat pour lui permettre d’identifier les livres numériques qui lui permettront une lecture dans les meilleures conditions possibles.
 
 <p>L'approche retenue vise à proposer un accès rapide aux informations clés en les affichant à priori, c'est à dire non masquées et clairement identifiées. 
-Les informations plus détaillées sont contenues dans un element masqué et peuvent être consultées sur action de l'utilisateur.</p>
+Les informations plus détaillées sont contenues dans un élément masqué et peuvent être consultées sur action de l'utilisateur.</p>
 <p>Une attention particulière est portée sur l'évitement de possibles redondances. </p>
 <p>Une grille de correspondance, en fin de document, permet d'identifier les métadonnées ONIX qui assurent cette information. Un Crosswalk est disponible pour assurer l'interopérabilité des principales autres normes de métadonnées (Schema.org, MARC, MARC21 et UNIMARC).</p>
 
@@ -137,14 +137,14 @@ Si aucune des informations n’est fournie, afficher&#8239;: <strong>Aucune info
 
 <tr class="even">
     <td>Notations mathématiques structurées (MathML)</td>
-    <td><em>Le livre contient des formules mathématiques utilisant un language fonctionnel (MathML)</em></td>
+    <td><em>Le livre contient des formules mathématiques utilisant un langage fonctionnel (MathML)</em></td>
     <td><a href="https://ns.editeur.org/onix/fr/196/">Liste 196 Code 17 Contenu mathématique accessible</a></td>
     <td>ignorer</td>
     <td>forte</td></tr>
 
 <tr class="even">
     <td>Notations chimiques structurées (ChemML)</td>
-    <td><em>Le livre contient des formules chimiques utilisant un language fonctionnel (ChemML)</em></td>
+    <td><em>Le livre contient des formules chimiques utilisant un langage fonctionnel (ChemML)</em></td>
     <td><a href="https://ns.editeur.org/onix/fr/196/">Liste 196 Code 18 Contenu chimique accessible</a></td>
     <td>ignorer</td>
     <td>forte</td></tr>
@@ -169,7 +169,7 @@ Si aucune des informations n’est fournie, afficher&#8239;: <strong>Aucune info
 <tr class="even">
 <td>Textes en langue étrangère correctement vocalisés</td>
 <td><em>Le livre contient des portions de texte dans une autre langue que le contenu principal. Ces portions sont identifiées dans le code et seront correctement prononcées si la langue est disponible sur le dispositif de lecture.</em></td>
-<td><a href="https://ns.editeur.org/onix/fr/196/">Liste 196 Code 22 Balisage de la langue fourni</a></td>
+<td><a href="https://ns.editeur.org/onix/fr/196/">Liste 196 Code 22 Balisage de la langue fournit</a></td>
 <td>ignorer</td>
 <td>Peut ne pas être affiché si la <a href="https://ns.editeur.org/onix/fr/196/02">Spécifications d’accessibilité EPUB 1.0 A (Liste 196 Code 02)</a> ou <a href="https://ns.editeur.org/onix/fr/196/03">Spécifications d’accessibilité EPUB 1.0 AA (Liste 196 Code 03)</a> est présente.</td></tr>
 
@@ -320,7 +320,7 @@ Si aucune des informations n’est fournie, afficher&#8239;: <strong>Aucune info
 </tr>
 <tr class="even">
 <td><em>texte</em></td>
-<td>Le résumé d'accessibilité doit être considéré comme un addendum. C'est un texte écrit par l’éditeur indiquant les limites ou les particularitées qui ne sont pas exprimable autrement en ONIX.</td>
+<td>Le résumé d'accessibilité doit être considéré comme un addendum. C'est un texte écrit par l’éditeur indiquant les limites ou les particularités qui ne sont pas exprimables autrement en ONIX.</td>
 <td><a href="https://ns.editeur.org/onix/fr/196/00">Liste 196 Code 00&#8239;: Résumé sur l’accessibilité content=“lorem ipsum …”</a></td>
 <td>ignorer</td>
 <td></td>
@@ -346,7 +346,7 @@ Si aucune des informations n’est fournie, afficher&#8239;: <strong>Aucune info
 
 <article>
     <h2>Au sujet des livres imprimés</h2>
-    <p>Les livres imprimés ne peuvent prétendre à une accessibilité universelle, à moins d'être livrées en différentes versions dans une même édition. Cependant certaines édition spécialisées peuvent répondre à des besoins spécifiques. </p>
+    <p>Les livres imprimés ne peuvent prétendre à une accessibilité universelle, à moins d'être livrés en différentes versions dans une même édition. Cependant certaines éditions spécialisées peuvent répondre à des besoins spécifiques. </p>
     <p>ONIX permet d'informer sur ces éditions. Si la liste 196 est dédiée à l'accessibilité numérique, la <a href="https://ns.editeur.org/onix/fr/21">liste 21</a> permet d'indiquer un type d'édition particulier. On retiendra en particulier&#8239;:</p>
         <ul>
         <li><a href="https://ns.editeur.org/onix/fr/21/HRE">21:HRE Édition haute lisibilité</a></li>

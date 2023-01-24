@@ -1,8 +1,8 @@
----
+
 layout: page
 title: Diffuser
 subtitle: et distribuer au plus près des besoins
-orientation: Informer le lecteur avant achat ou emprunt.
+orientation: informer le lecteur avant achat ou emprunt.
 audience: distributeurs (DRM), libraires et bibliothèques
 previous: ./collecter.html
 next: ./afficher.html
@@ -23,19 +23,19 @@ En France EDRLab a été missionné pour étudier, en collaboration avec les dif
 
 ### Les informations nécessaires
 
-Les livres qui répondent aux exigences de la directive Européenne doivent indiquer qu'ils
+Les livres qui répondent aux exigences de la directive Européenne doivent indiquer qu'ils&#8239;:
 
--   permettent la lecture non visuelle (vocalisée ou transmise à un dispositif braille)
--   permettent la modification de l'affichage
--   permettent la navigation via une table des matières et la structure
+-   permettent la lecture non visuelle (vocalisée ou transmise à un dispositif braille) ;
+-   permettent la modification de l'affichage ;
+-   permettent la navigation via une table des matières et la structure.
 
 Les fonctionnalités spécifiques à certains types de contenus doivent aussi être indiquées. Cela comprend&#8239;:
 
--   la présence d'audio pré enregistrés synchronisés avec le texte
--   la présence d'une pagination de référence à un livre imprimé
--   la présence de formules mathématiques, chimiques ou physiques dans un format accessibles
--   la présence de descriptions détaillées pour les graphiques de données
--   la présence de flashs, sons ou simulations de mouvement qui peuvent déclencher des crises chez les personnes à risque
+-   la présence d'audio pré enregistrés synchronisés avec le texte ;
+-   la présence d'une pagination de référence à un livre imprimé ;
+-   la présence de formules mathématiques, chimiques ou physiques dans un format accessibles ;
+-   la présence de descriptions détaillées pour les graphiques de données ;
+-   la présence de flashs, sons ou simulations de mouvement qui peuvent déclencher des crises chez les personnes à risque.
 
 <blockquote>Le tableau de correspondances de la recommandation française indique comment obtenir, prioriser et labelliser ces informations. Ces travaux sont encore en cours.</blockquote>
 
@@ -49,7 +49,7 @@ Certains livres particuliers ont des fonctionnalités d'accessibilité peu commu
 
 ### Le choix du vocabulaire
 
-Afin que les lecteurs n'aient pas à interpréter un nouveau vocabulaire sur chaque site de vente ou de prêt en ligne, un vocabulaire type est proposé. Il est issue de plusieurs sondages et panels organisés en partenariat avec les acteurs concernés. Si vous voulez plus de renseignements sur la démarche et les résultats vous pouvez vous référer aux résultats de l'étude.
+Afin que les lecteurs n'aient pas à interpréter un nouveau vocabulaire sur chaque site de vente ou de prêt en ligne, un vocabulaire type est proposé. Il est issu de plusieurs sondages et panels organisés en partenariat avec les acteurs concernés. Si vous voulez plus de renseignements sur la démarche et les résultats vous pouvez vous référer aux résultats de l'étude.
 
 ### Mesures techniques de protection (DRM)
 
@@ -83,3 +83,4 @@ Les deux solutions actuellement disponibles pour le chiffrement des fichiers son
 <a href="https://www.edrlab.org/readium-lcp/" class="link color_orange">Readium LCP</a>
 
 </section>
+

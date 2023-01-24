@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: Traiter
@@ -30,7 +31,7 @@ Pour chiffrer le coût de la conversion des livres électroniques des fonds, il 
 
 ABELab est un projet porté par EDRLab en collaboration avec la <span lang="it">Fundazione LIA</span> et la <span lang="nl">Koninklijke Bibliotheek</span> pour apporter des réponses et permettre de chiffrer les solutions au niveau Européen en prenant en compte les différences entre les type d'oeuvres.
 
-C'est un projet de 18 mois dont les conclusions seront disponibles en juin 2024. Plusieurs ateliers et événements permettront de connaitre les avancées.
+C'est un projet de 18 mois dont les conclusions seront disponibles en juin 2024. Plusieurs ateliers et événements permettront de connaître les avancées.
 
 </div>
 
@@ -40,7 +41,7 @@ C'est un projet de 18 mois dont les conclusions seront disponibles en juin 2024.
 
 <a href="abelab.edrlab.org" class="link color_orange">Site du projet européen ABE Lab</a>
 
-Liste non exhaustive des outils de rémediation existants&#8239;:
+Liste non exhaustive des outils de remédiation existants&#8239;:
 
 <a href="https://www.circularsoftware.com/" class="link color_orange">Circular Flo</a>
 
