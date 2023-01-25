@@ -352,7 +352,7 @@ titlePrev: Ce que dit la loi
 <li id="article003-25">25. «norme harmonisée»: une norme harmonisée telle que définie àl’article 2, point 1) c), du règlement (UE) n<span class="super">o</span> 1025/2012; </li>
 <li id="article003-26">26. «spécification technique»: une spécification technique telle que définie à l’article 2, point 4), du règlement (UE) n<span class="super">o</span> 1025/2012 qui précise les exigences à respecter en matière d’accessibilité applicables à un produit ou un service; </li>
 <li id="article003-27">27. «retrait»: toute mesure visant à empêcher la mise à disposition sur le marché d’un produit présentdans la chaîne d’approvisionnement; </li>
-<li id="article003-28">28. «services bancaires aux consommateurs» : la fourniture aux consommateurs des services bancaires etfinanciers ci-après : <ul>
+<li id="article003-28">28. «services bancaires aux consommateurs»&#8239;: la fourniture aux consommateurs des services bancaires etfinanciers ci-après&#8239;: <ul>
 <li id="article003-28-a">a. les contrats de crédit régis par la directive 2008/48/CE du Parlement européen et du Conseil <a id="ntc28-L_2019151FR.01007001-E0028" href="#ntr28-L_2019151FR.01007001-E0028">Article <span class="super note-tag">28</span>
 </a> ou par la directive 2014/17/UE du Parlement européen et du Conseil <a id="ntc29-L_2019151FR.01007001-E0029" href="#ntr29-L_2019151FR.01007001-E0029">Article<span class="super note-tag">29</span>
 </a>; </li>
