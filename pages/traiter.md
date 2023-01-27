@@ -6,7 +6,7 @@ orientation: éviter la disparition d’un grand nombre de livres numériques
 audience: services de production
 previous: ./produire.html
 next: ./collecter.html
-titleNext: Collecter
+titleNext: Renseigner
 titlePrev: Produire
 ---
 

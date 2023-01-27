@@ -4,7 +4,7 @@ title: "Dictionnaire des métadonnées d'accessibilité"
 date: 2023-01-01
 draft: 'true'
 previous: ../pages/collecter.html
-titlePrev: Collecter
+titlePrev: Renseigner
 ---
 
 Les métadonnées d'accessibilité sont des informations supplémentaires que les éditeurs doivent renseigner lorsqu'ils établissent la fiche d'information de leur ouvrage. 
@@ -20,7 +20,7 @@ Les informations indiquées ici sont relatives à ONIX. Des tableaux de correspo
 
 ### Lecture non visuelle
 
-p>Cas d'usage : lorsque vous activez la fonction lecture audio de votre liseuse, la voix lira une description lorsqu’elle rencontre une image. Vous pourrez ainsi profiter de l’intégralité du livre sans perdre d’information.</p>
+Cas d'usage : lorsque vous activez la fonction lecture audio de votre liseuse, la voix lira une description lorsqu’elle rencontre une image. Vous pourrez ainsi profiter de l’intégralité du livre sans perdre d’information.</p>
 <details><summary>En savoir plus sur la lecture non visuelle</summary>
 <ul>
 <li>Définition : le contenu du livre numérique est intégralement consultable en texte, les autres médias nécessaires à la compréhension sont décrits ou disposent d’une alternative textuelle.</li>
@@ -40,11 +40,10 @@ ONIX&#8239;: demande d'évolution en cours de discussion.
 <p>Cas d'usage : lorsque vous lisez, vous souhaitez pouvoir modifier la taille des caractères ainsi que les espacements pour rendre la lecture confortable en fonction de votre matériel ou des conditions.</p>
 <details><summary>En savoir plus sur les possibilités de modification de la mise en page</summary>
 <ul>
-<li>Exemple : <img alt="Dans l'interface de Thorium, l'aspect du livre est modifié : le fonc passe en en sépia puis en noir ; la police est grossie puis modifiée, les espacements des lignes sont agrandis." src="https://raw.githubusercontent.com/edition-accessible/vocabulaire/main/docs/statics/thorium_adjust_txt.gif"></li>
+<li>Exemple : <img alt="Dans l'interface de Thorium, l'aspect du livre est modifié : le fond passe en en sépia puis en noir ; la police est grossie puis modifiée, les espacements des lignes sont agrandis." src="https://raw.githubusercontent.com/edition-accessible/vocabulaire/main/docs/statics/thorium_adjust_txt.gif"></li>
 <li>Définition : Lors de sa lecture, la mise en forme du fichier est adaptée aux besoins de l’utilisateur (taille adaptée à l’écran, police, taille de la police, espacements, etc.) en fonction des possibilités du logiciel de lecture.</li>	<li>Précisions : cela concerne les livres numériques au format EPUB (quand la mise en page n’est pas fixe), Kindle, Books ou HTML.</li>
 </ul>
 </details>
-
 
 ### Conserver l'aspect du texte et la mise en page 
 
@@ -89,7 +88,7 @@ ONIX permet d'informer sur ces éditions. Si la liste 196 est dédiée à l'acce
 
 ### Navigation
 
-*Pour être considéré comme accessible, chaque livre numérique doit comporter au moins deux méthodes de navigation.*
+*Pour être considéré comme accessible au sens de la directive Européenne, chaque livre numérique doit comporter au moins deux méthodes de navigation .*
 
 <table class="zebra">
 <thead>
@@ -101,7 +100,7 @@ ONIX permet d'informer sur ces éditions. Si la liste 196 est dédiée à l'acce
 </thead>
 <tr><td> L'ouvrage existe en imprimé</td>
 <td>Dans le livre numérique il est possible d'identifier et de se rendre au début d'une page précise de l'ouvrage imprimé et ce dernier est connu</td>
-<td><a href="https://ns.editeur.org/onix/en/196/19) et  <a href="">Liste 51 Code 13 Publication numérique basée sur (édition papier)</a>(https://ns.editeur.org/onix/en/51/13) ">Liste 196 Code 19 Numérotation de pages équivalente au document imprimé</a></td></tr>
+<td><a href="https://ns.editeur.org/onix/en/196/19">Liste 196 Code 19 Numérotation de pages équivalente au document imprimé</a>. <i><a href="https://ns.editeur.org/onix/en/51/13">Liste 51 Code 13 Publication numérique basée sur (édition papier) permet de renseigner le titre dont est issue la numérotation.</a></i></td></tr>
 <tr><td> Le livre est composé de chapitres, parties ou sections</td>
 <td>Le code du livre comporte des niveaux de titre (h1, h2, h3) et leur hierarchie est cohérente</td>
 <td><a href="https://ns.editeur.org/onix/en/196/29">Liste 196 Code 29 Navigation suivant/précédent</a></td></tr>

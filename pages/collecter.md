@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Collecter
+title: Renseigner
 subtitle: et référencer des informations précises
 orientation: assurer la présence d’informations de qualité sur l’accessibilité des livres numériques
-audience: personnes en charge de fournir, renseigner ou améliorer les métadonnées auprès des diffuseurs, agences bibliographiques 
+audience: personnes en charge de produire, renseigner ou améliorer les métadonnées auprès des distributeurs, organismes de référencement et agences bibliographiques"
 previous: ./traiter.html
 next: ./diffuser.html
-titleNext: Diffuser
+titleNext: Informer
 titlePrev: Traiter
 ---
 
@@ -18,7 +18,7 @@ Afin de rendre possible l’information de l’utilisateur, les métadonnées re
 
 Comme ces informations et leur affichage s’inscrit dans un cadre légal, leur exactitude revêt une importance particulière car elle engage les différents acteurs, éditeurs, intermédiaires et revendeurs. Une démarche d’information et de validation devrait être mise en œuvre pour assurer cette exactitude.
 
-Nous proposons un dictionnaire des métadonnées pour vous aider dans cette tâche. Vous y trouverez des tableaux de correspondance définissant les conditions et l'information nécessaire en lien avec le code ONIX correspondant.  
+Nous proposons un [dictionnaire des métadonnées](https://edition-accessible.github.io/lina25/ressources/Informer) pour vous aider dans cette tâche. Vous y trouverez des tableaux de correspondance définissant les conditions et l'information nécessaire en lien avec le code ONIX correspondant.  
 
 Les recommandations françaises sur l'affichage des informations d'accessibilité (projet en cours) peuvent-être aussi utiles pour comprendre comment chaque code devrait se matérialiser sur les sites de diffusion et de distribution.
 
