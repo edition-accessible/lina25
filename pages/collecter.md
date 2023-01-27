@@ -18,9 +18,9 @@ Afin de rendre possible l’information de l’utilisateur, les métadonnées re
 
 Comme ces informations et leur affichage s’inscrit dans un cadre légal, leur exactitude revêt une importance particulière car elle engage les différents acteurs, éditeurs, intermédiaires et revendeurs. Une démarche d’information et de validation devrait être mise en œuvre pour assurer cette exactitude.
 
-Nous proposons un [dictionnaire des métadonnées](https://edition-accessible.github.io/lina25/ressources/Informer) pour vous aider dans cette tâche. Vous y trouverez des tableaux de correspondance définissant les conditions et l'information nécessaire en lien avec le code ONIX correspondant.  
+Nous proposons un [dictionnaire des métadonnées](../ressources/metadonnes) pour vous aider dans cette tâche. Vous y trouverez des tableaux de correspondance définissant les conditions et l'information nécessaire en lien avec le code ONIX correspondant.  
 
-Les recommandations françaises sur l'affichage des informations d'accessibilité (projet en cours) peuvent-être aussi utiles pour comprendre comment chaque code devrait se matérialiser sur les sites de diffusion et de distribution.
+Les recommandations françaises sur l'[affichage des informations d'accessibilité](../ressources/Informer) (projet en cours) peuvent-être aussi utiles pour comprendre comment chaque code devrait se matérialiser sur les sites de diffusion et de distribution.
 
 ## Les informations nécessaires
 

@@ -37,7 +37,7 @@ Les diagrammes, graphiques et autre images d’illustration issues de données n
 
 Les technologies d’assistance, et en particulier les lecteurs d’écran (logiciels capables de transformer du texte en voix synthétique), butent souvent sur les abréviations et les sigles, qui deviennent inintelligibles. Les auteurs sont les mieux placés pour fournir avec leur manuscrit une liste de formes longues des abréviations et sigles contenus dans leur texte, afin que les équipes de production de livres numériques puissent intégrer ces formes longues dans les fichiers générés, sous une forme facile à gérer par les technologies d’assistance.
 
-<blockquote> <i>Ces informations peuvent être fournies sous la forme d’un document annexe de format textuel, ou sous la forme d’un fichier de données (CSV, Excel ou XML). </i></blockquote>
+<blockquote> <i>Ces informations peuvent être fournies sous la forme d’un document textuel annexe, ou d’un fichier de données (CSV, Excel ou XML). </i></blockquote>
 
 ### Autres points d’attention
 
