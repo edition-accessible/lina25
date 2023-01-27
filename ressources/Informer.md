@@ -2,7 +2,7 @@
 layout: document
 title: "Recommandations pour l'affichage des informations d'accessibilité"
 previous: ../pages/diffuser.html
-titlePrev: Diffuser
+titlePrev: Informer
 ---
 
 <div markdown = "1" id="principes">
@@ -19,7 +19,7 @@ Les informations plus détaillées sont contenues dans un élément masqué et p
 <em>Doivent être affiché à minima les informations suivantes&#8239;: </em>
 </p>
 
--   Format de fichier (EPUB, PDF, MP3, Audiobook, Etc.
+-   Format de fichier (EPUB, PDF, MP3, Audiobook, Etc.)
 -   La mesure de protection ou son absence
 -   Date de publication
 -   Nom de la maison d’édition
@@ -93,7 +93,7 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
 <tr class="odd">
 <td>Texte et audio synchronisés</td>
 <td><em>Le livre contient de l'audio préenregistré pour lequel une version textuelle visible est synchronisée.</em></td>
-<td><a href="https://ns.editeur.org/onix/fr/196/20">iste 196 Code 20&#8239;: Audio préenregistré synchronisé</a></td>
+<td><a href="https://ns.editeur.org/onix/fr/196/20">Liste 196 Code 20&#8239;: Audio préenregistré synchronisé</a></td>
 <td>ignorer</td>
 <td>forte</td>
 </tr>
@@ -116,7 +116,7 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
     <tr class="even">
 <td>Référence à la pagination du livre imprimé {contenu de 51-13 RelatedProduct}</td>
 <td><em>Le livre peut être utilisé en complément de sa version imprimée, la pagination de référence étant préservée.</em></td>
-<td><a href="https://ns.editeur.org/onix/fr/196/19">Liste 196 Code 19 Numérotation de pages équivalente au document imprimé et 51 - 13 - Publication numérique basée sur (édition papier)</a></td>
+<td><a href="https://ns.editeur.org/onix/fr/196/19">Liste 196 Code 19 Numérotation de pages équivalente au document imprimé. <i>Il faudra indiquer ou pointer le livre de référence utilisé pour la pagination</i></a>.</td>
 <td>ignorer</td>
 <td>forte</td>
 </tr>
@@ -144,7 +144,6 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
 <td><a href="https://ns.editeur.org/onix/fr/196/">Liste 196 Code 29 Navigation suivant/précédent</a></td>
 <td>ignorer</td>
 <td>Peut ne pas être affiché si la <a href="https://ns.editeur.org/onix/fr/196/02">Spécifications d’accessibilité EPUB 1.0 A (Liste 196 Code 02)</a> ou <a href="https://ns.editeur.org/onix/fr/196/03">Spécifications d’accessibilité EPUB 1.0 AA (Liste 196 Code 03)</a> est présente.</td></tr>
-
 </tbody>
 </table>
 
@@ -181,44 +180,42 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
         <td>forte</td>
         </tr>
 <tr class="even">
-
 <tr class="even">
     <td>Notations mathématiques structurées (MathML)</td>
     <td><em>Le livre contient des formules mathématiques utilisant un langage fonctionnel (MathML)</em></td>
     <td><a href="https://ns.editeur.org/onix/fr/196/">Liste 196 Code 17 Contenu mathématique accessible</a></td>
     <td>ignorer</td>
     <td>forte</td></tr>
-
 <tr class="even">
     <td>Notations chimiques structurées (ChemML)</td>
     <td><em>Le livre contient des formules chimiques utilisant un langage fonctionnel (ChemML)</em></td>
     <td><a href="https://ns.editeur.org/onix/fr/196/">Liste 196 Code 18 Contenu chimique accessible</a></td>
     <td>ignorer</td>
     <td>forte</td></tr>
-
-<td>Compréhensible en noir et blanc</td>
-<td><em>Le livre utilise des codes couleurs, mais celles-ci ne sont pas le seul moyen de compréhension.</em></td>
-<td><a href="https://ns.editeur.org/onix/fr/196/25">Liste 196 Code 25 Usage de la couleur</a></td>
-<td>ignorer</td>
-<td>Peut ne pas être affiché si la <a href="https://ns.editeur.org/onix/fr/196/02">Spécifications d’accessibilité EPUB 1.0 A (Liste 196 Code 02)</a> ou <a href="https://ns.editeur.org/onix/fr/196/03">Spécifications d’accessibilité EPUB 1.0 AA (Liste 196 Code 03)</a> est présente.</td></tr>
 <tr class="even">
-<td>Lisible en noir et blanc</td>
-<td><em>Le livre utilise des contrastes entre du texte et un fond, il restera lisible lors d'un affichage en noir et blanc.</em></td>
-<td><a href="https://ns.editeur.org/onix/fr/196/26">Liste 196 Code 26 Usage du contraste</a></td>
-<td>ignorer</td>
-<td>Peut ne pas être affiché si la <a href="https://ns.editeur.org/onix/fr/196/02">Spécifications d’accessibilité EPUB 1.0 A (Liste 196 Code 02)</a> ou <a href="https://ns.editeur.org/onix/fr/196/03">Spécifications d’accessibilité EPUB 1.0 AA (Liste 196 Code 03)</a> est présente.</td></tr>
+    <td>Compréhensible en noir et blanc</td>
+    <td><em>Le livre utilise des codes couleurs, mais celles-ci ne sont pas le seul moyen de compréhension.</em></td>
+    <td><a href="https://ns.editeur.org/onix/fr/196/25">Liste 196 Code 25 Usage de la couleur</a></td>
+    <td>ignorer</td>
+    <td>Peut ne pas être affiché si la <a href="https://ns.editeur.org/onix/fr/196/02">Spécifications d’accessibilité EPUB 1.0 A (Liste 196 Code 02)</a> ou <a href="https://ns.editeur.org/onix/fr/196/03">Spécifications d’accessibilité EPUB 1.0 AA (Liste 196 Code 03)</a> est présente.</td></tr>
 <tr class="even">
-<td>Prononciation améliorée pour la voix de synthèse</td>
-<td><em>Le livre contient des abréviations, des sigles, une numérotation romaine, ou des onomatopées qui seront correctement vocalisées.</em></td>
-<td><a href="https://ns.editeur.org/onix/fr/196/21">Liste 196 Code 21 Synthèse vocale optimisée</a></td>
-<td>ignorer</td>
-<td></td></tr>
+    <td>Lisible en noir et blanc</td>
+    <td><em>Le livre utilise des contrastes entre du texte et un fond, il restera lisible lors d'un affichage en noir et blanc.</em></td>
+    <td><a href="https://ns.editeur.org/onix/fr/196/26">Liste 196 Code 26 Usage du contraste</a></td>
+    <td>ignorer</td>
+    <td>Peut ne pas être affiché si la <a href="https://ns.editeur.org/onix/fr/196/02">Spécifications d’accessibilité EPUB 1.0 A (Liste 196 Code 02)</a> ou <a href="https://ns.editeur.org/onix/fr/196/03">Spécifications d’accessibilité EPUB 1.0 AA (Liste 196 Code 03)</a> est présente.</td></tr>
 <tr class="even">
-<td>Textes en langue étrangère correctement vocalisés</td>
-<td><em>Le livre contient des portions de texte dans une autre langue que le contenu principal. Ces portions sont identifiées dans le code et seront correctement prononcées si la langue est disponible sur le dispositif de lecture.</em></td>
-<td><a href="https://ns.editeur.org/onix/fr/196/">Liste 196 Code 22 Balisage de la langue fournit</a></td>
-<td>ignorer</td>
-<td>Peut ne pas être affiché si la <a href="https://ns.editeur.org/onix/fr/196/02">Spécifications d’accessibilité EPUB 1.0 A (Liste 196 Code 02)</a> ou <a href="https://ns.editeur.org/onix/fr/196/03">Spécifications d’accessibilité EPUB 1.0 AA (Liste 196 Code 03)</a> est présente.</td></tr>
+    <td>Prononciation améliorée pour la voix de synthèse</td>
+    <td><em>Le livre contient des abréviations, des sigles, une numérotation romaine, ou des onomatopées qui seront correctement vocalisées.</em></td>
+    <td><a href="https://ns.editeur.org/onix/fr/196/21">Liste 196 Code 21 Synthèse vocale optimisée</a></td>
+    <td>ignorer</td>
+    <td></td></tr>
+<tr class="even">
+    <td>Textes en langue étrangère correctement vocalisés</td>
+    <td><em>Le livre contient des portions de texte dans une autre langue que le contenu principal. Ces portions sont identifiées dans le code et seront correctement prononcées si la langue est disponible sur le dispositif de lecture.</em></td>
+    <td><a href="https://ns.editeur.org/onix/fr/196/">Liste 196 Code 22 Balisage de la langue fournit</a></td>
+    <td>ignorer</td>
+    <td>Peut ne pas être affiché si la <a href="https://ns.editeur.org/onix/fr/196/02">Spécifications d’accessibilité EPUB 1.0 A (Liste 196 Code 02)</a> ou <a href="https://ns.editeur.org/onix/fr/196/03">Spécifications d’accessibilité EPUB 1.0 AA (Liste 196 Code 03)</a> est présente.</td></tr>
 
 </tbody>
 </table>
@@ -285,39 +282,45 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
 <em>Ces informations de premier niveau constituent les fonctionnalités cruciales pour l'accès à la lecture. Elles s'adressent aux personnes en situation de handicap mais peuvent aussi rendre service à une grande majorité de lecteurs.</em>
 </p>
 </details> -->
-<h3 id="plus-dinformations-sur-laccessibilité">Conformité</h3>
+<h4 id="plus-dinformations-sur-laccessibilité">Conformité</h4>
 <table  class="zebra">
 <thead>
-<tr class="header">
-<th>Valeur affichée</th>
-<th>Définition</th>
-<th>code ONIX</th>
-<th>En cas d’absence</th>
-<th>Importance</th>
-</tr>
+    <tr class="header">
+    <th>Valeur affichée</th>
+    <th>Définition</th>
+    <th>code ONIX</th>
+    <th>En cas d’absence</th>
+    <th>Importance</th>
+    </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Contenus accessibles conformes aux standards (A <em>ou</em> AA)</td>
-<td></td>
-<td><a href="https://ns.editeur.org/onix/fr/196/02">Liste 196 Code 02 Spécifications d’accessibilité EPUB 1.0 A ou <br/>Liste 196 Code 03&#8239;: Spécifications d’accessibilité EPUB 1.0 AA</a></td>
-<td>Aucune conformité déclarée</td>
-<td>forte</td>
+    <td>Contenus accessibles conformes aux standards (A <em>ou</em> AA)</td>
+    <td></td>
+    <td><a href="https://ns.editeur.org/onix/fr/196/02">Liste 196 Code 02 Spécifications d’accessibilité EPUB 1.0 A</a> ou <br/><a href="https://ns.editeur.org/onix/fr/196/03">Liste 196 Code 03&#8239;: Spécifications d’accessibilité EPUB 1.0 AA</a></td>
+    <td>Aucune conformité déclarée</td>
+    <td>forte</td>
 </tr>
 <tr class="odd">
-<td><a href="https://edition-accessible.github.io/signalement/references/ace-smart-report-fr.html">Rapport de conformité</a> (c'est un lien) par ...</td>
-<td></td>
-<td><a href="https://ns.editeur.org/onix/fr/196/94">196 94 Page web pour les informations détaillées d’accessibilité et 196 93 Certification de conformité par.</a></td>
-<td>Ignorer</td>
-<td></td>
+    <td><a href="https://edition-accessible.github.io/signalement/references/ace-smart-report-fr.html">Rapport de conformité</a></td>
+    <td></td>
+    <td><a href="https://ns.editeur.org/onix/fr/196/94">196 94 Page web pour les informations détaillées d’accessibilité</a>/td>
+    <td>Ignorer</td>
+    <td></td>
 </tr>
-
 <tr class="odd">
-<td><a href="infos-accessibilite-ed.html">Politique d’accessibilité de l’éditeur</a></td>
-<td></td>
-<td><a href="https://ns.editeur.org/onix/fr/196/96">Liste 196 code 96 Page web de l’éditeur pour les informations détaillées d’accessibilité</a></td>
-<td>ignorer</td>
-<td></td>
+    <td><a href="https://edition-accessible.github.io/signalement/references/ace-smart-report-fr.html">Organisme de certification</a></td>
+    <td></td>
+    <td><a href="https://ns.editeur.org/onix/fr/196/93">196 93 Certification de conformité par.</a></td>
+    <td>Ignorer</td>
+    <td></td>
+</tr>
+<tr class="odd">
+    <td><a href="infos-accessibilite-ed.html">Politique d’accessibilité de l’éditeur</a></td>
+    <td></td>
+    <td><a href="https://ns.editeur.org/onix/fr/196/96">Liste 196 code 96 Page web de l’éditeur pour les informations détaillées d’accessibilité</a></td>
+    <td>ignorer</td>
+    <td></td>
 </tr>
 <tr class="even">
 <td><em>texte</em></td>

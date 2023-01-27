@@ -7,7 +7,7 @@ audience: développeurs d'outils de lecture
 previous: ./diffuser.html
 next: ./lire.html
 titleNext: Lire
-titlePrev: Diffuser
+titlePrev: Informer
 ---
 
 <div markdown="1" id="principes">

@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Diffuser
-subtitle: et distribuer au plus près des besoins
+title: Informer
+subtitle: et conseiller au plus près des besoins
 orientation: informer le lecteur avant achat ou emprunt.
-audience: distributeurs (DRM), libraires et bibliothèques
+audience: libraires et bibliothèques
 previous: ./collecter.html
 next: ./afficher.html
 titleNext: Afficher
-titlePrev: Collecter
+titlePrev: Renseigner
 ---
 
 <div markdown="1" id="principes">
