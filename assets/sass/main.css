@@ -1,13 +1,17 @@
-* {
+body {
   font-family: "Poppins", sans-serif;
   font-weight: 400;
   color: black;
   font-size: 20px;
 }
 @media screen and (max-width: 992px) {
-  * {
+  body {
     font-size: 14px;
   }
+}
+
+.thin {
+  font-weight: 400;
 }
 
 h1 {
@@ -188,7 +192,7 @@ span {
   cursor: pointer;
   position: relative;
   border: 0px;
-  background-color: #8fbceb;
+  background-color: #64a2e3;
   border-radius: 50%;
   width: 50px;
   height: 50px;
@@ -200,11 +204,7 @@ span {
 #dropdown_button .dropdown_btn .nav_button i {
   color: white;
   padding-top: 15px;
-}
-@media screen and (max-width: 992px) {
-  #dropdown_button .dropdown_btn .nav_button i {
-    font-size: 20px;
-  }
+  font-size: 20px;
 }
 #dropdown_button .dropdown_btn .nav_button span {
   display: none;
@@ -344,7 +344,10 @@ footer ul li {
   font-size: 22px;
 }
 @media screen and (max-width: 992px) {
-  footer ul li span {
+  footer ul li {
+    text-align: center;
+  }
+  footer ul li i.fa {
     display: none;
   }
 }
@@ -377,7 +380,7 @@ footer ul a:hover span {
   width: 100%;
   position: relative;
 }
-.intro div {
+.intro .intro-wrapper {
   position: absolute;
   top: 5%;
   padding: 0% 0% 5% 10%;
@@ -385,7 +388,7 @@ footer ul a:hover span {
   margin-right: 10%;
 }
 @media screen and (max-width: 992px) {
-  .intro div {
+  .intro .intro-wrapper {
     order: 1;
     position: inherit;
     padding: 5% 5%;
@@ -393,60 +396,82 @@ footer ul a:hover span {
     background-color: #fdf4ed;
   }
 }
-.intro div h1 {
+.intro .intro-wrapper .quote {
+  display: grid;
+  margin-top: 10px;
+}
+.intro .intro-wrapper .quote blockquote {
+  margin: 0;
+  grid-column: 2;
+}
+.intro .intro-wrapper .quote #apostrophe_fin {
+  transform: rotate(180deg);
+  width: 20px;
+  margin-right: 2%;
+  margin-bottom: 1%;
+  grid-column: 3;
+}
+@media screen and (max-width: 576px) {
+  .intro .intro-wrapper .quote #apostrophe_fin {
+    width: 15px;
+  }
+}
+.intro .intro-wrapper .quote #apostrophe_debut {
+  grid-column: 1;
+  width: 20px;
+  margin: 0;
+}
+@media screen and (max-width: 576px) {
+  .intro .intro-wrapper .quote #apostrophe_debut {
+    width: 15px;
+  }
+}
+.intro .intro-wrapper h1 {
   margin: 0%;
   font-size: 35px;
   color: black;
 }
 @media screen and (max-width: 1200px) {
-  .intro div h1 {
+  .intro .intro-wrapper h1 {
     width: 100%;
     font-size: 24px;
   }
 }
 @media screen and (max-width: 500px) {
-  .intro div h1 {
+  .intro .intro-wrapper h1 {
     width: 100%;
   }
 }
 @media screen and (min-width: 2000px) {
-  .intro div h1 {
+  .intro .intro-wrapper h1 {
     font-size: 50px;
   }
 }
-.intro div span {
+.intro .intro-wrapper span {
   font-weight: 400;
   margin: 0%;
   font-size: 30px;
   color: black;
 }
 @media screen and (max-width: 1200px) {
-  .intro div span {
+  .intro .intro-wrapper span {
     width: 100%;
     font-size: 18px;
   }
 }
 @media screen and (max-width: 1500px) {
-  .intro div span {
+  .intro .intro-wrapper span {
     font-size: 16px;
   }
 }
 @media screen and (max-width: 576px) {
-  .intro div span {
+  .intro .intro-wrapper span {
     padding-bottom: 5%;
   }
 }
 @media screen and (min-width: 2000px) {
-  .intro div span {
+  .intro .intro-wrapper span {
     font-size: 40px;
-  }
-}
-.intro div img {
-  width: 4%;
-}
-@media screen and (max-width: 576px) {
-  .intro div img {
-    width: 6%;
   }
 }
 .intro h2,
@@ -454,6 +479,7 @@ footer ul a:hover span {
   padding-bottom: 3%;
 }
 .intro .page__lead {
+  list-style: none;
   font-weight: 200;
   font-style: italic;
   width: 75%;
@@ -473,17 +499,6 @@ footer ul a:hover span {
 @media screen and (min-width: 2000px) {
   .intro .page__lead {
     font-size: 24px;
-  }
-}
-.intro .page__lead #apostrophe_fin {
-  transform: rotate(180deg);
-  width: 20px;
-  margin-left: 2%;
-  margin-bottom: 1%;
-}
-@media screen and (max-width: 576px) {
-  .intro .page__lead #apostrophe_fin {
-    width: 15px;
   }
 }
 .intro .btn {
@@ -657,17 +672,22 @@ footer ul a:hover span {
     z-index: 2;
   }
 }
-#pourquoi .pourquoi_paragraphe {
+#pourquoi ul {
+  padding-left: 0;
+}
+#pourquoi ul .pourquoi_paragraphe {
   display: flex;
   width: 100%;
   text-align: justify;
   align-items: baseline;
+  color: black;
+  font-weight: 400;
 }
-#pourquoi .pourquoi_paragraphe i {
+#pourquoi ul .pourquoi_paragraphe i {
   padding-right: 2%;
   color: #8fbceb;
 }
-#pourquoi .pourquoi_paragraphe p {
+#pourquoi ul .pourquoi_paragraphe p {
   word-wrap: break-word;
 }
 
@@ -685,6 +705,7 @@ img {
   position: fixed;
   transform: translateY(-50%);
   top: 50%;
+  background-color: white;
 }
 #arrow_left:hover,
 #arrow_right:hover {

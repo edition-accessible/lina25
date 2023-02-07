@@ -1,8 +1,8 @@
-<nav aria-label="Accès rapide" id="skip_link">
-    <a href="#main" target="_self">contenu</a>
-</nav>
+<a aria-label="Accès rapide" id="skip_link" href="#main" target="_self"
+    >Aller au contenu principal</a
+>
 
-<nav class="nav">
+<nav class="nav" role="navigation">
     <a class="logo" href='{{ "/index.html" | relative_url }}' target="_self">
         <img
             src='{{ "/assets/images/Icons/Logo.svg" | relative_url }}'
@@ -24,6 +24,7 @@
     <div id="dropdown_button">
         <button
             type="button"
+            role="menu"
             class="dropdown_btn"
             aria-label="dropdown menu"
             tabindex="0"
@@ -118,6 +119,7 @@
     const btn = document.getElementById("dropdown_button");
     btn.addEventListener("click", function () {
         this.classList.toggle("button-open");
+        this.querySelector("button").toggleAttribute("aria-expanded");
     });
 
     const nav = document.querySelector(".nav");

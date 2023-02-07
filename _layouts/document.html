@@ -8,7 +8,7 @@
   {%- include nav.html -%}
   <img src="{{ site.baseurl }}/assets/images/Banners/SVG/documents.svg" alt="">
 
-  <header id="contenu" class="header_documents">
+  <header id="contenu" class="header_documents" role="banner">
     <a href="{{ page.previous }}" target="_self" title="page précédente : {{ page.titlePrev }}" id="arrow_left"><i class="fa-solid fa-angle-left arrow"></i></a>
     <div class="title_pages">
       <h1>{{ page.title }}</h1>
@@ -16,7 +16,7 @@
     </div>
   </header>
 
-  <main class="document" aria-label="Content" id="main">
+  <main class="document" aria-label="Content" id="main" role="main">
     <section>
       {{ content }}
     </section>

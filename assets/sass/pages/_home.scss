@@ -3,7 +3,7 @@
     position: relative;
     @include breakpoint-tablet {
     }
-    div {
+    .intro-wrapper {
         position: absolute;
         top: 5%;
         padding: 0% 0% 5% 10%;
@@ -16,6 +16,33 @@
             width: 90%;
             background-color: $color_bg-main;
         }
+        .quote {
+            display: grid;
+            margin-top: 10px;
+            blockquote {
+                margin: 0;
+                grid-column: 2;
+            }
+            #apostrophe_fin {
+                transform: rotate(180deg);
+                width: 20px;
+                margin-right: 2%;
+                margin-bottom: 1%;
+                grid-column: 3;
+                @include breakpoint-mobile {
+                    width: 15px;
+                }
+            }
+            #apostrophe_debut {
+                grid-column: 1;
+                width: 20px;
+                margin: 0;
+                @include breakpoint-mobile {
+                    width: 15px;
+                }
+            }
+        }
+
         h1 {
             margin: 0%;
             font-size: 35px;
@@ -50,18 +77,13 @@
                 font-size: 40px;
             }
         }
-        img {
-            width: 4%;
-            @include breakpoint-mobile {
-                width: 6%;
-            }
-        }
     }
     h2,
     p {
         padding-bottom: 3%;
     }
     .page__lead {
+        list-style: none;
         font-weight: 200;
         font-style: italic;
         width: 75%;
@@ -75,15 +97,6 @@
         }
         @include breakpoint-XXL {
             font-size: 24px;
-        }
-        #apostrophe_fin {
-            transform: rotate(180deg);
-            width: 20px;
-            margin-left: 2%;
-            margin-bottom: 1%;
-            @include breakpoint-mobile {
-                width: 15px;
-            }
         }
     }
     .btn {
@@ -235,17 +248,22 @@
             z-index: 2;
         }
     }
-    .pourquoi_paragraphe {
-        display: flex;
-        width: 100%;
-        text-align: justify;
-        align-items: baseline;
-        i {
-            padding-right: 2%;
-            color: $color-secondary;
-        }
-        p {
-            word-wrap: break-word;
+    ul {
+        padding-left: 0;
+        .pourquoi_paragraphe {
+            display: flex;
+            width: 100%;
+            text-align: justify;
+            align-items: baseline;
+            color: black;
+            font-weight: 400;
+            i {
+                padding-right: 2%;
+                color: $color-secondary;
+            }
+            p {
+                word-wrap: break-word;
+            }
         }
     }
 }

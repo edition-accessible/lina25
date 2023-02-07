@@ -10,7 +10,7 @@
   <a href="{{ page.previous }}" target="_self" title="page précédente : {{ page.titlePrev }}" id="arrow_left"><i class="fa-solid fa-angle-left arrow" ></i></a>
   <a href="{{ page.next }}" target="_self" title="page suivante : {{ page.titleNext }}" id="arrow_right"><i class="fa-solid fa-chevron-right arrow"></i></a>
 
-  <header id="contenu" class="header_pages">
+  <header id="contenu" class="header_pages" role="banner">
     
     <div class="title_pages">
       <h1>{{ page.title }}<br/><span>{{ page.subtitle }}</span></h1>
@@ -23,7 +23,7 @@
     <p><strong>Métiers concernés : </strong>{{ page.audience }}</p>
   </section>
 
-  <main class="page" id="main">
+  <main class="page" id="main" role="main">
     <section>
       {{ content }}
     </section>
@@ -62,6 +62,16 @@
     buttonLeft.addEventListener('click', function() {
       left();
     });
+
+    contentButton.addEventListener('focus', function() {
+      contentButton.addEventListener('keydown', function(event) {
+        if (event.key == 'ArrowLeft') {
+          left();
+        } else if (event.key == "ArrowRight") {
+          justify();
+        }
+        })
+      });
 
     justify();
 
