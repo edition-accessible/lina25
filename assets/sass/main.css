@@ -399,6 +399,17 @@ footer ul a:hover span {
 .intro .intro-wrapper .quote {
   display: grid;
   margin-top: 10px;
+  margin-bottom: 100px;
+}
+@media screen and (max-width: 992px) {
+  .intro .intro-wrapper .quote {
+    margin-bottom: 50px;
+  }
+}
+@media screen and (max-width: 576px) {
+  .intro .intro-wrapper .quote {
+    margin-bottom: 20px;
+  }
 }
 .intro .intro-wrapper .quote blockquote {
   margin: 0;
@@ -502,9 +513,6 @@ footer ul a:hover span {
   }
 }
 .intro .btn {
-  position: absolute;
-  bottom: 15%;
-  left: 10%;
   color: white;
   border: 1px solid #5c64b4;
   border-radius: 50px;
@@ -513,14 +521,12 @@ footer ul a:hover span {
 }
 @media screen and (max-width: 992px) {
   .intro .btn {
-    bottom: 30%;
     font-size: 3vw;
   }
 }
 @media screen and (max-width: 576px) {
   .intro .btn {
     font-size: 3vw;
-    bottom: 20%;
   }
 }
 

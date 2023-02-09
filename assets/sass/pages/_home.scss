@@ -19,6 +19,13 @@
         .quote {
             display: grid;
             margin-top: 10px;
+            margin-bottom: 100px;
+            @include breakpoint-tablet {
+                margin-bottom: 50px;
+            }
+            @include breakpoint-mobile {
+                margin-bottom: 20px;
+            }
             blockquote {
                 margin: 0;
                 grid-column: 2;
@@ -100,21 +107,16 @@
         }
     }
     .btn {
-        position: absolute;
-        bottom: 15%;
-        left: 10%;
         color: white;
         border: 1px solid $color-primary;
         border-radius: 50px;
         background-color: $color-primary;
         padding: 1% 4%;
         @include breakpoint-tablet {
-            bottom: 30%;
             font-size: 3vw;
         }
         @include breakpoint-mobile {
             font-size: 3vw;
-            bottom: 20%;
         }
     }
 }
