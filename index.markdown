@@ -1,6 +1,6 @@
 ---
 layout: home
-title: index
+title: Accueil
 ---
 
 <div id="savoirs" class="section1">
@@ -34,7 +34,7 @@ title: index
 </li>
 </ul>
 
-<p><a class="link color_orange" href="{{site.baseurl}}/ressources/Planstrategique" target="_self">Consulter le Plan stratégique du comité de pilotage interministériel pour le
+<p><a class="link color_navy" href="{{site.baseurl}}/ressources/Planstrategique" target="_self">Consulter le Plan stratégique du comité de pilotage interministériel pour le
 développement d’une offre de livres numériques accessibles aux
 personnes en situation de handicap</a></p>
 </section>

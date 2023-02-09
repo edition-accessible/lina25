@@ -17,7 +17,6 @@
             background-color: $color_bg-main;
         }
         .quote {
-            display: grid;
             margin-top: 10px;
             margin-bottom: 100px;
             @include breakpoint-tablet {
@@ -26,9 +25,16 @@
             @include breakpoint-mobile {
                 margin-bottom: 20px;
             }
+            figcaption {
+                font-weight: 300;
+                font-style: italic;
+                line-height: 2em;
+                font-size: 14px;
+            }
             blockquote {
                 margin: 0;
                 grid-column: 2;
+                line-height: 2em;
             }
             #apostrophe_fin {
                 transform: rotate(180deg);
@@ -261,7 +267,7 @@
             font-weight: 400;
             i {
                 padding-right: 2%;
-                color: $color-secondary;
+                color: $color-primary;
             }
             p {
                 word-wrap: break-word;

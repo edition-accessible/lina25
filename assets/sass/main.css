@@ -66,6 +66,13 @@ span {
   list-style-type: none;
   text-decoration: none;
   color: #5c64b4;
+  margin-bottom: 1em;
+}
+
+.exergue {
+  display: block;
+  font-style: italic;
+  padding-left: 2em;
 }
 
 #skip_link {
@@ -192,7 +199,7 @@ span {
   cursor: pointer;
   position: relative;
   border: 0px;
-  background-color: #64a2e3;
+  background-color: #5c64b4;
   border-radius: 50%;
   width: 50px;
   height: 50px;
@@ -279,13 +286,13 @@ span {
   }
 }
 #dropdown_button .dropdown-content_wrapper a:hover {
-  color: #ee8c3d;
+  color: #e67214;
 }
 
 #dropdown_button.button-open > nav {
   visibility: visible;
-  border-top: 1px solid #ee8c3d;
-  border-bottom: 1px solid #ee8c3d;
+  border-top: 1px solid #e67214;
+  border-bottom: 1px solid #e67214;
 }
 #dropdown_button.button-open > button .nav_button > i {
   display: none;
@@ -336,7 +343,7 @@ footer ul {
   }
 }
 footer ul > span {
-  color: #ee8c3d;
+  color: #e67214;
 }
 footer ul li {
   font-family: "Poppins", sans-serif;
@@ -361,12 +368,12 @@ footer ul a {
   font-weight: 400;
 }
 footer ul a:hover {
-  color: #ee8c3d;
+  color: #e67214;
   transition: 200ms;
 }
 footer ul a:hover i,
 footer ul a:hover span {
-  color: #ee8c3d;
+  color: #e67214;
   transition: 200ms;
 }
 
@@ -397,7 +404,6 @@ footer ul a:hover span {
   }
 }
 .intro .intro-wrapper .quote {
-  display: grid;
   margin-top: 10px;
   margin-bottom: 100px;
 }
@@ -411,9 +417,16 @@ footer ul a:hover span {
     margin-bottom: 20px;
   }
 }
+.intro .intro-wrapper .quote figcaption {
+  font-weight: 300;
+  font-style: italic;
+  line-height: 2em;
+  font-size: 14px;
+}
 .intro .intro-wrapper .quote blockquote {
   margin: 0;
   grid-column: 2;
+  line-height: 2em;
 }
 .intro .intro-wrapper .quote #apostrophe_fin {
   transform: rotate(180deg);
@@ -691,7 +704,7 @@ footer ul a:hover span {
 }
 #pourquoi ul .pourquoi_paragraphe i {
   padding-right: 2%;
-  color: #8fbceb;
+  color: #5c64b4;
 }
 #pourquoi ul .pourquoi_paragraphe p {
   word-wrap: break-word;
@@ -726,7 +739,7 @@ img {
 }
 @media screen and (max-width: 992px) {
   #arrow_left,
-#arrow_right {
+  #arrow_right {
     border: 0;
     padding: 0;
     border-radius: 0;
@@ -769,13 +782,13 @@ img {
 }
 @media screen and (max-width: 992px) {
   .header_pages .title_pages h1,
-.header_pages .title_pages span {
+  .header_pages .title_pages span {
     font-size: 40px;
   }
 }
 @media screen and (max-width: 576px) {
   .header_pages .title_pages h1,
-.header_pages .title_pages span {
+  .header_pages .title_pages span {
     font-size: 30px;
   }
 }
@@ -831,13 +844,13 @@ img {
 }
 @media screen and (max-width: 992px) {
   .header_documents .title_pages h1,
-.header_documents .title_pages h2 {
+  .header_documents .title_pages h2 {
     font-size: 40px;
   }
 }
 @media screen and (max-width: 576px) {
   .header_documents .title_pages h1,
-.header_documents .title_pages h2 {
+  .header_documents .title_pages h2 {
     font-size: 30px;
   }
 }
@@ -924,6 +937,9 @@ img {
 .page > section > .ressources p {
   text-align: left;
 }
+.page > section > .ressources ul {
+  padding: 0;
+}
 @media screen and (max-width: 992px) {
   .page > section {
     flex-direction: column;
@@ -986,9 +1002,12 @@ img {
 .link {
   font-family: "Montserrat", sans-serif;
   font-weight: bold;
+  display: flex;
+  align-items: first baseline;
 }
 .link::before {
   font-family: "FontAwesome";
+  font-size: 0.7em;
   content: "\f061";
   margin-right: 10px;
   border: 1px solid;
@@ -1000,7 +1019,7 @@ img {
   color: #5c64b4;
 }
 .color_orange {
-  color: #ee8c3d;
+  color: #e67214;
 }
 .color_cyan {
   color: #8fbceb;
@@ -1010,7 +1029,7 @@ img {
   width: 130px;
   border: 1px solid #5c64b4;
   background-color: #c5c8e4;
-  color: #ee8c3d;
+  color: #e67214;
   font-size: 14px;
 }
 
@@ -1027,7 +1046,7 @@ img {
   border-radius: 50%;
   padding: 7px 10px;
   background-color: #bad6f3;
-  color: #ee8c3d;
+  color: #e67214;
   cursor: pointer;
 }
 
