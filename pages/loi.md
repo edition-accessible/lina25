@@ -63,9 +63,15 @@ Les critères d’évaluation de la charge disproportionnée sont précisés à 
 <section  class="ressources" markdown="1">
 
 <h2>Ressources</h2>
+<ul>
 
+<li>
 <a href="https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32019L0882&from=EN" class="link color_orange">Directive 2019/882 du parlement Européen Journal officiel de l'Union européenne</a>
+</li>
 
+<li>
 <a href="/lina25/ressources/CELEX_32019L0882_FR_TXT_adaptation.html#ntc1-L_2019151FR.01007001-E0001" class="link color_orange" target="_self">Directive 2019/882, adaptation accessible</a>
+</li>
 
+</ul>
 </section>

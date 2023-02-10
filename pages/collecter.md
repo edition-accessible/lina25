@@ -56,17 +56,29 @@ Les codes 196 94 à 99 permettent de renseigner les utilisateurs sur la démarch
 
 <section  class="ressources" markdown="1">
 <h2> Ressources</h2>
+<ul>
 
+<li>
 <a href="../ressources/metadonnes" class="link color_orange" target="_self">Dictionnaire des métadonnées d'accessibilité</a>
+</li>
 
+<li>
 <span lang="en"><a href="https://w3c.github.io/publ-a11y/drafts/schema-a11y-summary/" class="link color_orange">
 Accessibility Summary Authoring Guidelines for EPUB Publications Draft Community Group Report 07 December 2022</a></span>
+</li>
 
+<li>
 <a href="https://ns.editeur.org/onix/fr/196" class="link color_orange">ONIX liste 196</a>
+</li>
 
+<li>
 <a href="https://edition-accessible.github.io/signalement/references/references.html" class="link color_orange">Tableau de correspondances schema.org et ONIX en Français</a>
+</li>
 
+<li>
 <a href="https://w3c.github.io/publ-a11y/drafts/a11y-crosswalk-MARC/" class="link color_orange">Tableau de correspondances schema.org, ONIX, MARC21 et UNIMARC en Anglais</a>
+</li>
 
+</ul>
 </section>
 

@@ -50,17 +50,35 @@ Les liseuses sont des appareils grand public sans clavier, de basse consommation
 <section  class="ressources" markdown="1">
 
 ## Ressources
+<ul>
 
-<a href="https://www.edrlab.org/public/a11y/EDRLab-a11y-2018.pdf" class="link color_orange">Pour une meilleure prise en compte de l’accessibilité au sein de l’écosystème Epub3 (PDF, 370 Ko)</a>, étude de 2018 par Fernando Pinto Da Silva pour EDRLab.
+<li>
+<a href="https://www.edrlab.org/public/a11y/EDRLab-a11y-2018.pdf" class="link color_orange"><i>Pour une meilleure prise en compte de l’accessibilité au sein de l’écosystème Epub3.</i> EDRLab 2018 (PDF, 370 Ko)</a>
+</li>
 
-<a href="https://www.edrlab.org/accessibility/lecture-et-deficience-visuelle/" class="link color_orange">Comment accéder à une offre de lecture adaptée quand on est déficient visuel.</a> Guide de 2018 par Fernando Pinto Da Silva pour EDRLab.
+<li>
+<a href="https://www.edrlab.org/accessibility/lecture-et-deficience-visuelle/" class="link color_orange">Comment accéder à une offre de lecture adaptée quand on est déficient visuel. EDRLab 2018</a> 
+</li>
 
-<a href="https://www.edrlab.org/accessibility/epub-and-dyslexia/" class="link color_orange">Uses and potential of EPUB ebooks for dyslexic people. </a> Étude menée entre 2017 et 2019 par Luc Maumet pour EDRLab. Les rappports sont disponibles en français&#8239;: [mission “EPUB et dyslexie”, 2018. EPUB, 1.7 Mo](https://www.edrlab.org/public/a11y/EDRLab-Dyslexie-2018.epub) et [EPUB et dyslexie en Europe, 2019. EPUB, 120 Ko](https://www.edrlab.org/public/a11y/EPUB-dyslexie-en-Europe-2019.epub).
+<li>
+<a href="https://www.edrlab.org/accessibility/epub-and-dyslexia/" class="link color_orange" lang="en">Uses and potential of EPUB ebooks for dyslexic people. EDRLab 2019.</a> </li>
 
-<a href="https://edrlab.github.io/thorium-reader-doc/fr/" class="link color_orange">Documentation complète de l’application Thorium</a>
+<li>
+<a href="https://www.edrlab.org/public/a11y/EDRLab-Dyslexie-2018.epub" class="link color_orange">
+mission “EPUB et dyslexie”, EDRLab 2018. EPUB, 1.7 Mo</a></li>
 
-<a href="https://inclusivepublishing.org/rs-accessibility/" class="link color_orange">Reading Systems Accessibility Support Roundup</a> Un tour d'horizon des applications de lecture testées par epubtest.org (en anglais).
+<li><a href="https://www.edrlab.org/public/a11y/EPUB-dyslexie-en-Europe-2019.epub" class="link color_orange">EPUB et dyslexie en Europe, EDRLab 2019. EPUB, 120 Ko.</a>
+</li>
 
+<li>
+<a href="https://edrlab.github.io/thorium-reader-doc/fr/" class="link color_orange">Documentation de l’application Thorium</a>
+</li>
+
+<li>
+<a href="https://inclusivepublishing.org/rs-accessibility/" class="link color_orange">Reading Systems Accessibility Support Roundup. Inclusive publishing, 2022.</a>
+</li>
+
+</ul>
 
 
 </section>

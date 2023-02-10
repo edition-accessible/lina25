@@ -26,7 +26,7 @@ Le fait que les ebooks risquent d'être retirés du marché à grande échelle d
 
 ### Accessible Backlist Europe Laboratory (ABELab)
 
-Pour chiffrer le coût de la conversion des livres électroniques des fonds, il faut catégoriser les collections, analyser les deltas puis trouver les outils qui permettront d'automatiser ce qui peut l'être. Ce travail en amont peut-être mutualisé afin d'éviter la multiplication des coûts. C'est le sens du projet Accessible Backlist Europe Laboratory (ABELab).
+Pour chiffrer le coût de la conversion des livres électroniques des fonds, il faut catégoriser les collections, analyser les deltas puis trouver les outils qui permettront d'automatiser ce qui peut l'être. Ce travail en amont peut-être mutualisé afin d'éviter la multiplication des coûts. C'est le sens du projet <span lang="en">Accessible Backlist Europe Laboratory</span> (ABE Lab).
 
 ABELab est un projet porté par EDRLab en collaboration avec la <span lang="it">Fundazione LIA</span> et la <span lang="nl">Koninklijke Bibliotheek</span> pour apporter des réponses et permettre de chiffrer les solutions au niveau Européen en prenant en compte les différences entre les type d'oeuvres.
 
@@ -38,14 +38,25 @@ C'est un projet de 18 mois dont les conclusions seront disponibles en juin 2024.
 
 <h2>Ressources</h2>
 
-<a href="abelab.edrlab.org" class="link color_orange">Site du projet européen ABE Lab</a>
+<a href="https://www.abelab.eu" class="link color_orange">Site du projet européen ABE Lab</a>
 
-Liste non exhaustive des outils de remédiation existants&#8239;:
+<h3>Outils de remédiation&#8239;:</h3>
 
+Liste non exhaustive.
+
+<ul>
+
+<li>
 <a href="https://www.circularsoftware.com/" class="link color_orange">Circular Flo</a>
+</li>
 
+<li>
 <a href="https://www.isicrunch.com/news/" class="link color_orange">ISI crunch</a>
+</li>
 
+<li>
 <a href="https://epub.tools/" class="link color_orange">epub.tools</a>
+</li>
 
+</ul>
 </section>
