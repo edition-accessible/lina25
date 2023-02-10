@@ -24,7 +24,7 @@ Sur les plateformes de livres numériques, la "longue traîne" (titres anciens e
 
 Le fait que les ebooks risquent d'être retirés du marché à grande échelle d'ici 2025 est particulièrement inquiétant lorsque la diversité culturelle du contenu et l'inclusion sociale des personnes souffrant de handicaps visuels et cognitifs sont en jeu. Selon un représentant de l'association des éditeurs néerlandais, une obligation légale de rendre accessibles tous les titres du catalogue pourrait potentiellement conduire à la suppression de 80 % de l'offre actuelle d'ebooks…
 
-### Accessible Backlist Europe Laboratory (ABELab)
+<h3 id="abelab"> <span lang="en">Accessible Backlist Ebook Laboratory (ABELab)</span></h3>
 
 Pour chiffrer le coût de la conversion des livres électroniques des fonds, il faut catégoriser les collections, analyser les deltas puis trouver les outils qui permettront d'automatiser ce qui peut l'être. Ce travail en amont peut-être mutualisé afin d'éviter la multiplication des coûts. C'est le sens du projet <span lang="en">Accessible Backlist Europe Laboratory</span> (ABE Lab).
 

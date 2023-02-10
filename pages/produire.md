@@ -18,7 +18,10 @@ Un environnement de lecture ne peut être accessible que s’il s’appuie sur d
 
 ### Reproduire les information sémantiques dans le code
 
-Les technologies d'assistance comme les dispositifs de lecture s'appuient sur la richesse sémantique du balisage des contenus. Pour chaque groupe et portion de texte, il faut ainsi assigner la sémantique correspondante. Il faut privilégier le vocabulaire HTML5, mais comme ce dernier reste très générique, il est nécessaire de le préciser à l'aide des vocabulaires EPUB type et DPUB ARIA. Ces deux derniers sont complémentaires, le premier adressant les dispositifs de lecture et le second les technologies d'assistance. Vous pouvez vous référer aux document des standards <span lang="en">_EPUB 3 Structural Semantics Vocabulary 1.1_</span> et <span lang="en">_DPUB-ARIA vocabulary_</span>. En cas de doute la Base de connaissance <span lang="en">_Accessible Publishing Knowledge Base_</span> maintenue par le Consortium Daisy vous permettra de consulter des exemples et de trouver de l'information supplémentaire. Les balises génériques comme `div` et `span` ne devraient être utilisées que pour des besoins non couverts par les balises HTML.
+Les technologies d'assistance comme les dispositifs de lecture s'appuient sur la richesse sémantique du balisage des contenus. Pour chaque groupe et portion de texte, il faut ainsi assigner la sémantique correspondante. Il faut privilégier le vocabulaire HTML5, mais comme ce dernier reste très générique, il est nécessaire de le préciser à l'aide des vocabulaires EPUB type et DPUB ARIA. Ces deux derniers sont complémentaires, le premier adressant les dispositifs de lecture et le second les technologies d'assistance. Vous pouvez vous référer aux document des standards 
+<span lang="en"><cite>EPUB 3 Structural Semantics Vocabulary 1.1</cite></span> et 
+<span lang="en"><cite>DPUB-ARIA vocabulary</cite></span>. En cas de doute la Base de connaissance 
+<span lang="en"><cite>Accessible Publishing Knowledge Base</cite></span> maintenue par le Consortium Daisy vous permettra de consulter des exemples et de trouver de l'information supplémentaire. Les balises génériques comme `div` et `span` ne devraient être utilisées que pour des besoins non couverts par les balises HTML.
 
 Afin de faciliter et standardiser la production de livres numériques nativement accessibles au format EPUB 3, le SNE (Syndicat national de l’Edition) a rédigé une charte technique, disponible au format PDF. Cette charte “EPUB NAC” (pour _Nativement ACcessible_) reprend les recommandations des référentiels d’accessibilité internationaux et apporte des éclaircissements sur tout ce qui fait question dans les standards d’accessibilité applicables au format EPUB.
 
@@ -28,7 +31,7 @@ Il n'existe pas à ce jour de document répertoriant l'usage des Roles ARIA par 
 
 Dans la plupart des cas, l’auteur du livre n’aura pas décrit les images de l’ouvrage. Les services de production devront alors se référer au guide de bonnes pratiques rédigé par le SNE pour la rédaction des alternatives aux images. Le document _Mise en accessibilité des images dans les EPUBs - synthèse des travaux du groupe normes et standard du SNE_ apporte des explications sur les principes et techniques à appliquer.
 
-Le groupe de travail sur la transition vers l'EPUB du Consortium DAISY maintient un document _Best Practices for Authoring Extended Descriptions in EPUB_ qui vous permettra de tester les possibilités et d'étudier leur réalisation.
+Le groupe de travail sur la transition vers l'EPUB du Consortium DAISY maintient un document <span lang="en"><cite>Best Practices for Authoring Extended Descriptions in EPUB</cite></span> qui vous permettra de tester les possibilités et d'étudier leur réalisation.
 
 ### Contrôler la qualité des fichiers
 
@@ -56,7 +59,7 @@ epubtest.org donne une visibilité sur la prise en charge des fonctionnalités d
 
 La classe schema.org CreativeWork comprend un ensemble de propriétés utilisées pour identifier les qualités d'accessibilité d'une publication. Ces métadonnées doivent être incluses dans le paquet OPF du fichier EPUB.
 
-Les métadonnées obligatoires sont <span lang="en">**accessMode**, **accessModeSufficient**, **accessibilityFeature**</span> et <span lang="en">**accessibilityHazard**. **accessibilitySummary**</span> est fortement recommandé. Le nom de ce dernier est trompeur. Il ne s'agit pas d'un résumé complet, mais d'un complément d'information, d'une clarification et d'une amélioration des autres métadonnées d'accessibilité. Lors de la création du résumé d'accessibilité, il faut partir du principe que les autres métadonnées d'accessibilité ont déjà été présentées et que le résumé d'accessibilité sert à améliorer ces métadonnées. Si la publication présente des caractéristiques ou des lacunes qui ne sont pas exprimées dans les autres métadonnées d'accessibilité, le résumé d'accessibilité est l'endroit approprié pour inclure ces informations. Un guide de rédaction de ce résumé est en cours d'élaboration au sein du groupe des éditeurs du W3C. <span lang="en">[Accessibility Summary Authoring Guidelines for EPUB Publications Draft Community Group Report 07 December 2022](https://w3c.github.io/publ-a11y/drafts/schema-a11y-summary/)</span>.
+Les métadonnées obligatoires sont <span lang="en">**accessMode**, **accessModeSufficient**, **accessibilityFeature**</span> et <span lang="en">**accessibilityHazard**. **accessibilitySummary**</span> est fortement recommandé. Le nom de ce dernier est trompeur. Il ne s'agit pas d'un résumé complet, mais d'un complément d'information, d'une clarification et d'une amélioration des autres métadonnées d'accessibilité. Lors de la création du résumé d'accessibilité, il faut partir du principe que les autres métadonnées d'accessibilité ont déjà été présentées et que le résumé d'accessibilité sert à améliorer ces métadonnées. Si la publication présente des caractéristiques ou des lacunes qui ne sont pas exprimées dans les autres métadonnées d'accessibilité, le résumé d'accessibilité est l'endroit approprié pour inclure ces informations. Un guide de rédaction de ce résumé est en cours d'élaboration au sein du groupe des éditeurs du W3C. <span lang="en"><cite>[Accessibility Summary Authoring Guidelines for EPUB Publications Draft Community Group Report 07 December 2022](https://w3c.github.io/publ-a11y/drafts/schema-a11y-summary/)</cite></span>.
 
 ### Le cas des EPUB Fixed Layout et des PDF
 
@@ -78,8 +81,6 @@ Dans ce cas, il est recommandé de prévoir une version accessible de l'ouvrage 
 <li>
 
 <span lang="en"><a href="https://kb.daisy.org/publishing/docs/" class="link color_orange">Accessible Publishing Knowledge Base (en anglais, base de connaissance maintenue par le consortium DAISY)</a></span></li>
-
-
 
 <li><a href="https://www.oreilly.com/library/view/accessible-epub-3/9781449329297/" class="link color_orange">Accessible EPUB 3, by Matt Garrish (en anglais, ebook publié par O’Reilly, téléchargement gratuit)</a>
 </li>

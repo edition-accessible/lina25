@@ -37,7 +37,7 @@ Les fonctionnalités spécifiques à certains types de contenus doivent aussi ê
 -   la présence de descriptions détaillées pour les graphiques de données ;
 -   la présence de flashs, sons ou simulations de mouvement qui peuvent déclencher des crises chez les personnes à risque.
 
-<blockquote>Le tableau de correspondances de la recommandation française indique comment obtenir, prioriser et labelliser ces informations. Ces travaux sont encore en cours.</blockquote>
+<span class="exergue">Le tableau de correspondances de la recommandation française indique comment obtenir, prioriser et labelliser ces informations. Ces travaux sont encore en cours.</span>
 
 ### Les autres informations utiles
 
@@ -45,7 +45,7 @@ Certains éditeurs font le choix de déclarer la conformité de leurs livres num
 
 Certains livres particuliers ont des fonctionnalités d'accessibilité peu communes ou bien seront presque accessibles à un détail prêt. Pour cela le résumé d'accessibilité permet à l'éditeur de donner une information que les autres métadonnées ne peuvent pas transporter.
 
-<blockquote>Le tableau de correspondances de la recommandation française indique comment obtenir, prioriser et labelliser ces informations. Ces travaux sont encore en cours.</blockquote>
+<span class="exergue">Le tableau de correspondances de la recommandation française indique comment obtenir, prioriser et labelliser ces informations. Ces travaux sont encore en cours.</span>
 
 ### Le choix du vocabulaire
 
@@ -70,17 +70,24 @@ Les deux solutions actuellement disponibles pour le chiffrement des fichiers son
 
 ### Informer sur l’accessibilité des livres numériques
 
-<a href="https://www.w3.org/2021/09/UX-Guide-metadata-1.0/principles/" class="link color_orange">User Experience Guide for Displaying Accessibility Metadata 1.0 (en cours de réécriture)</a>
 
-<a href="https://edition-accessible.github.io/lina25/ressources/Informer" class="link color_orange" target="_self">Page de recommandations françaises</a>
+<ul>
+<li>
+<a href="https://www.w3.org/2021/09/UX-Guide-metadata-1.0/principles/" class="link color_orange"><span lang="en"><cite>User Experience Guide for Displaying Accessibility Metadata 1.0</cite></span></a></li>
+<li>
 
-<a href="https://edition-accessible.github.io/signalement/index.html" class="link color_orange">Le site compagnon de l'étude française (en cours)</a>
+<a href="https://edition-accessible.github.io/lina25/ressources/Informer" class="link color_orange" target="_self">Page de recommandations françaises (en cours)</cite></span></a></li>
+<li>
 
-<a href="https://edition-accessible.github.io/signalement/vocabulaire.html" class="link color_orange">Les résultats de l'étude sur le vocabulaire (en cours)</a>
+<a href="https://edition-accessible.github.io/signalement/index.html" class="link color_orange">Le site compagnon de l'étude française (en cours)</cite></span></a></li>
+<li>
+
+<a href="https://edition-accessible.github.io/signalement/vocabulaire.html" class="link color_orange">Les résultats de l'étude sur le vocabulaire (en cours)</a></li>
+</ul>
 
 ### Mesures techniques de protection (DRM)
 
-<a href="https://www.edrlab.org/readium-lcp/" class="link color_orange">Readium LCP</a>
+<a href="https://www.edrlab.org/readium-lcp/" class="link color_orange">Readium LCP (en anglais)</a>
 
 </section>
 

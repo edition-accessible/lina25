@@ -35,21 +35,33 @@ titlePrev: Informer
 <section  class="ressources" markdown="1">
 
 ## Ressources
+<ul>
+<li>
+<a href="https://epubtest.org/" class="link color_orange" lang="en">epubtest.org, the home for accessibility testing of e-reading experiences <span lang="fr">(en anglais)</span></a></li>
+<li>
 
-<a href="https://epubtest.org/" class="link color_orange">epubtest.org, the home for accessibility testing of e-reading experiences</a>
-
-<a href="https://www.w3.org/WAI/standards-guidelines/wcag/#iso" class="link color_orange">WCAG 2.0 ISO/IEC 40500</a>
+<a href="https://www.w3.org/WAI/standards-guidelines/wcag/#iso" class="link color_orange" lang="en">WCAG 2.0 ISO/IEC 40500 <span lang="fr">(en anglais)</span></a>
+</li>
+</ul>
 
 ### UAAG info:
+<ul>
+<li>
+<a href="https://www.w3.org/WAI/standards-guidelines/uaag/" class="link color_orange" lang="en"
+>UAAG Overview <span lang="fr">(en anglais)</span></a></li>
+<li>
 
-<a href="https://www.w3.org/WAI/standards-guidelines/uaag/" class="link color_orange">UAAG Overview</a>
-
-<a href="https://www.w3.org/TR/UAAG20/" class="link color_orange">UAAG 2.0 Note</a>
+<a href="https://www.w3.org/TR/UAAG20/" class="link color_orange" lang="en">UAAG 2.0 Note <span lang="fr">(en anglais)</span></a>
+</li>
+</ul>
 
 ### WCAG
+<ul>
+<li>
+<a href="https://www.w3.org/Translations/WCAG21-fr/" class="link color_orange">Règles pour l’accessibilité des contenus Web (WCAG) 2.1</a></li>
+<li>
 
-<a href="https://www.w3.org/Translations/WCAG21-fr/" class="link color_orange">Règles pour l’accessibilité des contenus Web (WCAG) 2.1</a>
-
-<a href="https://www.w3.org/WAI/WCAG21/quickref/" class="link color_orange">How to Meet WCAG (Quick Reference)</a>
-
+<a href="https://www.w3.org/WAI/WCAG21/quickref/" class="link color_orange" lang="en">How to Meet WCAG (Quick Reference)<span lang="fr">(en anglais)</span></a>
+</li>
+</ul>
 </section>

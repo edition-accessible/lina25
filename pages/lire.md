@@ -53,21 +53,21 @@ Les liseuses sont des appareils grand public sans clavier, de basse consommation
 <ul>
 
 <li>
-<a href="https://www.edrlab.org/public/a11y/EDRLab-a11y-2018.pdf" class="link color_orange"><i>Pour une meilleure prise en compte de l’accessibilité au sein de l’écosystème Epub3.</i> EDRLab 2018 (PDF, 370 Ko)</a>
+<a href="https://www.edrlab.org/public/a11y/EDRLab-a11y-2018.pdf" class="link color_orange"><cite>Pour une meilleure prise en compte de l’accessibilité au sein de l’écosystème Epub3.</cite> EDRLab 2018 (PDF, 370 Ko)</a>
 </li>
 
 <li>
-<a href="https://www.edrlab.org/accessibility/lecture-et-deficience-visuelle/" class="link color_orange">Comment accéder à une offre de lecture adaptée quand on est déficient visuel. EDRLab 2018</a> 
+<a href="https://www.edrlab.org/accessibility/lecture-et-deficience-visuelle/" class="link color_orange"><cite>Comment accéder à une offre de lecture adaptée quand on est déficient visuel. </cite>EDRLab, 2018.</a> 
 </li>
 
 <li>
-<a href="https://www.edrlab.org/accessibility/epub-and-dyslexia/" class="link color_orange" lang="en">Uses and potential of EPUB ebooks for dyslexic people. EDRLab 2019.</a> </li>
+<a href="https://www.edrlab.org/accessibility/epub-and-dyslexia/" class="link color_orange" lang="en"></cite>Uses and potential of EPUB ebooks for dyslexic people.</cite> EDRLab, 2019.</a> </li>
 
 <li>
 <a href="https://www.edrlab.org/public/a11y/EDRLab-Dyslexie-2018.epub" class="link color_orange">
-mission “EPUB et dyslexie”, EDRLab 2018. EPUB, 1.7 Mo</a></li>
+</cite>Mission “EPUB et dyslexie”.</cite> EDRLab, 2018. (EPUB, 1.7 Mo).</a></li>
 
-<li><a href="https://www.edrlab.org/public/a11y/EPUB-dyslexie-en-Europe-2019.epub" class="link color_orange">EPUB et dyslexie en Europe, EDRLab 2019. EPUB, 120 Ko.</a>
+<li><a href="https://www.edrlab.org/public/a11y/EPUB-dyslexie-en-Europe-2019.epub" class="link color_orange">EPUB et dyslexie en Europe, EDRLab, 2019. (EPUB, 120 Ko).</a>
 </li>
 
 <li>
@@ -75,7 +75,7 @@ mission “EPUB et dyslexie”, EDRLab 2018. EPUB, 1.7 Mo</a></li>
 </li>
 
 <li>
-<a href="https://inclusivepublishing.org/rs-accessibility/" class="link color_orange">Reading Systems Accessibility Support Roundup. Inclusive publishing, 2022.</a>
+<a href="https://inclusivepublishing.org/rs-accessibility/" class="link color_orange"><span lang="en"><cite>Reading Systems Accessibility Support Roundup.</cite></span> Inclusive publishing, 2022.</a>
 </li>
 
 </ul>

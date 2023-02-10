@@ -60,23 +60,23 @@ Voici une liste non exhaustive des situations que vous pouvez rencontrer et auxq
 
 ## Ressources
 
-### Guides pratique
+### Alternatives aux images
 
 <ul>
 
-<li><a href="https://www.sne.fr/app/uploads/2022/10/SNE-Normes-et-stanrdards-Textes-alternatifs-image-Document-de-synthese-.._vdef2.pdf" class ="link color_orange">Mise en accessibilité des images dans les EPUBs - synthése des travaux du groupe normes et standard du SNE, octobre 2022 (PDF non balisé, 2 Mo)</a></li>
+<li><a href="https://www.sne.fr/app/uploads/2022/10/SNE-Normes-et-stanrdards-Textes-alternatifs-image-Document-de-synthese-.._vdef2.pdf" class ="link color_orange"><cite>Mise en accessibilité des images dans les EPUBs - synthése des travaux du groupe normes et standard du SNE.</cite> octobre 2022 (PDF non balisé, 2 Mo)</a></li>
 
 <li><a href="https://www.sne.fr/app/uploads/2022/10/SNE_Atelier_Normes-et-Standards_Accessibilite_Textes-alternatifs_2022.pptx.pdf" class ="link color_orange">Présentation de l’atelier sur la production de textes alternatifs aux images du groupe normes et standard du SNE, octobre 2022 (PDF non balisé, 5.6 Mo)</a></li>
 
-<li><a href="https://github.com/benetech/AccessibleImageSampleBook/blob/master/AccessibleImageSampleBookFrench/DIAGRAM_Image-Description-Guidelines_FR.epub?raw=true" class ="link color_orange">Comment décrire les images&#8239;? DIAGRAM Center&#8239;; NCAM&#8239;; Association BrailleNet (EPUB, 7.7 Mo) </a></li>
+<li><a href="https://github.com/benetech/AccessibleImageSampleBook/blob/master/AccessibleImageSampleBookFrench/DIAGRAM_Image-Description-Guidelines_FR.epub?raw=true" class ="link color_orange"><cite>Comment décrire les images&#8239;?</cite> DIAGRAM Center&#8239;; NCAM&#8239;; Association BrailleNet (EPUB, 7.7 Mo) </a></li>
 
-<li class="link color_orange"><a href="https://diagramcenter.org" class ="color_orange">Le Diagram Center (en anglais)</a></li>
+<li class="link color_orange"><a href="https://diagramcenter.org" class ="color_orange"  lang="en">Diagram Center <span lang="fr">(en anglais)</span></a></li>
 
-<li class="link color_orange"><a href="https://poet.diagramcenter.org/" class ="color_orange">Poet training tool, en anglais.</a></li>
+<li class="link color_orange"><a href="https://poet.diagramcenter.org/" class ="color_orange"  lang="en">Poet training tool <span lang="fr">(en anglais)</span></a></li>
 
 </ul>
 
-### Autres ressources
+### Compréhension générale
 
 <ul>
 
@@ -85,11 +85,11 @@ Site web du Consortium pour des livres accessibles (ABC)</a></li>
 
 <li><a href="https://www.accessiblebooksconsortium.org/docs/fr/charter.docx" class ="link color_orange">Charte de l’édition accessible</a></li>
 
-<li><a href="https://www.accessiblebooksconsortium.org/documents/abc/docs/fr/best_practice_guidelines.doc" class ="link color_orange">Édition accessible, Pratiques recommandées à l’intention des éditeurs (fichier .doc téléchargé).</a></li>
+<li><a href="https://www.accessiblebooksconsortium.org/documents/abc/docs/fr/best_practice_guidelines.doc" class ="link color_orange"><cite>Édition accessible, Pratiques recommandées à l’intention des éditeurs</cite> (fichier .doc).</a></li>
 
-<li><a href="https://inclusivepublishing.org/" class ="link color_orange">inclusive publishing (en anglais)</a> regroupe des ressources utiles.</li>
+<li><a href="https://inclusivepublishing.org/" class ="link color_orange" lang="en">inclusive publishing (en anglais)</a></li>
 
-<li><a href="https://www.inclusivepublishinginpractice.org/" class ="link color_orange">L'édition inclusive en pratique</a> est un site d'autoformation.</li>
+<li><a href="https://www.inclusivepublishinginpractice.org/" class ="link color_orange">L'édition inclusive en pratique</a></li>
 
 <li><a href="https://daisy.org/webinar-series/" class ="link color_orange">Les webinaires du consortium Daisy (en anglais)</a></li>
 </ul>
