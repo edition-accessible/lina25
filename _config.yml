@@ -22,8 +22,8 @@ title: LINA25
 email: gautier.chomel@edrlab.org
 description: >- # this means to ignore newlines until "baseurl:"
     Toutes les ressources nécessaires pour un écosystème du livre numérique accessible
-baseurl: "/lina25" # the subpath of your site, e.g. /blog
-url: "https://edition-accessible.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.lina25.fr" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title:output_ext
 
 # Build settings

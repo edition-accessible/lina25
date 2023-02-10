@@ -12,6 +12,7 @@ img {
     position: fixed;
     transform: translateY(-50%);
     top: 50%;
+    background-color: white;
     &:hover {
         transform: translateY(-50%) scale(1.2);
         box-shadow: 2px 2px 5px 1px $color-secondary;
@@ -196,6 +197,9 @@ img {
             p {
                 text-align: left;
             }
+            ul {
+                padding: 0;
+            }
         }
         @include breakpoint-tablet {
             flex-direction: column;
@@ -250,8 +254,11 @@ img {
 .link {
     font-family: "Montserrat", sans-serif;
     font-weight: bold;
+    display: flex;
+    align-items: first baseline;
     &::before {
         font-family: "FontAwesome";
+        font-size: 0.7em;
         content: "\f061";
         margin-right: 10px;
         border: 1px solid;

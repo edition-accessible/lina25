@@ -14,4 +14,11 @@ span {
     list-style-type: none;
     text-decoration: none;
     color: $color-primary;
+    margin-bottom: 1em;
+}
+
+.exergue {
+    display: block;
+    font-style: italic;
+    padding-left: 2em;
 }

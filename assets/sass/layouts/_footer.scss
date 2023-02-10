@@ -39,7 +39,8 @@ footer ul {
         font-weight: 400;
         font-size: 22px;
         @include breakpoint-tablet {
-            span {
+            text-align: center;
+            i.fa {
                 display: none;
             }
         }

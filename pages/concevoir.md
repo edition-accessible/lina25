@@ -31,13 +31,13 @@ Le guide <i>Comment décrire les images</i> produit par le Diagram Center et tra
 
 Les diagrammes, graphiques et autre images d’illustration issues de données ne sont pas accessibles. Pour que des alternatives textuelles puissent être rédigées facilement pendant la phase de production numérique, il est nécessaire que les données - éventuellement simplifiées pour mieux s’intégrer à l’expérience de lecture - soient remises aux services de production de l’éditeur en même temps que le manuscrit.
 
-<blockquote><i>Ces données peuvent être délivrées dans un format CSV, Excel ou XML en fonction des capacitées des services de production.</i></blockquote>
+<span class="exergue">Ces données peuvent être délivrées dans un format CSV, Excel ou XML en fonction des capacitées des services de production.</span>
 
 ### Formes longues des abréviations et des sigles
 
 Les technologies d’assistance, et en particulier les lecteurs d’écran (logiciels capables de transformer du texte en voix synthétique), butent souvent sur les abréviations et les sigles, qui deviennent inintelligibles. Les auteurs sont les mieux placés pour fournir avec leur manuscrit une liste de formes longues des abréviations et sigles contenus dans leur texte, afin que les équipes de production de livres numériques puissent intégrer ces formes longues dans les fichiers générés, sous une forme facile à gérer par les technologies d’assistance.
 
-<blockquote> <i>Ces informations peuvent être fournies sous la forme d’un document textuel annexe, ou d’un fichier de données (CSV, Excel ou XML). </i></blockquote>
+<span class="exergue">Ces informations peuvent être fournies sous la forme d’un document annexe de format textuel, ou sous la forme d’un fichier de données (CSV, Excel ou XML). </span>
 
 ### Autres points d’attention
 
@@ -52,8 +52,7 @@ Voici une liste non exhaustive des situations que vous pouvez rencontrer et auxq
 -   Si votre ouvrage propose des indications qui reposent sur une discrimination visuelle, une seconde méthode d’identification doit être proposée.
 -   Les conséquences des actions de l’utilisateur doivent être clairement identifiées (par exemple si cliquer sur un lien déclenche le téléchargement d’un document ou redirige vers un site en ligne).
 
-
-<blockquote> <i>Vos contenus doivent être perceptibles, utilisables et compréhensibles même lorsqu'ils sont consultés sur un écran petit, n'affichant pas les couleurs ou encore sans écran, via une vocalisation ou un rendu en braille. </i></blockquote>
+<span class="exergue">Vos contenus doivent être perceptibles, utilisables et compréhensibles même lorsqu'ils sont consultés sur un écran petit, n'affichant pas les couleurs ou encore sans écran, via une vocalisation ou un rendu en braille. </span>
 
 </div>
 
@@ -63,29 +62,35 @@ Voici une liste non exhaustive des situations que vous pouvez rencontrer et auxq
 
 ### Guides pratique
 
-<a href="https://www.sne.fr/app/uploads/2022/10/SNE-Normes-et-stanrdards-Textes-alternatifs-image-Document-de-synthese-.._vdef2.pdf" class ="link color_orange">Mise en accessibilité des images dans les EPUBs - synthése des travaux du groupe normes et standard du SNE, octobre 2022 (PDF non balisé, 2 Mo)</a>
+<ul>
 
-<a href="https://www.sne.fr/app/uploads/2022/10/SNE_Atelier_Normes-et-Standards_Accessibilite_Textes-alternatifs_2022.pptx.pdf" class ="link color_orange">Présentation de l’atelier sur la production de textes alternatifs aux images du groupe normes et standard du SNE, octobre 2022 (PDF non balisé, 5.6 Mo)</a>
+<li><a href="https://www.sne.fr/app/uploads/2022/10/SNE-Normes-et-stanrdards-Textes-alternatifs-image-Document-de-synthese-.._vdef2.pdf" class ="link color_orange">Mise en accessibilité des images dans les EPUBs - synthése des travaux du groupe normes et standard du SNE, octobre 2022 (PDF non balisé, 2 Mo)</a></li>
 
-<a href="https://github.com/benetech/AccessibleImageSampleBook/blob/master/AccessibleImageSampleBookFrench/DIAGRAM_Image-Description-Guidelines_FR.epub?raw=true" class ="link color_orange"><i class="color_orange bold">Comment décrire les images&#8239;?</i> DIAGRAM Center&#8239;; NCAM&#8239;; Association BrailleNet (EPUB, 7.7 Mo) </a>
+<li><a href="https://www.sne.fr/app/uploads/2022/10/SNE_Atelier_Normes-et-Standards_Accessibilite_Textes-alternatifs_2022.pptx.pdf" class ="link color_orange">Présentation de l’atelier sur la production de textes alternatifs aux images du groupe normes et standard du SNE, octobre 2022 (PDF non balisé, 5.6 Mo)</a></li>
 
-<a href="https://diagramcenter.org" class ="link color_orange">Le Diagram Center (en anglais)</a> propose un outil d’exercices en ligne ([Poet training tool, en anglais](https://poet.diagramcenter.org/)), des ressources video et un [guide de bonnes pratiques (en anglais)](http://diagramcenter.org/table-of-contents-2.html).
+<li><a href="https://github.com/benetech/AccessibleImageSampleBook/blob/master/AccessibleImageSampleBookFrench/DIAGRAM_Image-Description-Guidelines_FR.epub?raw=true" class ="link color_orange">Comment décrire les images&#8239;? DIAGRAM Center&#8239;; NCAM&#8239;; Association BrailleNet (EPUB, 7.7 Mo) </a></li>
+
+<li class="link color_orange"><a href="https://diagramcenter.org" class ="color_orange">Le Diagram Center (en anglais)</a></li>
+
+<li class="link color_orange"><a href="https://poet.diagramcenter.org/" class ="color_orange">Poet training tool, en anglais.</a></li>
+
+</ul>
 
 ### Autres ressources
 
-<a href="https://www.accessiblebooksconsortium.org/publishing/fr/" class ="link color_orange">
-Site web du Consortium pour des livres accessibles (ABC)</a>
+<ul>
 
-<a href="https://www.accessiblebooksconsortium.org/docs/fr/charter.docx" class ="link color_orange">Charte de l’édition accessible</a>
+<li class="link color_orange"><a href="https://www.accessiblebooksconsortium.org/publishing/fr/" class ="color_orange">
+Site web du Consortium pour des livres accessibles (ABC)</a></li>
 
-<a href="https://www.accessiblebooksconsortium.org/documents/abc/docs/fr/best_practice_guidelines.doc" class ="link color_orange">Édition accessible, Pratiques recommandées à l’intention des éditeurs (fichier .doc téléchargé).</a>
+<li><a href="https://www.accessiblebooksconsortium.org/docs/fr/charter.docx" class ="link color_orange">Charte de l’édition accessible</a></li>
 
-<a href="https://inclusivepublishing.org/" class ="link color_orange">inclusive publishing (en anglais)</a> regroupe des ressources utiles.
+<li><a href="https://www.accessiblebooksconsortium.org/documents/abc/docs/fr/best_practice_guidelines.doc" class ="link color_orange">Édition accessible, Pratiques recommandées à l’intention des éditeurs (fichier .doc téléchargé).</a></li>
 
-<a href="https://www.inclusivepublishinginpractice.org/" class ="link color_orange">L'édition inclusive en pratique</a> est un site d'autoformation.
+<li><a href="https://inclusivepublishing.org/" class ="link color_orange">inclusive publishing (en anglais)</a> regroupe des ressources utiles.</li>
 
+<li><a href="https://www.inclusivepublishinginpractice.org/" class ="link color_orange">L'édition inclusive en pratique</a> est un site d'autoformation.</li>
 
-<a href="https://daisy.org/webinar-series/" class ="link color_orange">Les webinaires du consortium Daisy (en anglais)</a>
-
+<li><a href="https://daisy.org/webinar-series/" class ="link color_orange">Les webinaires du consortium Daisy (en anglais)</a></li>
+</ul>
 </section>
-
