@@ -192,6 +192,7 @@ img {
         }
         > .ressources {
             flex: 1;
+            text-align: left;
             h2,
             h3,
             p {
@@ -199,6 +200,9 @@ img {
             }
             ul {
                 padding: 0;
+            }
+            a:hover {
+                color: $color-primary;
             }
         }
         @include breakpoint-tablet {
@@ -254,8 +258,6 @@ img {
 .link {
     font-family: "Montserrat", sans-serif;
     font-weight: bold;
-    display: flex;
-    align-items: first baseline;
     &::before {
         font-family: "FontAwesome";
         font-size: 0.7em;
@@ -285,6 +287,80 @@ img {
     background-color: lighten($color-primary, 30%);
     color: $color-tertiary;
     font-size: 14px;
+}
+
+[role="switch"] {
+    margin: 2px;
+    padding: 4px 4px 8px 8px;
+    border: 0 solid #005a9c;
+    border-radius: 5px;
+    width: 18em;
+    user-select: none;
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+
+[role="switch"] .label {
+    display: inline-block;
+    width: 12em;
+    text-align: center;
+}
+
+[role="switch"] .switch {
+    position: relative;
+    display: inline-block;
+    border: 2px solid $color-primary;
+    border-radius: 12px;
+    height: 20px;
+    width: 40px;
+}
+
+[role="switch"] .switch span {
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    display: inline-block;
+    border: 2px solid $color-primary;
+    border-radius: 8px;
+    height: 12px;
+    width: 12px;
+    background: $color-primary;
+}
+
+[role="switch"][aria-checked="true"] .switch span {
+    left: 21px;
+    background: $color-tertiary;
+    border-color: $color-tertiary;
+}
+
+[role="switch"] .on {
+    display: none;
+}
+
+[role="switch"] .off {
+    display: inline;
+}
+
+[role="switch"][aria-checked="true"] .on {
+    display: inline;
+}
+
+[role="switch"][aria-checked="true"] .off {
+    display: none;
+}
+
+[role="switch"]:focus,
+[role="switch"]:hover {
+    padding: 2px 2px 6px 6px;
+    border-width: 2px;
+    outline: none;
+    background-color: #def;
+    cursor: pointer;
+}
+
+[role="switch"]:focus span.switch {
+    background-color: white;
 }
 
 .title {

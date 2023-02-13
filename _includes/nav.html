@@ -27,6 +27,7 @@
             role="menu"
             class="dropdown_btn"
             aria-label="dropdown menu"
+            aria-expanded="false"
             tabindex="0"
             hidden
         >
@@ -117,9 +118,14 @@
 
 <script>
     const btn = document.getElementById("dropdown_button");
+    const buttonElement = document.querySelector("button");
+
     btn.addEventListener("click", function () {
         this.classList.toggle("button-open");
-        this.querySelector("button").toggleAttribute("aria-expanded");
+        const currentState =
+            buttonElement.getAttribute("aria-expanded") === "true";
+        const newState = String(!currentState);
+        buttonElement.setAttribute("aria-expanded", newState);
     });
 
     const nav = document.querySelector(".nav");
