@@ -36,6 +36,14 @@
         </section>
 
         <main class="page" id="main" role="main">
+            <div role="switch" aria-checked="true" tabindex="0">
+                <span class="label"> Justification du texte</span>
+                <span class="switch">
+                    <span></span>
+                </span>
+                <span class="on" aria-hidden="true"> On </span>
+                <span class="off" aria-hidden="true"> Off </span>
+            </div>
             <section>{{ content }}</section>
         </main>
 
@@ -47,19 +55,19 @@
             let content = document.querySelector(".page");
 
             function justify() {
-                buttonJustified.style.display = "none";
-                buttonLeft.style.display = "block";
+                /*                 buttonJustified.style.display = "none";
+                buttonLeft.style.display = "block"; */
                 principes.classList.add("hyphens");
-                content.classList.remove("alignLeft");
+                principes.classList.remove("alignLeft");
             }
 
             function left() {
                 principes.classList.remove("hyphens");
-                content.classList.add("alignLeft");
-                buttonLeft.style.display = "none";
-                buttonJustified.style.display = "block";
+                principes.classList.add("alignLeft");
+                /*                 buttonLeft.style.display = "none";
+                buttonJustified.style.display = "block"; */
             }
-
+            /* 
             let buttonJustified = document.getElementById("iconJustify");
             let buttonLeft = document.getElementById("iconAlignLeft");
 
@@ -69,7 +77,7 @@
 
             buttonLeft.addEventListener("click", function () {
                 left();
-            });
+            }); 
 
             contentButton.addEventListener("focus", function () {
                 contentButton.addEventListener("keydown", function (event) {
@@ -80,8 +88,60 @@
                     }
                 });
             });
-
+*/
             justify();
+
+            /*
+             *   This content is licensed according to the W3C Software License at
+             *   https://www.w3.org/Consortium/Legal/2015/copyright-software-and-document
+             *
+             *   File:  switch.js
+             *
+             *   Desc:  Switch widget that implements ARIA Authoring Practices
+             */
+
+            ("use strict");
+
+            class Switch {
+                constructor(domNode) {
+                    this.switchNode = domNode;
+                    this.switchNode.addEventListener("click", () =>
+                        this.toggleStatus()
+                    );
+                    this.switchNode.addEventListener("keydown", (event) =>
+                        this.handleKeydown(event)
+                    );
+                }
+
+                handleKeydown(event) {
+                    // Only do something when space or return is pressed
+                    if (event.key === "Enter" || event.key === " ") {
+                        event.preventDefault();
+                        this.toggleStatus();
+                    }
+                }
+
+                // Switch state of a switch
+                toggleStatus() {
+                    const currentState =
+                        this.switchNode.getAttribute("aria-checked") === "true";
+                    const newState = String(!currentState);
+                    this.switchNode.setAttribute("aria-checked", newState);
+                    if (currentState) {
+                        left();
+                    } else {
+                        justify();
+                    }
+                }
+            }
+
+            // Initialize switches
+            window.addEventListener("load", function () {
+                // Initialize the Switch component on all matching DOM nodes
+                Array.from(document.querySelectorAll("[role^=switch]")).forEach(
+                    (element) => new Switch(element)
+                );
+            });
         </script>
     </body>
 </html>
