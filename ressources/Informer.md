@@ -29,7 +29,6 @@ Doivent être affiché à minima les informations suivantes&#8239;:
 
 <details>
 <summary>Pourquoi ces informations sont importantes pour l’accessibilité</summary>
-<p>
 
 <ul>
 <li>
@@ -49,7 +48,6 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
 </li>
 </ul>
 
-</p>
 </details>
 <h3 id="accessibilité">Accessibilité</h3>
 
@@ -163,11 +161,11 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
 </thead>
 <tbody>
 <tr class="even">
-<td>Images décrites par la voix de synthèse (descriptions courtes)</td>
-<td>Le livre contient des images nécessaires à la compréhension pour lesquelles une alternative courte sera vocalisée (Alt text).</td>
-<td><a href="https://ns.editeur.org/onix/fr/196/">Liste 196 Code 14 Brèves descriptions alternatives</a></td>
-<td>ignorer</td>
-<td>Peut ne pas être affiché si la <a href="https://ns.editeur.org/onix/fr/196/02">Spécifications d’accessibilité EPUB 1.0 A (Liste 196 Code 02)</a> ou <a href="https://ns.editeur.org/onix/fr/196/03">Spécifications d’accessibilité EPUB 1.0 AA (Liste 196 Code 03)</a> est présente.</td></tr>
+    <td>Images décrites par la voix de synthèse (descriptions courtes)</td>
+    <td><em>Le livre contient des images nécessaires à la compréhension pour lesquelles une alternative courte sera vocalisée (Alt text).</em></td>
+    <td><a href="https://ns.editeur.org/onix/fr/196/">Liste 196 Code 14 Brèves descriptions alternatives</a></td>
+    <td>ignorer</td>
+    <td>Peut ne pas être affiché si la <a href="https://ns.editeur.org/onix/fr/196/02">Spécifications d’accessibilité EPUB 1.0 A (Liste 196 Code 02)</a> ou <a href="https://ns.editeur.org/onix/fr/196/03">Spécifications d’accessibilité EPUB 1.0 AA (Liste 196 Code 03)</a> est présente.</td></tr>
 <tr class="even">
 <td>Images décrites (descriptions longues)</td>
 <td>Le livre contient des images nécessaires à la compréhension pour lesquelles une alternative longue est proposée. Cette alternative peut être seulement vocalisée ou également disponible visuellement.</td>
