@@ -3,7 +3,7 @@ layout: page
 title: Renseigner
 subtitle: et référencer des informations précises
 orientation: assurer la présence d’informations de qualité sur l’accessibilité des livres numériques
-audience: personnes en charge de produire, renseigner ou améliorer les métadonnées auprès des distributeurs, organismes de référencement et agences bibliographiques"
+audience: personnes en charge de produire, renseigner ou améliorer les métadonnées auprès des distributeurs, organismes de référencement et agences bibliographiques
 previous: ./traiter.html
 next: ./diffuser.html
 titleNext: Informer
@@ -18,9 +18,9 @@ Afin de rendre possible l’information de l’utilisateur, les métadonnées re
 
 Comme ces informations et leur affichage s’inscrit dans un cadre légal, leur exactitude revêt une importance particulière car elle engage les différents acteurs, éditeurs, intermédiaires et revendeurs. Une démarche d’information et de validation devrait être mise en œuvre pour assurer cette exactitude.
 
-Nous proposons un [dictionnaire des métadonnées](https://edition-accessible.github.io/lina25/ressources/Informer) pour vous aider dans cette tâche. Vous y trouverez des tableaux de correspondance définissant les conditions et l'information nécessaire en lien avec le code ONIX correspondant.  
+Nous proposons un [dictionnaire des métadonnées](../ressources/metadonnes) pour vous aider dans cette tâche. Vous y trouverez des tableaux de correspondance définissant les conditions et l'information nécessaire en lien avec le code ONIX correspondant.  
 
-Les recommandations françaises sur l'affichage des informations d'accessibilité (projet en cours) peuvent-être aussi utiles pour comprendre comment chaque code devrait se matérialiser sur les sites de diffusion et de distribution.
+Les recommandations françaises sur l'[affichage des informations d'accessibilité](../ressources/Informer) (projet en cours) peuvent-être aussi utiles pour comprendre comment chaque code devrait se matérialiser sur les sites de diffusion et de distribution.
 
 ## Les informations nécessaires
 
@@ -56,17 +56,29 @@ Les codes 196 94 à 99 permettent de renseigner les utilisateurs sur la démarch
 
 <section  class="ressources" markdown="1">
 <h2> Ressources</h2>
+<ul>
 
+<li>
 <a href="../ressources/metadonnes" class="link color_orange" target="_self">Dictionnaire des métadonnées d'accessibilité</a>
+</li>
 
+<li>
 <span lang="en"><a href="https://w3c.github.io/publ-a11y/drafts/schema-a11y-summary/" class="link color_orange">
 Accessibility Summary Authoring Guidelines for EPUB Publications Draft Community Group Report 07 December 2022</a></span>
+</li>
 
+<li>
 <a href="https://ns.editeur.org/onix/fr/196" class="link color_orange">ONIX liste 196</a>
+</li>
 
+<li>
 <a href="https://edition-accessible.github.io/signalement/references/references.html" class="link color_orange">Tableau de correspondances schema.org et ONIX en Français</a>
+</li>
 
+<li>
 <a href="https://w3c.github.io/publ-a11y/drafts/a11y-crosswalk-MARC/" class="link color_orange">Tableau de correspondances schema.org, ONIX, MARC21 et UNIMARC en Anglais</a>
+</li>
 
+</ul>
 </section>
 

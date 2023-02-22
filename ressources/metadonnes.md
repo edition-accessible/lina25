@@ -88,7 +88,7 @@ ONIX permet d'informer sur ces éditions. Si la liste 196 est dédiée à l'acce
 
 ### Navigation
 
-*Pour être considéré comme accessible au sens de la directive Européenne, chaque livre numérique doit comporter au moins deux méthodes de navigation .*
+*La norme WCAG indique : [2.4.5 Accès multiples](https://www.w3.org/Translations/WCAG20-fr/#navigation-mechanisms-mult-loc) : une page Web peut être située par plus d'un moyen dans un ensemble de pages Web [...]. (Niveau AA)*
 
 <table class="zebra">
 <thead>
@@ -100,7 +100,7 @@ ONIX permet d'informer sur ces éditions. Si la liste 196 est dédiée à l'acce
 </thead>
 <tr><td> L'ouvrage existe en imprimé</td>
 <td>Dans le livre numérique il est possible d'identifier et de se rendre au début d'une page précise de l'ouvrage imprimé et ce dernier est connu</td>
-<td><a href="https://ns.editeur.org/onix/en/196/19">Liste 196 Code 19 Numérotation de pages équivalente au document imprimé</a>. <i><a href="https://ns.editeur.org/onix/en/51/13">Liste 51 Code 13 Publication numérique basée sur (édition papier) permet de renseigner le titre dont est issue la numérotation.</a></i></td></tr>
+<td><a href="https://ns.editeur.org/onix/en/196/19">Liste 196 Code 19 Numérotation de pages équivalente au document imprimé</a>. <i>En complément <a href="https://ns.editeur.org/onix/en/51/13">Liste 51 Code 13 Publication numérique basée sur (édition papier) permet de renseigner le titre dont est issue la numérotation.</a></i></td></tr>
 <tr><td> Le livre est composé de chapitres, parties ou sections</td>
 <td>Le code du livre comporte des niveaux de titre (h1, h2, h3) et leur hierarchie est cohérente</td>
 <td><a href="https://ns.editeur.org/onix/en/196/29">Liste 196 Code 29 Navigation suivant/précédent</a></td></tr>

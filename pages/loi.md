@@ -36,7 +36,7 @@ Les critères d’accessibilité retenus pour le livre numérique sont listés d
 -   Permettre la découverte en fournissant des informations, via les métadonnées, sur les caractéristiques d’accessibilité; (Section IV-f-v)
 -   S’assurer que les mesures de gestion des droits numériques ne bloquent pas les caractéristiques d’accessibilité; (Section IV-f-vi)
 
-Le document [EPUB Accessibility - EU Accessibility Act Mapping](https://www.w3.org/TR/epub-a11y-eaa-mapping/) est un travail en cours permettant de faire le lien entre ces exigences et les fonctionnalités du format EPUB redistribuable.
+Le document <span lang="en"><cite>[EPUB Accessibility - EU Accessibility Act Mapping](https://www.w3.org/TR/epub-a11y-eaa-mapping/)</cite></span> est un travail en cours permettant de faire le lien entre ces exigences et les fonctionnalités du format EPUB redistribuable.
 
 ### Exigences relatives à la distribution du livre numérique
 
@@ -63,9 +63,15 @@ Les critères d’évaluation de la charge disproportionnée sont précisés à 
 <section  class="ressources" markdown="1">
 
 <h2>Ressources</h2>
+<ul>
 
+<li>
 <a href="https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32019L0882&from=EN" class="link color_orange">Directive 2019/882 du parlement Européen Journal officiel de l'Union européenne</a>
+</li>
 
+<li>
 <a href="/lina25/ressources/CELEX_32019L0882_FR_TXT_adaptation.html#ntc1-L_2019151FR.01007001-E0001" class="link color_orange" target="_self">Directive 2019/882, adaptation accessible</a>
+</li>
 
+</ul>
 </section>

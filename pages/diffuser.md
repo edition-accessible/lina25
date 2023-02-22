@@ -13,7 +13,7 @@ titlePrev: Renseigner
 <div markdown="1" id="principes">
 {%- include principes.html -%}
 
-Trouver, acheter et finalement lire une publication est une expérience très personnelle. Pour les personnes empêchées de lire le texte imprimé du fait d'un handicap, cette démarche implique de se poser des questions du type _mon lecteur d’écran fonctionnera-t-il avec ce titre&#8239;; y a-t-il des descriptions d’images qui seront énoncées&#8239;; y a-t-il des référence aux pages du livre imprimé&#8239;; l’ordre de lecture est-il logique_.
+Trouver, acheter et finalement lire une publication est une expérience très personnelle. Pour les personnes empêchées de lire le texte imprimé du fait d'un handicap, cette démarche implique de se poser des questions du type _pourrais-je modifier la police d'affichage et sa taille&#8239;; mon lecteur d’écran fonctionnera-t-il avec ce titre&#8239;; y a-t-il des descriptions d’images qui seront énoncées&#8239;; y a-t-il des référence aux pages du livre imprimé&#8239;; l’ordre de lecture est-il logique_.
 
 Les lecteurs peuvent utiliser différents services en ligne que ce soient les sites des librairies indépendantes, des portails reliés à un dispositif de lecture ou encore des bibliothèques publiques ou spécialisées. La recherche d’un ouvrage particulier peut aussi amener le lecteur à consulter des sites internationaux ou localisés dans d’autres pays. Les mêmes informations devraient être retrouvées dans ces différents cas de figure afin de garantir une expérience utilisateur équivalente sans avoir à comprendre un nouveau mode de fonctionnement pour trouver l’information pertinente.
 
@@ -37,7 +37,7 @@ Les fonctionnalités spécifiques à certains types de contenus doivent aussi ê
 -   la présence de descriptions détaillées pour les graphiques de données ;
 -   la présence de flashs, sons ou simulations de mouvement qui peuvent déclencher des crises chez les personnes à risque.
 
-<blockquote>Le tableau de correspondances de la recommandation française indique comment obtenir, prioriser et labelliser ces informations. Ces travaux sont encore en cours.</blockquote>
+<span class="exergue">Le tableau de correspondances de la recommandation française indique comment obtenir, prioriser et labelliser ces informations. Ces travaux sont encore en cours.</span>
 
 ### Les autres informations utiles
 
@@ -45,7 +45,7 @@ Certains éditeurs font le choix de déclarer la conformité de leurs livres num
 
 Certains livres particuliers ont des fonctionnalités d'accessibilité peu communes ou bien seront presque accessibles à un détail prêt. Pour cela le résumé d'accessibilité permet à l'éditeur de donner une information que les autres métadonnées ne peuvent pas transporter.
 
-<blockquote>Le tableau de correspondances de la recommandation française indique comment obtenir, prioriser et labelliser ces informations. Ces travaux sont encore en cours.</blockquote>
+<span class="exergue">Le tableau de correspondances de la recommandation française indique comment obtenir, prioriser et labelliser ces informations. Ces travaux sont encore en cours.</span>
 
 ### Le choix du vocabulaire
 
@@ -70,17 +70,24 @@ Les deux solutions actuellement disponibles pour le chiffrement des fichiers son
 
 ### Informer sur l’accessibilité des livres numériques
 
-<a href="https://www.w3.org/2021/09/UX-Guide-metadata-1.0/principles/" class="link color_orange">User Experience Guide for Displaying Accessibility Metadata 1.0 (en cours de réécriture)</a>
 
-<a href="https://edition-accessible.github.io/lina25/ressources/Informer" class="link color_orange" target="_self">Page de recommandations françaises</a>
+<ul>
+<li>
+<a href="https://www.w3.org/2021/09/UX-Guide-metadata-1.0/principles/" class="link color_orange"><span lang="en"><cite>User Experience Guide for Displaying Accessibility Metadata 1.0</cite></span></a></li>
+<li>
 
-<a href="https://edition-accessible.github.io/signalement/index.html" class="link color_orange">Le site compagnon de l'étude française (en cours)</a>
+<a href="https://edition-accessible.github.io/lina25/ressources/Informer" class="link color_orange" target="_self">Page de recommandations françaises (en cours)</cite></span></a></li>
+<li>
 
-<a href="https://edition-accessible.github.io/signalement/vocabulaire.html" class="link color_orange">Les résultats de l'étude sur le vocabulaire (en cours)</a>
+<a href="https://edition-accessible.github.io/signalement/index.html" class="link color_orange">Le site compagnon de l'étude française (en cours)</cite></span></a></li>
+<li>
+
+<a href="https://edition-accessible.github.io/signalement/vocabulaire.html" class="link color_orange">Les résultats de l'étude sur le vocabulaire (en cours)</a></li>
+</ul>
 
 ### Mesures techniques de protection (DRM)
 
-<a href="https://www.edrlab.org/readium-lcp/" class="link color_orange">Readium LCP</a>
+<a href="https://www.edrlab.org/readium-lcp/" class="link color_orange">Readium LCP (en anglais)</a>
 
 </section>
 
