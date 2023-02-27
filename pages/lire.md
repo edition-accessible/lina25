@@ -50,7 +50,14 @@ Les liseuses sont des appareils grand public sans clavier, de basse consommation
 <section  class="ressources" markdown="1">
 
 ## Ressources
+
+### En Français
+
 <ul>
+
+<li>
+<a href="https://edition-accessible.github.io/lina25/ressources/accessibilite_lecture" class="link color_orange"><cite >Tour d'horizon de l'accessibilité des systèmes de lecture.</cite> Adaptation française de l'article <cite >Reading Systems Accessibility Support Roundup.</cite> Inclusive publishing, 2022.</a>
+</li>
 
 <li>
 <a href="https://www.edrlab.org/public/a11y/EDRLab-a11y-2018.pdf" class="link color_orange"><cite>Pour une meilleure prise en compte de l’accessibilité au sein de l’écosystème Epub3.</cite> EDRLab 2018 (PDF, 370 Ko)</a>
@@ -61,25 +68,28 @@ Les liseuses sont des appareils grand public sans clavier, de basse consommation
 </li>
 
 <li>
-<a href="https://www.edrlab.org/accessibility/epub-and-dyslexia/" class="link color_orange" lang="en"></cite>Uses and potential of EPUB ebooks for dyslexic people.</cite> EDRLab, 2019.</a> </li>
-
-<li>
 <a href="https://www.edrlab.org/public/a11y/EDRLab-Dyslexie-2018.epub" class="link color_orange">
-</cite>Mission “EPUB et dyslexie”.</cite> EDRLab, 2018. (EPUB, 1.7 Mo).</a></li>
+<cite>Mission “EPUB et dyslexie”.</cite> EDRLab, 2018. (EPUB, 1.7 Mo).</a></li>
 
-<li><a href="https://www.edrlab.org/public/a11y/EPUB-dyslexie-en-Europe-2019.epub" class="link color_orange">EPUB et dyslexie en Europe, EDRLab, 2019. (EPUB, 120 Ko).</a>
+<li><a href="https://www.edrlab.org/public/a11y/EPUB-dyslexie-en-Europe-2019.epub" class="link color_orange"><cite>EPUB et dyslexie en Europe</cite>, EDRLab, 2019. (EPUB, 120 Ko).</a>
 </li>
 
 <li>
-<a href="https://edrlab.github.io/thorium-reader-doc/fr/" class="link color_orange">Documentation de l’application Thorium</a>
-</li>
-
-<li>
-<a href="https://inclusivepublishing.org/rs-accessibility/" class="link color_orange"><span lang="en"><cite>Reading Systems Accessibility Support Roundup.</cite></span> Inclusive publishing, 2022.</a>
+<a href="https://edrlab.github.io/thorium-reader-doc/fr/" class="link color_orange">Documentation de l’application Thorium Reader</a>
 </li>
 
 </ul>
 
+### En Anglais
 
+<ul>
+<li>
+<a href="https://inclusivepublishing.org/rs-accessibility/" class="link color_orange" lang="en"><cite >Reading Systems Accessibility Support Roundup.</cite> Inclusive publishing, 2022.</a>
+</li>
+
+<li>
+<a href="https://www.edrlab.org/accessibility/epub-and-dyslexia/" class="link color_orange" lang="en"><cite>Uses and potential of EPUB ebooks for dyslexic people.</cite> EDRLab, 2019.</a> </li>
+
+</ul>
 </section>
 
