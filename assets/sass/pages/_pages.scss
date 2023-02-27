@@ -189,6 +189,9 @@ img {
             span {
                 color: black;
             }
+            ol li{
+                list-style-type: decimal;
+            }
         }
         > .ressources {
             flex: 1;
