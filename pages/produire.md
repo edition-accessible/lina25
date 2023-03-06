@@ -33,11 +33,13 @@ Dans la plupart des cas, l’auteur du livre n’aura pas décrit les images de 
 
 Le groupe de travail sur la transition vers l'EPUB du Consortium DAISY maintient un document <span lang="en"><cite>Best Practices for Authoring Extended Descriptions in EPUB</cite></span> qui vous permettra de tester les possibilités et d'étudier leur réalisation.
 
+Les recommandations peuvent varier d'un document à l'autre, notamment en ce qui concerne la longueur du texte alternatif court (alt text). Ces variations sont toutes justes et correspondent à des expériences utilisateur différentes. L'éditeur doit spécifier son choix.
+
 ### Contrôler la qualité des fichiers
 
 Une fois produits, les fichiers EPUB 3 devront être validés par la version à jour de EPUBCheck. Mais cet outil ne teste pas l’accessibilité des publications. Pour cela, il faudra faire appel à l’outil de test Ace by DAISY développé par le Consortium DAISY. Le logiciel Ace n’est pas conçu pour être utilisé de manière automatique&#8239;: il ne délivre pas un jugement du type _“cet EPUB est / n’est pas accessible”_ mais génère un rapport HTML mettant l'accent sur les enfreintes aux règles d'accessibilité&#8239;; il met également en évidence la structure de la publication et affiche les attributs d’accessibilité présents dans ses images. La qualité sémantique de la publication n’est pas jaugée par la mécanique de cet outil. La génération de métadonnées d’accessibilité, et en particulier l’évaluation d’un niveau de conformité WCAG, nécessite un audit du rapport Ace.
 
-Le Consortium DAISY a donc également développé un outil nommé SMART (Simple Manual Accessibility Report Tool), qui indique les contrôles manuels nécessaires pour garantir la conformité aux exigences EPUB et WCAG. SMART est le compagnon idéal de Ace, il vous guide pour établir et générer un rapport de conformité complet. Ensemble, ils fournissent la méthode la plus complète pour les tests de conformité d'accessibilité des publications EPUB.
+Le Consortium DAISY a donc également développé un outil nommé SMART (<span lang="en">Simple Manual Accessibility Report Tool</span>), qui indique les contrôles manuels nécessaires pour garantir la conformité aux exigences EPUB et WCAG. SMART est le compagnon idéal de Ace, il vous guide pour établir et générer un rapport de conformité complet. Ensemble, ils fournissent la méthode la plus complète pour les tests de conformité d'accessibilité des publications EPUB.
 
 Pour utiliser SMART, vous devez d'abord faire passer votre EPUB par Ace, qui effectue une vérification automatisée et recueille des informations sur les caractéristiques du titre. Ace génère un rapport au format JSON, qui est ensuite chargé par l'utilisateur dans l'outil SMART. SMART remplit les informations de l'évaluation et configure intelligemment le protocole de test manuel sur la base des résultats de Ace.
 
@@ -59,7 +61,8 @@ epubtest.org donne une visibilité sur la prise en charge des fonctionnalités d
 
 La classe schema.org CreativeWork comprend un ensemble de propriétés utilisées pour identifier les qualités d'accessibilité d'une publication. Ces métadonnées doivent être incluses dans le paquet OPF du fichier EPUB.
 
-Les métadonnées obligatoires sont <span lang="en">**accessMode**, **accessModeSufficient**, **accessibilityFeature**</span> et <span lang="en">**accessibilityHazard**. **accessibilitySummary**</span> est fortement recommandé. Le nom de ce dernier est trompeur. Il ne s'agit pas d'un résumé complet, mais d'un complément d'information, d'une clarification et d'une amélioration des autres métadonnées d'accessibilité. Lors de la création du résumé d'accessibilité, il faut partir du principe que les autres métadonnées d'accessibilité ont déjà été présentées et que le résumé d'accessibilité sert à améliorer ces métadonnées. Si la publication présente des caractéristiques ou des lacunes qui ne sont pas exprimées dans les autres métadonnées d'accessibilité, le résumé d'accessibilité est l'endroit approprié pour inclure ces informations. Un guide de rédaction de ce résumé est en cours d'élaboration au sein du groupe des éditeurs du W3C. <span lang="en"><cite>[Accessibility Summary Authoring Guidelines for EPUB Publications Draft Community Group Report 07 December 2022](https://w3c.github.io/publ-a11y/drafts/schema-a11y-summary/)</cite></span>.
+Les métadonnées obligatoires sont <span lang="en">**accessMode**, **accessModeSufficient**, **accessibilityFeature**</span> et <span lang="en">**accessibilityHazard**. **accessibilitySummary**</span> est fortement recommandé. Le nom de ce dernier est trompeur. Il ne s'agit pas d'un résumé complet, mais d'un complément d'information, d'une clarification et d'une amélioration des autres métadonnées d'accessibilité. Lors de la création du résumé d'accessibilité, il faut partir du principe que les autres métadonnées d'accessibilité ont déjà été présentées et que le résumé d'accessibilité sert à améliorer ces métadonnées. Si la publication présente des caractéristiques ou des lacunes qui ne sont pas exprimées dans les autres métadonnées d'accessibilité, le résumé d'accessibilité est l'endroit approprié pour inclure ces informations. Un guide de rédaction de ce résumé est en cours d'élaboration au sein du groupe des éditeurs du W3C. 
+<!-- <span lang="en"><cite>[Accessibility Summary Authoring Guidelines for EPUB Publications Draft Community Group Report 07 December 2022](https://w3c.github.io/publ-a11y/drafts/schema-a11y-summary/)</cite></span>. -->
 
 ### Le cas des EPUB Fixed Layout et des PDF
 
@@ -80,11 +83,11 @@ Dans ce cas, il est recommandé de prévoir une version accessible de l'ouvrage 
 <a href="https://www.sne.fr/app/uploads/2020/12/ePubAccessibleCharteSNE_v1.0-au-08-12-2020.pdf" class="link color_orange">Charte technique pour la production d’EPUBs “textuels” nativement accessibles (SNE)</a></li>
 <li>
 
-<span lang="en"><a href="https://kb.daisy.org/publishing/docs/" class="link color_orange">Accessible Publishing Knowledge Base (en anglais, base de connaissance maintenue par le consortium DAISY)</a></span></li>
+<span lang="en"><a href="https://kb.daisy.org/publishing/docs/" class="link color_orange">Accessible Publishing Knowledge Base <span lang="fr">(en anglais, base de connaissance maintenue par le consortium DAISY)</span></a></span></li>
 
-<li><a href="https://www.oreilly.com/library/view/accessible-epub-3/9781449329297/" class="link color_orange">Accessible EPUB 3, by Matt Garrish (en anglais, ebook publié par O’Reilly, téléchargement gratuit)</a>
+<li><a href="https://www.oreilly.com/library/view/accessible-epub-3/9781449329297/" class="link color_orange">Accessible EPUB 3, by Matt Garrish <span lang="fr">(en anglais, ebook publié par O’Reilly, téléchargement gratuit)</span></a>
 </li>
-<li><a href="https://w3c.github.io/epub-specs/epub33/fxl-a11y/" class="link color_orange">EPUB Fixed Layout Accessibility (en anglais, travaux en cours sur l'accessibilité des formats EPUB Fixed Layout)</a>
+<li><a href="https://w3c.github.io/epub-specs/epub33/fxl-a11y/" class="link color_orange">EPUB Fixed Layout Accessibility <span lang="fr">(en anglais, travaux en cours sur l'accessibilité des formats EPUB Fixed Layout)</span></a>
 </li>
 </ul>
 
@@ -97,32 +100,32 @@ Dans ce cas, il est recommandé de prévoir une version accessible de l'ouvrage 
 
 <li>
 
-<a href="https://www.w3.org/Submission/epub-a11y/" class="link color_orange">EPUB Accessibility 1.0 (en anglais, version stable)</a></li>
+<a href="https://www.w3.org/Submission/epub-a11y/" class="link color_orange">EPUB Accessibility 1.0 <span lang="fr">(en anglais, version stable)</span></a></li>
 
 <li>
 
-<a href="https://idpf.org/epub/a11y/techniques/" class="link color_orange">EPUB Accessibility Techniques 1.0  (en anglais, version stable)</a></li>
+<a href="https://idpf.org/epub/a11y/techniques/" class="link color_orange">EPUB Accessibility Techniques 1.0  <span lang="fr">(en anglais, version stable)</span></a></li>
 
 <li>
 
-<a href="https://www.w3.org/TR/epub-a11y-11/" class="link color_orange">EPUB Accessibility 1.1  (en anglais, version en cours de validation)</a></li>
+<a href="https://www.w3.org/TR/epub-a11y-11/" class="link color_orange">EPUB Accessibility 1.1  <span lang="fr">(en anglais, version en cours de validation)</span></a></li>
 
 <li>
 
-<a href="https://www.w3.org/TR/epub-a11y-tech-11/" class="link color_orange">EPUB Accessibility Techniques 1.1  (en anglais,  version en cours de validation)</a></li>
+<a href="https://www.w3.org/TR/epub-a11y-tech-11/" class="link color_orange">EPUB Accessibility Techniques 1.1  <span lang="fr">(en anglais, version en cours de validation)</span></a></li>
 
 <li>
-<span lang="en"><a href="https://www.w3.org/TR/epub-ssv/" class="link color_orange">EPUB 3 Structural Semantics Vocabulary 1.1</a></span></li>
+<span lang="en"><a href="https://www.w3.org/TR/epub-ssv/" class="link color_orange">EPUB 3 Structural Semantics Vocabulary 1.1 <span lang="fr">(en anglais)</span></a></span></li>
 
 <li>
 
-<span lang="en"><a href="https://www.w3.org/TR/dpub-aria/" class="link color_orange">DPUB-ARIA vocabulary</a></span></li>
+<span lang="en"><a href="https://www.w3.org/TR/dpub-aria/" class="link color_orange">DPUB-ARIA vocabulary <span lang="fr">(en anglais)</span></a></span></li>
 
 <li>
-<a href="https://www.w3.org/TR/WCAG20/" class="link color_orange">Web Content Accessibility Guidelines (WCAG) 2.0 (en anglais, applicables aux pages Web qui constituent les ressources des fichiers EPUB 3)</a></li>
+<a href="https://www.w3.org/TR/WCAG20/" class="link color_orange">Web Content Accessibility Guidelines (WCAG) 2.0 <span lang="fr">(en anglais, applicables aux pages Web qui constituent les ressources des fichiers EPUB 3)</span></a></li>
 
 <li>
-<a href="https://www.w3.org/WAI/ARIA/apg/" class="link color_orange">ARIA Authoring Practices Guide (en anglais, applicables aux pages Web qui constituent les ressources des fichiers EPUB 3)</a>
+<a href="https://www.w3.org/WAI/ARIA/apg/" class="link color_orange">ARIA Authoring Practices Guide <span lang="fr">(en anglais, applicables aux pages Web qui constituent les ressources des fichiers EPUB 3)</span></a>
 </li>
 
 </ul>
@@ -140,7 +143,7 @@ Dans ce cas, il est recommandé de prévoir une version accessible de l'ouvrage 
 
 <li>
 
-<a href="https://daisy.github.io/transitiontoepub/best-practices/extended-desc/ExtendedDescriptionsBestPractices.html" class="link color_orange">Best Practices for Authoring Extended Descriptions in EPUB</a></li>
+<a href="https://daisy.github.io/transitiontoepub/best-practices/extended-desc/ExtendedDescriptionsBestPractices.html" class="link color_orange">Best Practices for Authoring Extended Descriptions in EPUB <span lang="fr">(en anglais)</span></a></li>
 
 </ul>
 
@@ -148,7 +151,7 @@ Dans ce cas, il est recommandé de prévoir une version accessible de l'ouvrage 
 <ul>
 
 <li>
-<a href="https://github.com/w3c/epubcheck/releases" class="link color_orange">EPUBCheck</a></li>
+<a href="https://github.com/w3c/epubcheck/releases" class="link color_orange">EPUBCheck <span lang="fr">(en anglais)</span></a></li>
 
 <li>
 
@@ -156,11 +159,11 @@ Dans ce cas, il est recommandé de prévoir une version accessible de l'ouvrage 
 
 <li>
 
-<a href="https://daisy.org/activities/services/smart/" class="link color_orange">SMART by DAISY</a></li>
+<a href="https://daisy.org/activities/services/smart/" class="link color_orange">SMART by DAISY <span lang="fr">(en anglais)</span></a></li>
 
 <li>
 
-<a href="https://epubtest.org/results" class="link color_orange">epubtest.org</a></li>
+<a href="https://epubtest.org/results" class="link color_orange">epubtest.org <span lang="fr">(en anglais)</span></a></li>
  <!-- permet de vérifier la prise en charge des fonctionnalitées par les dispositifs de lecture. Les fichiers test peuvent aussi être utiles comme exemples. -->
 </ul>
 
@@ -169,12 +172,12 @@ Dans ce cas, il est recommandé de prévoir une version accessible de l'ouvrage 
 <ul>
 
 <li>
-<a href="http://www.schema.org/CreativeWork" class="link color_orange">schema.org CreativeWork class</a>
+<a href="http://www.schema.org/CreativeWork" class="link color_orange">schema.org CreativeWork class <span lang="fr">(en anglais)</span></a>
 </li>
 
 <li>
 <span lang="en"><a href="https://w3c.github.io/publ-a11y/drafts/schema-a11y-summary/" class="link color_orange">
-Accessibility Summary Authoring Guidelines for EPUB Publications Draft Community Group Report 07 December 2022</a></span></li>
+Accessibility Summary Authoring Guidelines for EPUB Publications Draft Community Group Report 07 December 2022 <span lang="fr">(en anglais)</span></a></span></li>
 
 </ul>
 
