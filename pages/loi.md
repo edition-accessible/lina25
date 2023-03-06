@@ -309,7 +309,7 @@ car n’entreraient pas dans la définition des livres numériques <a href="#fnr
 </li>
 
 <li>
-<a href="/lina25/ressources/CELEX_32019L0882_FR_TXT_adaptation.html#ntc1-L_2019151FR.01007001-E0001" class="link color_orange" target="_self">Directive 2019/882, adaptation accessible</a>
+<a href="../ressources/CELEX_32019L0882_FR_TXT_adaptation" class="link color_orange" target="_self">Directive 2019/882, adaptation accessible</a>
 </li>
 
 </ul>
