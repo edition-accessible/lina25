@@ -70,9 +70,9 @@ Voici une liste non exhaustive des situations que vous pouvez rencontrer et auxq
 
 <li><a href="https://github.com/benetech/AccessibleImageSampleBook/blob/master/AccessibleImageSampleBookFrench/DIAGRAM_Image-Description-Guidelines_FR.epub?raw=true" class ="link color_orange"><cite>Comment décrire les images&#8239;?</cite> DIAGRAM Center&#8239;; NCAM&#8239;; Association BrailleNet (EPUB, 7.7 Mo) </a></li>
 
-<li class="link color_orange"><a href="https://diagramcenter.org" class ="color_orange"  lang="en">Diagram Center <span lang="fr">(en anglais)</span></a></li>
+<li class="link color_orange"><a href="https://diagramcenter.org" class ="color_orange" lang="en">Diagram Center <span lang="fr">(en anglais)</span></a></li>
 
-<li class="link color_orange"><a href="https://poet.diagramcenter.org/" class ="color_orange"  lang="en">Poet training tool <span lang="fr">(en anglais)</span></a></li>
+<li class="link color_orange"><a href="https://poet.diagramcenter.org/" class ="color_orange" lang="en">Poet training tool <span lang="fr">(en anglais)</span></a></li>
 
 </ul>
 
@@ -87,10 +87,10 @@ Site web du Consortium pour des livres accessibles (ABC)</a></li>
 
 <li><a href="https://www.accessiblebooksconsortium.org/documents/abc/docs/fr/best_practice_guidelines.doc" class ="link color_orange"><cite>Édition accessible, Pratiques recommandées à l’intention des éditeurs</cite> (fichier .doc).</a></li>
 
-<li><a href="https://inclusivepublishing.org/" class ="link color_orange" lang="en">inclusive publishing (en anglais)</a></li>
-
 <li><a href="https://www.inclusivepublishinginpractice.org/" class ="link color_orange">L'édition inclusive en pratique</a></li>
 
-<li><a href="https://daisy.org/webinar-series/" class ="link color_orange">Les webinaires du consortium Daisy (en anglais)</a></li>
+<li><a href="https://inclusivepublishing.org/" class ="link color_orange" lang="en">inclusive publishing <span lang="fr">(en anglais)</span></a></li>
+
+<li><a href="https://daisy.org/webinar-series/" class ="link color_orange">Les webinaires du consortium Daisy <span lang="fr">(en anglais)</span></a></li>
 </ul>
 </section>
