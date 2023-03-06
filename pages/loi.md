@@ -15,43 +15,46 @@ titlePrev: Lire
 {%- include principes.html -%}
 
 
-  <p>Les perspectives les plus prometteuses en matière d’accès au livre pour
-les personnes en situation de handicap résident actuellement dans <strong>le développement d’une offre de livres numériques dits « nativement accessibles »</strong> : les livres numériques à maquette simple et faiblement
+  <!-- <p>Les perspectives les plus prometteuses en matière d’accès au livre pour
+les personnes en situation de handicap résident actuellement dans le développement d’une offre de livres numériques dits « nativement accessibles » : les livres numériques à maquette simple et faiblement
 illustrés (littérature générale, essais, sciences humaines, etc.)
 commercialisés par les éditeurs à destination du grand public pourront
 présenter des fonctionnalités d’accessibilité qui répondront d’emblée
 aux besoins d’une grande partie des personnes en situation de handicap.</p>
 
-  <p>Cette évolution, fondée sur le <strong>principe de la conception universelle</strong><sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>, permettra un accroissement considérable de l’offre de
+  <p>Cette évolution, fondée sur le principe de la conception universelle<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>, permettra un accroissement considérable de l’offre de
 livres accessibles pour les personnes handicapées et cela dès leur
-parution. Elle participera à la <strong>construction d’une société numérique inclusive</strong> en favorisant l’intégration des personnes handicapées dans
+parution. Elle participera à la construction d’une société numérique inclusive en favorisant l’intégration des personnes handicapées dans
 les circuits classiques de diffusion des biens culturels.</p>
 
   <p>Le contexte européen rend nécessaire une mobilisation des acteurs
-professionnels sur l’ensemble de la chaîne du livre numérique. <a href="https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32019L0882">La directive 2019/882 du 17 avril 2019 relative aux exigences en matière d’accessibilité applicables aux produits et services</a>,
-aussi appelée « Acte européen d’accessibilité », qui a pour objet de
-<strong>contribuer au bon fonctionnement du marché intérieur</strong> par
-l’élimination et la prévention des obstacles qui entravent la libre
-circulation de certains produits et services promeut une <strong>société plus
-inclusive et facilite l’autonomie des personnes handicapées</strong><sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup> ainsi
-que d’autres personnes pouvant faire face à des limitations
-fonctionnelles, telles que les personnes âgées.</p>
+professionnels sur l’ensemble de la chaîne du livre numérique.  -->
 
-  <p>Parmi les produits et services qui entrent dans le champ de la
+Fondée sur le principe de la conception universelle<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>, la directive 2019/882 du 17 avril 2019 relative aux exigences en matière d’accessibilité applicables aux produits et services,
+aussi appelée « Acte européen d’accessibilité », a pour objet de
+contribuer au bon fonctionnement du marché intérieur par
+l’élimination et la prévention des obstacles qui entravent la libre
+circulation de certains produits et services. Elle promeut une société plus
+inclusive et facilite l’autonomie des personnes handicapées<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup> ainsi
+que d’autres personnes pouvant faire face à des limitations
+fonctionnelles, telles que les personnes âgées.
+
+Parmi les produits et services qui entrent dans le champ de la
 directive, plusieurs relèvent du périmètre du secteur du livre
 numérique. L’article 2 de la directive susmentionnée mentionne ainsi,
-pour les produits, <strong>les liseuses numériques</strong><sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup> et, pour les
-services, <strong>les livres numériques</strong><sup id="fnref:4" role="doc-noteref"><a href="#fn:4" class="footnote" rel="footnote">4</a></sup> <strong>ainsi que les logiciels
-spécialisés</strong><sup id="fnref:5" role="doc-noteref"><a href="#fn:5" class="footnote" rel="footnote">5</a></sup>. Ce champ se veut le plus large possible pour viser
+pour les produits, les liseuses numériques<sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup> et, pour les
+services, les livres numériques<sup id="fnref:4" role="doc-noteref"><a href="#fn:4" class="footnote" rel="footnote">4</a></sup> ainsi que les logiciels
+spécialisés<sup id="fnref:5" role="doc-noteref"><a href="#fn:5" class="footnote" rel="footnote">5</a></sup>. Ce champ se veut le plus large possible pour viser
 l’ensemble de la chaîne du livre puisqu’il recouvre également les sites
 de commerce électronique (dont ceux des détaillants de livres
 numériques) ainsi que les systèmes informatiques matériels à usage
 général du grand public et leurs systèmes d’exploitation, qui peuvent
 être utilisés également pour lire des livres numériques en dehors des
-liseuses.</p>
+liseuses.
 
-  <p>La puissance publique et les différents acteurs du secteur ont lancé,
-d’une volonté commune, le <strong><a href="https://www.culture.gouv.fr/Thematiques/Livre-et-lecture/Les-politiques-de-soutien-a-l-economie-du-livre/Accessibilite-des-livres-numeriques">comité de pilotage interministériel pour le développement d’une offre de livres numériques nativement accessibles</a></strong>
+<!-- 
+La puissance publique et les différents acteurs du secteur ont lancé,
+d’une volonté commune, le <a href="https://www.culture.gouv.fr/Thematiques/Livre-et-lecture/Les-politiques-de-soutien-a-l-economie-du-livre/Accessibilite-des-livres-numeriques">comité de pilotage interministériel pour le développement d’une offre de livres numériques nativement accessibles</a>
 en faveur des personnes en situation de handicap. Ce comité concourt à
 la mise en œuvre des exigences de la directive susmentionnée et s’est
 fixé un plan stratégique ambitieux dès 2018 qui décline les différents
@@ -115,16 +118,16 @@ dans leur utilisation</p>
 culture s’accompagne de l’adoption d’une feuille de route qui détaille
 l’ensemble des actions à mener. Des travaux techniques sont menés sur
 les différents volets du plan et un suivi régulier est opéré par le
-comité de pilotage.</p>
+comité de pilotage.</p> -->
 
   <h3 id="exigences-de-la-directive">Exigences de la directive </h3>
 
-  <p>L’article 13 de la directive susmentionnée affirme <strong>l’obligation
-d’accessibilité</strong> qui s’applique aux acteurs du livre numérique et des
+  <p>L’article 13 de la directive susmentionnée affirme l’obligation
+d’accessibilité qui s’applique aux acteurs du livre numérique et des
 logiciels spécialisés. Ces exigences sont précisées dans l’annexe I.</p>
 
   <p>En application de l’article 13, les acteurs du livre numérique doivent
-aussi respecter une <strong>obligation d’intelligibilité et de transparence</strong>
+aussi respecter une obligation d’intelligibilité et de transparence
 en accompagnant les livres numériques des informations relatives à
 l’accessibilité. L’annexe V précise ces obligations de transparence et
 exige notamment la présence d’une description générale du livre
@@ -132,17 +135,17 @@ numérique dans des formats accessibles et des explications nécessaires
 pour comprendre le fonctionnement de celui-ci.</p>
 
   <p>Les exigences de la directive entrent en vigueur le 28 juin 2025.
-Cependant, en application de l’article 32 de la directive, une <strong>période de transition</strong> est prévue pour les livres numériques édictés avant le
+Cependant, en application de l’article 32 de la directive, une période de transition est prévue pour les livres numériques édictés avant le
 28 juin 2025. Ceux-ci bénéficient de 5 ans supplémentaires pour se
-conformer aux exigences d’accessibilité de la directive, <strong>soit jusqu’au 28 juin 2030</strong><sup id="fnref:6" role="doc-noteref"><a href="#fn:6" class="footnote" rel="footnote">6</a></sup>.</p>
+conformer aux exigences d’accessibilité de la directive, soit jusqu’au 28 juin 2030<sup id="fnref:6" role="doc-noteref"><a href="#fn:6" class="footnote" rel="footnote">6</a></sup>.</p>
 
   <h3 id="dispositif-dexception-au-droit-dauteur">Dispositif d’exception au droit d’auteur </h3>
 
   <p>La directive reconnait, dans son considérant 41, que ces exigences
-d’accessibilité doivent <strong>être conciliées avec le droit d’auteur et ses droits voisins</strong>.</p>
+d’accessibilité doivent être conciliées avec le droit d’auteur et ses droits voisins.</p>
 
   <p>En France, le dispositif d’exception au droit d’auteur en faveur des
-personnes handicapées, dite <strong>« exception handicap »</strong>, est prévue au 7°
+personnes handicapées, dite « exception handicap », est prévue au 7°
 de l’<a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043975029">article L.122-5 du code de la propriété intellectuelle</a>.
 Introduite en 2006 dans le droit français, ce dispositif permet à des
 organismes habilités d’adapter toutes les œuvres de l’esprit, dès lors
@@ -154,28 +157,28 @@ du ministère de la culture.</p>
 
   <h3 id="autorit-en-charge-du-contrle">Autorité en charge du contrôle </h3>
 
-  <p>Concernant le livre numérique, <strong>l’Autorité de régulation de la communication audiovisuelle et numérique (ARCOM) a été désignée</strong> comme
-autorité de contrôle car celle-ci profite d’<strong>une maitrise des enjeux spécifiques du livre</strong>, produit culturel et œuvre de l’esprit. Dans la
+  <p>Concernant le livre numérique, l’Autorité de régulation de la communication audiovisuelle et numérique (ARCOM) a été désignée comme
+autorité de contrôle car celle-ci profite d’une maitrise des enjeux spécifiques du livre, produit culturel et œuvre de l’esprit. Dans la
 continuité des missions de la HADOPI, l’ARCOM suit déjà le respect du
 cadre de l’exception au droit d’auteur pour les personnes en situation
-de handicap. Les agents de cette autorité sont habilités <strong>à rechercher et à constater les infractions</strong> en usant de dispositions prévues par le
+de handicap. Les agents de cette autorité sont habilités à rechercher et à constater les infractions en usant de dispositions prévues par le
 code de la consommation<sup id="fnref:7" role="doc-noteref"><a href="#fn:7" class="footnote" rel="footnote">7</a></sup>.</p>
 
   <h3 id="sanctions">Sanctions </h3>
 
   <p>La sanction applicable pour le non-respect des obligations prévues par
 la directive est celle prévue à l’article R. 451-1 du code de la
-consommation, soit une <strong>contravention de 5^e^ classe.</strong> Il s’agit d’une
+consommation, soit une contravention de cinquième classe. Il s’agit d’une
 sanction pénale, prévue à <a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417348">l’article 131-44-1 du code pénal</a>,
 correspondant à une amende ne pouvant dépasser les 7 500 euros par infraction.</p>
 
   <h3 id="exemptions">Exemptions</h3>
 
-  <p>La directive prévoit, dans ses articles 4 et 14, <strong>trois types d’exemptions</strong> :</p>
+  <p>La directive prévoit, dans ses articles 4 et 14, trois types d’exemptions :</p>
 
   <ul>
     <li>
-      <p>En premier lieu, <strong>les microentreprises</strong> fournissant des services
+      Les microentreprises fournissant des services
 – le livre numérique étant considéré comme un service - sont
 exemptées des obligations de mise en accessibilité, considérant
 qu’il existe une forte présomption de charge disproportionnée pour
@@ -185,57 +188,56 @@ qui emploie moins de dix personnes et dont le chiffre d’affaires
 annuel n’excède pas 2 000 000 euros ou dont le total du bilan annuel
 n’excède pas 2 000 000 euros. Si ces microentreprises sont
 exemptées, celles-ci sont invitées à suivre les lignes directrices
-édictées par l’Etat en la matière.</p>
-
-      <ul>
-        <li>
-          <p>La mise en accessibilité ne doit pas entrainer <strong>une modification     fondamentale</strong> de la nature de celui-ci (article 14 de la directive     susmentionnée),</p>
-        </li>
-        <li>
-          <p>La mise en accessibilité ne doit pas entrainer une <strong>charge disproportionnée</strong> aux opérateurs économiques concernés (article 14 de la directive susmentionnée). La directive précise, dans son annexe VI, les critères d’évaluation du caractère disproportionné de la charge :</p>
-        </li>
-        <li>
-          <p>Le rapport entre les coûts nets de la conformité avec les exigences en matière d’accessibilité et les coûts totaux (dépenses opérationnelles et dépenses en capital) pour fabriquer, distribuer ou importer le produit ou fournir le service que supportent les opérateurs économiques.</p>
-        </li>
-        <li>
-          <p>L’estimation des coûts et des avantages pour les opérateurs économiques, y compris en ce qui concerne les processus de production et les investissements, par rapport à l’avantage estimé pour les personnes handicapées, compte tenu de la quantité et de la fréquence d’utilisation d’un produit ou d’un service spécifique.</p>
-        </li>
-        <li>
-          <p>Le rapport entre les coûts nets de la conformité avec les exigences en matière d’accessibilité et le chiffre d’affaires net de l’opérateur économique.</p>
-        </li>
-      </ul>
+édictées par l’Etat en la matière.
+  </li>
+  <li>
+    La mise en accessibilité ne doit pas entrainer une modification fondamentale de la nature de celui-ci (article 14 de la directive susmentionnée),
+  </li>
+  <li>
+     La mise en accessibilité ne doit pas entrainer une charge disproportionnée aux opérateurs économiques concernés (article 14 de la directive susmentionnée). La directive précise, dans son annexe VI, les critères d’évaluation du caractère disproportionné de la charge :
+<ul>
+  <li>
+    Le rapport entre les coûts nets de la conformité avec les exigences en matière d’accessibilité et les coûts totaux (dépenses opérationnelles et dépenses en capital) pour fabriquer, distribuer ou importer le produit ou fournir le service que supportent les opérateurs économiques.
+  </li>
+  <li>
+    L’estimation des coûts et des avantages pour les opérateurs économiques, y compris en ce qui concerne les processus de production et les investissements, par rapport à l’avantage estimé pour les personnes handicapées, compte tenu de la quantité et de la fréquence d’utilisation d’un produit ou d’un service spécifique.
+  </li>
+  <li>
+    Le rapport entre les coûts nets de la conformité avec les exigences en matière d’accessibilité et le chiffre d’affaires net de l’opérateur économique.
+  </li>
+</ul>
     </li>
   </ul>
 
   <p>Le considérant 66 précise l’esprit dans lequel doit se faire cette
 évaluation de la charge disproportionnée pour l’autorité de contrôle.
-Les acteurs du livre numérique, notamment les éditeurs, <strong>doivent rendre le livre numérique le plus accessible possible</strong> dans des proportions
+Les acteurs du livre numérique, notamment les éditeurs, doivent rendre le livre numérique le plus accessible possible dans des proportions
 telles qu’elles ne lui imposent pas une charge disproportionnée.</p>
 
   <p>Il reviendra aux opérateurs du secteur du livre numérique, notamment aux
-éditeurs, concernés <strong>d’apporter la preuve, à travers une évaluation, que l’application d’une exemption est justifiée</strong>. Le considérant 58
+éditeurs, concernés d’apporter la preuve, à travers une évaluation, que l’application d’une exemption est justifiée. Le considérant 58
 explique que l’éditeur est le mieux placé pour accomplir intégralement
 l’évaluation de la conformité en raison de la connaissance détaillée
 qu’il a du processus de conception et de production. Il revient aussi à
-ces opérateurs <strong>d’informer l’ARCOM</strong> lorsqu’ils font usage de l’une de
+ces opérateurs d’informer l’ARCOM lorsqu’ils font usage de l’une de
 ces exemptions. Sont reconnues comme illégitimes devant l’autorité de
 contrôle l’absence de priorité de l’éditeur, le manque de temps ou de
 connaissances de ses obligations.</p>
 
-  <p>Ces exemptions <strong>s’appliquent par livre numérique et doivent être renouvelées</strong> lorsque le livre numérique est modifié, à la demande de
+  <p>Ces exemptions s’appliquent par livre numérique et doivent être renouvelées lorsque le livre numérique est modifié, à la demande de
 l’autorités chargées du contrôle et, enfin, au moins tous les cinq ans.</p>
 
   <h3 id="maquettes-complexes">Maquettes complexes</h3>
 
-  <p><strong>Les maquettes complexes</strong>, correspondant à la définition du livre
+  <p>Les maquettes complexes, correspondant à la définition du livre
 numérique donnée par la loi de 2011 relative au prix du livre
-numérique<sup id="fnref:9" role="doc-noteref"><a href="#fn:9" class="footnote" rel="footnote">9</a></sup>, <strong>sont soumises aux obligations de la directive de plein droit.</strong> Néanmoins, dans les faits, ceux-ci sont probablement
-<strong>concernées par les exemptions</strong> prévues par la présente directive. Le
+numérique<sup id="fnref:9" role="doc-noteref"><a href="#fn:9" class="footnote" rel="footnote">9</a></sup>, sont soumises aux obligations de la directive de plein droit. Néanmoins, dans les faits, ceux-ci sont probablement
+concernées par les exemptions prévues par la présente directive. Le
 considérant 41 précise que les caractéristiques propres à des ouvrages
 particuliers comme les bandes dessinées, les livres pour enfants et les
 livres d’art devraient être prises en compte eu égard à toutes les
 exigences applicables en matière d’accessibilité.</p>
-
+<hr/>
 <aside>
   <h3 id="notes">Notes</h3>
   <ol class="nbp">
@@ -307,7 +309,7 @@ car n’entreraient pas dans la définition des livres numériques <a href="#fnr
 </li>
 
 <li>
-<a href="/lina25/ressources/CELEX_32019L0882_FR_TXT_adaptation.html#ntc1-L_2019151FR.01007001-E0001" class="link color_orange" target="_self">Directive 2019/882, adaptation accessible</a>
+<a href="../ressources/CELEX_32019L0882_FR_TXT_adaptation" class="link color_orange" target="_self">Directive 2019/882, adaptation accessible</a>
 </li>
 
 </ul>

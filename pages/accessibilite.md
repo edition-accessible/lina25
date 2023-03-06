@@ -11,12 +11,9 @@ Le contenu du site Web LINA 25 publié depuis février 2023 est conforme aux dir
 
 ## Limites et alternatives
 
-
 Tous les liens externes au site LINA25 s'ouvrent dans un nouvel onglet ou une nouvelle fenêtre.
 
 Plusieurs documents téléchargeables depuis le site web LINA 25 présentent des obstacles à l'accessibilité renseignés comme des documents non balisés. Lorsque c'est possible nous proposons une alternative.
-
-
 
 ## Politique d'accessibilité
 
@@ -31,8 +28,7 @@ EDRLab prend les mesures suivantes pour garantir l'accessibilité du site Web LI
 Un audit d'accessibilité du site Lina25 a été réalisé par Katie Durand en février 2023.
 ## Commentaires
 
-Vos commentaires sur l'accessibilité du site Web de la WAI sont les bienvenus. Veuillez nous faire savoir si vous rencontrez des obstacles à l'accessibilité.
-Courriel : accessibilite@edrlab.org.
+Vos commentaires sur l'accessibilité de ce site Web sont les bienvenus. Veuillez nous faire savoir si vous rencontrez des obstacles à l'accessibilité. Courriel : contact@edrlab.org.
 
 Nous répondons généralement aux commentaires sur l'accessibilité par e-mail dans les 3 à 5 jours ouvrables. 
 
@@ -44,15 +40,9 @@ Le site Web LINA 25 est conçu pour être compatible avec les technologies d'ass
 Dans des navigateurs plus anciens, certains aspects du site Web peuvent ne pas s'afficher de manière optimale. 
 
 ## Spécifications techniques
-Le site Web du WAI s'appuie sur les technologies suivantes pour être conforme aux WCAG 2.1 :
+Ce site Web s'appuie sur les technologies suivantes pour être conforme aux WCAG 2.1 :
 * HTML
 * WAI-ARIA
 * CSS
 * SVG
 
-
-<!-- https://www.w3.org/WAI/about/accessibility-statement/ -->
-
-<!-- lang des portions -->
-
-<!-- normaliser ressources -->

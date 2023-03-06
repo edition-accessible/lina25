@@ -30,7 +30,7 @@ Les Mac sont dotés nativement d’un logiciel de lecture nommé Voice Over. Les
 
 ### Thorium Reader
 
-[Thorium Reader](https://www.edrlab.org/software/thorium-reader/) est une application de lecture gratuite et hautement accessible, qui fonctionne sur ordinateur Windows, MacOS et Linux. Cette application permet la lecture de livres numériques au format EPUB ou PDF, ainsi que l’écoute de livres audio.
+Thorium Reader est une application de lecture gratuite et hautement accessible, qui fonctionne sur ordinateur Windows, MacOS et Linux. Cette application permet la lecture de livres numériques au format EPUB ou PDF, ainsi que l’écoute de livres audio.
 
 Les EPUB peuvent avoir une mise en page adaptable ou fixe, ils peuvent être dotés d’une piste audio synchronisée ou être lus à voix haute par une voix de synthèse&#8239;; les livres interactifs sont également supportés.
 

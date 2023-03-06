@@ -14,21 +14,21 @@ titlePrev: Informer
 
 {%- include principes.html -%}
 
-<p>Pour que le travail de mise en accessibilité des livres numériques soit utile aux personnes qui ont besoin d’aménager la lecture visuelle ou font appels à d’autres sens que la vue pour lire, il est nécessaire que les systèmes de lecture respectent les standards d’accessibilité et proposent de larges choix de personnalisation. Cela concerne les applications de lecture ainsi que le matériel de type liseuses numériques.</p>
+Pour que le travail de mise en accessibilité des livres numériques soit utile aux personnes qui ont besoin d’aménager la lecture visuelle ou font appels à d’autres sens que la vue pour lire, il est nécessaire que les systèmes de lecture respectent les standards d’accessibilité et proposent de larges choix de personnalisation. Cela concerne les applications de lecture ainsi que le matériel de type liseuses numériques.
 
-<p>Les standards techniques relatifs au développement d’applications accessibles sont bien installés et reconnus tant par la communauté que par les autorités de certification. Les Règles pour l’accessibilité des contenus Web ([WCAG](https://www.w3.org/Translations/WCAG21-fr/)) qui font référence sont certifiées sous la référence [ISO/IEC 40500](https://www.w3.org/WAI/standards-guidelines/wcag/#iso).</p>
+Les standards techniques relatifs au développement d’applications accessibles sont bien installés et reconnus tant par la communauté que par les autorités de certification. Les Règles pour l’accessibilité des contenus Web (WCAG) qui font référence sont certifiées sous la référence ISO/IEC 40500.
 
-<p>Le domaine spécifique des applications de lecture numérique implique de prendre en compte des aspects particuliers concernant les informations fournies par la bibliothèque et la fiche livre ainsi que les possibilités d’ajustement du texte proposés aux lecteurs.</p>
+Le domaine spécifique des applications de lecture numérique implique de prendre en compte des aspects particuliers concernant les informations fournies par la bibliothèque et la fiche livre ainsi que les possibilités d’ajustement du texte proposés aux lecteurs.
 
-<p>Bibliothèque et fiche livre doivent assurer une information au lecteur donnant à minima le mode de lecture, les fonctionnalités et les informations d’accessibilité disponibles. Afin d’assurer une constante dans l’information exposée il est conseillé de se référer aux méthodes d’affichage et au vocabulaire spécifique recommandé aux portails de diffusion et de distribution.</p>
+Bibliothèque et fiche livre doivent assurer une information au lecteur donnant à minima le mode de lecture, les fonctionnalités et les informations d’accessibilité disponibles. Afin d’assurer une constante dans l’information exposée il est conseillé de se référer aux méthodes d’affichage et au vocabulaire spécifique recommandé aux portails de diffusion et de distribution.
 
-<h3>Application de lecture</h3>
+### Application de lecture
 
-<p>[epubTest.org](https://epubtest.org/) propose des procédures et des fichiers de test pour vérifier la prise en charge correcte des fonctionnalités de lecture attendues.</p>
+epubTest.org propose des procédures et des fichiers de test pour vérifier la prise en charge correcte des fonctionnalités de lecture attendues.
 
-<p>Les Règles pour l’accessibilité des contenus Web (WCAG) 2.1 sont les recommandations de référence pour rendre les contenus Web plus accessibles. Les critères de succès des WCAG 2.1 sont écrits sous la forme d’énoncés testables qui ne se rattachent pas à une technologie particulière. Des consignes sur la façon de satisfaire à un critère de succès spécifique pour une technologie particulière ainsi que de l’information générale à propos de l’interprétation d’un critère de succès sont données dans des documents distincts.</p>
+Les Règles pour l’accessibilité des contenus Web (WCAG) 2.1 sont les recommandations de référence pour rendre les contenus Web plus accessibles. Les critères de succès des WCAG 2.1 sont écrits sous la forme d’énoncés testables qui ne se rattachent pas à une technologie particulière. Des consignes sur la façon de satisfaire à un critère de succès spécifique pour une technologie particulière ainsi que de l’information générale à propos de l’interprétation d’un critère de succès sont données dans des documents distincts.
 
-<p>Les directives d'accessibilité pour les agents utilisateurs ([UAAG](https://www.w3.org/WAI/standards-guidelines/uaag/)) indiquent les régles à suivre pour *les navigateurs, les extensions de navigateur, les lecteurs de médias, les lecteurs et autres applications qui rendent le contenu Web.*</p>
+Les directives d'accessibilité pour les agents utilisateurs (UAAG) indiquent les régles à suivre pour *les navigateurs, les extensions de navigateur, les lecteurs de médias, les lecteurs et autres applications qui rendent le contenu Web.*
 
 </div>
 
