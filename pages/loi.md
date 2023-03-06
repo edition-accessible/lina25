@@ -30,11 +30,11 @@ les circuits classiques de diffusion des biens culturels.</p>
   <p>Le contexte européen rend nécessaire une mobilisation des acteurs
 professionnels sur l’ensemble de la chaîne du livre numérique.  -->
 
-La directive 2019/882 du 17 avril 2019 relative aux exigences en matière d’accessibilité applicables aux produits et services,
-aussi appelée « Acte européen d’accessibilité », qui a pour objet de
+Fondée sur le principe de la conception universelle<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>, la directive 2019/882 du 17 avril 2019 relative aux exigences en matière d’accessibilité applicables aux produits et services,
+aussi appelée « Acte européen d’accessibilité », a pour objet de
 contribuer au bon fonctionnement du marché intérieur par
 l’élimination et la prévention des obstacles qui entravent la libre
-circulation de certains produits et services promeut une société plus
+circulation de certains produits et services. Elle promeut une société plus
 inclusive et facilite l’autonomie des personnes handicapées<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup> ainsi
 que d’autres personnes pouvant faire face à des limitations
 fonctionnelles, telles que les personnes âgées.
