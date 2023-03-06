@@ -73,16 +73,16 @@ Les deux solutions actuellement disponibles pour le chiffrement des fichiers son
 
 <ul>
 <li>
-<a href="https://www.w3.org/2021/09/UX-Guide-metadata-1.0/principles/" class="link color_orange"><span lang="en"><cite>User Experience Guide for Displaying Accessibility Metadata 1.0</cite></span></a></li>
+<a href="https://www.w3.org/2021/09/UX-Guide-metadata-1.0/principles/" class="link color_orange" lang="en"><cite>User Experience Guide for Displaying Accessibility Metadata 1.0</cite></a></li>
 <li>
 
-<a href="https://edition-accessible.github.io/lina25/ressources/Informer" class="link color_orange" target="_self">Page de recommandations françaises (en cours)</cite></span></a></li>
+<a href="https://edition-accessible.github.io/lina25/ressources/Informer" class="link color_orange" target="_self">Page de recommandations françaises (projet en cours)</a></li>
 <li>
 
-<a href="https://edition-accessible.github.io/signalement/index.html" class="link color_orange">Le site compagnon de l'étude française (en cours)</cite></span></a></li>
+<a href="https://edition-accessible.github.io/signalement/index.html" class="link color_orange">Le site compagnon de l'étude française (projet en cours)</a></li>
 <li>
 
-<a href="https://edition-accessible.github.io/signalement/vocabulaire.html" class="link color_orange">Les résultats de l'étude sur le vocabulaire (en cours)</a></li>
+<a href="https://edition-accessible.github.io/signalement/vocabulaire.html" class="link color_orange">Les résultats de l'étude sur le vocabulaire (projet en cours)</a></li>
 </ul>
 
 ### Mesures techniques de protection (DRM)
