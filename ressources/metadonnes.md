@@ -20,7 +20,7 @@ Les informations indiquées ici sont relatives à ONIX. Des tableaux de correspo
 
 ### Lecture non visuelle
 
-Cas d'usage : lorsque vous activez la fonction lecture audio de votre liseuse, la voix lira une description lorsqu’elle rencontre une image. Vous pourrez ainsi profiter de l’intégralité du livre sans perdre d’information.</p>
+Cas d'usage : lorsque vous activez la fonction lecture audio de votre liseuse, la voix lira une description lorsqu’elle rencontre une image. Vous pourrez ainsi profiter de l’intégralité du livre sans perdre d’information.
 <details><summary>En savoir plus sur la lecture non visuelle</summary>
 <ul>
 <li>Définition : le contenu du livre numérique est intégralement consultable en texte, les autres médias nécessaires à la compréhension sont décrits ou disposent d’une alternative textuelle.</li>
