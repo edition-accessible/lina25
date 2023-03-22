@@ -139,42 +139,26 @@ Cependant, en application de l’article 32 de la directive, une période de tra
 28 juin 2025. Ceux-ci bénéficient de 5 ans supplémentaires pour se
 conformer aux exigences d’accessibilité de la directive, soit jusqu’au 28 juin 2030<sup id="fnref:6" role="doc-noteref"><a href="#fn:6" class="footnote" rel="footnote">6</a></sup>.</p>
 
-  <h3 id="dispositif-dexception-au-droit-dauteur">Dispositif d’exception au droit d’auteur </h3>
+<h3 id="autorit-en-charge-du-contrle">Autorité en charge du contrôle </h3>
 
-  <p>La directive reconnait, dans son considérant 41, que ces exigences
-d’accessibilité doivent être conciliées avec le droit d’auteur et ses droits voisins.</p>
-
-  <p>En France, le dispositif d’exception au droit d’auteur en faveur des
-personnes handicapées, dite « exception handicap », est prévue au 7°
-de l’<a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043975029">article L.122-5 du code de la propriété intellectuelle</a>.
-Introduite en 2006 dans le droit français, ce dispositif permet à des
-organismes habilités d’adapter toutes les œuvres de l’esprit, dès lors
-qu’elles sont protégées par le droit d’auteur pour répondre aux besoins
-des personnes en situation de handicap.</p>
-
-  <p>Plus d’informations sur ce dispositif sont disponibles sur <a href="https://www.culture.gouv.fr/Thematiques/Livre-et-lecture/Les-politiques-de-soutien-a-l-economie-du-livre/L-exception-au-droit-d-auteur-en-faveur-des-personnes-handicapees/Les-principes-de-l-exception-handicap-au-droit-d-auteur">le site</a>
-du ministère de la culture.</p>
-
-  <h3 id="autorit-en-charge-du-contrle">Autorité en charge du contrôle </h3>
-
-  <p>Concernant le livre numérique, l’Autorité de régulation de la communication audiovisuelle et numérique (ARCOM) a été désignée comme
+<p>Concernant le livre numérique, l’Autorité de régulation de la communication audiovisuelle et numérique (ARCOM) a été désignée comme
 autorité de contrôle car celle-ci profite d’une maitrise des enjeux spécifiques du livre, produit culturel et œuvre de l’esprit. Dans la
 continuité des missions de la HADOPI, l’ARCOM suit déjà le respect du
 cadre de l’exception au droit d’auteur pour les personnes en situation
 de handicap. Les agents de cette autorité sont habilités à rechercher et à constater les infractions en usant de dispositions prévues par le
 code de la consommation<sup id="fnref:7" role="doc-noteref"><a href="#fn:7" class="footnote" rel="footnote">7</a></sup>.</p>
 
-  <h3 id="sanctions">Sanctions </h3>
+<h3 id="sanctions">Sanctions </h3>
 
-  <p>La sanction applicable pour le non-respect des obligations prévues par
+<p>La sanction applicable pour le non-respect des obligations prévues par
 la directive est celle prévue à l’article R. 451-1 du code de la
 consommation, soit une contravention de cinquième classe. Il s’agit d’une
 sanction pénale, prévue à <a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417348">l’article 131-44-1 du code pénal</a>,
 correspondant à une amende ne pouvant dépasser les 7 500 euros par infraction.</p>
 
-  <h3 id="exemptions">Exemptions</h3>
+<h3 id="exemptions">Exemptions</h3>
 
-  <p>La directive prévoit, dans ses articles 4 et 14, trois types d’exemptions :</p>
+<p>La directive prévoit, dans ses articles 4 et 14, trois types d’exemptions :</p>
 
   <ul>
     <li>
@@ -231,12 +215,28 @@ l’autorités chargées du contrôle et, enfin, au moins tous les cinq ans.</p>
 
   <p>Les maquettes complexes, correspondant à la définition du livre
 numérique donnée par la loi de 2011 relative au prix du livre
-numérique<sup id="fnref:9" role="doc-noteref"><a href="#fn:9" class="footnote" rel="footnote">9</a></sup>, sont soumises aux obligations de la directive de plein droit. Néanmoins, dans les faits, ceux-ci sont probablement
-concernées par les exemptions prévues par la présente directive. Le
+numérique<sup id="fnref:9" role="doc-noteref"><a href="#fn:9" class="footnote" rel="footnote">9</a></sup>, sont soumises aux obligations de la directive de plein droit. Néanmoins le
 considérant 41 précise que les caractéristiques propres à des ouvrages
 particuliers comme les bandes dessinées, les livres pour enfants et les
 livres d’art devraient être prises en compte eu égard à toutes les
 exigences applicables en matière d’accessibilité.</p>
+
+<h3 id="dispositif-dexception-au-droit-dauteur">Dispositif d’exception au droit d’auteur </h3>
+
+<p>La directive reconnait, dans son considérant 41, que ces exigences
+d’accessibilité doivent être conciliées avec le droit d’auteur et ses droits voisins.</p>
+
+<p>En France, le dispositif d’exception au droit d’auteur en faveur des
+personnes handicapées, dite « exception handicap », est prévu au 7°
+de l’<a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043975029">article L.122-5 du code de la propriété intellectuelle</a>.
+Introduite en 2006 dans le droit français, ce dispositif permet à des
+organismes habilités d’adapter toutes les œuvres de l’esprit, dès lors
+qu’elles sont protégées par le droit d’auteur pour répondre aux besoins
+des personnes en situation de handicap.</p>
+
+<p>Plus d’informations sur ce dispositif sont disponibles sur <a href="https://www.culture.gouv.fr/Thematiques/Livre-et-lecture/Les-politiques-de-soutien-a-l-economie-du-livre/L-exception-au-droit-d-auteur-en-faveur-des-personnes-handicapees/Les-principes-de-l-exception-handicap-au-droit-d-auteur">le site</a>
+du ministère de la culture.</p>
+
 <hr/>
 <aside>
   <h3 id="notes">Notes</h3>
