@@ -113,7 +113,7 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
 </tr>
 </thead>
 <tbody>
-    <tr class="even">
+<tr class="even">
 <td>Référence à la pagination du livre imprimé {contenu de 51-13 RelatedProduct}</td>
 <td>Le livre peut être utilisé en complément de sa version imprimée, la pagination de référence étant préservée.</td>
 <td><a href="https://ns.editeur.org/onix/fr/196/19">Liste 196 Code 19 Numérotation de pages équivalente au document imprimé. <i>Il faudra indiquer ou pointer le livre de référence utilisé pour la pagination</i></a>.</td>
@@ -147,9 +147,9 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
 </tbody>
 </table>
 
-
 <h4>Fonctionnalités</h4>
-<table  class="zebra">
+
+<table class="zebra">
 <thead>
 <tr class="header">
 <th>Valeur affichée</th>
@@ -161,121 +161,120 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
 </thead>
 <tbody>
 <tr class="even">
-    <td>Images décrites par la voix de synthèse (descriptions courtes)</td>
-    <td><em>Le livre contient des images nécessaires à la compréhension pour lesquelles une alternative courte sera vocalisée (Alt text).</em></td>
-    <td><a href="https://ns.editeur.org/onix/fr/196/">Liste 196 Code 14 Brèves descriptions alternatives</a></td>
-    <td>ignorer</td>
-    <td>Peut ne pas être affiché si la <a href="https://ns.editeur.org/onix/fr/196/02">Spécifications d’accessibilité EPUB 1.0 A (Liste 196 Code 02)</a> ou <a href="https://ns.editeur.org/onix/fr/196/03">Spécifications d’accessibilité EPUB 1.0 AA (Liste 196 Code 03)</a> est présente.</td></tr>
+<td>Images décrites par la voix de synthèse (descriptions courtes)</td>
+<td><em>Le livre contient des images nécessaires à la compréhension pour lesquelles une alternative courte sera vocalisée (Alt text).</em></td>
+<td><a href="https://ns.editeur.org/onix/fr/196/">Liste 196 Code 14 Brèves descriptions alternatives</a></td>
+<td>ignorer</td>
+<td>Peut ne pas être affiché si la <a href="https://ns.editeur.org/onix/fr/196/02">Spécifications d’accessibilité EPUB 1.0 A (Liste 196 Code 02)</a> ou <a href="https://ns.editeur.org/onix/fr/196/03">Spécifications d’accessibilité EPUB 1.0 AA (Liste 196 Code 03)</a> est présente.</td></tr>
 <tr class="even">
 <td>Images décrites (descriptions longues)</td>
 <td>Le livre contient des images nécessaires à la compréhension pour lesquelles une alternative longue est proposée. Cette alternative peut être seulement vocalisée ou également disponible visuellement.</td>
 <td><a href="https://ns.editeur.org/onix/fr/196/">Liste 196 Code 15 Descriptions alternatives complètes</a></td>
 <td>ignorer</td>
 <td></td></tr>
-    <tr class="odd">
-        <td>Données accessibles</td>
-        <td>Le livre contient des tableaux en images, des schémas ou des diagrammes qui sont complétés par un accès complet aux données qu’ils représentent</td>
-        <td><a href="https://ns.editeur.org/onix/fr/196/16">Liste 196 Code 16 Représentations graphiques de données également accessibles comme données non graphiques</a></td>
-        <td>ignorer</td>
-        <td>forte</td>
-        </tr>
+<tr class="odd">
+<td>Données accessibles</td>
+<td>Le livre contient des tableaux en images, des schémas ou des diagrammes qui sont complétés par un accès complet aux données qu’ils représentent</td>
+<td><a href="https://ns.editeur.org/onix/fr/196/16">Liste 196 Code 16 Représentations graphiques de données également accessibles comme données non graphiques</a></td>
+<td>ignorer</td>
+<td>forte</td>
+</tr>
 <tr class="even">
+<td>Notations mathématiques structurées (MathML)</td>
+<td>Le livre contient des formules mathématiques utilisant un langage fonctionnel (MathML)</td>
+<td><a href="https://ns.editeur.org/onix/fr/196/">Liste 196 Code 17 Contenu mathématique accessible</a></td>
+<td>ignorer</td>
+<td>forte</td></tr>
 <tr class="even">
-    <td>Notations mathématiques structurées (MathML)</td>
-    <td>Le livre contient des formules mathématiques utilisant un langage fonctionnel (MathML)</td>
-    <td><a href="https://ns.editeur.org/onix/fr/196/">Liste 196 Code 17 Contenu mathématique accessible</a></td>
-    <td>ignorer</td>
-    <td>forte</td></tr>
+<td>Notations chimiques structurées (ChemML)</td>
+<td>Le livre contient des formules chimiques utilisant un langage fonctionnel (ChemML)</td>
+<td><a href="https://ns.editeur.org/onix/fr/196/">Liste 196 Code 18 Contenu chimique accessible</a></td>
+<td>ignorer</td>
+<td>forte</td></tr>
 <tr class="even">
-    <td>Notations chimiques structurées (ChemML)</td>
-    <td>Le livre contient des formules chimiques utilisant un langage fonctionnel (ChemML)</td>
-    <td><a href="https://ns.editeur.org/onix/fr/196/">Liste 196 Code 18 Contenu chimique accessible</a></td>
-    <td>ignorer</td>
-    <td>forte</td></tr>
+<td>Compréhensible en noir et blanc</td>
+<td>Le livre utilise des codes couleurs, mais celles-ci ne sont pas le seul moyen de compréhension.</td>
+<td><a href="https://ns.editeur.org/onix/fr/196/25">Liste 196 Code 25 Usage de la couleur</a></td>
+<td>ignorer</td>
+<td>Peut ne pas être affiché si la <a href="https://ns.editeur.org/onix/fr/196/02">Spécifications d’accessibilité EPUB 1.0 A (Liste 196 Code 02)</a> ou <a href="https://ns.editeur.org/onix/fr/196/03">Spécifications d’accessibilité EPUB 1.0 AA (Liste 196 Code 03)</a> est présente.</td></tr>
 <tr class="even">
-    <td>Compréhensible en noir et blanc</td>
-    <td>Le livre utilise des codes couleurs, mais celles-ci ne sont pas le seul moyen de compréhension.</td>
-    <td><a href="https://ns.editeur.org/onix/fr/196/25">Liste 196 Code 25 Usage de la couleur</a></td>
-    <td>ignorer</td>
-    <td>Peut ne pas être affiché si la <a href="https://ns.editeur.org/onix/fr/196/02">Spécifications d’accessibilité EPUB 1.0 A (Liste 196 Code 02)</a> ou <a href="https://ns.editeur.org/onix/fr/196/03">Spécifications d’accessibilité EPUB 1.0 AA (Liste 196 Code 03)</a> est présente.</td></tr>
+<td>Lisible en noir et blanc</td>
+<td>Le livre utilise des contrastes entre du texte et un fond, il restera lisible lors d'un affichage en noir et blanc.</td>
+<td><a href="https://ns.editeur.org/onix/fr/196/26">Liste 196 Code 26 Usage du contraste</a></td>
+<td>ignorer</td>
+<td>Peut ne pas être affiché si la <a href="https://ns.editeur.org/onix/fr/196/02">Spécifications d’accessibilité EPUB 1.0 A (Liste 196 Code 02)</a> ou <a href="https://ns.editeur.org/onix/fr/196/03">Spécifications d’accessibilité EPUB 1.0 AA (Liste 196 Code 03)</a> est présente.</td></tr>
 <tr class="even">
-    <td>Lisible en noir et blanc</td>
-    <td>Le livre utilise des contrastes entre du texte et un fond, il restera lisible lors d'un affichage en noir et blanc.</td>
-    <td><a href="https://ns.editeur.org/onix/fr/196/26">Liste 196 Code 26 Usage du contraste</a></td>
-    <td>ignorer</td>
-    <td>Peut ne pas être affiché si la <a href="https://ns.editeur.org/onix/fr/196/02">Spécifications d’accessibilité EPUB 1.0 A (Liste 196 Code 02)</a> ou <a href="https://ns.editeur.org/onix/fr/196/03">Spécifications d’accessibilité EPUB 1.0 AA (Liste 196 Code 03)</a> est présente.</td></tr>
+<td>Prononciation améliorée pour la voix de synthèse</td>
+<td>Le livre contient des abréviations, des sigles, une numérotation romaine, ou des onomatopées qui seront correctement vocalisées.</td>
+<td><a href="https://ns.editeur.org/onix/fr/196/21">Liste 196 Code 21 Synthèse vocale optimisée</a></td>
+<td>ignorer</td>
+<td></td></tr>
 <tr class="even">
-    <td>Prononciation améliorée pour la voix de synthèse</td>
-    <td>Le livre contient des abréviations, des sigles, une numérotation romaine, ou des onomatopées qui seront correctement vocalisées.</td>
-    <td><a href="https://ns.editeur.org/onix/fr/196/21">Liste 196 Code 21 Synthèse vocale optimisée</a></td>
-    <td>ignorer</td>
-    <td></td></tr>
-<tr class="even">
-    <td>Textes en langue étrangère correctement vocalisés</td>
-    <td>Le livre contient des portions de texte dans une autre langue que le contenu principal. Ces portions sont identifiées dans le code et seront correctement prononcées si la langue est disponible sur le dispositif de lecture.</td>
-    <td><a href="https://ns.editeur.org/onix/fr/196/">Liste 196 Code 22 Balisage de la langue fournit</a></td>
-    <td>ignorer</td>
-    <td>Peut ne pas être affiché si la <a href="https://ns.editeur.org/onix/fr/196/02">Spécifications d’accessibilité EPUB 1.0 A (Liste 196 Code 02)</a> ou <a href="https://ns.editeur.org/onix/fr/196/03">Spécifications d’accessibilité EPUB 1.0 AA (Liste 196 Code 03)</a> est présente.</td></tr>
+<td>Textes en langue étrangère correctement vocalisés</td>
+<td>Le livre contient des portions de texte dans une autre langue que le contenu principal. Ces portions sont identifiées dans le code et seront correctement prononcées si la langue est disponible sur le dispositif de lecture.</td>
+<td><a href="https://ns.editeur.org/onix/fr/196/">Liste 196 Code 22 Balisage de la langue fournit</a></td>
+<td>ignorer</td>
+<td>Peut ne pas être affiché si la <a href="https://ns.editeur.org/onix/fr/196/02">Spécifications d’accessibilité EPUB 1.0 A (Liste 196 Code 02)</a> ou <a href="https://ns.editeur.org/onix/fr/196/03">Spécifications d’accessibilité EPUB 1.0 AA (Liste 196 Code 03)</a> est présente.</td></tr>
 
 </tbody>
 </table>
 
 <h4>Points d'attention</h4>
 <table  class="zebra">
-    <thead>
-        <tr class="header">
-            <th>Valeur affichée</th>
-            <th>Définition</th>
-            <th>code ONIX</th>
-            <th>En cas d’absence</th>
-            <th>Importance</th>
-        </tr>
-    </thead>
-    <tbody>
-    <tr class="odd">
-    <td>Attention ce livre inclut des Flashs lumineux</td>
-    <td></td>
-    <td><a href="https://ns.editeur.org/onix/fr/143/13/">Liste 143 Code 13&#8239;: Avertissement&#8239;: risque de clignotement</a></td>
-    <td>ignorer</td>
-    <td>forte</td>
-    </tr>
-    <tr class="odd">
-        <td>Ce livre ne comporte pas de risques liés à des Flashs lumineux</td>
-        <td></td>
-        <td><a href="https://ns.editeur.org/onix/fr/143/14/">Liste 143 Code 14&#8239;: Aucun avertissement nécessaire pour les risques liés à un clignotement</a></td>
-        <td>ignorer</td>
-        <td>Ne devrait pas être affiché</td>
-        </tr>
-    <tr class="even">
-    <td>Attention ce livre inclut des bruitages sonores</td>
-    <td></td>
-    <td><a href="https://ns.editeur.org/onix/fr/143/15/">Liste 143 Code 15&#8239;: risque sonore</a></td>
-    <td>ignorer</td>
-    <td>forte</td>
-    </tr>
-    <tr class="even">
-        <td>Ce livre ne comporte pas de risques liés à des bruitages sonores</td>
-        <td></td>
-        <td><a href="https://ns.editeur.org/onix/fr/143/16/">Liste 143 Code 16&#8239;: Aucun avertissement nécessaire pour les risques liés à un niveau sonore</a></td>
-        <td>ignorer</td>
-        <td>Ne devrait pas être affiché</td>
-        </tr>
-    <tr class="odd">
-    <td>Attention ce livre inclut des sensations de mouvement</td>
-    <td></td>
-    <td><a href="https://ns.editeur.org/onix/fr/143/17/">Liste 143 Code 17&#8239;: Avertissement&#8239;: risque de simulation de mouvement</a></td>
-    <td>ignorer</td>
-    <td>forte</td>
-    </tr>
-    <tr class="odd">
-        <td>Ce livre ne comporte pas de risques liés à des sensations de mouvement</td>
-        <td></td>
-        <td><a href="https://ns.editeur.org/onix/fr/143/18/">Liste 143 Code 18&#8239;: Aucun avertissement nécessaire pour les risques liés à des simulations de mouvement</a></td>
-        <td>ignorer</td>
-        <td>Ne devrait pas être affiché</td>
-        </tr>
-    </tbody>
-    </table>
+<thead>
+<tr class="header">
+<th>Valeur affichée</th>
+<th>Définition</th>
+<th>code ONIX</th>
+<th>En cas d’absence</th>
+<th>Importance</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Attention ce livre inclut des Flashs lumineux</td>
+<td></td>
+<td><a href="https://ns.editeur.org/onix/fr/143/13/">Liste 143 Code 13&#8239;: Avertissement&#8239;: risque de clignotement</a></td>
+<td>ignorer</td>
+<td>forte</td>
+</tr>
+<tr class="odd">
+<td>Ce livre ne comporte pas de risques liés à des Flashs lumineux</td>
+<td></td>
+<td><a href="https://ns.editeur.org/onix/fr/143/14/">Liste 143 Code 14&#8239;: Aucun avertissement nécessaire pour les risques liés à un clignotement</a></td>
+<td>ignorer</td>
+<td>Ne devrait pas être affiché</td>
+</tr>
+<tr class="even">
+<td>Attention ce livre inclut des bruitages sonores</td>
+<td></td>
+<td><a href="https://ns.editeur.org/onix/fr/143/15/">Liste 143 Code 15&#8239;: risque sonore</a></td>
+<td>ignorer</td>
+<td>forte</td>
+</tr>
+<tr class="even">
+<td>Ce livre ne comporte pas de risques liés à des bruitages sonores</td>
+<td></td>
+<td><a href="https://ns.editeur.org/onix/fr/143/16/">Liste 143 Code 16&#8239;: Aucun avertissement nécessaire pour les risques liés à un niveau sonore</a></td>
+<td>ignorer</td>
+<td>Ne devrait pas être affiché</td>
+</tr>
+<tr class="odd">
+<td>Attention ce livre inclut des sensations de mouvement</td>
+<td></td>
+<td><a href="https://ns.editeur.org/onix/fr/143/17/">Liste 143 Code 17&#8239;: Avertissement&#8239;: risque de simulation de mouvement</a></td>
+<td>ignorer</td>
+<td>forte</td>
+</tr>
+<tr class="odd">
+<td>Ce livre ne comporte pas de risques liés à des sensations de mouvement</td>
+<td></td>
+<td><a href="https://ns.editeur.org/onix/fr/143/18/">Liste 143 Code 18&#8239;: Aucun avertissement nécessaire pour les risques liés à des simulations de mouvement</a></td>
+<td>ignorer</td>
+<td>Ne devrait pas être affiché</td>
+</tr>
+</tbody>
+</table>
 <!-- <details>
 <summary>Notes sur les modes de lecture et fonctions d’accessibilité</summary>
 <p>
@@ -285,42 +284,42 @@ Ces informations de premier niveau constituent les fonctionnalités cruciales po
 <h4 id="plus-dinformations-sur-laccessibilité">Conformité</h4>
 <table  class="zebra">
 <thead>
-    <tr class="header">
-    <th>Valeur affichée</th>
-    <th>Définition</th>
-    <th>code ONIX</th>
-    <th>En cas d’absence</th>
-    <th>Importance</th>
-    </tr>
+<tr class="header">
+<th>Valeur affichée</th>
+<th>Définition</th>
+<th>code ONIX</th>
+<th>En cas d’absence</th>
+<th>Importance</th>
+</tr>
 </thead>
 <tbody>
 <tr class="odd">
-    <td>Contenus accessibles conformes aux standards (A ou AA)</td>
-    <td></td>
-    <td><a href="https://ns.editeur.org/onix/fr/196/02">Liste 196 Code 02 Spécifications d’accessibilité EPUB 1.0 A</a> ou <br/><a href="https://ns.editeur.org/onix/fr/196/03">Liste 196 Code 03&#8239;: Spécifications d’accessibilité EPUB 1.0 AA</a></td>
-    <td>Aucune conformité déclarée</td>
-    <td>forte</td>
+<td>Contenus accessibles conformes aux standards (A ou AA)</td>
+<td></td>
+<td><a href="https://ns.editeur.org/onix/fr/196/02">Liste 196 Code 02 Spécifications d’accessibilité EPUB 1.0 A</a> ou <br/><a href="https://ns.editeur.org/onix/fr/196/03">Liste 196 Code 03&#8239;: Spécifications d’accessibilité EPUB 1.0 AA</a></td>
+<td>Aucune conformité déclarée</td>
+<td>forte</td>
 </tr>
 <tr class="odd">
-    <td><a href="https://edition-accessible.github.io/signalement/references/ace-smart-report-fr.html">Rapport de conformité</a></td>
-    <td></td>
-    <td><a href="https://ns.editeur.org/onix/fr/196/94">196 94 Page web pour les informations détaillées d’accessibilité</a>/td>
-    <td>Ignorer</td>
-    <td></td>
+<td><a href="https://edition-accessible.github.io/signalement/references/ace-smart-report-fr.html">Rapport de conformité</a></td>
+<td></td>
+<td><a href="https://ns.editeur.org/onix/fr/196/94">196 94 Page web pour les informations détaillées d’accessibilité</a>/td>
+<td>Ignorer</td>
+<td></td>
 </tr>
 <tr class="odd">
-    <td><a href="https://edition-accessible.github.io/signalement/references/ace-smart-report-fr.html">Organisme de certification</a></td>
-    <td></td>
-    <td><a href="https://ns.editeur.org/onix/fr/196/93">196 93 Certification de conformité par.</a></td>
-    <td>Ignorer</td>
-    <td></td>
+<td><a href="https://edition-accessible.github.io/signalement/references/ace-smart-report-fr.html">Organisme de certification</a></td>
+<td></td>
+<td><a href="https://ns.editeur.org/onix/fr/196/93">196 93 Certification de conformité par.</a></td>
+<td>Ignorer</td>
+<td></td>
 </tr>
 <tr class="odd">
-    <td><a href="infos-accessibilite-ed.html">Politique d’accessibilité de l’éditeur</a></td>
-    <td></td>
-    <td><a href="https://ns.editeur.org/onix/fr/196/96">Liste 196 code 96 Page web de l’éditeur pour les informations détaillées d’accessibilité</a></td>
-    <td>ignorer</td>
-    <td></td>
+<td><a href="infos-accessibilite-ed.html">Politique d’accessibilité de l’éditeur</a></td>
+<td></td>
+<td><a href="https://ns.editeur.org/onix/fr/196/96">Liste 196 code 96 Page web de l’éditeur pour les informations détaillées d’accessibilité</a></td>
+<td>ignorer</td>
+<td></td>
 </tr>
 <tr class="even">
 <td>texte</td>
@@ -350,14 +349,14 @@ Ces informations de premier niveau constituent les fonctionnalités cruciales po
 </article>
 
 <article>
-    <h2>Au sujet des livres imprimés</h2>
-    <p>Les livres imprimés ne peuvent prétendre à une accessibilité universelle, à moins d'être livrés en différentes versions dans une même édition. Cependant certaines éditions spécialisées peuvent répondre à des besoins spécifiques. </p>
-    <p>ONIX permet d'informer sur ces éditions. Si la liste 196 est dédiée à l'accessibilité numérique, la <a href="https://ns.editeur.org/onix/fr/21">liste 21</a> permet d'indiquer un type d'édition particulier. On retiendra en particulier&#8239;:</p>
-        <ul>
-        <li><a href="https://ns.editeur.org/onix/fr/21/HRE">21:HRE Édition haute lisibilité</a></li>
-        <li><a href="https://ns.editeur.org/onix/fr/21/BRL">21:BRL Édition en Braille</a></li>
-        <li><a href="https://ns.editeur.org/onix/fr/21/ETR">21:ETR Édition facile à lire</a></li>
-        <li><a href="https://ns.editeur.org/onix/fr/21/LTE">21:LTE Édition en grands caractères</a></li>
-        <li><a href="https://ns.editeur.org/onix/fr/21/ULP">21:ULP Édition en très gros caractères</a></li>
-    </ul>
-    <p>Les libellés peuvent être utilisés tels que proposés par ONIX.</p>
+<h2>Au sujet des livres imprimés</h2>
+<p>Les livres imprimés ne peuvent prétendre à une accessibilité universelle, à moins d'être livrés en différentes versions dans une même édition. Cependant certaines éditions spécialisées peuvent répondre à des besoins spécifiques. </p>
+<p>ONIX permet d'informer sur ces éditions. Si la liste 196 est dédiée à l'accessibilité numérique, la <a href="https://ns.editeur.org/onix/fr/21">liste 21</a> permet d'indiquer un type d'édition particulier. On retiendra en particulier&#8239;:</p>
+<ul>
+<li><a href="https://ns.editeur.org/onix/fr/21/HRE">21:HRE Édition haute lisibilité</a></li>
+<li><a href="https://ns.editeur.org/onix/fr/21/BRL">21:BRL Édition en Braille</a></li>
+<li><a href="https://ns.editeur.org/onix/fr/21/ETR">21:ETR Édition facile à lire</a></li>
+<li><a href="https://ns.editeur.org/onix/fr/21/LTE">21:LTE Édition en grands caractères</a></li>
+<li><a href="https://ns.editeur.org/onix/fr/21/ULP">21:ULP Édition en très gros caractères</a></li>
+</ul>
+<p>Les libellés peuvent être utilisés tels que proposés par ONIX.</p>
