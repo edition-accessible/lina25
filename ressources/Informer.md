@@ -281,8 +281,11 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
 Ces informations de premier niveau constituent les fonctionnalités cruciales pour l'accès à la lecture. Elles s'adressent aux personnes en situation de handicap mais peuvent aussi rendre service à une grande majorité de lecteurs.
 </p>
 </details> -->
-<h4 id="plus-dinformations-sur-laccessibilité">Conformité</h4>
-<table  class="zebra">
+<section>
+<h4 id="conformite">Conformité</h4>
+
+<table class="zebra">
+
 <thead>
 <tr class="header">
 <th>Valeur affichée</th>
@@ -293,35 +296,35 @@ Ces informations de premier niveau constituent les fonctionnalités cruciales po
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td>Contenus accessibles conformes aux standards (A ou AA)</td>
 <td></td>
-<td><a href="https://ns.editeur.org/onix/fr/196/02">Liste 196 Code 02 Spécifications d’accessibilité EPUB 1.0 A</a> ou <br/><a href="https://ns.editeur.org/onix/fr/196/03">Liste 196 Code 03&#8239;: Spécifications d’accessibilité EPUB 1.0 AA</a></td>
+<td><a href="https://ns.editeur.org/onix/fr/196/02">Liste 196 Code 02 Spécifications d’accessibilité EPUB 1.0 A</a> ou <a href="https://ns.editeur.org/onix/fr/196/03">Liste 196 Code 03&#8239;: Spécifications d’accessibilité EPUB 1.0 AA</a></td>
 <td>Aucune conformité déclarée</td>
 <td>forte</td>
 </tr>
-<tr class="odd">
+<tr>
 <td><a href="https://edition-accessible.github.io/signalement/references/ace-smart-report-fr.html">Rapport de conformité</a></td>
 <td></td>
-<td><a href="https://ns.editeur.org/onix/fr/196/94">196 94 Page web pour les informations détaillées d’accessibilité</a>/td>
+<td><a href="https://ns.editeur.org/onix/fr/196/94">196 94 Page web pour les informations détaillées d’accessibilité</a></td>
 <td>Ignorer</td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><a href="https://edition-accessible.github.io/signalement/references/ace-smart-report-fr.html">Organisme de certification</a></td>
 <td></td>
 <td><a href="https://ns.editeur.org/onix/fr/196/93">196 93 Certification de conformité par.</a></td>
 <td>Ignorer</td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><a href="infos-accessibilite-ed.html">Politique d’accessibilité de l’éditeur</a></td>
 <td></td>
 <td><a href="https://ns.editeur.org/onix/fr/196/96">Liste 196 code 96 Page web de l’éditeur pour les informations détaillées d’accessibilité</a></td>
 <td>ignorer</td>
 <td></td>
 </tr>
-<tr class="even">
+<tr>
 <td>texte</td>
 <td>Le résumé d'accessibilité doit être considéré comme un addendum. C'est un texte écrit par l’éditeur indiquant les limites ou les particularités qui ne sont pas exprimables autrement en ONIX.</td>
 <td><a href="https://ns.editeur.org/onix/fr/196/00">Liste 196 Code 00&#8239;: Résumé sur l’accessibilité content=“lorem ipsum …”</a></td>
@@ -330,8 +333,9 @@ Ces informations de premier niveau constituent les fonctionnalités cruciales po
 </tr>
 </tbody>
 </table>
+</section>
 
-<article>
+<section>
 <h2 id="filtres-de-recherche">Filtres de recherche</h2>
 <ul class="facet-multiselect-checkbox">
 <li>
@@ -346,9 +350,9 @@ Ces informations de premier niveau constituent les fonctionnalités cruciales po
 </ul>
 <p>Un pictogramme Homme de Vitruve avec texte alt " accessible" peut-être affecté à tout fichier déclarant <strong>Liste 196 Code 03 Spécifications d’accessibilité EPUB 1.0 AA</strong>&#8239;: <img src="https://www.w3.org/2021/09/UX-Guide-metadata-1.0/principles/media/accessibility.svg" alt="Informations sur l'accessibilité" style="width: 15px">
 </p>
-</article>
+</section>
 
-<article>
+<section>
 <h2>Au sujet des livres imprimés</h2>
 <p>Les livres imprimés ne peuvent prétendre à une accessibilité universelle, à moins d'être livrés en différentes versions dans une même édition. Cependant certaines éditions spécialisées peuvent répondre à des besoins spécifiques. </p>
 <p>ONIX permet d'informer sur ces éditions. Si la liste 196 est dédiée à l'accessibilité numérique, la <a href="https://ns.editeur.org/onix/fr/21">liste 21</a> permet d'indiquer un type d'édition particulier. On retiendra en particulier&#8239;:</p>
@@ -360,3 +364,5 @@ Ces informations de premier niveau constituent les fonctionnalités cruciales po
 <li><a href="https://ns.editeur.org/onix/fr/21/ULP">21:ULP Édition en très gros caractères</a></li>
 </ul>
 <p>Les libellés peuvent être utilisés tels que proposés par ONIX.</p>
+</section>
+</div>
