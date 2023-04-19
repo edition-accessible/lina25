@@ -9,8 +9,8 @@ titlePrev: Ce que dit la loi
 <p>Version accessible adaptée depuis le <a href="">texte officiel</a>
 </p>
 <hr class="separator"/>
-<section>
-<details>
+<section markdown="1">
+<details markdown="1">
 <summary>
 <span id="considrantcequisuit">considérations</span>
 </summary>
@@ -261,13 +261,13 @@ titlePrev: Ce que dit la loi
 <span class="italic">Dispositions générales</span>
 </span>
 </h2>
-<article id="001">
+<article id="001" markdown="1">
 <h3 id="d1e1153-70-1" class="ti-art">Article premier. Objet.</h3>
 <p>La présente directive a pour objet de contribuer au bon fonctionnement du marché intérieur en rapprochant les dispositions législatives, réglementaires et administratives des États membres en ce qui concerne les exigences en matière d’accessibilité applicables à certains produits et services, grâce, notamment, à l’élimination et à la prévention des obstacles, qui entravent la libre circulation des produits et des services relevant de la présente directive, découlant d’exigences divergentes en matière d’accessibilité dans les États membres.</p>
 </article>
-<article id="002">
+<article markdown="1" id="002">
 <h3 id="d1e1160-70-1" class="ti-art">Article 2. Champ d’application.</h3>
-<article id="002.001">
+<article markdown="1" id="002.001">
 <p>1. La présente directive s’applique aux produits ci-après, mis sur le marché après le 28 juin 2025:</p>
 <ul>
 <li id="article2-1-a">a. systèmes informatiques matériels à usage général du grand public et systèmes d’exploitation relatifs à ces systèmes matériels;</li>
@@ -303,10 +303,10 @@ titlePrev: Ce que dit la loi
 <li id="article2-2-f">f. commerce électronique.</li>
 </ul>
 </article>
-<article id="002.003">
+<article markdown="1" id="002.003">
 <p>3. La présente directive s’applique à la réception des communications d’urgence dirigées vers le numéro d’urgence unique européen «112».</p>
 </article>
-<article id="002.004">
+<article markdown="1" id="002.004">
 <p>4. La présente directive ne s’applique pas aux contenus suivants des sites internet et des applications mobiles:</p> <ul>
 <li>a. médias temporels préenregistrés publiés avant le 28 juin 2025;</li>
 <li id="article002.004b">b. formats de fichiers bureautiques publiés avant le 28 juin 2025;</li>
@@ -317,10 +317,10 @@ titlePrev: Ce que dit la loi
 
 </article>
 </article>
-<article id="002.005">
+<article markdown="1" id="002.005">
 <p>5. La présente directive est sans préjudice de la directive (UE) 2017/1564 et du règlement (UE) 2017/1563.</p>
 </article>
-<article id="003">
+<article markdown="1" id="003">
 <h3 id="d1e1371-70-1" class="ti-art">Article 3. Définitions.</h3>
 <p>Aux fins de la présente directive, on entend par:</p>
 <ul>
@@ -392,44 +392,44 @@ titlePrev: Ce que dit la loi
 <em>Exigences en matière d’accessibilité et libre circulation</em>
 </strong>
 </h2>
-<article id="004">
+<article markdown="1" id="004">
 <h3 id="d1e1949-70-1" class="ti-art">Article 4. 
 Exigences en matière d’accessibilité</h3>
-<article id="004.001">
+<article markdown="1" id="004.001">
 <p>1. Les États membres veillent, conformément aux paragraphes 2, 3 et 5 du présent article, et sous réserve de l’article 14, à ce que les opérateurs économiques ne mettent sur le marché que les produits, et ne fournissent que les services, qui sont conformes aux exigences en matière d’accessibilité prévues à l’annexe I.</p>
 </article>
-<article id="004.002">
+<article markdown="1" id="004.002">
 <p>2. Tous les produits, sont conformes aux exigences en matière d’accessibilité prévues à l’annexe I, section I.</p>
 <p>Tous les produits, à l’exception des terminaux en libre-service, sont conformes aux exigences en matière d’accessibilité prévues à l’annexe I, section II.</p>
 </article>
-<article id="004.003">
+<article markdown="1" id="004.003">
 <p>3. Sans préjudice du paragraphe 5, à l’exception des services de transport urbains et suburbains et des services de transport régionaux, tous les services, sont conformes aux exigences en matière d’accessibilité prévues à l’annexe I, section III.</p>
 <p>Sans préjudice du paragraphe 5, tous les services, sont conformes aux exigences en matière d’accessibilité prévues à l’annexe I, section IV.</p>
 </article>
-<article id="004.004">
+<article markdown="1" id="004.004">
 <p>4. Les États membres peuvent décider, compte tenu des circonstances nationales, que l’environnement bâti utilisé par les clients de services relevant de la présente directive doive être conforme aux exigences en matière d’accessibilité prévues à l’annexe III, de manière à garantir une utilisation optimale par les personnes handicapées.</p>
 </article>
-<article id="004.005">
+<article markdown="1" id="004.005">
 <p>5. Les microentreprises qui proposent des services sont exonérées de l’obligation de se conformer aux exigences en matière d’accessibilité visées au paragraphe 3 du présent article et de toutes obligations relatives à la conformité avec ces exigences.</p>
 </article>
-<article id="004.006">
+<article markdown="1" id="004.006">
 <p>6. Les États membres fournissent des lignes directrices et des outils aux microentreprises pour faciliter l’application des mesures nationales transposant la présente directive. Les États membres élaborent ces outils en consultation avec les parties prenantes concernées.</p>
 </article>
-<article id="004.007">
+<article markdown="1" id="004.007">
 <p>7. Les États membres peuvent fournir aux opérateurs économiques les exemples indicatifs, figurant à l’annexe II, de solutions possibles pour contribuer au respect des exigences en matière d’accessibilité énoncées à l’annexe I.</p>
 </article>
-<article id="004.008">
+<article markdown="1" id="004.008">
 <p>8. Les États membres veillent à ce que la réception des communications d’urgence dirigées vers le numéro d’urgence unique européen «112», par le PSAP le plus approprié, soit conforme aux exigences spécifiques en matière d’accessibilité prévues à l’annexe I, section V, de la façon la mieux adaptée à l’organisation nationale des systèmes d’urgence.</p>
 </article>
-<article id="004.009">
+<article markdown="1" id="004.009">
 <p>9. La Commission est habilitée à adopter des actes délégués conformément à l’article 26 pour compléter l’annexe I en précisant davantage les exigences en matière d’accessibilité qui, de façon intrinsèque, ne peuvent produire leurs effets escomptés à moins de faire l’objet de précisions complémentaires dans des actes juridiques contraignants de l’Union, telles que les exigences relatives à l’interopérabilité.</p>
 </article>
 </article>
-<article id="005">
+<article markdown="1" id="005">
 <h3 id="d1e2007-70-1" class="ti-art">Article 5. Droit de l’Union en vigueur dans le domaine du transport de passagers et de voyageurs</h3>
 <p>Les services conformes aux exigences concernant la fourniture d’informations accessibles et la fourniture d’informations relatives à l’accessibilité prévues par les règlements (CE) n<span class="super">o</span> 261/2004, (CE) n<span class="super">o</span> 1107/2006, (CE) n<span class="super">o</span> 1371/2007, (UE) n<span class="super">o</span> 1177/2010 et (UE) n<span class="super">o</span> 181/2011 et les actes pertinents adoptés sur la base de la directive 2008/57/CE sont réputés conformes aux exigences correspondantes prévues par la présente directive. Lorsque la présente directive prévoit des exigences supplémentaires à celles prévues dans ces règlements et ces actes, celles-ci s’appliquent dans leur intégralité.</p>
 </article>
-<article id="006">
+<article markdown="1" id="006">
 <h3 id="d1e2029-70-1" class="ti-art">Article 6. Libre circulation.</h3>
 <p>Les États membres ne font pas obstacle, pour des raisons liées aux exigences en matière d’accessibilité, à la mise à disposition sur le marché, sur leur territoire, des produits ou à la fourniture, sur leur territoire, des services qui sont conformes à la présente directive.</p>
 </article>
@@ -441,44 +441,44 @@ Exigences en matière d’accessibilité</h3>
 <span class="italic">Obligations des opérateurs économiques dans le secteur des produits</span>
 </span>
 </h2>
-<article id="007">
+<article markdown="1" id="007">
 <h3 id="d1e2047-70-1" class="ti-art">Article 7. Obligations des fabricants</h3>
-<article id="007.001">
+<article markdown="1" id="007.001">
 <p>1. Les fabricants s’assurent, lorsqu’ils mettent leurs produits sur le marché, que ceux-ci ont été conçus et fabriqués conformément à toutes les exigences applicables en matière d’accessibilité prévues par la présente directive.</p>
 </article>
-<article id="007.002">
+<article markdown="1" id="007.002">
 <p>2. Les fabricants établissent la documentation technique conformément à l’annexe IV et mettent ou font mettre en œuvre la procédure d’évaluation de la conformité prévue à ladite annexe.</p>
 <p>Lorsqu’il a été démontré, à l’aide de cette procédure, qu’un produit respecte les exigences applicables en matière d’accessibilité, les fabricants établissent une déclaration UE de conformité et apposent le marquage CE.</p>
 </article>
-<article id="007.003">
+<article markdown="1" id="007.003">
 <p>3. Les fabricants conservent la documentation technique et la déclaration UE de conformité pendant cinq ans après que le produit a été mis sur le marché.</p>
 </article>
-<article id="007.004">
+<article markdown="1" id="007.004">
 <p>4. Les fabricants veillent à ce que des procédures soient en place pour garantir le maintien de la conformité de la production en série à la présente directive. Il est dûment tenu compte de toute modification dans la conception ou les caractéristiques du produit ainsi que de toute modification des normes harmonisées, ou des spécifications techniques, par rapport auxquelles la conformité d’un produit est déclarée.</p>
 </article>
-<article id="007.005">
+<article markdown="1" id="007.005">
 <p>5. Les fabricants veillent à ce que leurs produits portent un numéro de type, de lot ou de série ou tout autre élément permettant leur identification ou, lorsque la taille ou la nature du produit ne le permet pas, à ce que l’information requise soit fournie sur l’emballage ou dans un document accompagnant le produit.</p>
 </article>
-<article id="007.006">
+<article markdown="1" id="007.006">
 <p>6. Les fabricants indiquent leur nom, raison sociale ou marque déposée, ainsi que l’adresse à laquelle ils peuvent être contactés, sur le produit ou, lorsque cela n’est pas possible, sur son emballage ou dans un document accompagnant le produit. L’adresse doit préciser un point unique auquel le fabricant peut être contacté. Les coordonnées sont indiquées dans une langue aisément compréhensible par les utilisateurs finals et les autorités de surveillance du marché.</p>
 </article>
-<article id="007.007">
+<article markdown="1" id="007.007">
 <p>7. Les fabricants veillent à ce que le produit soit accompagné d’instructions et d’informations de sécurité fournies dans une langue aisément compréhensible par les consommateurs et autres utilisateurs finals, déterminée par l’État membre concerné. Ces instructions et ces informations, ainsi que tout étiquetage, sont clairs, compréhensibles et intelligibles.</p>
 </article>
-<article id="007.008">
+<article markdown="1" id="007.008">
 <p>8. Les fabricants qui considèrent ou ont des raisons de croire qu’un produit qu’ils ont mis sur le marché n’est pas conforme à la présente directive prennent immédiatement les mesures correctives nécessaires pour le mettre en conformité ou, le cas échéant, pour le retirer. En outre, lorsque le produit n’est pas conforme aux exigences en matière d’accessibilité énoncées dans la présente directive, les fabricants en informent immédiatement les autorités nationales compétentes des États membres dans lesquels ils ont mis le produit à disposition, en fournissant des précisions, notamment, sur la non-conformité et sur toute mesure corrective prise. Dans de tels cas, les fabricants tiennent un registre des produits non conformes aux exigences applicables en matière d’accessibilité et des plaintes y afférentes.</p>
 </article>
-<article id="007.009">
+<article markdown="1" id="007.009">
 <p>9. Sur demande motivée d’une autorité nationale compétente, les fabricants lui communiquent toutes les informations et tous les documents nécessaires pour démontrer la conformité du produit, dans une langue aisément compréhensible par cette autorité. Ils coopèrent avec l’autorité en question, à sa demande, à toute mesure prise en vue d’éliminer la non-conformité avec les exigences applicables en matière d’accessibilité des produits qu’ils ont mis sur le marché, notamment en mettant les produits en conformité avec lesdites exigences.</p>
 </article>
 </article>
-<article id="008">
+<article markdown="1" id="008">
 <h3 id="d1e2099-70-1" class="ti-art">Article 8. Représentants autorisés</h3>
-<article id="008.001">
+<article markdown="1" id="008.001">
 <p>1. Le fabricant peut désigner un mandataire par un mandat écrit.</p>
 <p>Les obligations prévues à l’article 7, paragraphe 1, et l’établissement de la documentation technique ne font pas partie de son mandat.</p>
 </article>
-<article id="008.002">
+<article markdown="1" id="008.002">
 <p>2. Le mandataire exécute les tâches indiquées dans le mandat reçu du fabricant. Le mandat autorise au minimum le mandataire:</p>
 <ul>
 <li id="008.002-a">a. à tenir la déclaration UE de conformité et la documentation technique à la disposition des autorités de surveillance du marché pendant cinq ans;
@@ -488,64 +488,64 @@ Exigences en matière d’accessibilité</h3>
 </ul>
 </article>
 </article>
-<article id="009">
+<article markdown="1" id="009">
 <h3 id="d1e2136-70-1" class="ti-art">Article 9. Obligations des importateurs</h3>
-<article id="009.001">
+<article markdown="1" id="009.001">
 <p> 1. Les importateurs ne mettent que des produits conformes sur le marché.</p>
 </article>
-<article id="009.002">
+<article markdown="1" id="009.002">
 <p>2. Avant de mettre un produit sur le marché, les importateurs s’assurent que la procédure d’évaluation de la conformité prévue à l’annexe IV a été mise en œuvre par le fabricant. Ils s’assurent que le fabricant a établi la documentation technique prévue à ladite annexe, que le produit porte le marquage CE, qu’il est accompagné des documents requis et que le fabricant s’est conformé aux exigences prévues à l’article 7, paragraphes 5 et 6.</p>
 </article>
-<article id="009.003">
+<article markdown="1" id="009.003">
 <p>3. Lorsqu’un importateur considère ou a des raisons de croire qu’un produit n’est pas conforme aux exigences applicables en matière d’accessibilité énoncées dans la présente directive, l’importateur ne met pas le produit sur le marché tant que ce produit n’a pas été mis en conformité. En outre, lorsque le produit n’est pas conforme aux exigences applicables en matière d’accessibilité, l’importateur en informe le fabricant ainsi que les autorités de surveillance du marché.</p>
 </article>
-<article id="009.004">
+<article markdown="1" id="009.004">
 <p>4. Les importateurs indiquent leur nom, raison sociale ou marque déposée, ainsi que l’adresse à laquelle ils peuvent être contactés, sur le produit ou, lorsque cela n’est pas possible, sur son emballage ou dans un document accompagnant le produit. Les coordonnées sont indiquées dans une langue aisément compréhensible par les utilisateurs finals et les autorités de surveillance du marché.</p>
 </article>
-<article id="009.005">
+<article markdown="1" id="009.005">
 <p>5. Les importateurs veillent à ce que le produit soit accompagné d’instructions et d’informations de sécurité fournies dans une langue aisément compréhensible par les consommateurs et autres utilisateurs finals, déterminée par l’État membre concerné.</p>
 </article>
-<article id="009.006">
+<article markdown="1" id="009.006">
 <p>6. Tant qu’un produit est sous leur responsabilité, les importateurs s’assurent que les conditions de stockage ou de transport ne compromettent pas sa conformité avec les exigences applicables en matière d’accessibilité.</p>
 </article>
-<article id="009.007">
+<article markdown="1" id="009.007">
 <p>7. Pendant une durée de cinq ans, les importateurs tiennent une copie de la déclaration UE de conformité à la disposition des autorités de surveillance du marché et s’assurent que la documentation technique peut être fournie à ces autorités sur demande.</p>
 </article>
-<article id="009.008">
+<article markdown="1" id="009.008">
 <p>8. Les importateurs qui considèrent ou ont des raisons de croire qu’un produit qu’ils ont mis sur le marché n’est pas conforme à la présente directive prennent immédiatement les mesures correctives nécessaires pour le mettre en conformité ou, le cas échéant, pour le retirer. En outre, lorsque le produit n’est pas conforme aux exigences applicables en matière d’accessibilité, les importateurs en informent immédiatement les autorités nationales compétentes des États membres dans lesquels ils ont mis le produit à disposition, en fournissant des précisions, notamment, sur la non-conformité et sur toute mesure corrective prise. Dans de tels cas, les importateurs tiennent un registre des produits non conformes aux exigences applicables en matière d’accessibilité et des plaintes y afférentes.</p>
 </article>
-<article id="009.009">
+<article markdown="1" id="009.009">
 <p>9. Sur demande motivée d’une autorité nationale compétente, les importateurs lui communiquent toutes les informations et tous les documents nécessaires pour démontrer la conformité d’un produit, dans une langue aisément compréhensible par cette autorité. Ils coopèrent avec l’autorité en question, à sa demande, à toute mesure prise en vue d’éliminer la non-conformité avec les exigences applicables en matière d’accessibilité des produits qu’ils ont mis sur le marché.</p>
 </article>
 </article>
-<article id="010">
+<article markdown="1" id="010">
 <h3 id="d1e2186-70-1" class="ti-art">Article 10. Obligations des distributeurs.</h3>
-<article id="010.001">
+<article markdown="1" id="010.001">
 <p>1. Lorsqu’ils mettent un produit à disposition sur le marché, les distributeurs agissent avec la diligence requise en ce qui concerne les exigences de la présente directive.</p>
 </article>
-<article id="010.002">
+<article markdown="1" id="010.002">
 <p>2. Avant de mettre un produit à disposition sur le marché, les distributeurs vérifient qu’il porte le marquage CE, qu’il est accompagné des documents requis ainsi que d’instructions et d’informations de sécurité fournies dans une langue aisément compréhensible par les consommateurs et autres utilisateurs finals de l’État membre dans lequel le produit doit être mis à disposition et que le fabricant et l’importateur se sont conformés aux exigences prévues respectivement à l’article 7, paragraphes 5 et 6, et à l’article 9, paragraphe 4.</p>
 </article>
-<article id="010.003">
+<article markdown="1" id="010.003">
 <p>3. Lorsqu’un distributeur considère ou a des raisons de croire qu’un produit n’est pas conforme aux exigences applicables en matière d’accessibilité énoncées dans la présente directive, le distributeur ne met pas le produit à disposition sur le marché tant que ce produit n’a pas été mis en conformité. En outre, lorsque le produit n’est pas conforme aux exigences applicables en matière d’accessibilité, le distributeur en informe le fabricant ou l’importateur ainsi que les autorités de surveillance du marché.</p>
 </article>
-<article id="010.004">
+<article markdown="1" id="010.004">
 <p>4. Tant qu’un produit est sous leur responsabilité, les distributeurs s’assurent que les conditions de stockage ou de transport ne compromettent pas sa conformité avec les exigences applicables en matière d’accessibilité.</p>
 </article>
-<article id="010.005">
+<article markdown="1" id="010.005">
 <p>5. Les distributeurs qui considèrent ou ont des raisons de croire qu’un produit qu’ils ont mis à disposition sur le marché n’est pas conforme à la présente directive veillent à ce que soient prises les mesures correctives nécessaires pour le mettre en conformité ou, le cas échéant, pour le retirer. En outre, lorsque le produit n’est pas conforme aux exigences applicables en matière d’accessibilité, les distributeurs en informent immédiatement les autorités nationales compétentes des États membres dans lesquels ils ont mis le produit à disposition, en fournissant des précisions, notamment, sur la non-conformité et sur toute mesure corrective prise.</p>
 </article>
-<article id="010.006">
+<article markdown="1" id="010.006">
 <p>6. Sur demande motivée d’une autorité nationale compétente, les distributeurs lui communiquent toutes les informations et tous les documents nécessaires pour démontrer la conformité d’un produit. Ils coopèrent avec l’autorité en question, à sa demande, à toute mesure prise en vue d’éliminer la non-conformité avec les exigences applicables en matière d’accessibilité des produits qu’ils ont mis à disposition sur le marché.</p>
 </article>
 </article>
-<article id="011">
+<article markdown="1" id="011">
 <h3 id="d1e2221-70-1" class="ti-art">Article 11. Cas dans lesquels les obligations des fabricants s’appliquent aux importateurs et aux distributeurs.</h3>
 <p>Un importateur ou un distributeur est considéré comme un fabricant aux fins de la présente directive et est soumis aux obligations incombant au fabricant en vertu de l’article 7 lorsqu’il met un produit sur le marché sous son propre nom ou sa propre marque ou modifie un produit déjà mis sur le marché de telle sorte que la conformité avec les exigences de la présente directive peut être compromise.</p>
 </article>
-<article id="012">
+<article markdown="1" id="012">
 <h3 id="d1e2228-70-1" class="ti-art">Article 12. Identification des opérateurs économiques dans le secteur des produits.</h3>
-<article id="012.001">
+<article markdown="1" id="012.001">
 <p>1. Les opérateurs économiques visés aux articles 7 à 10, sur demande, identifient à l’intention des autorités de surveillance du marché:</p>
 <ul>
 <li id="012.001-a">a. tout autre opérateur économique qui leur a fourni un produit;</li>
@@ -553,10 +553,10 @@ Exigences en matière d’accessibilité</h3>
 </ul>
 </article>
 </article>
-<article id="012.002">
+<article markdown="1" id="012.002">
 <p>2. Les opérateurs économiques visés aux articles 7 à 10 sont en mesure de communiquer les informations visées au paragraphe 1 du présent article pendant une durée de cinq ans à compter de la date à laquelle le produit leur a été fourni et pendant une durée de cinq ans à compter de la date à laquelle ils ont fourni le produit.</p>
 </article>
-<article id="012.003">
+<article markdown="1" id="012.003">
 <p>3. La Commission est habilitée à adopter des actes délégués conformément à l’article 26, modifiant la présente directive afin de changer la période visée au paragraphe 2 du présent article pour des produits spécifiques. Cette période modifiée est supérieure à cinq ans et est proportionnée à la durée de vie économiquement utile du produit concerné.</p>
 
 </article>
@@ -566,21 +566,21 @@ Exigences en matière d’accessibilité</h3>
 <span class="italic">Obligations des prestataires de services</span>
 </span>
 </h2>
-<article id="013">
+<article markdown="1" id="013">
 <h3 id="d1e2273-70-1" class="ti-art">Article 13. Obligations des prestataires de services</h3>
-<article id="013.001">
+<article markdown="1" id="013.001">
 <p>1. Les prestataires de services veillent à concevoir et à fournir des services conformément aux exigences en matière d’accessibilité énoncées dans la présente directive.</p>
 </article>
-<article id="013.002">
+<article markdown="1" id="013.002">
 <p>2. Les prestataires de services établissent les informations nécessaires conformément à l’annexe V, et expliquent comment les services satisfont aux exigences applicables en matière d’accessibilité. Les informations sont mises à la disposition du public sous forme écrite et orale, y compris d’une façon qui est accessible aux personnes handicapées. Les prestataires de services conservent ces informations aussi longtemps que le service est disponible.</p>
 </article>
-<article id="013.003">
+<article markdown="1" id="013.003">
 <p>3. Sans préjudice de l’article 32, les prestataires de services veillent à ce que des procédures soient en place afin que la fourniture des services reste conforme aux exigences applicables en matière d’accessibilité. Toute modification des caractéristiques de la fourniture du service, des exigences applicables en matière d’accessibilité et des normes harmonisées ou des spécifications techniques par rapport auxquelles est déclarée la conformité d’un service aux exigences en matière d’accessibilité, est dûment prise en considération par les prestataires de services.</p>
 </article>
-<article id="013.004">
+<article markdown="1" id="013.004">
 <p>4. En cas de non-conformité du service, les prestataires prennent les mesures correctives nécessaires pour le mettre en conformité avec les exigences applicables en matière d’accessibilité. En outre, lorsque le service n’est pas conforme aux exigences applicables en matière d’accessibilité, les prestataires de services en informent immédiatement les autorités nationales compétentes des États membres dans lesquels ils fournissent le service, en fournissant des précisions, notamment, sur la non-conformité et sur toute mesure corrective prise.</p>
 </article>
-<article id="013.005">
+<article markdown="1" id="013.005">
 <p>5. Sur demande motivée d’une autorité compétente, les prestataires de services lui communiquent toutes les informations nécessaires pour démontrer la conformité du service avec les exigences applicables en matière d’accessibilité. Ils coopèrent avec cette autorité, à la demande de celle-ci, à toute mesure prise en vue de rendre le service conforme à ces exigences.</p>
 </article>
 </article>
@@ -590,25 +590,25 @@ Exigences en matière d’accessibilité</h3>
 <span class="italic">Modification fondamentale des produits ou services et charge disproportionnée pour les opérateurs économiques</span>
 </span>
 </h2>
-<article id="014">
+<article markdown="1" id="014">
 <h3 id="d1e2314-70-1" class="ti-art">Article 14. Modification fondamentale et charge disproportionnée.</h3>
-<article id="014.001">
+<article markdown="1" id="014.001">
 <p>1. Les exigences en matière d’accessibilité visées à l’article 4 s’appliquent uniquement dans la mesure où la conformité:</p>
 <ul>
 <li id="014.001-a">a. n’exige pas de modification significative d’un produit ou d’un service qui entraîne une modification fondamentale de la nature de celui-ci; et</li>
 <li id="014.001b">b. n’entraîne pas l’imposition d’une charge disproportionnée aux opérateurs économiques concernés.</li>
 </ul>
 </article>
-<article id="014.002">
+<article markdown="1" id="014.002">
 <p>2. Les opérateurs économiques effectuent une évaluation afin de déterminer si la conformité avec les exigences en matière d’accessibilité visées à l’article 4 introduirait une modification fondamentale ou, sur la base des critères pertinents énoncés à l’annexe VI, imposerait une charge disproportionnée, conformément au paragraphe 1 du présent article.</p>
 </article>
-<article id="014.003">
+<article markdown="1" id="014.003">
 <p>3. Les opérateurs économiques apportent des preuves à l’appui de l’évaluation visée au paragraphe 2. Les opérateurs économiques conservent tous les résultats pertinents pendant une période de cinq ans à compter de la date de dernière mise à disposition d’un produit sur le marché, ou de dernière fourniture d’un service, selon le cas. À la demande des autorités de surveillance du marché ou des autorités chargées du contrôle de la conformité des services, selon le cas, les opérateurs économiques leur fournissent une copie de l’évaluation visée au paragraphe 2.</p>
 </article>
-<article id="014.004">
+<article markdown="1" id="014.004">
 <p>4. Par dérogation au paragraphe 3, les microentreprises exerçant leur activité dans le domaine des produits sont exonérées de l’obligation d’apporter des preuves à l’appui de leur évaluation. Toutefois, si une autorité de surveillance du marché le demande, les microentreprises qui exercent leur activité dans le domaine des produits et qui ont choisi d’invoquer le paragraphe 1 lui communiquent les faits pertinents pour l’évaluation visée au paragraphe 2.</p>
 </article>
-<article id="014.005">
+<article markdown="1" id="014.005">
 <p>5. Les prestataires de services qui invoquent le paragraphe 1, point b), renouvellent, pour chaque catégorie ou type de service, l’évaluation du caractère disproportionné ou non de la charge:</p>
 <ul>
 <li id="014.005-a">a. lorsque le service proposé est modifié; ou </li>
@@ -616,14 +616,14 @@ Exigences en matière d’accessibilité</h3>
 <li id="014.005-c">ca. en tout état de cause, au moins tous les cinq ans.</li>
 </ul>
 </article>
-<article id="014.006">
+<article markdown="1" id="014.006">
 <p>6. Lorsqu’ils perçoivent, aux fins de l’amélioration de l’accessibilité, un financement provenant d’autres sources que leurs ressources propres, qu’elles soient d’origine publique ou privée, les opérateurs économiques ne peuvent invoquer le paragraphe 1, point b).</p>
 </article>
-<article id="014.007">
+<article markdown="1" id="014.007">
 <p>7. La Commission est habilitée à adopter des actes délégués conformément à l’article 26 afin de compléter l’annexe VI en précisant davantage les critères pertinents que l’opérateur économique doit prendre en compte pour effectuer l’évaluation visée au paragraphe 2 du présent article. Lorsqu’elle précise davantage lesdits critères, la Commission ne tient pas compte des avantages estimés pour les personnes handicapées uniquement, mais pour les personnes présentant des limitations fonctionnelles également.</p>
 <p>La Commission adopte le cas échéant le premier de ces actes délégués au plus tard le 28 juin 2020. Cet acte commence à s’appliquer au plus tôt le 28 juin 2025.</p>
 </article>
-<article id="014.008">
+<article markdown="1" id="014.008">
 <p>8. Lorsque les opérateurs économiques invoquent le paragraphe 1 pour un produit ou service spécifique, ils en informent les autorités de surveillance du marché ou les autorités chargées du contrôle de la conformité des services de l’État membre dans lequel le produit spécifique est mis sur le marché ou dans lequel le service spécifique est fourni.</p>
 <p>Le premier alinéa ne s’applique pas aux microentreprises.</p>
 </article>
@@ -634,15 +634,15 @@ Exigences en matière d’accessibilité</h3>
 <span class="italic">Normes harmonisées et spécifications techniques pour les produits et services</span>
 </span>
 </h2>
-<article id="015">
+<article markdown="1" id="015">
 <h3 id="d1e2414-70-1" class="ti-art">Article 15. Présomption de conformité.</h3>
-<article id="015.001">
+<article markdown="1" id="015.001">
 <p>1. Les produits et services conformes aux normes harmonisées ou à des parties de normes harmonisées dont les références ont été publiées au <span class="italic">Journal officiel de l’Union européenne</span> sont présumés conformes aux exigences en matière d’accessibilité énoncées dans la présente directive dans la mesure où ces normes ou parties de normes couvrent ces exigences.</p>
 </article>
-<article id="015.002">
+<article markdown="1" id="015.002">
 <p>2. Conformément à l’article 10 du règlement (UE) n<span class="super">o</span> 1025/2012, la Commission demande à une ou plusieurs organisations européennes de normalisation d’élaborer des normes harmonisées pour les exigences en matière d’accessibilité des produits énoncées à l’annexe I. La Commission présente le premier projet de demande au comité concerné au plus tard 28 juin 2021.</p>
 </article>
-<article id="015.003">
+<article markdown="1" id="015.003">
 <p>3. La Commission peut adopter des actes d’exécution établissant des spécifications techniques conformes aux exigences en matière d’accessibilité énoncées dans la présente directive lorsque les conditions ci-après sont satisfaites:</p>
 <ul>
 <li id="015.003-a">a. aucune référence à des normes harmonisées n’a été publiée au <span class="italic">Journal officiel de l’Union européenne</span> conformément au règlement (UE) n<span class="super">o</span> 1025/2012; et </li><li id="015.003-b">b. soit: <ul>
@@ -653,7 +653,7 @@ Exigences en matière d’accessibilité</h3>
 </ul>
 <p> Ces actes d’exécution sont adoptés en conformité avec la procédure d’examen visée à l’article 27, paragraphe 2.</p>
 </article>
-<article id="015.004">
+<article markdown="1" id="015.004">
 <p>4. Les produits et services conformes aux spécifications techniques ou à des parties de spécifications techniques sont présumés conformes aux exigences en matière d’accessibilité énoncées dans la présente directive dans la mesure où ces spécifications techniques ou parties de spécifications techniques couvrent ces exigences.</p>
 </article>
 </article>
@@ -663,34 +663,34 @@ Exigences en matière d’accessibilité</h3>
 <span class="italic">Conformité des produits et marquage CE</span>
 </span>
 </h2>
-<article id="016">
+<article markdown="1" id="016">
 <h3 id="d1e2498-70-1" class="ti-art">Article 16. Déclaration UE de conformité de produits.</h3>
-<article id="016.001">
+<article markdown="1" id="016.001">
 <p>1. La déclaration UE de conformité atteste que le respect des exigences en matière d’accessibilité applicables a été démontré. Lorsqu’à titre exceptionnel, l’article 14 a été appliqué, la déclaration UE de conformité précise les exigences en matière d’accessibilité concernées par cette exception.</p>
 </article>
-<article id="016.002">
+<article markdown="1" id="016.002">
 <p>2. La déclaration UE de conformité est établie selon le modèle figurant à l’annexe III de la décision n<span class="super">o</span> 768/2008/CE. Elle contient les éléments précisés à l’annexe IV de la présente directive et est mise à jour de façon continue. Les exigences concernant la documentation technique évitent d’imposer une charge indue aux microentreprises et aux PME. Cette documentation est traduite dans la (les) langue(s) requise(s) par l’État membre sur le territoire duquel le produit est mis sur le marché ou mis à disposition sur le marché.</p>
 </article>
-<article id="016.003">
+<article markdown="1" id="016.003">
 <p>3. Lorsqu’un produit relève de plusieurs actes de l’Union imposant une déclaration UE de conformité, une seule déclaration UE de conformité est établie pour l’ensemble de ces actes. La déclaration mentionne les titres des actes concernés, ainsi que les références de publication.</p>
 </article>
-<article id="016.004">
+<article markdown="1" id="016.004">
 <p>4. En établissant la déclaration UE de conformité, le fabricant assume la responsabilité de la conformité du produit avec les exigences de la présente directive.</p>
 </article>
 </article>
-<article id="017">
+<article markdown="1" id="017">
 <h3 id="d1e2526-70-1" class="ti-art">Article 17. Principes généraux du marquage CE des produits.</h3>
 <p>Le marquage CE est soumis aux principes généraux énoncés à l’article 30 du règlement (CE) n<span class="super">o</span> 765/2008.</p>
 </article>
-<article id="018">
+<article markdown="1" id="018">
 <h3 id="d1e2536-70-1" class="ti-art">Article 18. Règles et conditions d’apposition du marquage CE.</h3>
-<article id="018.001">
+<article markdown="1" id="018.001">
 <p>1. Le marquage CE est apposé de manière visible, lisible et indélébile sur le produit ou sur sa plaque signalétique. Lorsque la nature du produit ne le permet pas ou ne le justifie pas, il est apposé sur son emballage et sur les documents d’accompagnement.</p>
 </article>
-<article id="018.002">
+<article markdown="1" id="018.002">
 <p> 2. Le marquage CE est apposé avant que le produit ne soit mis sur le marché. </p>
 </article>
-<article id="018.003">
+<article markdown="1" id="018.003">
 <p>3. Les États membres s’appuient sur les mécanismes existants pour assurer la bonne application du régime régissant le marquage CE et prennent les mesures nécessaires en cas d’usage abusif du marquage.</p>
 </article>
 </article>
@@ -700,12 +700,12 @@ Exigences en matière d’accessibilité</h3>
 <span class="italic">Surveillance du marché pour les produits et procédure de sauvegarde de l’Union</span>
 </span>
 </h2>
-<article id="019">
+<article markdown="1" id="019">
 <h3 id="d1e2567-70-1" class="ti-art">Article 19. Surveillance du marché pour les produits.</h3>
-<article id="019.001">
+<article markdown="1" id="019.001">
 <p>1. L’article 15, paragraphe 3, les articles 16 à 19, l’article 21, les articles 23 à 28 et l’article 29, paragraphes 2 et 3, du règlement (CE) n<span class="super">o</span> 765/2008 s’appliquent aux produits.</p>
 </article>
-<article id="019.002">
+<article markdown="1" id="019.002">
 <p>2. Lorsqu’elles effectuent la surveillance d’un produit sur le marché et lorsque l’opérateur économique a invoqué l’article 14, les autorités de surveillance du marché compétentes:</p>
 <ul>
 <li id="019.002-a">a. vérifient si l’évaluation visée à l’article 14 a été effectuée par l’opérateur économique;</li>
@@ -714,28 +714,28 @@ Exigences en matière d’accessibilité</h3>
 </ul>
 </article>
 </article>
-<article id="019.003">
+<article markdown="1" id="019.003">
 <p>3. Les États membres veillent à ce que les informations détenues par les autorités de surveillance du marché en ce qui concerne la conformité des opérateurs économiques avec les exigences applicables en matière d’accessibilité énoncées dans la présente directive et l’évaluation prévue à l’article 14, soient mises à la disposition des consommateurs, sur demande, dans un format accessible, sauf lorsque ces informations ne peuvent être fournies pour des raisons de confidentialité conformément aux dispositions de l’article 19, paragraphe 5, du règlement (CE) n<span class="super">o</span> 765/2008.</p>
 </article>
-<article id="020">
+<article markdown="1" id="020">
 <h3 id="d1e2613-70-1" class="ti-art">Article 20. Procédure applicable au niveau national aux produits qui ne sont pas conformes aux exigences applicables en matière d’accessibilité.</h3>
-<article id="020.001">
+<article markdown="1" id="020.001">
 <p>1. Lorsque les autorités de surveillance du marché d’un État membre ont des raisons suffisantes de croire qu’un produit relevant de la présente directive n’est pas conforme aux exigences applicables en matière d’accessibilité, elles effectuent une évaluation du produit concerné en tenant compte de toutes les exigences énoncées dans la présente directive. À cet effet, les opérateurs économiques concernés coopèrent pleinement avec les autorités de surveillance du marché.</p>
 <p>Lorsque, au cours de l’évaluation visée au premier alinéa, les autorités de surveillance du marché constatent que le produit n’est pas conforme aux exigences énoncées dans la présente directive, elles demandent sans retard à l’opérateur économique en cause de prendre toutes les mesures correctives appropriées pour mettre le produit en conformité avec ces exigences dans le délai raisonnable, proportionné à la nature de la non-conformité, qu’elles prescrivent.</p>
 <p>Les autorités de surveillance du marché demandent à l’opérateur économique en cause de retirer le produit du marché, dans un délai supplémentaire raisonnable, uniquement si ledit opérateur économique n’a pas pris les mesures correctives adéquates dans le délai visé au deuxième alinéa.</p>
 <p>L’article 21 du règlement (CE) n<span class="super">o</span> 765/2008 s’applique aux mesures visées aux deuxième et troisième alinéas du présent paragraphe.</p>
 </article>
-<article id="020.002">
+<article markdown="1" id="020.002">
 <p>2. Lorsque les autorités de surveillance du marché considèrent que la non-conformité n’est pas limitée au territoire national, elles informent la Commission et les autres États membres des résultats de l’évaluation et des mesures qu’elles ont prescrites à l’opérateur économique.</p>
 </article>
-<article id="020.003">
+<article markdown="1" id="020.003">
 <p>3. L’opérateur économique s’assure que toutes les mesures correctives appropriées sont prises pour tous les produits concernés qu’il a mis à disposition sur le marché dans toute l’Union.</p>
 </article>
-<article id="020.004">
+<article markdown="1" id="020.004">
 <p>4. Lorsque l’opérateur économique en cause ne prend pas des mesures correctives adéquates dans le délai visé au paragraphe 1, troisième alinéa, les autorités de surveillance du marché prennent toutes les mesures provisoires appropriées pour interdire ou restreindre la mise à disposition du produit sur leur marché national ou pour le retirer de ce marché.</p>
 <p> Les autorités de surveillance du marché en informent sans retard la Commission et les autres États membres.</p>
 </article>
-<article id="020.005">
+<article markdown="1" id="020.005">
 <p>5. Les informations visées au paragraphe 4, deuxième alinéa, contiennent tous les détails disponibles, notamment en ce qui concerne les données nécessaires pour identifier le produit non conforme, son origine, la nature de la non-conformité alléguée et les exigences en matière d’accessibilité auxquelles le produit n’est pas conforme, ainsi que la nature et la durée des mesures nationales prises et les arguments avancés par l’opérateur économique en cause. En particulier, les autorités de surveillance du marché indiquent si la non-conformité est imputable à l’un des éléments suivants:</p>
 <ul>
 <li id="020.005-a">a. non-conformité du produit avec les exigences applicables en matière d’accessibilité; </li>
@@ -743,35 +743,35 @@ Exigences en matière d’accessibilité</h3>
 </ul>
 </article>
 </article>
-<article id="020.006">
+<article markdown="1" id="020.006">
 <p>6. Les États membres autres que celui qui a entamé la procédure au titre du présent article informent sans retard la Commission et les autres États membres de toute mesure prise et de toute information supplémentaire dont ils disposent à propos de la non-conformité du produit concerné et, dans l’éventualité où ils s’opposent à la mesure nationale notifiée, de leurs objections.</p>
 </article>
-<article id="020.007">
+<article markdown="1" id="020.007">
 <p>7. Lorsque, dans un délai de trois mois à compter de la réception des informations visées au paragraphe 4, deuxième alinéa, aucune objection n’a été émise par un État membre ou par la Commission à l’encontre de la mesure provisoire d’un État membre, cette mesure est réputée justifiée.</p>
 </article>
-<article id="020.008">
+<article markdown="1" id="020.008">
 <p>8. Les États membres veillent à ce que des mesures restrictives appropriées, telles que le retrait du produit de leur marché, soient prises sans retard à l’égard du produit concerné.</p>
 
 </article>
-<article id="021">
+<article markdown="1" id="021">
 <h3 id="d1e2683-70-1" class="ti-art">Article 21. Procédure de sauvegarde de l’Union.</h3>
-<article id="021.001">
+<article markdown="1" id="021.001">
 <p>1. Lorsque, au terme de la procédure prévue à l’article 20, paragraphes 3 et 4, des objections sont émises à l’encontre d’une mesure prise par un État membre ou lorsque la Commission détient des preuves suffisantes indiquant qu’une mesure nationale est contraire au droit de l’Union, la Commission entame sans retard des consultations avec les États membres et le ou les opérateurs économiques en cause et procède à l’évaluation de la mesure nationale. En fonction des résultats de cette évaluation, la Commission décide si la mesure nationale est ou non justifiée.</p>
 <p>La Commission adresse sa décision à tous les États membres et la communique immédiatement à ceux-ci ainsi qu’au ou aux opérateurs économiques en cause.</p>
 </article>
-<article id="021.002">
+<article markdown="1" id="021.002">
 <p>2. Lorsque la mesure nationale visée au paragraphe 1, est considérée comme justifiée, tous les États membres prennent les mesures nécessaires pour garantir le retrait du produit non conforme de leur marché et ils en informent la Commission. Lorsque la mesure nationale est considérée comme injustifiée, l’État membre concerné la retire.</p>
 </article>
-<article id="021.003">
+<article markdown="1" id="021.003">
 <p>3. Lorsque la mesure nationale visée au paragraphe 1 du présent article est considérée comme justifiée et que la non-conformité du produit est attribuée à des lacunes dans les normes harmonisées visées à l’article 20, paragraphe 5, point b), la Commission applique la procédure prévue à l’article 11 du règlement (UE) n<span class="super">o</span> 1025/2012. </p>
 </article>
-<article id="021.004">
+<article markdown="1" id="021.004">
 <p>4. Lorsque la mesure nationale visée au paragraphe 1 du présent article est considérée comme justifiée et que la non-conformité du produit est attribuée à des lacunes dans les spécifications techniques visées à l’article 20, paragraphe 5, point b), la Commission adopte sans retard un acte d’exécution modifiant ou abrogeant la spécification technique en question. Ces actes d’exécution sont adoptés en conformité avec la procédure d’examen visée à l’article 27, paragraphe 2.</p>
 </article>
 </article>
-<article id="022">
+<article markdown="1" id="022">
 <h3 id="d1e2713-70-1" class="ti-art">Article 22. Non-conformité formelle.</h3>
-<article id="022.001">
+<article markdown="1" id="022.001">
 <p>1. Sans préjudice de l’article 20, lorsqu’un État membre fait l’une des constatations ci-après, il invite l’opérateur économique en cause à mettre un terme à la non-conformité en question:</p>
 <ul>
 <li id="022.002-a">a. le marquage CE a été apposé en violation de l’article 30 du règlement (CE) n<span class="super">o</span> 765/2008 ou de l’article 18 de la présente directive; </li>
@@ -783,7 +783,7 @@ Exigences en matière d’accessibilité</h3>
 <li id="022.002-g">g. une autre obligation administrative prévue à l’article 7 ou à l’article 9 n’est pas respectée.</li>
 </ul>
 </article>
-<article id="022.002">
+<article markdown="1" id="022.002">
 <p>2. Lorsque la non-conformité visée au paragraphe 1 persiste, l’État membre concerné prend toutes les mesures appropriées pour restreindre ou interdire la mise à disposition du produit sur le marché ou pour assurer son retrait du marché.</p>
 </article>
 </article>
@@ -793,9 +793,9 @@ Exigences en matière d’accessibilité</h3>
 <span class="italic">Conformité des services</span>
 </span>
 </h2>
-<article id="023">
+<article markdown="1" id="023">
 <h3 id="d1e2786-70-1" class="ti-art">Article 23. Conformité des services.</h3>
-<article id="023.001">
+<article markdown="1" id="023.001">
 <p> 1. Les États membres établissent, appliquent et mettent à jour régulièrement des procédures appropriées en vue:</p>
 <ul>
 <li id="023.002-a">a. de vérifier la conformité des services avec les exigences de la présente directive, y compris l’évaluation visée à l’article 14, à laquelle l’article 19, paragraphe 2, s’applique mutatis mutandis;</li>
@@ -805,7 +805,7 @@ Exigences en matière d’accessibilité</h3>
 <p> de vérifier que l’opérateur économique a pris les mesures correctives nécessaires.</p>
 </article>
 </article>
-<article id="023.002">
+<article markdown="1" id="023.002">
 <p>2. Les États membres désignent les autorités responsables de la mise en œuvre des procédures visées au paragraphe 1 en ce qui concerne la conformité des services.</p>
 <p>Chaque État membre veille à ce que le public soit informé de l’existence, des responsabilités, de l’identité, du travail et des décisions des autorités visées au premier alinéa. Ces autorités mettent ces informations à disposition sur demande dans des formats appropriés.</p>
 </article>
@@ -816,16 +816,16 @@ Exigences en matière d’accessibilité</h3>
 <span class="italic">Exigences en matière d’accessibilité figurant dans d’autres actes de l’Union</span>
 </span>
 </h2>
-<article id="024">
+<article markdown="1" id="024">
 <h3 id="d1e2834-70-1" class="ti-art">Article 24. Exigences en matière d’accessibilité figurant dans d’autres actes de l’Union.</h3>
-<article id="024.001">
+<article markdown="1" id="024.001">
 <p>1. En ce qui concerne les produits et services visés à l’article 2 de la présente directive, les exigences en matière d’accessibilité énoncées à l’annexe I de la présente directive constituent des exigences d’accessibilité contraignantes au sens de l’article 42, paragraphe 1, de la directive 2014/24/UE et de l’article 60, paragraphe 1, de la directive 2014/25/UE.</p>
 </article>
-<article id="024.002">
+<article markdown="1" id="024.002">
 <p>2. Tout produit ou service dont les caractéristiques, éléments ou fonctions sont conformes aux exigences en matière d’accessibilité énoncées à l’annexe I de la présente directive conformément à la section VI de ladite annexe est présumé satisfaire aux obligations pertinentes en matière d’accessibilité figurant dans des actes de l’Union autres que la présente directive, pour ce qui est de ces caractéristiques, éléments ou fonctions, sauf mention contraire dans ces autres actes.</p>
 </article>
 </article>
-<article id="025">
+<article markdown="1" id="025">
 <h3 id="d1e2849-70-1" class="ti-art">Article 25. Normes harmonisées et spécifications techniques pour d’autres actes de l’Union.</h3>
 <p>La conformité avec des normes harmonisées et des spécifications techniques ou avec des parties de normes harmonisées et de spécifications techniques adoptées conformément à l’article 15 établit une présomption de conformité avec l’article 24 dans la mesure où ces normes et spécifications techniques ou ces parties de normes et de spécifications techniques satisfont aux exigences en matière d’accessibilité énoncées dans la présente directive.</p>
 </article>
@@ -835,38 +835,38 @@ Exigences en matière d’accessibilité</h3>
 <span class="italic">Actes délégués, compétences d’exécution et dispositions finales</span>
 </span>
 </h2>
-<article id="026">
+<article markdown="1" id="026">
 <h3 id="d1e2867-70-1" class="ti-art">Article 26. Exercice de la délégation.</h3>
-  <article id="026.001">
+  <article markdown="1" id="026.001">
   <p>1. Le pouvoir d’adopter des actes délégués conféré à la Commission est soumis aux conditions fixées au présent article.</p>
   </article>
-  <article id="026.002">
+  <article markdown="1" id="026.002">
   <p>2. Le pouvoir d’adopter des actes délégués visé à l’article 4, paragraphe 9, est conféré à la Commission pour une durée indéterminée à compter du 27 juin 2019.</p>
   <p>Le pouvoir d’adopter des actes délégués visé à l’article 12, paragraphe 3, et à l’article 14, paragraphe 7, est conféré à la Commission pour une période de cinq ans à compter du 27 juin 2019. La Commission élabore un rapport relatif à la délégation de pouvoir, au plus tard neuf mois avant la fin de la période de cinq ans. La délégation de pouvoir est tacitement prorogée pour des périodes d’une durée identique, sauf si le Parlement européen ou le Conseil s’oppose à cette prorogation trois mois au plus tard avant la fin de chaque période.</p>
   </article>
-  <article id="026.003">
+  <article markdown="1" id="026.003">
   <p>3. La délégation de pouvoir visée à l’article 4, paragraphe 9, à l’article 12, paragraphe 3, et à l’article 14, paragraphe 7, peut être révoquée à tout moment par le Parlement européen ou le Conseil. La décision de révocation met fin à la délégation de pouvoir qui y est précisée. La révocation prend effet le jour suivant celui de la publication de ladite décision au <span class="italic">Journal officiel de l’Union européenne</span> ou à une date ultérieure qui est précisée dans ladite décision. Elle ne porte pas atteinte à la validité des actes délégués déjà en vigueur.</p>
   </article>
-  <article id="026.004">
+  <article markdown="1" id="026.004">
   <p>4. Avant l’adoption d’un acte délégué, la Commission consulte les experts désignés par chaque État membre, conformément aux principes définis dans l’accord interinstitutionnel du 13 avril 2016«Mieux légiférer».</p>
   </article>
-  <article id="026.005">
+  <article markdown="1" id="026.005">
   <p>5. Aussitôt qu’elle adopte un acte délégué, la Commission le notifie au Parlement européen et au Conseil simultanément.</p>
   </article>
-  <article id="026.006">
+  <article markdown="1" id="026.006">
   <p>6. Un acte délégué adopté en vertu de l’article 4, paragraphe 9, de l’article 12, paragraphe 3, et de l’article 14, paragraphe 7, n’entre en vigueur que si le Parlement européen ou le Conseil n’a pas exprimé d’objections dans un délai de deux mois à compter de la notification de cet acte au Parlement européen et au Conseil ou si, avant l’expiration de ce délai, le Parlement européen et le Conseil ont tous deux informé la Commission de leur intention de ne pas exprimer d’objections. Ce délai est prolongé de deux mois à l’initiative du Parlement européen ou du Conseil.</p>
   </article>
 </article>
-<article id="027">
+<article markdown="1" id="027">
 <h3 id="d1e2919-70-1" class="ti-art">Article 27. Comité.</h3>
-  <article id="027.001">
+  <article markdown="1" id="027.001">
   <p>1. La Commission est assistée par un comité. Ledit comité est un comité au sens du règlement (UE) n<span class="super">o</span> 182/2011. </p>
   </article>
-  <article id="027.002">
+  <article markdown="1" id="027.002">
   <p>2. Lorsqu’il est fait référence au présent paragraphe, l’article 5 du règlement (UE) n<span class="super">o</span> 182/2011 s’applique.</p>
   </article>
 </article>
-<article id="028">
+<article markdown="1" id="028">
 <h3 id="d1e2940-70-1" class="ti-art">Article 28. Groupe de travail.</h3>
 <p>La Commission établit un groupe de travail constitué des représentants des autorités de surveillance du marché, des autorités chargées de la conformité des services et des parties prenantes concernées, y compris des représentants des organisations qui représentent les personnes handicapées.</p>
 <p>Le groupe de travail:</p>
@@ -879,94 +879,94 @@ Exigences en matière d’accessibilité</h3>
   </ul>
   </article>
 </article>
-<article id="029">
+<article markdown="1" id="029">
 <h3 id="d1e2969-70-1" class="ti-art">Article 29. Mesures d’exécution.</h3>
-  <article id="029.001">
+  <article markdown="1" id="029.001">
   <p>1. Les États membres veillent à ce qu’il existe des moyens adéquats et efficaces permettant de faire respecter la présente directive.</p>
   </article>
-  <article id="029.002">
+  <article markdown="1" id="029.002">
   <p> 2. Les moyens visés au paragraphe 1 comprennent:</p>
   <ul>
   <li id="029.002-a">a. des dispositions permettant à un consommateur de saisir les tribunaux ou les organes administratifs compétents en vertu du droit national, afin de garantir le respect des dispositions nationales transposant la présente directive;</li>
   <li id="029.002-b">b. des dispositions permettant à des organismes publics ou des associations privées, des organisations ou autres entités juridiques ayant un intérêt légitime à l’application de la présente directive d’agir devant les tribunaux ou les organes administratifs compétents en vertu du droit national, au nom ou au soutien du requérant et avec son accord, dans toute procédure judiciaire ou administrative prévue aux fins de l’exécution des obligations énoncées par la présente directive.</li>
   </ul>
   </article>
-  <article id="029.003">
+  <article markdown="1" id="029.003">
   <p>3. Le présent article ne s’applique pas aux procédures de passation de marchés relevant des directives 2014/24/UE et 2014/25/UE.</p>
   </article>
 </article>
-<article id="030">
+<article markdown="1" id="030">
 <h3 id="d1e3003-70-1" class="ti-art">Article 30. Sanctions.</h3>
-  <article id="030.001">
+  <article markdown="1" id="030.001">
   <p>1. Les États membres déterminent le régime des sanctions applicables aux violations des dispositions nationales adoptées en application de la présente directive et prennent toute mesure nécessaire pour assurer la mise en œuvre de celles-ci.</p>
   </article>
-  <article id="030.002">
+  <article markdown="1" id="030.002">
   <p>2. Les sanctions ainsi prévues sont effectives, proportionnées et dissuasives. Ces sanctions s’accompagnent de mesures correctives efficaces au cas où les opérateurs économiques ne se conforment pas à ces dispositions.</p>
   </article>
-  <article id="030.003">
+  <article markdown="1" id="030.003">
   <p>3. Les États membres informent sans retard la Commission du régime des sanctions et des mesures qu’ils ont adoptés et de toute modification apportée ultérieurement.</p>
   </article>
-  <article id="030.004">
+  <article markdown="1" id="030.004">
   <p>4. Les sanctions tiennent compte de l’étendue du cas de non-conformité, notamment de sa gravité et du nombre d’unités de produits ou services non conformes mais aussi du nombre de personnes concernées.</p>
   </article>
-  <article id="030.005">
+  <article markdown="1" id="030.005">
   <p>5. Le présent article ne s’applique pas aux procédures de passation de marchés relevant des directives 2014/24/UE et 2014/25/UE.</p>
   </article>
 </article>
-<article id="031">
+<article markdown="1" id="031">
 <h3 id="d1e3033-70-1" class="ti-art">Article 31. Transposition.</h3>
-  <article id="031.001">
+  <article markdown="1" id="031.001">
   <p>1. Les États membres adoptent et publient, au plus tard le 28 juin 2022, les dispositions législatives, réglementaires et administratives nécessaires pour se conformer à la présente directive. Ils communiquent immédiatement à la Commission le texte de ces dispositions.</p>
   </article>
-  <article id="031.002">
+  <article markdown="1" id="031.002">
   <p> 2. Ils appliquent ces dispositions à partir du 28 juin 2025. </p>
   </article>
-  <article id="031.003">
+  <article markdown="1" id="031.003">
   <p>3. Par dérogation au paragraphe 2 du présent article, les États membres peuvent décider d’appliquer les mesures relatives aux obligations prévues à l’article 4, paragraphe 8, au plus tard le 28 juin 2027.</p>
   </article>
-  <article id="031.004">
+  <article markdown="1" id="031.004">
   <p>4. Lorsque les États membres adoptent ces dispositions, celles-ci contiennent une référence à la présente directive ou sont accompagnées d’une telle référence lors de leur publication officielle. Les modalités de cette référence sont arrêtées par les États membres.</p>
   </article>
-  <article id="031.005">
+  <article markdown="1" id="031.005">
   <p>5. Les États membres communiquent à la Commission le texte des dispositions essentielles de droit interne qu’ils adoptent dans le domaine régi par la présente directive.</p>
   </article>
-  <article id="031.006">
+  <article markdown="1" id="031.006">
   <p>6. Les États membres qui font usage de la possibilité prévue à l’article 4, paragraphe 4, communiquent à la Commission le texte des dispositions essentielles de droit interne qu’ils adoptent à cette fin et présentent à la Commission un rapport sur les progrès réalisés dans leur mise en œuvre.</p>
   </article>
 </article>
-<article id="032">
+<article markdown="1" id="032">
   <h3 id="d1e3077-70-1" class="ti-art">Article 32. Mesures transitoires.</h3>
-  <article id="032.001">
+  <article markdown="1" id="032.001">
   <p>1. Sans préjudice du paragraphe 2 du présent article, les États membres prévoient une période transitoire s’achevant le 28 juin 2030, au cours de laquelle les prestataires de services ont la possibilité de continuer à fournir leurs services en utilisant des produits qu’ils utilisaient légalement pour fournir des services similaires avant cette date.</p>
   <p>Les contrats de services convenus avant le 28 juin 2025 peuvent courir sans modification jusqu’à expiration, mais pas plus que cinq ans à compter de ladite date.</p>
   </article>
-  <article id="032.002">
+  <article markdown="1" id="032.002">
   <p>2. Les États membres peuvent prévoir que les terminaux en libre-service utilisés légalement par les prestataires de services pour fournir des services avant le 28 juin 2025 peuvent continuer à être utilisés pour fournir des services similaires jusqu’à la fin de leur durée de vie économiquement utile, cette période ne pouvant dépasser vingt ans après leur mise en service.</p>
   </article>
 </article>
-<article id="033">
+<article markdown="1" id="033">
   <h3 id="d1e3103-70-1" class="ti-art">Article 33. Rapports et réexamen.</h3>
-    <article id="033.001">
+    <article markdown="1" id="033.001">
     <p>1. Au plus tard le 28 juin 2030 et tous les cinq ans par la suite, la Commission soumet au Parlement européen, au Conseil, au Comité économique et social européen et au Comité des régions un rapport sur l’application de la présente directive.</p>
     </article>         
-    <article id="033.002">
+    <article markdown="1" id="033.002">
     <p>2. Les rapports décrivent entre autres, à la lumière de l’évolution sociale, économique et technologique, les développements en matière d’accessibilité des produits et des services, le verrouillage technologique éventuel ou les possibles obstacles à l’innovation et les incidences de la présente directive sur les opérateurs économiques et sur les personnes handicapées. Les rapports évaluent également si l’application de l’article 4, paragraphe 4, a contribué à rapprocher les exigences divergentes en matière d’accessibilité de l’environnement bâti lié aux services de transport de passagers et de voyageurs, aux services bancaires aux consommateurs et aux centres de services à la clientèle des magasins gérés par des prestataires de services de communications électroniques, le cas échéant, en vue de permettre l’alignement progressif sur les exigences en matière d’accessibilité énoncées à l’annexe III.</p>
     <p>Les rapports évaluent également si l’application de la présente directive, et en particulier ses dispositions facultatives, a contribué à rapprocher les exigences en matière d’accessibilité de l’environnement bâti constituant des travaux relevant du champ d’application de la directive 2014/23/UE du Parlement européen et du Conseil <a id="ntc35-L_2019151FR.01007001-E0035" href="#ntr35-L_2019151FR.01007001-E0035">Article <span class="super note-tag">35</span>
     </a>, de la directive 2014/24/UE et de la directive 2014/25/UE.</p>
     <p>Les rapports traitent également des effets sur le fonctionnement du marché intérieur de l’application de l’article 14 de la présente directive, y compris, le cas échéant, sur la base des informations reçues en application de l’article 14, paragraphe 8, ainsi que de l’exemption accordée aux microentreprises. Les rapports déterminent si la présente directive a atteint ses objectifs et s’il serait approprié d’inclure de nouveaux produits et services dans son champ d’application, ou d’en exclure certains produits et services, et ils recensent, si possible, les domaines dans lesquels la charge devrait être réduite, en vue d’une possible révision de la présente directive.</p>
     <p> La Commission propose s’il y a lieu des mesures appropriées, notamment des mesures législatives.</p>
     </article>
-    <article id="033.003">
+    <article markdown="1" id="033.003">
     <p>3. Les États membres communiquent en temps utile à la Commission toutes les informations dont elle a besoin pour établir de tels rapports.</p>
     </article>
-    <article id="033.004">
+    <article markdown="1" id="033.004">
     <p>4. Les rapports de la Commission prennent en considération le point de vue des acteurs économiques et des organisations non gouvernementales concernées, notamment les organisations représentant les personnes handicapées.</p>
     </article>
-    <article id="034">
+    <article markdown="1" id="034">
     <h3 id="d1e3147-70-1" class="ti-art">Article 34</h3>
     <p>La présente directive entre en vigueur le vingtième jour suivant celui de sa publication au <span class="italic">Journal officiel de l’Union européenne</span>.</p>
     </article>
-    <article id="035">
+    <article markdown="1" id="035">
     <h3 id="d1e3155-70-1" class="ti-art">Article 35</h3>
     <p>Les États membres sont destinataires de la présente directive.</p>
     </article>
@@ -1126,8 +1126,8 @@ Exigences en matière d’accessibilité</h3>
 </aside>
 <hr class="doc-sep"/>
 
-<section id="L_2019151FR.01010001">
-<details>
+<section id="L_2019151FR.01010001" markdown="1">
+<details markdown="1">
 <summary>Annexes</summary>
 <h2>Annexes</h2>
 <h3></h3>
@@ -1141,56 +1141,56 @@ Exigences en matière d’accessibilité</h3>
 
 <h6>1. Exigences relatives à la fourniture d’informations</h6>
 
--   a) informations sur l’utilisation du produit, figurant sur le produit lui-même (étiquetage, instructions et avertissement). Ces informations sont:
-    -   i) disponibles au moyen de plusieurs canaux sensoriels;
-    -   ii) présentées de façon compréhensible;
-    -   iii) présentées aux utilisateurs de manière à ce qu’ils les perçoivent;
-    -   iv) présentées en utilisant une police de caractères de taille et de forme appropriées compte tenu des conditions d’utilisation prévisibles, ainsi qu’un contraste suffisant, et en ménageant un espace ajustable entre les lettres, les lignes et les paragraphes;
--   b) instructions concernant l’utilisation d’un produit lorsqu’elles ne sont pas fournies sur le produit lui-même, mais sont disponibles lors de l’utilisation du produit ou par d’autres moyens comme un site internet, notamment les fonctions d’accessibilité du produit, leur activation et leur interopérabilité avec des solutions d’assistance. Ces instructions sont mises à la disposition du public lorsque le produit est mis sur le marché et:
-    -   i)sont disponibles au moyen de plusieurs canaux sensoriels;
-    -   ii)sont présentées de façon compréhensible;
-    -   iii)sont présentées aux utilisateurs de manière à ce qu’ils les perçoivent;
-    -   iv)sont présentées en utilisant une police de caractères de taille et de forme appropriées compte tenu des conditions d’utilisation prévisibles, ainsi qu’un contraste suffisant, et en ménageant un espace ajustable entre les lettres, les lignes et les paragraphes;
-    -   v) sont disponibles, en ce qui concerne leur contenu, dans des formats texte permettant de générer d’autres formats auxiliaires pouvant être présentés de différentes manières et par l’intermédiaire de plusieurs canaux sensoriels;
-    -   vi)sont accompagnées d’une présentation de substitution de tout contenu non textuel;
-    -   vii)comprennent une description de l’interface utilisateur du produit (manipulation, commande et retour d’informations, entrée-sortie) conformément au point 2; la description indique, pour chacun des éléments énumérés au point 2, si le produit présente ces caractéristiques;
-    -   viii)comprennent une description des fonctionnalités du produit. Des fonctions adaptées aux besoins des personnes handicapées sont proposées conformément au point 2; la description indique, pour chacun des éléments énumérés au point 2, si le produit présente ces caractéristiques;
-    -   ix) comprennent une description de l’interfaçage logiciel et matériel du produit avec des dispositifs d’assistance; la description inclut une liste des dispositifs d’assistance qui ont été testés avec le produit.
+* a) informations sur l’utilisation du produit, figurant sur le produit lui-même (étiquetage, instructions et avertissement). Ces informations sont:
+    * i) disponibles au moyen de plusieurs canaux sensoriels;
+    * ii) présentées de façon compréhensible;
+    * iii) présentées aux utilisateurs de manière à ce qu’ils les perçoivent;
+    * iv) présentées en utilisant une police de caractères de taille et de forme appropriées compte tenu des conditions d’utilisation prévisibles, ainsi qu’un contraste suffisant, et en ménageant un espace ajustable entre les lettres, les lignes et les paragraphes;
+* b) instructions concernant l’utilisation d’un produit lorsqu’elles ne sont pas fournies sur le produit lui-même, mais sont disponibles lors de l’utilisation du produit ou par d’autres moyens comme un site internet, notamment les fonctions d’accessibilité du produit, leur activation et leur interopérabilité avec des solutions d’assistance. Ces instructions sont mises à la disposition du public lorsque le produit est mis sur le marché et:
+    * i)sont disponibles au moyen de plusieurs canaux sensoriels;
+    * ii)sont présentées de façon compréhensible;
+    * iii)sont présentées aux utilisateurs de manière à ce qu’ils les perçoivent;
+    * iv)sont présentées en utilisant une police de caractères de taille et de forme appropriées compte tenu des conditions d’utilisation prévisibles, ainsi qu’un contraste suffisant, et en ménageant un espace ajustable entre les lettres, les lignes et les paragraphes;
+    * v) sont disponibles, en ce qui concerne leur contenu, dans des formats texte permettant de générer d’autres formats auxiliaires pouvant être présentés de différentes manières et par l’intermédiaire de plusieurs canaux sensoriels;
+    * vi)sont accompagnées d’une présentation de substitution de tout contenu non textuel;
+    * vii)comprennent une description de l’interface utilisateur du produit (manipulation, commande et retour d’informations, entrée-sortie) conformément au point 2; la description indique, pour chacun des éléments énumérés au point 2, si le produit présente ces caractéristiques;
+    * viii)comprennent une description des fonctionnalités du produit. Des fonctions adaptées aux besoins des personnes handicapées sont proposées conformément au point 2; la description indique, pour chacun des éléments énumérés au point 2, si le produit présente ces caractéristiques;
+    * ix) comprennent une description de l’interfaçage logiciel et matériel du produit avec des dispositifs d’assistance; la description inclut une liste des dispositifs d’assistance qui ont été testés avec le produit.
 
 <h6>2. Conception de l’interface utilisateur et des fonctionnalités</h6>
 
 Le produit, y compris son interface utilisateur, comporte des caractéristiques, des éléments et des fonctions permettant aux personnes handicapées d’accéder au produit, de le percevoir, de l’utiliser, de le comprendre et de le commander, en veillant aux aspects suivants:
 
--   a) lorsque le produit permet la communication, y compris la communication interpersonnelle, l’utilisation, la fourniture d’informations, la commande et l’orientation, ces fonctions sont disponibles au moyen de plusieurs canaux sensoriels, notamment en proposant des solutions de substitution à la vision, à l’audition, à la parole et au toucher;
--   b) lorsque le produit utilise la parole, des solutions de substitution à la parole et à l’intervention vocale sont proposées pour la communication, l’utilisation, la commande et l’orientation;
--   c) lorsque le produit utilise des éléments visuels, des fonctions flexibles d’agrandissement, de réglage de la luminosité et de contraste sont proposées pour la communication, la fourniture d’informations et l’utilisation et il est veillé à l’interopérabilité avec des programmes et des dispositifs d’assistance pour explorer l’interface;
--   d) lorsque le produit utilise des couleurs pour transmettre des informations, indiquer une action, demander une réponse ou signaler des éléments, une solution de substitution à la couleur est proposée;
--   e) lorsque le produit utilise des signaux auditifs pour transmettre des informations, indiquer une action, demander une réponse ou signaler des éléments, une solution de substitution aux signaux auditifs est proposée;
--   f) lorsque le produit utilise des éléments visuels, des fonctions flexibles sont proposées pour améliorer la clarté visuelle;
--   g) lorsque le produit utilise des sons, une fonction de réglage du volume et de la vitesse est proposée, ainsi que des caractéristiques audio avancées, notamment de réduction des interférences provenant de produits proches et de clarté auditive;
--   h) lorsque le produit nécessite une utilisation et une commande manuelles, une commande séquentielle et des possibilités de commande autres que fondées sur la motricité fine sont proposées, en évitant que des commandes simultanées soient nécessaires pour la manipulation, et des éléments perceptibles au toucher sont disponibles;
--   i) le produit est conçu pour éviter les modes de fonctionnement exigeant une forte amplitude de mouvements et une grande force;
--   j) le produit est conçu pour éviter le déclenchement de réactions photosensibles;
--   k) le produit préserve la vie privée de l’utilisateur lors de son utilisation des caractéristiques d’accessibilité;
--   l) le produit offre une solution de substitution à l’identification et à la commande biométriques;
--   m) le produit garantit la cohérence des fonctionnalités et prévoit un laps de temps suffisant et flexible pour l’interaction;
--   n) le produit prévoit un interfaçage logiciel et matériel avec les technologies d’assistance;
--   o) le produit satisfait aux exigences sectorielles suivantes:
--   i) les terminaux en libre-service:
--   — intègrent une technologie de synthèse vocale de texte,
--   — permettent l’utilisation d’un casque personnel,
--   — lorsque le temps de réponse est limité, transmettent à l’utilisateur un signal par l’intermédiaire de plusieurs canaux sensoriels,
--   — donnent la possibilité de prolonger le temps de réponse,
--   — lorsque des touches et boutons de commande sont disponibles, présentent un contraste suffisant et des touches et boutons de commande perceptibles au toucher,
--   — n’exigent pas, pour qu’un utilisateur puisse s’en servir, qu’une caractéristique d’accessibilité soit activée,
--   — lorsque le produit utilise des signaux audio ou auditifs, il est compatible avec des dispositifs et technologies d’assistance disponibles au niveau de l’Union, y compris des technologies auditives, telles que des appareils auditifs, boucles auditives, implants cochléaires et dispositifs d’aide à l’audition;
--   ii) les liseuses numériques intègrent une technologie de synthèse vocale de texte;
--   iii) les équipements terminaux grand public avec des capacités informatiques interactives utilisés pour la fourniture de services de communications électroniques:
--   — permettent, lorsqu’ils ont des capacités textuelles en complément des capacités vocales, le traitement de texte en temps réel, et supportent un son haute fidélité,
--   — permettent, lorsqu’ils ont des capacités vidéo en complément du texte et de la voix ou en association avec ces deux canaux, l’utilisation de la conversation totale, y compris la synchronisation vocale, le texte en temps réel et la vidéo avec une résolution permettant une communication en langue des signes,
--   — assurent une connexion sans fil efficace aux technologies auditives,
--   — évitent les interférences avec les dispositifs d’assistance;
--   iv) les équipements terminaux grand public avec des capacités informatiques interactives utilisés pour accéder à des services de médias audiovisuels mettent à disposition des personnes handicapées les éléments en matière d’accessibilité fournis par le prestataire de services de médias audiovisuels en ce qui concerne l’accès, la sélection, la commande et la personnalisation par l’utilisateur ainsi que la transmission aux dispositifs d’assistance.
+* a) lorsque le produit permet la communication, y compris la communication interpersonnelle, l’utilisation, la fourniture d’informations, la commande et l’orientation, ces fonctions sont disponibles au moyen de plusieurs canaux sensoriels, notamment en proposant des solutions de substitution à la vision, à l’audition, à la parole et au toucher;
+* b) lorsque le produit utilise la parole, des solutions de substitution à la parole et à l’intervention vocale sont proposées pour la communication, l’utilisation, la commande et l’orientation;
+* c) lorsque le produit utilise des éléments visuels, des fonctions flexibles d’agrandissement, de réglage de la luminosité et de contraste sont proposées pour la communication, la fourniture d’informations et l’utilisation et il est veillé à l’interopérabilité avec des programmes et des dispositifs d’assistance pour explorer l’interface;
+* d) lorsque le produit utilise des couleurs pour transmettre des informations, indiquer une action, demander une réponse ou signaler des éléments, une solution de substitution à la couleur est proposée;
+* e) lorsque le produit utilise des signaux auditifs pour transmettre des informations, indiquer une action, demander une réponse ou signaler des éléments, une solution de substitution aux signaux auditifs est proposée;
+* f) lorsque le produit utilise des éléments visuels, des fonctions flexibles sont proposées pour améliorer la clarté visuelle;
+* g) lorsque le produit utilise des sons, une fonction de réglage du volume et de la vitesse est proposée, ainsi que des caractéristiques audio avancées, notamment de réduction des interférences provenant de produits proches et de clarté auditive;
+* h) lorsque le produit nécessite une utilisation et une commande manuelles, une commande séquentielle et des possibilités de commande autres que fondées sur la motricité fine sont proposées, en évitant que des commandes simultanées soient nécessaires pour la manipulation, et des éléments perceptibles au toucher sont disponibles;
+* i) le produit est conçu pour éviter les modes de fonctionnement exigeant une forte amplitude de mouvements et une grande force;
+* j) le produit est conçu pour éviter le déclenchement de réactions photosensibles;
+* k) le produit préserve la vie privée de l’utilisateur lors de son utilisation des caractéristiques d’accessibilité;
+* l) le produit offre une solution de substitution à l’identification et à la commande biométriques;
+* m) le produit garantit la cohérence des fonctionnalités et prévoit un laps de temps suffisant et flexible pour l’interaction;
+* n) le produit prévoit un interfaçage logiciel et matériel avec les technologies d’assistance;
+* o) le produit satisfait aux exigences sectorielles suivantes:
+* i) les terminaux en libre-service:
+* — intègrent une technologie de synthèse vocale de texte,
+* — permettent l’utilisation d’un casque personnel,
+* — lorsque le temps de réponse est limité, transmettent à l’utilisateur un signal par l’intermédiaire de plusieurs canaux sensoriels,
+* — donnent la possibilité de prolonger le temps de réponse,
+* — lorsque des touches et boutons de commande sont disponibles, présentent un contraste suffisant et des touches et boutons de commande perceptibles au toucher,
+* — n’exigent pas, pour qu’un utilisateur puisse s’en servir, qu’une caractéristique d’accessibilité soit activée,
+* — lorsque le produit utilise des signaux audio ou auditifs, il est compatible avec des dispositifs et technologies d’assistance disponibles au niveau de l’Union, y compris des technologies auditives, telles que des appareils auditifs, boucles auditives, implants cochléaires et dispositifs d’aide à l’audition;
+* ii) les liseuses numériques intègrent une technologie de synthèse vocale de texte;
+* iii) les équipements terminaux grand public avec des capacités informatiques interactives utilisés pour la fourniture de services de communications électroniques:
+* — permettent, lorsqu’ils ont des capacités textuelles en complément des capacités vocales, le traitement de texte en temps réel, et supportent un son haute fidélité,
+* — permettent, lorsqu’ils ont des capacités vidéo en complément du texte et de la voix ou en association avec ces deux canaux, l’utilisation de la conversation totale, y compris la synchronisation vocale, le texte en temps réel et la vidéo avec une résolution permettant une communication en langue des signes,
+* — assurent une connexion sans fil efficace aux technologies auditives,
+* — évitent les interférences avec les dispositifs d’assistance;
+* iv) les équipements terminaux grand public avec des capacités informatiques interactives utilisés pour accéder à des services de médias audiovisuels mettent à disposition des personnes handicapées les éléments en matière d’accessibilité fournis par le prestataire de services de médias audiovisuels en ce qui concerne l’accès, la sélection, la commande et la personnalisation par l’utilisateur ainsi que la transmission aux dispositifs d’assistance.
 
 <h6> 3. Services d’assistance:</h6>
 
@@ -1202,14 +1202,14 @@ Exigences en matière d’accessibilité liées aux produits visés à l’artic
 
 Outre les exigences de la section I, afin de garantir une utilisation prévisible optimale par les personnes handicapées, les emballages des produits relevant de la présente section et les instructions doivent être rendus accessibles. Cela signifie que:
 
--   a. l’emballage du produit, y compris les informations contenues dans celui-ci (par exemple concernant l’ouverture, la fermeture, l’utilisation, l’élimination), notamment, le cas échéant, les informations sur les caractéristiques du produit en matière d’accessibilité, est rendu accessible; et, dans la mesure du possible, ces informations accessibles sont mentionnées sur l’emballage;
--   b. les instructions concernant l’installation, l’entretien, le stockage et l’élimination du produit qui ne sont pas fournies sur le produit lui-même, mais sont disponibles par d’autres moyens comme un site internet, sont mises à la disposition du public lorsque le produit est mis sur le marché et sont conformes aux exigences suivantes:
--   i. elles sont disponibles au moyen de plusieurs canaux sensoriels;
--   ii. elles sont présentées de façon compréhensible;
--   iii. elles sont présentées aux utilisateurs de manière à ce qu’ils les perçoivent;
--   iv. elles sont présentées en utilisant une police de caractères de taille et de forme appropriées compte tenu des conditions d’utilisation prévisibles, ainsi qu’un contraste suffisant, et ménagent un espace ajustable entre les lettres, les lignes et les paragraphes;
--   v. leur contenu est disponible dans des formats texte permettant de générer d’autres formats auxiliaires pouvant être présentés de différentes manières et par l’intermédiaire de plusieurs canaux sensoriels; et
--   vi. elles sont accompagnées d’une présentation de substitution du contenu lorsqu’elles contiennent du contenu non textuel.
+* a. l’emballage du produit, y compris les informations contenues dans celui-ci (par exemple concernant l’ouverture, la fermeture, l’utilisation, l’élimination), notamment, le cas échéant, les informations sur les caractéristiques du produit en matière d’accessibilité, est rendu accessible; et, dans la mesure du possible, ces informations accessibles sont mentionnées sur l’emballage;
+* b. les instructions concernant l’installation, l’entretien, le stockage et l’élimination du produit qui ne sont pas fournies sur le produit lui-même, mais sont disponibles par d’autres moyens comme un site internet, sont mises à la disposition du public lorsque le produit est mis sur le marché et sont conformes aux exigences suivantes:
+* i. elles sont disponibles au moyen de plusieurs canaux sensoriels;
+* ii. elles sont présentées de façon compréhensible;
+* iii. elles sont présentées aux utilisateurs de manière à ce qu’ils les perçoivent;
+* iv. elles sont présentées en utilisant une police de caractères de taille et de forme appropriées compte tenu des conditions d’utilisation prévisibles, ainsi qu’un contraste suffisant, et ménagent un espace ajustable entre les lettres, les lignes et les paragraphes;
+* v. leur contenu est disponible dans des formats texte permettant de générer d’autres formats auxiliaires pouvant être présentés de différentes manières et par l’intermédiaire de plusieurs canaux sensoriels; et
+* vi. elles sont accompagnées d’une présentation de substitution du contenu lorsqu’elles contiennent du contenu non textuel.
 
 <h5 class="expanded">Section III</h5>
 
@@ -1217,47 +1217,47 @@ Exigences générales en matière d’accessibilité liées à tous les services
 
 Afin de garantir une utilisation prévisible optimale par les personnes handicapées, les services proposés doivent être conformes aux exigences suivantes:
 
--   a. veiller à ce que les produits utilisés dans la fourniture du service soient accessibles, conformément à la section I et, le cas échéant, à la section II;
--   b. fournir des informations sur le fonctionnement du service et, lorsque des produits sont utilisés dans la fourniture du service, sur son lien avec ces produits, ainsi que des informations sur leurs caractéristiques en matière d’accessibilité et sur leur interopérabilité avec des dispositifs et fonctionnalités d’assistance:
-    -   i. en mettant à disposition les informations au moyen de plusieurs canaux sensoriels;
-    -   ii. en présentant les informations de façon compréhensible;
-    -   iii. en présentant les informations aux utilisateurs de manière à ce qu’ils les perçoivent;
-    -   iv. en mettant à disposition le contenu informatif dans des formats texte permettant de générer d’autres formats auxiliaires pouvant être présentés de différentes manières par les utilisateurs et par l’intermédiaire de plusieurs canaux sensoriels;
-    -   v. en utilisant une police de caractères de taille et de forme appropriées compte tenu des conditions d’utilisation prévisibles, ainsi qu’un contraste suffisant, et en ménageant un espace ajustable entre les lettres, les lignes et les paragraphes;
-    -   vi. en accompagnant tout contenu non textuel d’une présentation de substitution dudit contenu; et
-    -   vii. en fournissant les informations électroniques nécessaires à la fourniture du service d’une manière cohérente et adéquate en les rendant perceptibles, utilisables, compréhensibles et robustes;
--   c. rendre les sites internet, y compris les applications en ligne connexes, et les services intégrés sur appareils mobiles, y compris les applications mobiles, accessibles d’une manière cohérente et appropriée en les rendant perceptibles, utilisables, compréhensibles et robustes;
--   d. le cas échéant, veiller à ce que les services d’assistance (services d’aide, centres d’appel, assistance technique, services de relais et services de formation) fournissent des informations sur l’accessibilité du service et sur sa compatibilité avec les technologies d’assistance, via des modes de communication accessibles.
+* a. veiller à ce que les produits utilisés dans la fourniture du service soient accessibles, conformément à la section I et, le cas échéant, à la section II;
+* b. fournir des informations sur le fonctionnement du service et, lorsque des produits sont utilisés dans la fourniture du service, sur son lien avec ces produits, ainsi que des informations sur leurs caractéristiques en matière d’accessibilité et sur leur interopérabilité avec des dispositifs et fonctionnalités d’assistance:
+    * i. en mettant à disposition les informations au moyen de plusieurs canaux sensoriels;
+    * ii. en présentant les informations de façon compréhensible;
+    * iii. en présentant les informations aux utilisateurs de manière à ce qu’ils les perçoivent;
+    * iv. en mettant à disposition le contenu informatif dans des formats texte permettant de générer d’autres formats auxiliaires pouvant être présentés de différentes manières par les utilisateurs et par l’intermédiaire de plusieurs canaux sensoriels;
+    * v. en utilisant une police de caractères de taille et de forme appropriées compte tenu des conditions d’utilisation prévisibles, ainsi qu’un contraste suffisant, et en ménageant un espace ajustable entre les lettres, les lignes et les paragraphes;
+    * vi. en accompagnant tout contenu non textuel d’une présentation de substitution dudit contenu; et
+    * vii. en fournissant les informations électroniques nécessaires à la fourniture du service d’une manière cohérente et adéquate en les rendant perceptibles, utilisables, compréhensibles et robustes;
+* c. rendre les sites internet, y compris les applications en ligne connexes, et les services intégrés sur appareils mobiles, y compris les applications mobiles, accessibles d’une manière cohérente et appropriée en les rendant perceptibles, utilisables, compréhensibles et robustes;
+* d. le cas échéant, veiller à ce que les services d’assistance (services d’aide, centres d’appel, assistance technique, services de relais et services de formation) fournissent des informations sur l’accessibilité du service et sur sa compatibilité avec les technologies d’assistance, via des modes de communication accessibles.
 
 <h5 class="expanded">Section IV. Exigences supplémentaires en matière d’accessibilité liées à des services spécifiques</h5>
 
 Afin de garantir une utilisation prévisible optimale par les personnes handicapées, les services proposés doivent inclure des fonctions, des pratiques, des stratégies et des procédures ainsi que des modifications du fonctionnement du service visant à répondre aux besoins des personnes handicapées et à garantir l’interopérabilité avec les technologies d’assistance, selon les modalités suivantes:
 
--   a. pour les services de communications électroniques, y compris les communications d’urgence visées à l’article 109, paragraphe 2, de la directive (UE) 2018/1972:
-    -   i. fournir du texte en temps réel en plus de la communication vocale;
-    -   ii. fournir la conversation totale lorsque de la vidéo est proposée en plus de la communication vocale;
-    -   iii. veiller à ce que les communications d’urgence utilisant la voix et du texte (y compris du texte en temps réel) soient synchronisées et, lorsque de la vidéo est proposée, qu’elles soient également synchronisées en mode conversation totale et transmises par les prestataires de services de communications électroniques au PSAP le plus approprié;
--   b. pour les services fournissant un accès à des services de médias audiovisuels:
+* a. pour les services de communications électroniques, y compris les communications d’urgence visées à l’article 109, paragraphe 2, de la directive (UE) 2018/1972:
+    * i. fournir du texte en temps réel en plus de la communication vocale;
+    * ii. fournir la conversation totale lorsque de la vidéo est proposée en plus de la communication vocale;
+    * iii. veiller à ce que les communications d’urgence utilisant la voix et du texte (y compris du texte en temps réel) soient synchronisées et, lorsque de la vidéo est proposée, qu’elles soient également synchronisées en mode conversation totale et transmises par les prestataires de services de communications électroniques au PSAP le plus approprié;
+* b. pour les services fournissant un accès à des services de médias audiovisuels:
     \*i. fournir des guides électroniques de programme perceptibles, utilisables, compréhensibles et robustes et fournir des informations sur la disponibilité des caractéristiques d’accessibilité;
-    -   ii. veiller à ce que les éléments d’accessibilité (services d’accès) des services de médias audiovisuels, tels que le sous-titrage pour les personnes sourdes ou malentendantes, l’audiodescription, le sous-titrage audio et l’interprétation en langue des signes, soient entièrement transmis avec une qualité appropriée à un affichage net et synchronisés avec le son et la vidéo, tout en permettant à l’utilisateur de régler leur affichage et leur utilisation;
--   c. pour les services de transport aérien, ferroviaire, par voie de navigation intérieure et par autobus de voyageurs et de passagers, à l’exception des services de transport urbains et suburbains et des services de transport régionaux:
+    * ii. veiller à ce que les éléments d’accessibilité (services d’accès) des services de médias audiovisuels, tels que le sous-titrage pour les personnes sourdes ou malentendantes, l’audiodescription, le sous-titrage audio et l’interprétation en langue des signes, soient entièrement transmis avec une qualité appropriée à un affichage net et synchronisés avec le son et la vidéo, tout en permettant à l’utilisateur de régler leur affichage et leur utilisation;
+* c. pour les services de transport aérien, ferroviaire, par voie de navigation intérieure et par autobus de voyageurs et de passagers, à l’exception des services de transport urbains et suburbains et des services de transport régionaux:
     i. veiller à fournir des informations sur l’accessibilité des véhicules, des infrastructures avoisinantes et de l’environnement bâti ainsi que sur l’assistance pour les personnes handicapées;
-    -   ii. veiller à fournir des informations sur les systèmes de billetterie intelligents (réservation électronique, réservation de billets, etc.) ou la communication d’informations en temps réel sur le voyage (horaires, informations relatives aux perturbations du trafic, services de liaison, connexion avec d’autres modes de transport, etc.) et d’informations supplémentaires concernant le service (par exemple sur le personnel présent en gare, les ascenseurs hors service ou les services momentanément indisponibles);
--   d. pour les services de transport urbains et suburbains et les services de transport régionaux: veiller à ce que les terminaux en libre-service utilisés pour la fourniture du service soient accessibles, conformément à la section I;
--   e. pour les services bancaires aux consommateurs:
+    * ii. veiller à fournir des informations sur les systèmes de billetterie intelligents (réservation électronique, réservation de billets, etc.) ou la communication d’informations en temps réel sur le voyage (horaires, informations relatives aux perturbations du trafic, services de liaison, connexion avec d’autres modes de transport, etc.) et d’informations supplémentaires concernant le service (par exemple sur le personnel présent en gare, les ascenseurs hors service ou les services momentanément indisponibles);
+* d. pour les services de transport urbains et suburbains et les services de transport régionaux: veiller à ce que les terminaux en libre-service utilisés pour la fourniture du service soient accessibles, conformément à la section I;
+* e. pour les services bancaires aux consommateurs:
     i. fournir des méthodes d’identification, des signatures électroniques et des services de sécurité et de paiement perceptibles, utilisables, compréhensibles et robustes;
-    -   ii. veiller à ce que les informations soient compréhensibles, sans dépasser un niveau de complexité supérieur au niveau B2 (avancé) du cadre européen commun de référence pour les langues du Conseil de l’Europe;
--   f. pour les livres numériques:
-    -   i. veiller à ce qu’un livre numérique contenant des éléments audio en plus du texte fournisse des contenus textuels et audio synchronisés;
-    -   ii. veiller à ce que les fichiers numériques n’empêchent pas les technologies d’assistance de fonctionner correctement;
-    -   iii. garantir l’accès au contenu, la navigation dans le contenu et dans la mise en page du fichier, y compris la mise en page dynamique, la mise à disposition de la structure du fichier, la flexibilité et le choix de la présentation du contenu;
-    -   iv. permettre des restitutions alternatives du contenu et son interopérabilité avec diverses technologies d’assistance, de manière à ce qu’il soit perceptible, utilisable, compréhensible et robuste;
-    -   v. permettre la découverte en fournissant des informations, via les métadonnées, sur les caractéristiques d’accessibilité;
-    -   vi. s’assurer que les mesures de gestion des droits numériques ne bloquent pas les caractéristiques d’accessibilité;
--   g. pour les services de commerce électronique:
-    -   i. fournir les informations relatives à l’accessibilité des produits et services mis en vente lorsque ces informations sont fournies par l’opérateur économique responsable;
-    -   ii. veiller à l’accessibilité des fonctionnalités relatives à l’identification, à la sécurité et au paiement lorsqu’elles sont fournies en tant qu’éléments d’un service plutôt que d’un produit, en les rendant perceptibles, utilisables, compréhensibles et robustes;
-    -   iii. fournir des méthodes d’identification, des signatures électroniques et des services de paiement perceptibles, utilisables, compréhensibles et robustes.
+    * ii. veiller à ce que les informations soient compréhensibles, sans dépasser un niveau de complexité supérieur au niveau B2 (avancé) du cadre européen commun de référence pour les langues du Conseil de l’Europe;
+* f. pour les livres numériques:
+    * i. veiller à ce qu’un livre numérique contenant des éléments audio en plus du texte fournisse des contenus textuels et audio synchronisés;
+    * ii. veiller à ce que les fichiers numériques n’empêchent pas les technologies d’assistance de fonctionner correctement;
+    * iii. garantir l’accès au contenu, la navigation dans le contenu et dans la mise en page du fichier, y compris la mise en page dynamique, la mise à disposition de la structure du fichier, la flexibilité et le choix de la présentation du contenu;
+    * iv. permettre des restitutions alternatives du contenu et son interopérabilité avec diverses technologies d’assistance, de manière à ce qu’il soit perceptible, utilisable, compréhensible et robuste;
+    * v. permettre la découverte en fournissant des informations, via les métadonnées, sur les caractéristiques d’accessibilité;
+    * vi. s’assurer que les mesures de gestion des droits numériques ne bloquent pas les caractéristiques d’accessibilité;
+* g. pour les services de commerce électronique:
+    * i. fournir les informations relatives à l’accessibilité des produits et services mis en vente lorsque ces informations sont fournies par l’opérateur économique responsable;
+    * ii. veiller à l’accessibilité des fonctionnalités relatives à l’identification, à la sécurité et au paiement lorsqu’elles sont fournies en tant qu’éléments d’un service plutôt que d’un produit, en les rendant perceptibles, utilisables, compréhensibles et robustes;
+    * iii. fournir des méthodes d’identification, des signatures électroniques et des services de paiement perceptibles, utilisables, compréhensibles et robustes.
 
 <h5 class="expanded">Section V. Exigences spécifiques en matière d’accessibilité liées à la réception, par le PSAP le plus approprié, des communications d’urgence dirigées vers le numéro d’urgence unique européen «112»</h5>
 
@@ -1271,9 +1271,9 @@ Pour qu’il soit présumé que les obligations pertinentes énoncées dans d’
 
 <h6> 1. Produits:</h6>
 
--   a. L’accessibilité des informations relatives au fonctionnement et aux caractéristiques d’accessibilité liées aux produits est conforme aux éléments correspondants figurant à la section I, point 1, de la présente annexe, à savoir les informations sur l’utilisation du produit figurant sur le produit lui-même et les instructions concernant l’utilisation du produit qui ne sont pas fournies sur le produit lui-même, mais sont disponibles lors de l’utilisation du produit ou par d’autres moyens comme un site internet.
--   b. L’accessibilité des caractéristiques, éléments et fonctions de la conception de l’interface utilisateur et des fonctionnalités des produits est conforme aux exigences en matière d’accessibilité correspondantes énoncées à la section I, point 2, de la présente annexe.
--   c. L’accessibilité de l’emballage, y compris les informations contenues dans celui-ci, et des instructions concernant l’installation, l’entretien, le stockage et l’élimination du produit qui ne sont pas fournies sur le produit lui-même, mais sont disponibles par d’autres moyens comme un site internet, sauf en ce qui concerne les terminaux en libre-service, est conforme aux exigences en matière d’accessibilité correspondantes énoncées à la section II de la présente annexe.
+* a. L’accessibilité des informations relatives au fonctionnement et aux caractéristiques d’accessibilité liées aux produits est conforme aux éléments correspondants figurant à la section I, point 1, de la présente annexe, à savoir les informations sur l’utilisation du produit figurant sur le produit lui-même et les instructions concernant l’utilisation du produit qui ne sont pas fournies sur le produit lui-même, mais sont disponibles lors de l’utilisation du produit ou par d’autres moyens comme un site internet.
+* b. L’accessibilité des caractéristiques, éléments et fonctions de la conception de l’interface utilisateur et des fonctionnalités des produits est conforme aux exigences en matière d’accessibilité correspondantes énoncées à la section I, point 2, de la présente annexe.
+* c. L’accessibilité de l’emballage, y compris les informations contenues dans celui-ci, et des instructions concernant l’installation, l’entretien, le stockage et l’élimination du produit qui ne sont pas fournies sur le produit lui-même, mais sont disponibles par d’autres moyens comme un site internet, sauf en ce qui concerne les terminaux en libre-service, est conforme aux exigences en matière d’accessibilité correspondantes énoncées à la section II de la présente annexe.
 
 <h6>2. Services:</h6>
 
@@ -1311,7 +1311,7 @@ Lorsque les exigences en matière d’accessibilité comportent des exigences te
 </ul>
 <hr class="doc-sep"/>
 
-<article id="L_2019151FR.01010701">
+<article markdown="1" id="L_2019151FR.01010701">
 <h4 class="doc-ti" id="d1e32-107-1">ANNEXE II</h4>
 <p class="ti-tbl" id="d1e38-107-1-table">
 <span class="bold">EXEMPLES INDICATIFS NON CONTRAIGNANTS DE SOLUTIONS POSSIBLES CONTRIBUANT À RESPECTER LES EXIGENCES EN MATIÈRE D’ACCESSIBILITÉ ÉNONCÉES À L’ANNEXE I</span>
@@ -1509,7 +1509,7 @@ Lorsque les exigences en matière d’accessibilité comportent des exigences te
 <li>iii. Faire en sorte que les dialogues d’identification soient lisibles au moyen d’un logiciel de lecture d’écran, pour que les personnes aveugles puissent les utiliser.</p>
 </article>
 <hr class="doc-sep">
-<article id="L_2019151FR.01011201">
+<article markdown="1" id="L_2019151FR.01011201">
 <h4 class="doc-ti" id="d1e32-112-1">ANNEXE III</h4>
 <p>
 <span class="bold">EXIGENCES EN MATIÈRE D’ACCESSIBILITÉ AUX FINS DE L’ARTICLE 4, PARAGRAPHE 4, EN CE QUI CONCERNE L’ENVIRONNEMENT BÂTI À L’ENDROIT OÙ LES SERVICES RELEVANT DE LA PRÉSENTE DIRECTIVE SONT FOURNIS</span>
@@ -1530,7 +1530,7 @@ Lorsque les exigences en matière d’accessibilité comportent des exigences te
 <li id="l">l. protection contre les dangers émanant de l’environnement intérieur et extérieur.</li>
 </article>
 <hr class="doc-sep">
-<article id="L_2019151FR.01011301">
+<article markdown="1" id="L_2019151FR.01011301">
 <h4 class="doc-ti" id="d1e32-113-1">ANNEXE IV<span class="bold">PROCÉDURES D’ÉVALUATION DE LA CONFORMITÉ — PRODUITS</span>
 </h4>
 <p class="ti-grseq-1" id="d1e44-113-1">1. Contrôle interne de la fabrication</p>
@@ -1561,7 +1561,7 @@ Lorsque les exigences en matière d’accessibilité comportent des exigences te
 </article>
 </article>
 <hr class="doc-sep">
-<article id="L_2019151FR.01011401">
+<article markdown="1" id="L_2019151FR.01011401">
 <h4 class="doc-ti" id="d1e32-114-1">ANNEXE V <span class="bold">INFORMATIONS SUR LES SERVICES CONFORMES AUX EXIGENCES EN MATIÈRE D’ACCESSIBILITÉ</span>
 </h4>
 <span>Le prestataire de services inclut les informations évaluant la façon dont le service respecte les exigences en matière d’accessibilité visées à l’article 4 dans les clauses et conditions générales ou dans un document équivalent. Ces informations décrivent les exigences applicables et portent, dans la mesure nécessaire à l’évaluation, sur la conception et le fonctionnement du service. Outre l’information du consommateur exigée en vertu de la directive 2011/83/UE, cette documentation comporte, le cas échéant, les éléments suivants:</span>
@@ -1582,7 +1582,7 @@ Lorsque les exigences en matière d’accessibilité comportent des exigences te
 
 <hr class="doc-sep"/>
 
-<article id="L_2019151FR.01011501">
+<article id="L_2019151FR.01011501" markdown="1">
 
 <h4 class="doc-ti" id="d1e32-115-1">ANNEXE VI <span class="bold">CRITÈRES D’ÉVALUATION DU CARACTÈRE DISPROPORTIONNÉ DE LA CHARGE</span>
 </h4>
@@ -1595,18 +1595,18 @@ Critères pour l’évaluation et preuves à apporter à l’appui de cette éva
 
 <h6>a. critères liés à des coûts organisationnels ponctuels à prendre en considération dans l’évaluation:</h6>
 
--   i. coûts liés à des ressources humaines supplémentaires spécialisées dans les questions d’accessibilité;
--   ii. coûts liés à la formation des ressources humaines et à l’acquisition de compétences en matière d’accessibilité;
--   iii. coûts liés à la mise au point d’un nouveau procédé pour inclure l’accessibilité dans le développement de produits ou la prestation de services;
--   iv. coûts liés à la mise au point d’orientations concernant l’accessibilité;
--   coûts ponctuels liés à l’examen de la législation sur l’accessibilité;
+* i. coûts liés à des ressources humaines supplémentaires spécialisées dans les questions d’accessibilité;
+* ii. coûts liés à la formation des ressources humaines et à l’acquisition de compétences en matière d’accessibilité;
+* iii. coûts liés à la mise au point d’un nouveau procédé pour inclure l’accessibilité dans le développement de produits ou la prestation de services;
+* iv. coûts liés à la mise au point d’orientations concernant l’accessibilité;
+* coûts ponctuels liés à l’examen de la législation sur l’accessibilité;
 
 <h6>b. critères liés aux coûts récurrents de développement et de production à prendre en considération dans l’évaluation:</h6>
 
--   i. coûts liés à la conception des caractéristiques d’accessibilité pour le produit ou le service;
--   ii. coûts supportés dans le cadre des procédés de fabrication;
--   iii. coûts liés aux essais d’accessibilité concernant le produit ou le service;
--   iv. coûts liés à l’établissement de la documentation.
+* i. coûts liés à la conception des caractéristiques d’accessibilité pour le produit ou le service;
+* ii. coûts supportés dans le cadre des procédés de fabrication;
+* iii. coûts liés aux essais d’accessibilité concernant le produit ou le service;
+* iv. coûts liés à l’établissement de la documentation.
 
 <h5>2. Estimation des coûts et des avantages pour les opérateurs économiques, y compris en ce qui concerne les processus de production et les investissements, par rapport à l’avantage estimé pour les personnes handicapées, compte tenu de la quantité et de la fréquence d’utilisation d’un produit ou d’un service spécifique.</h5>
 
@@ -1616,18 +1616,18 @@ Critères pour l’évaluation et preuves à apporter à l’appui de cette éva
 
 <h6> a. critères liés à des coûts organisationnels ponctuels à prendre en considération dans l’évaluation:</h6>
 
--   i. coûts liés à des ressources humaines supplémentaires spécialisées dans les questions d’accessibilité;
--   ii. coûts liés à la formation des ressources humaines et à l’acquisition de compétences en matière d’accessibilité;
--   iii. coûts liés à la mise au point d’un nouveau procédé pour inclure l’accessibilité dans le développement de produits ou la prestation de services;
--   iv . coûts liés à la mise au point d’orientations concernant l’accessibilité;
--   v. coûts ponctuels liés à l’examen de la législation sur l’accessibilité;
+* i. coûts liés à des ressources humaines supplémentaires spécialisées dans les questions d’accessibilité;
+* ii. coûts liés à la formation des ressources humaines et à l’acquisition de compétences en matière d’accessibilité;
+* iii. coûts liés à la mise au point d’un nouveau procédé pour inclure l’accessibilité dans le développement de produits ou la prestation de services;
+* iv . coûts liés à la mise au point d’orientations concernant l’accessibilité;
+* v. coûts ponctuels liés à l’examen de la législation sur l’accessibilité;
 
 <h6> b. critères liés aux coûts récurrents de développement et de production à prendre en considération dans l’évaluation:</h6>
 
--   i. coûts liés à la conception des caractéristiques d’accessibilité pour le produit ou le service;
--   ii. coûts supportés dans le cadre des procédés de fabrication;
--   iii. coûts liés aux essais d’accessibilité concernant le produit ou le service;
--   iv. coûts liés à l’établissement de la documentation.
+* i. coûts liés à la conception des caractéristiques d’accessibilité pour le produit ou le service;
+* ii. coûts supportés dans le cadre des procédés de fabrication;
+* iii. coûts liés aux essais d’accessibilité concernant le produit ou le service;
+* iv. coûts liés à l’établissement de la documentation.
 
 </article>
 </details>
