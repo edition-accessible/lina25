@@ -1,22 +1,22 @@
 ---
 layout: document
 title: "Dictionnaire des métadonnées d'accessibilité"
-date:  6 mars 2023
-draft: 'true'
+date: 16 novembre 2023
 previous: ../pages/collecter.html
 titlePrev: Renseigner
 ---
 
-Les métadonnées d'accessibilité sont des informations supplémentaires que les éditeurs doivent renseigner lorsqu'ils établissent la fiche d'information de leur ouvrage. 
+Les métadonnées d'accessibilité sont des informations que les éditeurs doivent renseigner lorsqu'ils établissent la fiche d'information de leur ouvrage. 
 
 Elles viennent compléter les informations bibliographiques et commerciales qui peuvent être établies dans un fichier excel ou le back office d'un système de gestion des publications et peuvent être complétées et enrichies par des prestataires de services de diffusion ou de distribution.
 
 Cette page a pour objectif de fournir un référentiel compréhensible permettant aux différents acteurs confrontés à cette activité de renseigner des informations fiables et complètes. 
 
 Les informations indiquées ici sont relatives à ONIX. Des tableaux de correspondance permettent de les transposer en UNIMARC et MARC21.
+
 ### Modes de lecture
 
-*Les codes ONIX reflètent actuellement mal les modes de lecture. Des demandes d'évolutions ont été formulées et devraient apparaitre dans les prochaines révisions.*
+*Les codes ONIX concernant les modes de lecture sont apparus depuis la révision 63.*
 
 ### Lecture non visuelle
 
@@ -32,8 +32,7 @@ Cas d'usage : lorsque vous activez la fonction lecture audio de votre liseuse, l
 </ul>
 </details>
 
-ONIX&#8239;: demande d'évolution en cours de discussion.
-
+<a href="https://ns.editeur.org/onix/fr/196/52">ONIX 196-52 : Tout contenu non décoratif accessible aux utilisateurs privés de la vue</a>
 
 ### Modifier l’aspect du texte et la mise en page 
 
@@ -44,6 +43,8 @@ ONIX&#8239;: demande d'évolution en cours de discussion.
 <li>Définition : Lors de sa lecture, la mise en forme du fichier est adaptée aux besoins de l’utilisateur (taille adaptée à l’écran, police, taille de la police, espacements, etc.) en fonction des possibilités du logiciel de lecture.</li>	<li>Précisions : cela concerne les livres numériques au format EPUB (quand la mise en page n’est pas fixe), Kindle, Books ou HTML.</li>
 </ul>
 </details>
+
+<a href="https://ns.editeur.org/onix/fr/196/36"> ONIX 196-36 : Tout le contenu textuel peut être modifié</a>
 
 ### Conserver l'aspect du texte et la mise en page 
 
@@ -56,7 +57,8 @@ ONIX&#8239;: demande d'évolution en cours de discussion.
 </ul>
 </details>
 
-ONIX&#8239;: demande d'évolution en cours de discussion.
+<a href="https://ns.editeur.org/onix/fr/175/E201">
+ONIX 175 - E201 : Format fixe</a>
 
 
 ### Livres audio accessibles
@@ -69,11 +71,11 @@ ONIX&#8239;: demande d'évolution en cours de discussion.
 </ul>
 </details>
 
-ONIX&#8239;: demande d'évolution en cours de discussion.
+<a href="https://ns.editeur.org/onix/fr/196/39">196 - 39 : Accessibilité d’un matériel complémentaire à un livre audio</a>
 
-<!-- ### Autres modes de lecture
+ ### Autres modes de lecture
 
-Il existe des livres imprimés ne peuvent prétendre à une accessibilité universelle, à moins d'être livrés en différentes versions dans une même édition. Cependant certaines éditions spécialisées peuvent répondre à des besoins spécifiques. 
+Il existe des livres imprimés qui ne peuvent prétendre à une accessibilité universelle, à moins d'être livrés en différentes versions dans une même édition. Cependant certaines éditions spécialisées peuvent répondre à des besoins spécifiques. 
 
 ONIX permet d'informer sur ces éditions. Si la liste 196 est dédiée à l'accessibilité numérique, la <a href="https://ns.editeur.org/onix/fr/21">liste 21</a> permet d'indiquer un type d'édition particulier. On retiendra en particulier :
 
@@ -84,7 +86,7 @@ ONIX permet d'informer sur ces éditions. Si la liste 196 est dédiée à l'acce
    <li><a href="https://ns.editeur.org/onix/fr/21/LTE">21:LTE Édition en grands caractères</a></li>
    <li><a href="https://ns.editeur.org/onix/fr/21/ULP">21:ULP Édition en très gros caractères</a></li>
 </ul>
-    <p>Les libellés peuvent être utilisés tels que proposés par ONIX.</p> -->
+    <p>Les libellés peuvent être utilisés tels que proposés par ONIX.</p> 
 
 ### Navigation
 
