@@ -976,7 +976,7 @@ Exigences en matière d’accessibilité</h3>
 </section>
 
 <hr class="note"/>
-<aside>
+<section>
 <details>
  <summary>Notes</summary>
  <p class="note">
@@ -1123,7 +1123,7 @@ Exigences en matière d’accessibilité</h3>
 </a> Directive 2014/23/UE du Parlement européen et du Conseil du 26 février 2014 sur l’attribution de contrats de concession (<a href="https://eur-lex.europa.eu/legal-content/FR/AUTO/?uri=OJ:L:2014:094:TOC">JO L 94 du 28.3.2014, p. 1</a>). </p>
 
 </details>
-</aside>
+</section>
 <hr class="doc-sep"/>
 
 <section id="L_2019151FR.01010001" markdown="1">

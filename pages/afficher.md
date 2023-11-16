@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Afficher
+date: 6 mars 2023
 subtitle: une expérience de lecture riche
 orientation: permettre aux lecteurs d’exploiter les fonctionnalités d’accessibilité des livres numériques
 audience: développeurs d'outils de lecture

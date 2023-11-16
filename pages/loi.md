@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ce que dit
+date: 16 novembre 2023
 subtitle: la loi
 orientation: appréhender les cadres juridiques européen et national en termes d’accessibilité du livre numérique
 audience: tous les métiers du livre
@@ -96,7 +97,7 @@ Ce dispositif permet à des organismes habilités d’adapter toute œuvre de l�
 du ministère de la culture.</p>
 
 <hr/>
-<aside>
+<section>
   <h3 id="notes">Notes</h3>
   <ol class="nbp">
     <li id="fn:1" role="doc-endnote">
@@ -116,7 +117,7 @@ du ministère de la culture.</p>
       <p>L’article 3 définit le livre numérique et le logiciel spécialisé comme « un service consistant à fournir des fichiers numériques transmettant une version électronique d’un livre, auquel l’utilisateur peut avoir accès, dans lequel il peut naviguer et qu’il peut lire et utiliser, ainsi que le logiciel, y compris les services intégrés sur appareils mobiles, y compris les applications mobiles, spécialisé pour l’accès à ces fichiers numériques, la navigation à l’intérieur de ceux-ci, leur lecture et leur utilisation ».<a href="#fnref:5" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
-  </aside>
+  </section>
 </div>
 
 <section  class="ressources" markdown="1">

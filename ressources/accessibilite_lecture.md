@@ -1,7 +1,7 @@
 ---
 layout: document
 title: "Tour d'horizon de l'accessibilité des systèmes de lecture"
-date: 2023-01-01
+date:  6 mars 2023
 draft: 'true'
 previous: ../pages/lire.html
 titlePrev: lire
