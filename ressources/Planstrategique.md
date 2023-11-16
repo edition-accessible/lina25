@@ -1,5 +1,6 @@
 ---
 layout: document
+date:  6 janvier 2023
 title: "Plan stratégique du comité de pilotage interministériel pour le
 développement d’une offre de livres numériques accessibles aux
 personnes en situation de handicap"
