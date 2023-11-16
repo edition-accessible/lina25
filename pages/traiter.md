@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Traiter
+date: 10 février 2023
 subtitle: le fonds
 orientation: éviter la disparition d’un grand nombre de livres numériques
 audience: services de production
