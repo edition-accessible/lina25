@@ -238,7 +238,7 @@ des personnes en situation de handicap.</p>
 du ministère de la culture.</p>
 
 <hr/>
-<aside>
+<section>
   <h3 id="notes">Notes</h3>
   <ol class="nbp">
     <li id="fn:1" role="doc-endnote">
@@ -296,7 +296,7 @@ livre V du code de la consommation. <a href="#fnref:7" class="reversefootnote" r
 car n’entreraient pas dans la définition des livres numériques <a href="#fnref:9" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
-  </aside>
+  </section>
 </div>
 
 <section  class="ressources" markdown="1">
