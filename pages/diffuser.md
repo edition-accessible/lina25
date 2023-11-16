@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Informer
-date: 6 mars 2023
+date: 16 novembre 2023
 subtitle: et conseiller au plus près des besoins
 orientation: informer le lecteur avant achat ou emprunt.
 audience: libraires et bibliothèques
@@ -73,17 +73,17 @@ Les deux solutions actuellement disponibles pour le chiffrement des fichiers son
 
 
 <ul>
-<li>
-<a href="https://www.w3.org/2021/09/UX-Guide-metadata-1.0/principles/" class="link color_orange" lang="en"><cite>User Experience Guide for Displaying Accessibility Metadata 1.0</cite></a></li>
-<li>
 
-<a href="https://edition-accessible.github.io/lina25/ressources/Informer" class="link color_orange" target="_self">Page de recommandations françaises (projet en cours)</a></li>
+<li>Projet 
+<a href="https://rawcdn.githack.com/w3c/publ-a11y/f7f9921cde19fd819683e9ea420482577f84088f/UX-Guide-Metadata/draft/principles/index.html#visual-adjustments" class="link color_orange" lang="en"><cite> User Experience Guide for Displaying Accessibility Metadata 2.0</cite> </a></li>
+<li>Obsoléte
+<a href="https://www.w3.org/2021/09/UX-Guide-metadata-1.0/principles/" class="link color_orange" lang="en"><cite> User Experience Guide for Displaying Accessibility Metadata 1.0</cite> </a></li>
+<li>Projet 
+<a href="https://edition-accessible.github.io/lina25/ressources/Informer" class="link color_orange" target="_self">Page de recommandations françaises </a></li>
+<li>En cours 
+<a href="https://edition-accessible.github.io/signalement/index.html" class="link color_orange">Le site compagnon de l'étude française </a></li>
 <li>
-
-<a href="https://edition-accessible.github.io/signalement/index.html" class="link color_orange">Le site compagnon de l'étude française (projet en cours)</a></li>
-<li>
-
-<a href="https://edition-accessible.github.io/signalement/vocabulaire.html" class="link color_orange">Les résultats de l'étude sur le vocabulaire (projet en cours)</a></li>
+<a href="https://edition-accessible.github.io/signalement/vocabulaire.html" class="link color_orange">Les résultats de l'étude sur le vocabulaire (2022)</a></li>
 </ul>
 
 ### Mesures techniques de protection (DRM)
