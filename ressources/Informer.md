@@ -53,16 +53,34 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
 <h3 id="accessibilité">Accessibilité</h3>
 
 * Si le code 196- 09 Inaccessible est présent, afficher&#8239;: <strong>Défauts d'accessibilité reconnus</strong>. 
-* Si aucune des informations n’est fournie, afficher&#8239;: <strong>Aucune information sur l’accessibilité n’est disponible</strong>.
+* Si aucune des informations n’est fournie, afficher&#8239;: <strong>Aucune information sur l’accessibilité n’est disponible</strong>. Il est conseillé de préciser les informations suivantes : 
+  * <em>peut ne pas être entièrement lisible en voix de synthèse et braille</em> ; 
+  * <em>les possibilités d'adaptation de l'affichage ne sont pas connue</em> ; 
+  * <em>aucune conformité déclarée</em>.
 * Si une ou plusieurs des informations ci-dessous sont présentes, elles devraient être regroupées sous un niveau de titre logique. L’intitulé de ce titre devrait être <strong>Accessibilité</strong> ou <strong>Informations d’accessibilité</strong>. Le pictogramme de l’homme de Vitruve pourra être utilisé en complément.
 
 <p>Chaque tableau indique une catégorie d'information qui peuvent être affichées sur une seule ligne ou regroupées sous l'intitulé correspondant. Les intitulés des catégories peuvent être repris ou omis.</p>
 <p>Les éléments d'importance forte devraient toujours être affichés et visibles sans action spécifique de l'utilisateur. Les autres éléments peuvent être masqués et disponibles seulement après action de l'utilisateur (élément détail, tooltip, popup ou lien vers une portion plus lointaine de la page web). Certains éléments peuvent ne pas être affichés si une conformité est déclarée.</p>
+
+<details>
+<summary>Note sur l'usage des pictogrammes</summary>
+<p>Les pictogrammes peuvent être des indicateurs visuels efficaces et peuvent faciliter l'accès à certains publics. Néanmoins plusieurs points d'attention sont à considérer lors de leur usage. La liste suivante relève les principaux, plus d'information sur l'usage des icônes à des fins d'accessibilité peut être trouvé sur les pages de règles supplémentaires aux WCAG du W3C : <a href="https://www.w3.org/WAI/WCAG2/supplemental/patterns/o1p07-icons-used/" lang ="en">Supplemental Guidance to WCAG 2 Cognitive Accessibility Design Pattern: Use Icons that Help the User</a>.
+
+* Chaque icône ou symbole doit avoir une signification unique et se trouver à côté du contenu auquel il se rapporte.
+*  Utilisez des icônes ou des symboles clairs et sans ambiguïté, faciles à voir et à agrandir.
+* Tenez compte des différences culturelles.
+* Dans le cas où les pictogrammes ne seraient pas utilisés en combinaison avec le texte, une page guide devra indiquer à quelle information correspond chaque pictogramme et le texte alternatif correspondant devra être apposé à chaque occurrence.  
+* À l'inverse, si le texte est toujours présent avec le pictogramme, celui-ci devra être considérer comme décoratif et comporter un argument alt vide ainsi qu'un argument role decoration.
+</p>
+
+<p></p>
+</details>
+
 <h4>Modes de lecture</h4>
 <table  class="zebra">
 <thead>
 <tr class="header">
-<th>Valeur affichée</th>
+<th>Texte à afficher</th>
 <th>Définition</th>
 <th>code ONIX</th>
 <th>En cas d’absence</th>
@@ -73,15 +91,15 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
 <tr class="even">
 <td>Texte et images disponibles en voix de synthèse et braille</td>
 <td>Le contenu nécessaire à la compréhension est entièrement restitué aux technologies d’assistance</td>
-<td>Pas actuellement exprimable en ONIX mais la <a href="https://ns.editeur.org/onix/fr/196/02">Spécifications d’accessibilité EPUB 1.0 A (Liste 196 Code 02)</a> ou <a href="https://ns.editeur.org/onix/fr/196/03">Spécifications d’accessibilité EPUB 1.0 AA (Liste 196 Code 03)</a> impliquent ce mode de lecture</td>
-<td>Ignorer</td>
+<td> <a href="https://ns.editeur.org/onix/fr/196/52">Liste 196 code 52 : Tout contenu non décoratif accessible aux utilisateurs privés de la vue</a>.</td>
+<td>Indiquer : <em>Peut ne pas être entièrement lisible en voix de synthèse et braille.</em></td>
 <td>forte</td>
 </tr>
 <tr class="odd">
 <td>Affichage adaptable</td>
 <td>L’aspect du texte et la mise en page peuvent-être modifiés selon les possibilitées offertes par le système de lecture</td>
-<td><a href="https://ns.editeur.org/onix/fr/175/E200">Liste 175 Code E200&#8239;: Redimensionnable</a> ou  <a href="https://ns.editeur.org/onix/fr/196/03">Spécifications d’accessibilité EPUB 1.0 AA (Liste 196 Code 03)</a></td>
-<td>ignorer</td>
+<td><a href="https://ns.editeur.org/onix/fr/196/36"> Liste 196 code 36 : Tout le contenu textuel peut être modifié</a></td>
+<td>Indiquer : <em>Les possibilités d'adaptation de l'affichage ne sont pas connues.</em> Ne rien indiquer en cas de présence de <a href="https://ns.editeur.org/onix/fr/175/E201">Liste 175 Code E201&#8239;: Format fixe.</a></td>
 <td>forte</td>
 </tr>
 <tr class="even">
@@ -98,6 +116,20 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
 <td>ignorer</td>
 <td>forte</td>
 </tr>
+<tr class="even">
+<td>Texte et audio complémentaires</td>
+<td>La publication comporte des fichiers audio (y compris des vidéos) en plus du texte. Les deux sont nécessaires à la compréhension de l'ouvrage.</td>
+<td><a href="https://ns.editeur.org/onix/fr/175/E201">Liste 175 Code E201&#8239;: Format fixe.</a></td>
+<td>ignorer</td>
+<td>forte</td>
+</tr>
+<tr class="odd">
+<td>Contenu audio intégral (présentation, index, notes)</td>
+<td>La totalité du contenu est disponible en audio (cela inclut toutes les informations comme le sommaire, le résumé, le temps de lecture et d’autres informations qui apparaissent généralement sur une image de couverture).</td>
+<td><a href="https://ns.editeur.org/onix/fr/196/28">Liste 196 Code 28&#8239;: Audio-description alternative complète</a></td>
+<td>ignorer</td>
+<td>forte</td>
+</tr>
 </tbody>
 </table>
 
@@ -106,7 +138,7 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
 <table  class="zebra">
 <thead>
 <tr class="header">
-<th>Valeur affichée</th>
+<th>Texte à afficher</th>
 <th>Définition</th>
 <th>code ONIX</th>
 <th>En cas d’absence</th>
@@ -153,7 +185,7 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
 <table class="zebra">
 <thead>
 <tr class="header">
-<th>Valeur affichée</th>
+<th>Texte à afficher</th>
 <th>Définition</th>
 <th>code ONIX</th>
 <th>En cas d’absence</th>
@@ -224,7 +256,7 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
 <table  class="zebra">
 <thead>
 <tr class="header">
-<th>Valeur affichée</th>
+<th>Texte à afficher</th>
 <th>Définition</th>
 <th>code ONIX</th>
 <th>En cas d’absence</th>
@@ -289,7 +321,7 @@ Ces informations de premier niveau constituent les fonctionnalités cruciales po
 
 <thead>
 <tr class="header">
-<th>Valeur affichée</th>
+<th>Texte à afficher</th>
 <th>Définition</th>
 <th>code ONIX</th>
 <th>En cas d’absence</th>

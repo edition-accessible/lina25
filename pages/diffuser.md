@@ -75,8 +75,8 @@ Les deux solutions actuellement disponibles pour le chiffrement des fichiers son
 <ul>
 
 <li>Projet 
-<a href="https://rawcdn.githack.com/w3c/publ-a11y/f7f9921cde19fd819683e9ea420482577f84088f/UX-Guide-Metadata/draft/principles/index.html#visual-adjustments" class="link color_orange" lang="en"><cite> User Experience Guide for Displaying Accessibility Metadata 2.0</cite> </a></li>
-<li>Obsoléte
+<a href="https://w3c.github.io/publ-a11y/UX-Guide-Metadata/draft/principles/" class="link color_orange" lang="en"><cite> User Experience Guide for Displaying Accessibility Metadata 2.0</cite> </a></li>
+<li>Obsolète
 <a href="https://www.w3.org/2021/09/UX-Guide-metadata-1.0/principles/" class="link color_orange" lang="en"><cite> User Experience Guide for Displaying Accessibility Metadata 1.0</cite> </a></li>
 <li>Projet 
 <a href="https://edition-accessible.github.io/lina25/ressources/Informer" class="link color_orange" target="_self">Page de recommandations françaises </a></li>
