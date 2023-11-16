@@ -313,4 +313,13 @@ car n’entreraient pas dans la définition des livres numériques <a href="#fnr
 </li>
 
 </ul>
+<h3>Ressources</h3>
+<ul>
+
+<li><a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047293285" class="link color_orange" target="_self">Article 48 de la Loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées</a></li>
+<li><a href="https://www.legifrance.gouv.fr/loda/id/JORFTEXT000047968744" class="link color_orange" target="_self">Décret n° 2023-778 du 14 août 2023 relatif à l'accessibilité aux personnes handicapées des livres numériques et logiciels nécessaires à leur utilisation</a></li>
+<li><a href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047984432?init=true&page=1&query=MICB2321805A&searchField=ALL&tab_selection=all" class="link color_orange" target="_self">Arrêté du 14 août 2023 relatif aux exigences d'accessibilité applicables aux livres numériques et logiciels spécialisés</a></li>
+
+</ul>
+
 </section>
