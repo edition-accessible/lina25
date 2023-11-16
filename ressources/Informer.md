@@ -64,16 +64,16 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
 
 <details>
 <summary>Note sur l'usage des pictogrammes</summary>
-<p>Les pictogrammes peuvent être des indicateurs visuels efficaces et peuvent faciliter l'accès à certains publics. Néanmoins plusieurs points d'attention sont à considérer lors de leur usage. La liste suivante relève les principaux, plus d'information sur l'usage des icônes à des fins d'accessibilité peut être trouvé sur les pages de règles supplémentaires aux WCAG du W3C : <a href="https://www.w3.org/WAI/WCAG2/supplemental/patterns/o1p07-icons-used/" lang ="en">Supplemental Guidance to WCAG 2 Cognitive Accessibility Design Pattern: Use Icons that Help the User</a>.
+<p>Les pictogrammes peuvent être des indicateurs visuels efficaces et peuvent faciliter l'accès à certains publics. Néanmoins plusieurs points d'attention sont à considérer lors de leur usage. La liste suivante relève les principaux, plus d'information sur l'usage des icônes à des fins d'accessibilité peut être trouvé sur les pages de règles supplémentaires aux WCAG du W3C : <a href="https://www.w3.org/WAI/WCAG2/supplemental/patterns/o1p07-icons-used/" lang ="en">Supplemental Guidance to WCAG 2 Cognitive Accessibility Design Pattern: Use Icons that Help the User</a>.</p>
 
-* Chaque icône ou symbole doit avoir une signification unique et se trouver à côté du contenu auquel il se rapporte.
-*  Utilisez des icônes ou des symboles clairs et sans ambiguïté, faciles à voir et à agrandir.
-* Tenez compte des différences culturelles.
-* Dans le cas où les pictogrammes ne seraient pas utilisés en combinaison avec le texte, une page guide devra indiquer à quelle information correspond chaque pictogramme et le texte alternatif correspondant devra être apposé à chaque occurrence.  
-* À l'inverse, si le texte est toujours présent avec le pictogramme, celui-ci devra être considérer comme décoratif et comporter un argument alt vide ainsi qu'un argument role decoration.
-</p>
+<ul>
+<li> Chaque icône ou symbole doit avoir une signification unique et se trouver à côté du contenu auquel il se rapporte.</li>
+<li>  Utilisez des icônes ou des symboles clairs et sans ambiguïté, faciles à voir et à agrandir.</li>
+<li> Tenez compte des différences culturelles.</li>
+<li> Dans le cas où les pictogrammes ne seraient pas utilisés en combinaison avec le texte, une page guide devra indiquer à quelle information correspond chaque pictogramme et le texte alternatif correspondant devra être apposé à chaque occurrence.  </li>
+<li> À l'inverse, si le texte est toujours présent avec le pictogramme, celui-ci devra être considérer comme décoratif et comporter un argument alt vide ainsi qu'un argument role decoration.</li>
+</ul>
 
-<p></p>
 </details>
 
 <h4>Modes de lecture</h4>
