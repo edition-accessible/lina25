@@ -70,9 +70,9 @@ Voici une liste non exhaustive des situations que vous pouvez rencontrer et auxq
 
 <li><a href="https://github.com/benetech/AccessibleImageSampleBook/blob/master/AccessibleImageSampleBookFrench/DIAGRAM_Image-Description-Guidelines_FR.epub?raw=true" class ="link color_orange"><cite>Comment décrire les images&#8239;?</cite> DIAGRAM Center&#8239;; NCAM&#8239;; Association BrailleNet (EPUB, 7.7 Mo) </a></li>
 
-<li class="link color_orange"><a href="https://diagramcenter.org" class ="color_orange" lang="en">Diagram Center <span lang="fr">(en anglais)</span></a></li>
+<li class="color_orange"><a href="http://diagramcenter.org/" class ="link color_orange" lang="en">Diagram Center <span lang="fr">(en anglais)</span></a></li>
 
-<li class="link color_orange"><a href="https://poet.diagramcenter.org/" class ="color_orange" lang="en">Poet training tool <span lang="fr">(en anglais)</span></a></li>
+<li class="color_orange"><a href="https://poet.diagramcenter.org/" class ="link color_orange" lang="en">Poet training tool <span lang="fr">(en anglais)</span></a></li>
 
 </ul>
 
@@ -80,12 +80,12 @@ Voici une liste non exhaustive des situations que vous pouvez rencontrer et auxq
 
 <ul>
 
-<li class="link color_orange"><a href="https://www.accessiblebooksconsortium.org/publishing/fr/" class ="color_orange">
+<li class="color_orange"><a href="https://www.accessiblebooksconsortium.org/publishing/fr/" class ="link color_orange">
 Site web du Consortium pour des livres accessibles (ABC)</a></li>
 
-<li><a href="https://www.accessiblebooksconsortium.org/docs/fr/charter.docx" class ="link color_orange">Charte de l’édition accessible</a></li>
+<li><a href="https://www.accessiblebooksconsortium.org/documents/102554/102064/abc_charter.pdf" class ="link color_orange">Charte de l’édition accessible</a></li>
 
-<li><a href="https://www.accessiblebooksconsortium.org/documents/abc/docs/fr/best_practice_guidelines.doc" class ="link color_orange"><cite>Édition accessible, Pratiques recommandées à l’intention des éditeurs</cite> (fichier .doc).</a></li>
+<li><a href="https://www.accessiblebooksconsortium.org/documents/102554/254117/best_practice_guidelines.doc" class ="link color_orange"><cite>Édition accessible, Pratiques recommandées à l’intention des éditeurs</cite> (fichier .doc).</a></li>
 
 <li><a href="https://www.inclusivepublishinginpractice.org/" class ="link color_orange">L'édition inclusive en pratique</a></li>
 
