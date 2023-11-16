@@ -61,6 +61,21 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
 
 <p>Chaque tableau indique une catégorie d'information qui peuvent être affichées sur une seule ligne ou regroupées sous l'intitulé correspondant. Les intitulés des catégories peuvent être repris ou omis.</p>
 <p>Les éléments d'importance forte devraient toujours être affichés et visibles sans action spécifique de l'utilisateur. Les autres éléments peuvent être masqués et disponibles seulement après action de l'utilisateur (élément détail, tooltip, popup ou lien vers une portion plus lointaine de la page web). Certains éléments peuvent ne pas être affichés si une conformité est déclarée.</p>
+
+<details>
+<summary>Note sur l'usage des pictogrammes</summary>
+<p>Les pictogrammes peuvent être des indicateurs visuels efficaces et peuvent faciliter l'accès à certains publics. Néanmoins plusieurs points d'attention sont à considérer lors de leur usage. La liste suivante relève les principaux, plus d'information sur l'usage des icônes à des fins d'accessibilité peut être trouvé sur les pages de règles supplémentaires aux WCAG du W3C : <a href="https://www.w3.org/WAI/WCAG2/supplemental/patterns/o1p07-icons-used/" lang ="en">Supplemental Guidance to WCAG 2 Cognitive Accessibility Design Pattern: Use Icons that Help the User</a>.
+
+* Chaque icône ou symbole doit avoir une signification unique et se trouver à côté du contenu auquel il se rapporte.
+*  Utilisez des icônes ou des symboles clairs et sans ambiguïté, faciles à voir et à agrandir.
+* Tenez compte des différences culturelles.
+* Dans le cas où les pictogrammes ne seraient pas utilisés en combinaison avec le texte, une page guide devra indiquer à quelle information correspond chaque pictogramme et le texte alternatif correspondant devra être apposé à chaque occurrence.  
+* À l'inverse, si le texte est toujours présent avec le pictogramme, celui-ci devra être considérer comme décoratif et comporter un argument alt vide ainsi qu'un argument role decoration.
+</p>
+
+<p></p>
+</details>
+
 <h4>Modes de lecture</h4>
 <table  class="zebra">
 <thead>
