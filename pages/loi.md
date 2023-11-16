@@ -106,14 +106,14 @@ du ministère de la culture.</p>
       <p>Telles que définies par la convention des Nations unies relative aux droits des personnes handicapées, adoptée le 13 décembre 2006, à laquelle l’Union européenne est partie depuis le 21 janvier 2011 et que tous les États membres ont ratifiée.<a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
     <li id="fn:3" role="doc-endnote">
-      <p>L’article 3 définit la liseuse numérique comme *« un équipement spécialisé, comprenant tant le matériel que le logiciel, utilisé pour accéder à des fichiers de livres numériques, naviguer à l’intérieur de ceux-ci, les lire et les utiliser »*. <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      <p>L’article 3 définit la liseuse numérique comme « un équipement spécialisé, comprenant tant le matériel que le logiciel, utilisé pour accéder à des fichiers de livres numériques, naviguer à l’intérieur de ceux-ci, les lire et les utiliser ». <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
     <li id="fn:4" role="doc-endnote">
       <p>La définition des livres numériques retenue est celle de <a href="https://www.legifrance.gouv.fr/loda/id/JORFTEXT000024079563/">l’article 1er de la loi n° 2011-590 du 26 mai 2011 relative au prix du livre numérique</a>. 
       Le <a href="https://www.legifrance.gouv.fr/loda/id/JORFTEXT000024778333">décret n° 2011-1499 du 10 novembre 2011</a> pris en application de cette loi précise cette définition. <a href="#fnref:4" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
     <li id="fn:5" role="doc-endnote">
-      <p>L’article 3 définit le livre numérique et le logiciel spécialisé comme *« un service consistant à fournir des fichiers numériques transmettant une version électronique d’un livre, auquel l’utilisateur peut avoir accès, dans lequel il peut naviguer et qu’il peut lire et utiliser, ainsi que le logiciel, y compris les services intégrés sur appareils mobiles, y compris les applications mobiles, spécialisé pour l’accès à ces fichiers numériques, la navigation à l’intérieur de ceux-ci, leur lecture et leur utilisation ».*<a href="#fnref:5" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      <p>L’article 3 définit le livre numérique et le logiciel spécialisé comme « un service consistant à fournir des fichiers numériques transmettant une version électronique d’un livre, auquel l’utilisateur peut avoir accès, dans lequel il peut naviguer et qu’il peut lire et utiliser, ainsi que le logiciel, y compris les services intégrés sur appareils mobiles, y compris les applications mobiles, spécialisé pour l’accès à ces fichiers numériques, la navigation à l’intérieur de ceux-ci, leur lecture et leur utilisation ».<a href="#fnref:5" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
   </aside>
