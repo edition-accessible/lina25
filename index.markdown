@@ -37,4 +37,6 @@ title: Accueil
 <p><a class="link color_navy" href="{{site.baseurl}}/ressources/Planstrategique" target="_self">Consulter le Plan stratégique du comité de pilotage interministériel pour le
 développement d’une offre de livres numériques accessibles aux
 personnes en situation de handicap</a></p>
+
+<p>Le site LINA25 est mis à jour en fonction des annonces ou de la publication de nouvelles ressources. Si vous souhaitez être informé des ajouts ou modifications de contenus, nous vous proposons un <a class="link color_navy" href="https://ec.europa.eu/eusurvey/runner/fd17005b-558f-0050-4e7f-a3294314708a">formulaire d'inscription à notre liste de contact</a>. Ce même formulaire vous permettra aussi de nous donner votre avis et vos commentaires sur l’intérêt et l'usage de ce site. Merci pour votre participation !</p>
 </section>
