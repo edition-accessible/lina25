@@ -13,7 +13,7 @@ Le contenu du site Web LINA 25 publié depuis février 2023 est conforme aux dir
 
 Tous les liens externes au site LINA25 s'ouvrent dans un nouvel onglet ou une nouvelle fenêtre.
 
-Plusieurs documents téléchargeables depuis le site web LINA 25 présentent des obstacles à l'accessibilité renseignés comme des documents non balisés. Lorsque c'est possible nous proposons une alternative.
+Plusieurs documents téléchargeables depuis le site web LINA 25 présentent des obstacles à l'accessibilité. Ils sont renseignés comme des documents non balisés. Lorsque c'est possible nous proposons une alternative.
 
 ## Politique d'accessibilité
 
