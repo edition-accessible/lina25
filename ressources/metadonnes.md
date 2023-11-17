@@ -62,6 +62,7 @@ ONIX 175 - E201 : Format fixe</a>
 
 
 ### Livres audio accessibles
+
 <p>Cas d'usage : lorsque vous achetez un livre audio vous voulez être sûr que toute l’information est présente sous forme audio, y compris le sommaire, le temps de lecture et d’autres informations qui peuvent être communiquées sur une image de couverture jointe aux fichiers audios.</p>
 <details><summary>En savoir plus sur l'accessibilité du livre audio</summary>
 <ul>
@@ -73,7 +74,7 @@ ONIX 175 - E201 : Format fixe</a>
 
 <a href="https://ns.editeur.org/onix/fr/196/39">196 - 39 : Accessibilité d’un matériel complémentaire à un livre audio</a>
 
- ### Autres modes de lecture
+### Autres modes de lecture
 
 Il existe des livres imprimés qui ne peuvent prétendre à une accessibilité universelle, à moins d'être livrés en différentes versions dans une même édition. Cependant certaines éditions spécialisées peuvent répondre à des besoins spécifiques. 
 
@@ -86,7 +87,8 @@ ONIX permet d'informer sur ces éditions. Si la liste 196 est dédiée à l'acce
    <li><a href="https://ns.editeur.org/onix/fr/21/LTE">21:LTE Édition en grands caractères</a></li>
    <li><a href="https://ns.editeur.org/onix/fr/21/ULP">21:ULP Édition en très gros caractères</a></li>
 </ul>
-    <p>Les libellés peuvent être utilisés tels que proposés par ONIX.</p> 
+
+<p>Les libellés peuvent être utilisés tels que proposés par ONIX.</p> 
 
 ### Navigation
 
