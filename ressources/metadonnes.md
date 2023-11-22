@@ -1,7 +1,7 @@
 ---
 layout: document
 title: "Dictionnaire des métadonnées d'accessibilité"
-date: 16 novembre 2023
+date: 2023-11-16
 previous: ../pages/collecter.html
 titlePrev: Renseigner
 ---
