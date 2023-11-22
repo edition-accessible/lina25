@@ -2,11 +2,13 @@
 layout: document
 title: "Carte du site"
 subtitle: 
-date: 2023-01-01
+date: 2023-11-22
 previous: index.html
 titlePrev: Accueil
 ---
 
+<section>
+<h2>Pages thématiques</h2>
 <ul>
 <li><a href="index.html" target="_self">Accueil</a></li>
 <li><a href="index.html#pourquoi" target="_self">Pourquoi ce site</a></li>
@@ -22,3 +24,14 @@ titlePrev: Accueil
 <li><a href="pages/apropos" target="_self">À propos de ce site</a></li>
 <li><a href="pages/accessibilite" target="_self">Accessibilité de ce site</a></li>
 </ul>
+</section>
+<section>
+<h2>Documents</h2>
+<ul>
+<li><a href="ressources/accessibilite_lecture" target="_self">Tour d'horizon de l'accessibilité des systèmes de lecture</a></li>
+<li><a href="ressources/CELEX_32019L0882_FR_TXT_adaptation" target="_self">Directive 2019/882, adaptation accessible</a></li>
+<li><a href="ressources/Informer" target="_self">Dictionnaire des métadonnées d'accessibilité</a></li>
+<li><a href="ressources/metadonnes" target="_self">Recommandations pour l'affichage des informations d'accessibilité</a></li>
+<li><a href="ressources/Planstrategique" target="_self">Plan stratégique du comité de pilotage interministériel pour le développement d’une offre de livres numériques accessibles aux personnes en situation de handicap</a></li>
+</ul>
+</section>
