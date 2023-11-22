@@ -13,7 +13,25 @@
     <div class="title_pages">
       <h1><span class="title">{{ page.title }}</span>
         <span>{{ page.subtitle }}</span></h1>
-        <p><i>Document mis à jour le {{ page.date }}</i></p>
+        <p><i>Mis à jour le 
+          {% assign m = page.date | date: "%-m" %}
+          {{ page.date | date: "%-d" }}
+          {% case m %}
+            {% when '1' %}janvier
+            {% when '2' %}février
+            {% when '3' %}mars
+            {% when '4' %}avril
+            {% when '5' %}mai
+            {% when '6' %}juin 
+            {% when '7' %}juillet
+            {% when '8' %}août
+            {% when '9' %}septembre
+            {% when '10' %}octobre
+            {% when '11' %}novembre
+            {% when '12' %}décembre
+          {% endcase %}
+          {{ page.date | date: "%Y" }}
+        </i></p>
     </div>
     
   </header>
