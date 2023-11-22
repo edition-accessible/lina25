@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Informer
-date: 16 novembre 2023
+date: 2023-11-16
 subtitle: et conseiller au plus près des besoins
 orientation: informer le lecteur avant achat ou emprunt.
 audience: libraires et bibliothèques

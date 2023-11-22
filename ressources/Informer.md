@@ -1,6 +1,6 @@
 ---
 layout: document
-date:  6 mars 2023
+date:  2023-03-06
 title: "Recommandations pour l'affichage des informations d'accessibilité"
 previous: ../pages/diffuser.html
 titlePrev: Informer

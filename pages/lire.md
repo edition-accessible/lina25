@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lire
-date:  6 mars 2023
+date:  2023-03-06
 subtitle: dans les meilleures conditions
 orientation: savoir exploiter au mieux les fonctionnalités d'accessibilité des livres numériques.
 audience: lecteurs, prescripteurs, accompagnants

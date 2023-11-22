@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ce que dit
-date: 16 novembre 2023
+date: 2023-11-16
 subtitle: la loi
 orientation: appréhender les cadres juridiques européen et national en termes d’accessibilité du livre numérique
 audience: tous les métiers du livre
