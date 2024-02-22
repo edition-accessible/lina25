@@ -9,7 +9,7 @@ titlePrev: Accueil
 
 <p><i>Le site LINA25 est mis à jour en fonction des annonces ou de la publication de nouvelles ressources. Si vous souhaitez être informé des ajouts ou modifications de contenus, nous vous proposons un <a class="link color_navy" href="https://ec.europa.eu/eusurvey/runner/fd17005b-558f-0050-4e7f-a3294314708a">formulaire d'inscription à notre liste de contact</a>. Ce même formulaire vous permettra aussi de nous donner votre avis et vos commentaires sur l’intérêt et l'usage de ce site. Merci pour votre participation !</i></p>
 
-<p>Ce site est réalisé par EDRLab avec le soutient financier du Service du livre et de la lecture, ministère de la culture.</p>
+<p>Ce site est réalisé par EDRLab avec le soutient financier du service du livre et de la lecture,  direction générale des médias et des industries culturelles (DGMIC),  ministère de la Culture.</p>
 
 <img class="logomcc" src="https://www.culture.gouv.fr/var/culture/storage/images/_aliases/reference/7/3/0/4/3164037-1-fre-FR/LogoMCHP.PNG" alt=""/>
 
