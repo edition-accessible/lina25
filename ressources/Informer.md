@@ -333,8 +333,8 @@ Ces informations de premier niveau constituent les fonctionnalités cruciales po
 <td>Contenus accessibles conformes aux standards (A ou AA)</td>
 <td></td>
 <td><a href="https://ns.editeur.org/onix/fr/196/02">Liste 196 Code 02 Spécifications d’accessibilité EPUB 1.0 A</a> ou <a href="https://ns.editeur.org/onix/fr/196/03">Liste 196 Code 03&#8239;: Spécifications d’accessibilité EPUB 1.0 AA</a></td>
-<td>Aucune conformité déclarée</td>
-<td>forte</td>
+<td>Ignorer</td>
+<td></td>
 </tr>
 <tr>
 <td><a href="https://edition-accessible.github.io/signalement/references/ace-smart-report-fr.html">Rapport de conformité</a></td>
