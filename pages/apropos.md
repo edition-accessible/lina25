@@ -11,7 +11,7 @@ titlePrev: Accueil
 
 <p>Ce site est réalisé par EDRLab avec le soutient financier du service du livre et de la lecture,  direction générale des médias et des industries culturelles (DGMIC),  ministère de la Culture.</p>
 
-<div style=“width: 160px"><img class="logomcc" src="/assets/images/LogoMCHP160.png" alt=""/></div>
+<div style="width: 160px"><img class="logomcc" src="/assets/images/LogoMCHP160.png" alt=""/></div>
 
 
 Pour contacter l'éditeur rendez-vous sur la [page de contact d'EDRLab](https://www.edrlab.org/contact/) ou écrivez un mail à contact@edrlab.org.
