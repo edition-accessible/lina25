@@ -27,7 +27,7 @@ Les recommandations françaises sur l'[affichage des informations d'accessibilit
 
 Les exigences de la directive Européenne impliquent que des informations sont disponibles sur les quatre catégories suivantes : 
 * les **modes de lecture** (tout le contenu disponible en voix de synthèse et braille, affichage modifiable, synchronisation texte et audio, etc.)&#8239;; 
-* les possibilitées de **navigation** dans le fichier (table des matières dans le contenu, pagination de référence d’un imprimé, etc.), 
+* les possibilités de **navigation** dans le fichier (table des matières dans le contenu, pagination de référence d’un imprimé, etc.), 
 * les **fonctionnalités du livre** (illustrations, tableaux, schémas, math, etc.) et leur accessibilité. 
 * les **risques** physiologiques éventuels liés à l'épilepsie ou à l'hypersensibilité.
 * le **blocage** éventuel des fonctionnalités d’accessibilité par des mesures de protection inadéquates (DRM) devrait aussi être renseigné.
