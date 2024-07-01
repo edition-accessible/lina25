@@ -4,6 +4,7 @@ date:  2023-03-06
 title: "Recommandations pour l'affichage des informations d'accessibilité"
 previous: ../pages/diffuser.html
 titlePrev: Informer
+draft: false
 ---
 
 <div markdown = "1" id="principes">
@@ -52,7 +53,6 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
 </details>
 <h3 id="accessibilité">Accessibilité</h3>
 
-* Si le code 196- 09 Inaccessible est présent, afficher&#8239;: <strong>Défauts d'accessibilité reconnus</strong>. 
 * Si aucune des informations n’est fournie, afficher&#8239;: <strong>Aucune information sur l’accessibilité n’est disponible</strong>. Il est conseillé de préciser les informations suivantes : 
   * <em>peut ne pas être entièrement lisible en voix de synthèse et braille</em> ; 
   * <em>les possibilités d'adaptation de l'affichage ne sont pas connue</em> ; 

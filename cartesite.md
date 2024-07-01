@@ -31,7 +31,7 @@ titlePrev: Accueil
 <li><a href="ressources/accessibilite_lecture" target="_self">Tour d'horizon de l'accessibilité des systèmes de lecture</a></li>
 <li><a href="ressources/CELEX_32019L0882_FR_TXT_adaptation" target="_self">Directive 2019/882, adaptation accessible</a></li>
 <li><a href="ressources/Informer" target="_self">Dictionnaire des métadonnées d'accessibilité</a></li>
-<li><a href="ressources/metadonnes" target="_self">Recommandations pour l'affichage des informations d'accessibilité</a></li>
+<li><a href="ressources/metadonnees" target="_self">Recommandations pour l'affichage des informations d'accessibilité</a></li>
 <li><a href="ressources/Planstrategique" target="_self">Plan stratégique du comité de pilotage interministériel pour le développement d’une offre de livres numériques accessibles aux personnes en situation de handicap</a></li>
 </ul>
 </section>
