@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Informer
-date: 2023-11-16
+date: 2024-09-09
 subtitle: et conseiller au plus près des besoins
 orientation: informer le lecteur avant achat ou emprunt.
 audience: libraires et bibliothèques
@@ -38,7 +38,7 @@ Les fonctionnalités spécifiques à certains types de contenus doivent aussi ê
 -   la présence de descriptions détaillées pour les graphiques de données ;
 -   la présence de flashs, sons ou simulations de mouvement qui peuvent déclencher des crises chez les personnes à risque.
 
-<span class="exergue">Le tableau de correspondances de la recommandation française indique comment obtenir, prioriser et labelliser ces informations. Ces travaux sont encore en cours.</span>
+<span class="exergue">Pour les personnes en charge de définir Le tableau de correspondances de la recommandation française indique comment obtenir, prioriser et labelliser ces informations. Ces travaux sont encore en cours.</span>
 
 ### Les autres informations utiles
 
@@ -71,16 +71,11 @@ Les deux solutions actuellement disponibles pour le chiffrement des fichiers son
 
 ### Informer sur l’accessibilité des livres numériques
 
-
 <ul>
-
-<li>Projet 
-<a href="https://w3c.github.io/publ-a11y/UX-Guide-Metadata/draft/principles/" class="link color_orange" lang="en"><cite> User Experience Guide for Displaying Accessibility Metadata 2.0</cite> </a></li>
-<li>Obsolète
-<a href="https://www.w3.org/2021/09/UX-Guide-metadata-1.0/principles/" class="link color_orange" lang="en"><cite> User Experience Guide for Displaying Accessibility Metadata 1.0</cite> </a></li>
-<li>Projet 
-<a href="https://edition-accessible.github.io/lina25/ressources/Informer" class="link color_orange" target="_self">Page de recommandations françaises </a></li>
-<li>En cours 
+<li>
+<a href="../ressources/metadonnes" class="link color_orange" target="_self">Guide d'affichage des métadonnées d'accessibilité 2.0 (projet)</a>
+</li>
+<li>
 <a href="https://edition-accessible.github.io/signalement/index.html" class="link color_orange">Le site compagnon de l'étude française </a></li>
 <li>
 <a href="https://edition-accessible.github.io/signalement/vocabulaire.html" class="link color_orange">Les résultats de l'étude sur le vocabulaire (2022)</a></li>
