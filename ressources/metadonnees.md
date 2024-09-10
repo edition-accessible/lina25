@@ -1,18 +1,16 @@
 ---
 layout: document
 title: "Dictionnaire des métadonnées d'accessibilité"
-date: 2023-11-16
+date: 2024-09-09
 previous: ../pages/collecter.html
 titlePrev: Renseigner
 ---
 
-Les métadonnées d'accessibilité sont des informations que les éditeurs doivent renseigner lorsqu'ils établissent la fiche d'information de leur ouvrage. 
+Les métadonnées d'accessibilité sont des informations que les éditeurs doivent renseigner lorsqu'ils établissent la fiche d'information de leur ouvrage. Elles viennent compléter les informations bibliographiques et commerciales qui peuvent être établies dans un fichier excel ou le back office d'un système de gestion des publications et peuvent être complétées et enrichies par des prestataires de services de diffusion ou de distribution.
 
-Elles viennent compléter les informations bibliographiques et commerciales qui peuvent être établies dans un fichier excel ou le back office d'un système de gestion des publications et peuvent être complétées et enrichies par des prestataires de services de diffusion ou de distribution.
+Cette page a pour objectif de fournir un référentiel compréhensible permettant aux différents acteurs confrontés à cette activité de renseigner des informations fiables et complètes. Les informations indiquées ici sont relatives à ONIX. Des tableaux de correspondance permettent de les transposer en UNIMARC et MARC21.
 
-Cette page a pour objectif de fournir un référentiel compréhensible permettant aux différents acteurs confrontés à cette activité de renseigner des informations fiables et complètes. 
-
-Les informations indiquées ici sont relatives à ONIX. Des tableaux de correspondance permettent de les transposer en UNIMARC et MARC21.
+Sauf précision contraire, ces informations seront utilisées par les catalogues en lignes pour afficher une information précise au lecteur tel que décrit dans la page [Diffuser de LINA25](https://www.lina25.fr/pages/diffuser.html).
 
 ### Modes de lecture
 
@@ -60,6 +58,7 @@ Cas d'usage : lorsque vous activez la fonction lecture audio de votre liseuse, l
 <a href="https://ns.editeur.org/onix/fr/175/E201">
 ONIX 175 - E201 : Format fixe</a>
 
+*Notez que ce code devrait être renseigné même si le format de fichier ne permet pas d'autre options (dans le cas par exemple d'un fichier PDF).*
 
 ### Livres audio accessibles
 
@@ -73,6 +72,9 @@ ONIX 175 - E201 : Format fixe</a>
 </details>
 
 <a href="https://ns.editeur.org/onix/fr/196/39">196 - 39 : Accessibilité d’un matériel complémentaire à un livre audio</a>
+
+*Plusieurs autres cas de figure existent pour ce qui concerne la présence d'audios pré enregistrés. Il peut s'agir d'audios synchronisés avec le texte ou d'audios complémentaires, parfois inclus dans une vidéo. À ce jour et à notre connaissance, peu de fichiers numériques commercialisés correspondent à ces cas de figure, c'est pourquoi ils ne sont pas détaillés ici. Il est cependant possible de les exprimer en utilisant les codes de la liste 81, et leur prise en charge est assurée dans les recommandations d'affichage. Pour des exemples techniques, voir la [section Audio pré enregistré des techniques d'affichage ONIX (en anglais)](https://w3c.github.io/publ-a11y/UX-Guide-Metadata/2.0/techniques/onix-metadata/index.html#pre-recorded-audio)*
+
 
 ### Autres modes de lecture
 
