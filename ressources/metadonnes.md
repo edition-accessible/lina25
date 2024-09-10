@@ -1,7 +1,7 @@
 ---
 layout: document
 title: "Dictionnaire des métadonnées d'accessibilité"
-date: 2023-11-16
+date: 2024-09-09
 previous: ../pages/collecter.html
 titlePrev: Renseigner
 ---
@@ -58,6 +58,7 @@ Cas d'usage : lorsque vous activez la fonction lecture audio de votre liseuse, l
 <a href="https://ns.editeur.org/onix/fr/175/E201">
 ONIX 175 - E201 : Format fixe</a>
 
+*Notez que ce code devrait être renseigné même si le format de fichier ne permet pas d'autre options (dans le cas par exemple d'un fichier PDF).*
 
 ### Livres audio accessibles
 
