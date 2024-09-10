@@ -12,33 +12,24 @@ titlePrev: Renseigner
   > 06 septembre 2024
 </p>
 <p>Traduction française, EDRLab, 9 septembre 2024.</p>
-<p>Cette version :</p>
-<p>
+<p>Cette version : 
   <a
     href="https://w3c.github.io/publ-a11y/UX-Guide-Metadata/2.0/principles/principles-draft-note-20240906.html"
     >https://w3c.github.io/publ-a11y/UX-Guide-Metadata/2.0/principles/principles-draft-note-20240906.html</a
   >
 </p>
-<p>Dernière version en cours d’écriture :</p>
-<p>
+<p>Dernière version en cours d’écriture : 
    <a href="https://w3c.github.io/publ-a11y/UX-Guide-Metadata/draft/principles/"
     >https://w3c.github.io/publ-a11y/UX-Guide-Metadata/draft/principles/</a
   >
 </p>
 <p>Éditeurs:</p>
-<p>Charles LaPierre (<a href="http://www.benetech.org/">Benetech</a>)</p>
-<p>
-  Gregorio Pellegrino (<a href="https://fondazionelia.org/">Fondazione LIA</a>)
-</p>
-<p>Gautier Chomel (<a href="https://www.edrlab.org/">EDRLab</a> )</p>
-<p>George Kerscher (<a href="https://daisy.org/">DAISY Consortium</a>)</p>
-<p>Retour d'information :</p>
-<p>
-  <a href="https://github.com/w3c/publ-a11y/">GitHub w3c/publ-a11y</a> (<a
-    href="https://github.com/w3c/publ-a11y/pulls/"
-    >pull requests</a
-  >, <a href="https://github.com/w3c/publ-a11y/issues/new/choose">new issue</a>,
-  <a href="https://github.com/w3c/publ-a11y/issues/">open issues</a>)
+* Charles LaPierre (<a href="http://www.benetech.org/">Benetech</a>)
+* Gregorio Pellegrino (<a href="https://fondazionelia.org/">Fondazione LIA</a>)
+* Gautier Chomel (<a href="https://www.edrlab.org/">EDRLab</a> )
+* George Kerscher (<a href="https://daisy.org/">DAISY Consortium</a>)
+
+<p>Retour d'information :  <a href="https://github.com/w3c/publ-a11y/issues/new/choose">new issue</a>.
 </p>
 <p>
   <a href="https://www.w3.org/policies/%23copyright">Copyright</a> © 2024 les
@@ -54,7 +45,6 @@ titlePrev: Renseigner
   > lisible par une personne est disponible.
 </p>
 <hr />
-<p></p>
 <h2 id="h.30j0zll">Résumé</h2>
 <p>
   Il est utile de connaître l'accessibilité d'une publication, quelles que
@@ -1012,7 +1002,7 @@ titlePrev: Renseigner
   malentendus. Néanmoins, l'objectif est de fournir autant d'informations que
   possible sur l'accessibilité.
 </p>
-<p></p>
+
 <h4 id="h.3fwokq0">
   4.9.2 Techniques d'affichage pour les considérations juridiques
 </h4>
@@ -1320,7 +1310,7 @@ titlePrev: Renseigner
   Le leadership et les contributions éditoriales des personnes suivantes ont été
   essentiels à la réalisation de ce guide :
 </p>
-<p></p>
+
 <ul>
   <li>Avneesh Singh</li>
   <li>Charles LaPierre</li>
@@ -1335,7 +1325,7 @@ titlePrev: Renseigner
   Les membres suivants du groupe de la communauté de l'édition ont contribué à
   l'élaboration de ce document :
 </p>
-<p></p>
+
 <ul>
   <li>Chris Oliver</li>
   <li>Christopher Carr</li>
@@ -1348,6 +1338,3 @@ titlePrev: Renseigner
   <li>Rick Johnson</li>
   <li>Simon Mellins</li>
 </ul>
-<p></p>
-<p></p>
-<p></p>
