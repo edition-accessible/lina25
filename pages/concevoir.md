@@ -65,7 +65,7 @@ Voici une liste non exhaustive des situations que vous pouvez rencontrer et auxq
 
 <ul>
 
-<li><a href="https://www.sne.fr/app/uploads/2022/10/SNE-Normes-et-stanrdards-Textes-alternatifs-image-Document-de-synthese-.._vdef2.pdf" class ="link color_orange"><cite>Mise en accessibilité des images dans les EPUBs - synthése des travaux du groupe normes et standard du SNE.</cite> octobre 2022 (PDF non balisé, 2 Mo)</a></li>
+<li><a href="https://www.sne.fr/app/uploads/2022/10/SNE-Normes-et-stanrdards-Textes-alternatifs-image-Document-de-synthese-.._vdef2.pdf" class ="link color_orange"><cite>Mise en accessibilité des images dans les EPUBs - synthèse des travaux du groupe normes et standard du SNE.</cite> octobre 2022 (PDF non balisé, 2 Mo)</a></li>
 
 <li><a href="https://www.sne.fr/app/uploads/2022/10/SNE_Atelier_Normes-et-Standards_Accessibilite_Textes-alternatifs_2022.pptx.pdf" class ="link color_orange">Présentation de l’atelier sur la production de textes alternatifs aux images du groupe normes et standard du SNE, octobre 2022 (PDF non balisé, 5.6 Mo)</a></li>
 

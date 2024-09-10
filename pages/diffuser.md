@@ -28,16 +28,16 @@ Une première implémentation de ces recommandation est visibles sur 140 sites d
 
 Les livres qui répondent aux exigences de la directive Européenne doivent indiquer qu'ils&#8239;:
 
--   permettent la lecture non visuelle (vocalisée ou transmise à un dispositif braille) ;
--   permettent la modification de l'affichage ;
+-   permettent la lecture non visuelle (vocalisée ou transmise à un dispositif braille)&#8239;;
+-   permettent la modification de l'affichage&#8239;;
 -   permettent la navigation via une table des matières et la structure.
 
 Les fonctionnalités spécifiques à certains types de contenus doivent aussi être indiquées. Cela comprend&#8239;:
 
--   la présence d'audio pré enregistrés synchronisés avec le texte ;
--   la présence d'une pagination de référence à un livre imprimé ;
--   la présence de formules mathématiques, chimiques ou physiques dans un format accessibles ;
--   la présence de descriptions détaillées pour les graphiques de données ;
+-   la présence d'audio pré enregistrés synchronisés avec le texte&#8239;;
+-   la présence d'une pagination de référence à un livre imprimé&#8239;;
+-   la présence de formules mathématiques, chimiques ou physiques dans un format accessibles&#8239;;
+-   la présence de descriptions détaillées pour les graphiques de données&#8239;;
 -   la présence de flashs, sons ou simulations de mouvement qui peuvent déclencher des crises chez les personnes à risque.
 
 <span class="exergue">Pour les personnes en charge de définir Le tableau de correspondances de la recommandation française indique comment obtenir, prioriser et labelliser ces informations. Ces travaux sont encore en cours.</span>
