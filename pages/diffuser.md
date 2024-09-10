@@ -22,6 +22,8 @@ Le groupement des éditeurs du W3C propose un guide pour homogénéiser cette ex
 
 En France EDRLab a été missionné pour étudier, en collaboration avec les différents acteurs de la chaîne du livre en France, comment devraient être affichées sur les sites de distribution les métadonnées relatives à l’accessibilité des livres numériques. Ce travail est en lien étroit avec les recommandations du W3C.
 
+Une première implémentation de ces recommandation est visibles sur 140 sites de librairies opérés par Titelive, comme par exemple la fiche concernant le [Cours de Poétique de Paul Valéry sur epagine](https://www.epagine.fr/ebook/9782072907098-cours-de-poetique-tome-1-le-corps-et-l-esprit-1937-1940-paul-valery/#targetAccess).  
+
 ### Les informations nécessaires
 
 Les livres qui répondent aux exigences de la directive Européenne doivent indiquer qu'ils&#8239;:
