@@ -6,13 +6,11 @@ previous: ../pages/collecter.html
 titlePrev: Renseigner
 ---
 
-Les métadonnées d'accessibilité sont des informations que les éditeurs doivent renseigner lorsqu'ils établissent la fiche d'information de leur ouvrage. 
+Les métadonnées d'accessibilité sont des informations que les éditeurs doivent renseigner lorsqu'ils établissent la fiche d'information de leur ouvrage. Elles viennent compléter les informations bibliographiques et commerciales qui peuvent être établies dans un fichier excel ou le back office d'un système de gestion des publications et peuvent être complétées et enrichies par des prestataires de services de diffusion ou de distribution.
 
-Elles viennent compléter les informations bibliographiques et commerciales qui peuvent être établies dans un fichier excel ou le back office d'un système de gestion des publications et peuvent être complétées et enrichies par des prestataires de services de diffusion ou de distribution.
+Cette page a pour objectif de fournir un référentiel compréhensible permettant aux différents acteurs confrontés à cette activité de renseigner des informations fiables et complètes. Les informations indiquées ici sont relatives à ONIX. Des tableaux de correspondance permettent de les transposer en UNIMARC et MARC21.
 
-Cette page a pour objectif de fournir un référentiel compréhensible permettant aux différents acteurs confrontés à cette activité de renseigner des informations fiables et complètes. 
-
-Les informations indiquées ici sont relatives à ONIX. Des tableaux de correspondance permettent de les transposer en UNIMARC et MARC21.
+Sauf précision contraire, ces informations seront utilisées par les catalogues en lignes pour afficher une information précise au lecteur tel que décrit dans la page [Diffuser de LINA25](https://www.lina25.fr/pages/diffuser.html).
 
 ### Modes de lecture
 
@@ -73,6 +71,7 @@ ONIX 175 - E201 : Format fixe</a>
 </details>
 
 <a href="https://ns.editeur.org/onix/fr/196/39">196 - 39 : Accessibilité d’un matériel complémentaire à un livre audio</a>
+
 
 ### Autres modes de lecture
 
