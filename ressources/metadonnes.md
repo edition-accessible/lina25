@@ -72,6 +72,8 @@ ONIX 175 - E201 : Format fixe</a>
 
 <a href="https://ns.editeur.org/onix/fr/196/39">196 - 39 : Accessibilité d’un matériel complémentaire à un livre audio</a>
 
+*Plusieurs autres cas de figure existent pour ce qui concerne la présence d'audios pré enregistrés. Il peut s'agir d'audios synchronisés avec le texte ou d'audios complémentaires, parfois inclus dans une vidéo. À ce jour et à notre connaissance, peu de fichiers numériques commercialisés correspondent à ces cas de figure, c'est pourquoi ils ne sont pas détaillés ici. Il est cependant possible de les exprimer en utilisant les codes de la liste 81, et leur prise en charge est assurée dans les recommandations d'affichage. Pour des exemples techniques, voir la [section Audio pré enregistré des techniques d'affichage ONIX (en anglais)](https://w3c.github.io/publ-a11y/UX-Guide-Metadata/2.0/techniques/onix-metadata/index.html#pre-recorded-audio)*
+
 
 ### Autres modes de lecture
 
