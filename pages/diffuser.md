@@ -75,7 +75,7 @@ Les deux solutions actuellement disponibles pour le chiffrement des fichiers son
 
 <ul>
 <li>
-<a href="../ressources/metadonnes" class="link color_orange" target="_self">Guide d'affichage des métadonnées d'accessibilité 2.0 (projet)</a>
+<a href="../ressources/displayguide20fr" class="link color_orange" target="_self">Guide d'affichage des métadonnées d'accessibilité 2.0 (projet)</a>
 </li>
 <li>
 <a href="https://edition-accessible.github.io/signalement/index.html" class="link color_orange">Le site compagnon de l'étude française </a></li>
