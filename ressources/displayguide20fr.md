@@ -1,7 +1,7 @@
 ---
 layout: document
 title: "Guide d'affichage des métadonnées d'accessibilité 2.0 (projet)"
-date: 2024-09-09
+date: 2024-11-09
 previous: ../pages/diffuser.html
 titlePrev: Renseigner
 ---
@@ -9,18 +9,18 @@ titlePrev: Renseigner
 <p>
   <a href="https://www.w3.org/standards/types%23reports"
     >Projet de rapport du groupe communautaire</a
-  > 06 septembre 2024
+  > 09 novembre 2024
 </p>
-<p>Traduction française, EDRLab, 9 septembre 2024.</p>
+<p>Traduction française, EDRLab.</p>
 <p>Cette version : 
   <a
-    href="https://w3c.github.io/publ-a11y/UX-Guide-Metadata/2.0/principles/principles-draft-note-20240906.html"
-    >https://w3c.github.io/publ-a11y/UX-Guide-Metadata/2.0/principles/principles-draft-note-20240906.html</a
+    href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/draft/guidelines/"
+    >https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/draft/guidelines/</a
   >
 </p>
 <p>Dernière version en cours d’écriture : 
-   <a href="https://w3c.github.io/publ-a11y/UX-Guide-Metadata/draft/principles/"
-    >https://w3c.github.io/publ-a11y/UX-Guide-Metadata/draft/principles/</a
+   <a href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/draft/guidelines/"
+    >https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/draft/guidelines/</a
   >
 </p>
 <p>Éditeurs:</p>
@@ -50,8 +50,8 @@ titlePrev: Renseigner
   Il est utile de connaître l'accessibilité d'une publication, quelles que
   soient les capacités d'une personne, car des caractéristiques telles que la
   possibilité de procéder à des ajustements visuels améliorent l'expérience de
-  lecture pour tout le monde. Ce document propose un cadre commun pour présenter
-  les déclarations de métadonnées d'accessibilité des publications de manière
+  lecture pour tout le monde. Ces lignes directrices proposent un cadre commun pour présenter 
+  les déclarations de métadonnées sur l'accessibilité des publications de manière
   conviviale, afin d'offrir aux utilisateurs finaux des informations faciles à
   comprendre, quelles que soient leurs connaissances techniques, et cohérentes
   d'une publication à l'autre et d'un catalogue numérique à l'autre.
@@ -77,8 +77,8 @@ titlePrev: Renseigner
 </p>
 <h2 id="h.2et92p0">1. Introduction</h2>
 <p>
-  La lecture d'une publication est une expérience très personnelle. Pour la
-  plupart des gens, il s'agit d'un acte de routine, et l'on ne se préoccupe
+  Lire une publication est une expérience personnelle. Pour la
+  plupart des gens, il s'agit d'une routine, et l'on ne se préoccupe
   guère de la manière dont le titre a été obtenu avant d'être lu. Les
   utilisateurs peuvent se rendre dans une librairie ou rechercher le titre à
   acheter en ligne. Il peut aussi avoir été sélectionné par un enseignant dans
@@ -102,6 +102,22 @@ titlePrev: Renseigner
   et non pas corrigées à postériori) et font valider ou auditer l'accessibilité
   par des organisations tierces.
 </p>
+<h3>1.1 Terminologie </h3>
+Plusieurs termes utilisés dans les présentes lignes directrices doivent être définis pour plus de clarté :
+<dl>
+<dt>publication numérique</dt>
+<dd>Le terme « publication numérique » est utilisé dans le présent document pour désigner les publications produites dans n'importe quel format numérique. Les publications numériques ne se limitent pas aux livres, mais englobent toute œuvre écrite, visuelle ou audio distribuée et lue sous forme numérique.
+
+Parmi les exemples de publications numériques figurent les livres électroniques, les livres audio, les mangas, les bandes dessinées, les revues, les manuels scolaires numériques, les livres d'images et les livres d'images pour enfants accompagnés d'un fichier audio. Les formats utilisés sont notamment EPUB, PDF et Digital Talking Books (DTB).</dd>
+<dt>braille dynamique </dt>
+<dd> Le terme braille dynamique est utilisé pour désigner le contenu généré en braille à la volée, par opposition aux formats de braille numérique préformatés. Ce rendu dynamique du contenu est parfois appelé braille électronique ou braille rafraîchissable. 
+
+ Le braille dynamique est généralement restitué sur un appareil distinct du système de lecture, doté de picots permettant de présenter le braille sur un écran tactile. Ces appareils, communément appelés afficheurs braille actualisables, peuvent être reliés à un ordinateur personnel, ou il peut s'agir d'un appareil autonome de prise de notes polyvalent doté d'un afficheur braille actualisable. </dd>
+<dt> lecture à voix haute </dt>
+<dd> Le terme « lecture à voix haute » est utilisé pour désigner un contenu généré à la volée sous forme de discours synthétique, par opposition à une narration préenregistrée. La fonctionnalité de lecture à haute voix est souvent une caractéristique des systèmes de lecture, mais elle peut être fournie par une technologie d'assistance distincte. </dd>
+<dt>système de lecture</dt>
+<dd>Toutes les publications numériques nécessitent un système de lecture pour présenter la publication à l'utilisateur final. Les systèmes de lecture peuvent être des applications fonctionnant sur un téléphone intelligent ou une tablette. Il existe des systèmes de lecture qui sont des applications fonctionnant sur des ordinateurs personnels. Il existe également des systèmes de lecture intégrés dans des appareils dédiés à une seule fin, la présentation d'une publication. Il existe même des compétences qui fonctionnent sur des haut-parleurs intelligents et qui peuvent être considérées comme des systèmes de lecture.</dd>
+
 <h2 id="h.tyjcwt">2. Vue d'ensemble</h2>
 <p>
   Ce document aide ceux qui souhaitent restituer les informations
@@ -390,20 +406,16 @@ titlePrev: Renseigner
 </p>
 <ul>
   <li>
-    Tous les contenus sont disponibles en lecture en voix de synthèse et en
+    Tous les contenus peuvent être lus en voix de synthèse et en
     braille électronique.
   </li>
   <li>
-    Certaines parties du contenu peuvent ne pas être disponibles en  lecture en
+    Certaines parties du contenu peuvent ne pas être lus en  lecture en
     voix de synthèse et en braille électronique.
   </li>
   <li>
-    Tous les contenus ne seront pas disponibles en  lecture en voix de synthèse
+    Tous les contenus ne sont pas lisibles en  lecture en voix de synthèse
     et en braille électronique.
-  </li>
-  <li>
-    On ne sait pas encore si le contenu sera disponible en  lecture en voix de
-    synthèse et en braille électronique.
   </li>
 </ul>
 <p>
@@ -429,13 +441,13 @@ titlePrev: Renseigner
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/UX-Guide-Metadata/2.0/techniques/epub-metadata/index.html%23supports-nonvisual-reading"
-      >Accessibilité EPUB : Prise en charge de la lecture non visuelle</a
+      >Accessibilité EPUB : lecture non visuelle</a
     >
   </li>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/UX-Guide-Metadata/2.0/techniques/onix-metadata/index.html%23supports-nonvisual-reading"
-      >ONIX : Prise en charge de la lecture non visuelle</a
+      >ONIX : lecture non visuelle</a
     >
   </li>
 </ul>
@@ -530,7 +542,7 @@ titlePrev: Renseigner
   Trois exemples sont fournis pour la déclaration de conformité, l'un montre une
   déclaration qui affirme respecter les normes d'accessibilité recommandées et
   un deuxième qui affirme respecter le niveau minimum. Le troisième exemple
-  montre une publication dont l'accessibilité est inconnue.
+  montre une publication dont l'accessibilité est inconnue et la dernière montre que l'information sur la conformité est manquante.
 </p>
 <p>
   Les exemples présentent la déclaration de conformité, le certificateur, les
@@ -615,7 +627,7 @@ titlePrev: Renseigner
   </li>
 </ul>
 <h3 id="h.1ci93xb">4.4 Audio préenregistré</h3>
-<p>Ces informations peuvent être cachées si les métadonnées sont absentes.</p>
+<p>Ces informations doivent être cachées si les métadonnées sont absentes.</p>
 <p>
   Indique la présence d'un audio préenregistré et précise si cet audio est
   autonome (livre audio), s'il accompagne le texte (clips audio et vidéo
@@ -689,7 +701,8 @@ titlePrev: Renseigner
 <h3 id="h.qsh70q">4.5 Navigation</h3>
 <p>
   Ces informations essentielles peuvent être masquées si les métadonnées sont
-  absentes.
+  absentes. Il est également possible d'indiquer qu'aucune information sur la navigation n'est disponible. 
+
 </p>
 <p>Identifie les fonctions de navigation incluses dans la publication.</p>
 <p>
@@ -722,6 +735,9 @@ titlePrev: Renseigner
   <li>
     La présence d'une table des matières facilite l'accès direct à chaque
     chapitre via des liens.
+  </li>
+  <li>
+  Inclut des éléments de structure pour les titres et des tableaux pour aider les utilisateurs de technologies d'assistance à naviguer facilement.
   </li>
   <li>L'index fournit des liens vers les références des articles.</li>
   <li>
@@ -759,7 +775,8 @@ titlePrev: Renseigner
 <h3 id="h.49x2ik5">4.6 Graphiques, diagrammes et formules</h3>
 <p>
   Ces informations essentielles peuvent être masquées si les métadonnées sont
-  absentes.
+  absentes. 
+  Il est également possible d'affirmer que l'accessibilité des formules, des graphiques, des mathématiques et des diagrammes qui n'ont pas été identifiés comme étant accessibles. 
 </p>
 <p>
   Indique la présence de formules (y compris mathématiques, chimiques, etc.), de
@@ -829,7 +846,8 @@ titlePrev: Renseigner
 <h3 id="h.3o7alnk">4.7 Risques</h3>
 <p>
   Ces informations essentielles peuvent être masquées si les métadonnées sont
-  absentes.
+  absentes. Il est également possible d'indiquer qu'aucune information sur les risques possibles n'est disponible. 
+
 </p>
 <p>
   Identifie tout risque (par exemple, éléments clignotants, sons de fond ou
@@ -903,7 +921,8 @@ titlePrev: Renseigner
 <h3 id="h.32hioqz">4.8 Résumé de l'accessibilité</h3>
 <p>
   Ces informations essentielles peuvent être masquées si les métadonnées sont
-  absentes.
+  absentes. 
+   Il est également possible d'indiquer qu'aucun résumé sur l'accessibilité n'est disponible. 
 </p>
 <p>
   Le résumé de l'accessibilité était destiné (dans EPUB Accessibility 1.0) à
@@ -1001,6 +1020,15 @@ titlePrev: Renseigner
   signifient rien pour la plupart des consommateurs et pourraient entraîner des
   malentendus. Néanmoins, l'objectif est de fournir autant d'informations que
   possible sur l'accessibilité.
+</p>
+
+<h4 id="h.3fwokq0">
+  4.9.1 Exemple
+</h4>
+<p>
+ *Dans de nombreux cas, aucune information relative à une exception ou à une exemption légale ne sera présentée. L'exemple suivant est fourni à titre d'explication descriptive possible lorsque des informations relatives à une exception légale ou à une exemption doivent être présentées.* 
+
+ Cette publication fait l'objet d'une dérogation en matière d'accessibilité dans certaines juridictions. 
 </p>
 
 <h4 id="h.3fwokq0">
@@ -1195,8 +1223,8 @@ titlePrev: Renseigner
   filtrage minimum
 </p>
 <ul>
-  <li>Soutien à la lecture non visuelle</li>
-  <li>Soutien aux adaptations visuelles</li>
+  <li>Lisible en voix de synthèse et braille</li>
+  <li>L'affichage peut être modifié</li>
 </ul>
 <h3 id="h.28h4qwu">5.2 Ensemble de filtrage étendu</h3>
 <p>
@@ -1242,41 +1270,50 @@ titlePrev: Renseigner
   <li>Audio préenregistré</li>
 </ul>
 <h2 id="h.nmf14n">6. La localisation</h2>
-<p>
-  Dans ces lignes directrices, nous avons utilisé un langage simple pour
-  communiquer la signification des valeurs des métadonnées. De nombreuses
-  personnes ont contribué à l'élaboration des mots et des phrases que nous avons
-  sélectionnés. Nous avons l'intention de mettre en place un mécanisme
-  permettant à la communauté des éditeurs de fournir des traductions qui
-  localisent les chaînes de caractères pour une communication tout aussi
-  efficace dans de nombreuses langues. Nous comprenons qu'il ne suffit pas de
-  traduire les chaînes de caractères ; la signification subtile des mots et des
-  phrases des concepts d'accessibilité doit être localisée pour une
-  compréhension maximale.
-</p>
-<p>
-  Pour les utilisateurs qui recherchent des livres, une expérience utilisateur
-  transparente est essentielle pour éviter d'ajouter une charge cognitive à la
-  tâche déjà complexe de comprendre les fonctionnalités incluses et d'accéder au
-  livre.
-</p>
-<p>
-  La formulation fait partie de l'UX et les similitudes de formulation dans les
-  zones linguistiques sont aussi cruciales que l'organisation et la
-  catégorisation de l'information.
-</p>
-<p>
-  La formulation proposée dans ce guide a été largement discutée par un large
-  groupe représentant différents acteurs des zones géographiques anglophones.
-  Elle a été améliorée après des tests de validation et a été examinée par des
-  groupes de testeurs.
-</p>
-<p>
-  Pour se mettre d'accord sur les libellés des zones linguistiques, les acteurs
-  doivent suivre un cadre de localisation. La page web de traduction du guide UX
-  proposera un tel cadre et une liste de traductions avec une contextualisation
-  du processus de localisation.
-</p>
+
+Un livre électronique peut être acheté dans n'importe quel pays, sans disponibilité limitée ni frais de livraison supplémentaires. Les lecteurs souhaitent un affichage cohérent des informations relatives à l'accessibilité, et c'est là le rôle principal du guide d'affichage. La formulation proposée dans ce guide a été largement discutée par un groupe important représentant différents acteurs des pays anglophones. Elle a été améliorée après des tests de validation et a été examinée par des groupes de testeurs.
+
+Nous comprenons que différents pays ou différents services destinés à un public cible peuvent vouloir utiliser un langage spécifique, et nous avons prévu une certaine souplesse dans le guide pour tenir compte de cette situation tout en maintenant un niveau élevé de compréhension et une qualité similaire pour aider les utilisateurs d'un pays à trouver des informations similaires entre deux librairies ou bibliothèques dans la même zone linguistique. Il ne suffit pas de traduire les chaînes de caractères ; le sens subtil des mots et des phrases des concepts d'accessibilité doit être localisé pour une compréhension maximale. C'est pourquoi nous avons l'intention de fournir un mécanisme permettant à la communauté des éditeurs de fournir des traductions qui localisent les chaînes de caractères pour une communication tout aussi efficace dans de nombreuses langues.
+
+La [page de traduction des chaînes de localisation du guide](https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/draft/localizations) énumère les traductions en contextualisant le processus de localisation.
+
+Les sous-sections suivantes proposent un cadre de localisation pour aider à établir des zones linguistiques dont les libellés sont convenus entre les acteurs de la zone géographique concernée.
+
+<h3>6.1 Stratégie de localisation</h3>
+
+Avec l'évolution rapide du paysage des livres électroniques accessibles, la plupart des personnes concernées découvrent un nouveau monde. Pour que l'information soit largement diffusée et comprise, l'implication des acteurs locaux tels que les ONG, les bibliothèques au service des personnes handicapées et d'autres acteurs locaux dans la lutte pour mettre fin à la famine de livres pour les lecteurs incapables de lire les imprimés est cruciale et doit être soulignée.
+
+La localisation du guide d'affichage est une bonne occasion de faire connaître les nombreuses caractéristiques d'accessibilité offertes par les formats modernes tels que l'EPUB. Inversement, le fait d'avoir une échelle de projet locale pour écrire un vocabulaire compréhensible pour décrire ces caractéristiques est une approche qualitative précieuse qui profitera à tous les acteurs de la chaîne de valeur.
+
+Pour construire un projet local et faciliter les comparaisons de retour d'expérience, vous pouvez utiliser la méthodologie, les ressources et les prototypes open source publiés par EDRLab pour le projet original [Signalement des livres numériques accessibles](https://edition-accessible.github.io/signalement/index.html) qui a conduit à la [lettre de retour d'expérience initiale (PDF)](https://edition-accessible.github.io/signalement/documents/EDRLab-Signalement_lettreW3C_FR.pdf) adressée au début de 2022. Ce projet a déjà été utilisé et adapté en divers endroits.
+
+Dans ces projets, l'accent a été mis sur les implications pour les utilisateurs finaux. Par exemple, la formulation française proposée par EDRLab résulte d'une enquête quantitative auprès de différents groupes de lecteurs, de panels d'observations individuelles soigneusement sélectionnés et d'un processus de retour d'information étendu grâce à une formule dédiée disponible sur les 140 premières plateformes de mise en œuvre.
+
+En outre, des entreprises comme VitalSource qui ont besoin d'une localisation à grande échelle ont proposé de mettre en libre accès leur travail de traduction professionnel, ce qui a permis de produire la quantité nécessaire et qu'il vaut mieux utiliser que rien lorsqu'aucun projet national n'a publié un vocabulaire artisanal.
+
+Pour concilier les deux sources de matériel de localisation, nous proposons un mécanisme de collecte basé sur une identification détaillée de la provenance. Parce que des personnes et des organisations ayant différents niveaux de technicité doivent pouvoir contribuer, nous acceptons à la fois les fichiers bruts par le biais de Pull requests et proposons également une interface utilisateur de localisation conviviale par le biais de GitLocalize.
+
+<h3>6.2 Comment contribuer ?</h3>
+
+Faites-nous d'abord savoir le plus tôt possible que vous travaillez sur une localisation et que vous souhaitez la soumettre. Cela nous permet de préparer un espace réservé pour votre travail. Ce n'est pas obligatoire, mais nous vous invitons à contacter le groupe et à participer à un appel régulier du groupe de travail, car ces appels sont ouverts à tous.
+
+Lorsque vous êtes prêt à publier votre travail, deux options sont possibles :
+
+Si vous ne savez pas ce qu'est un JSON ou une Pull Request, vous pouvez nous contacter afin que nous puissions attribuer un rôle de traducteur sur la [page Gitlocalize dédiée au projet](https://gitlocalize.com/repo/9555).
+Si vous vous sentez techniquement prêt ou si vous avez un collaborateur qui peut faire une demande d'extraction, le processus consiste à dupliquer le fichier canonique original UX-Guide-Metadata/draft/localizations/fr-US/display_guide_vocabulary_w3c_en-US.json, à le modifier en changeant les valeurs devant chaque clé, et à ouvrir une demande d'extraction pour que nous puissions l'examiner. Veuillez noter que nous pourrions avoir des questions ou demander des précisions au cours du processus avant d'accepter et de fusionner votre contribution.
+
+<h3>6.3 Comment choisir entre les fichiers de localisation ?</h3>
+
+Comment choisir entre les fichiers de localisation ?
+Les premières clés de chaque fichier JSON contiennent des informations descriptives à son sujet, notamment
+
+* Auteur, nom de l'organisation responsable de l'établissement et de la maintenance de cette localisation
+* Langue, est un code de 4 lettres où les deux premières lettres spécifient la langue selon ISO 639-1 et les deux autres le pays selon ISO 3166-1 alpha-2
+* Variante, un nom libre d'un mot pour identifier votre travail.
+* Audience décrit le public. Nous recommandons d'utiliser n'importe quel vocabulaire de la liste ONIX 28. Il est possible d'informer plus d'un public en séparant chacun d'eux par une virgule.
+* Description, un champ libre comprenant une brève description de la manière dont cette localisation a été obtenue.
+
+
 <h2 id="h.37m2jsg">7. Mise en œuvre</h2>
 <p>
   <a href="https://github.com/w3c/publ-a11y/issues/268">QUESTION 268</a> :
@@ -1307,7 +1344,7 @@ titlePrev: Renseigner
 <h2 id="h.1mrcu09">A. Remerciements</h2>
 <p>Cette section n'est pas normative.</p>
 <p>
-  Le leadership et les contributions éditoriales des personnes suivantes ont été
+  Les contributions éditoriales des personnes suivantes ont été
   essentiels à la réalisation de ce guide :
 </p>
 
