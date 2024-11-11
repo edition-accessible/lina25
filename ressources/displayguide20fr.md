@@ -1275,7 +1275,7 @@ Un livre électronique peut être acheté dans n'importe quel pays, sans disponi
 
 Nous comprenons que différents pays ou différents services destinés à un public cible peuvent vouloir utiliser un langage spécifique, et nous avons prévu une certaine souplesse dans le guide pour tenir compte de cette situation tout en maintenant un niveau élevé de compréhension et une qualité similaire pour aider les utilisateurs d'un pays à trouver des informations similaires entre deux librairies ou bibliothèques dans la même zone linguistique. Il ne suffit pas de traduire les chaînes de caractères ; le sens subtil des mots et des phrases des concepts d'accessibilité doit être localisé pour une compréhension maximale. C'est pourquoi nous avons l'intention de fournir un mécanisme permettant à la communauté des éditeurs de fournir des traductions qui localisent les chaînes de caractères pour une communication tout aussi efficace dans de nombreuses langues.
 
-La [page de traduction des chaînes de localisation du guide](https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/draft/localizations) énumère les traductions en contextualisant le processus de localisation.
+La <a href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/draft/localizations">page de traduction des chaînes de localisation du guide</a> énumère les traductions en contextualisant le processus de localisation.
 
 Les sous-sections suivantes proposent un cadre de localisation pour aider à établir des zones linguistiques dont les libellés sont convenus entre les acteurs de la zone géographique concernée.
 
@@ -1285,7 +1285,7 @@ Avec l'évolution rapide du paysage des livres électroniques accessibles, la pl
 
 La localisation du guide d'affichage est une bonne occasion de faire connaître les nombreuses caractéristiques d'accessibilité offertes par les formats modernes tels que l'EPUB. Inversement, le fait d'avoir une échelle de projet locale pour écrire un vocabulaire compréhensible pour décrire ces caractéristiques est une approche qualitative précieuse qui profitera à tous les acteurs de la chaîne de valeur.
 
-Pour construire un projet local et faciliter les comparaisons de retour d'expérience, vous pouvez utiliser la méthodologie, les ressources et les prototypes open source publiés par EDRLab pour le projet original [Signalement des livres numériques accessibles](https://edition-accessible.github.io/signalement/index.html) qui a conduit à la [lettre de retour d'expérience initiale (PDF)](https://edition-accessible.github.io/signalement/documents/EDRLab-Signalement_lettreW3C_FR.pdf) adressée au début de 2022. Ce projet a déjà été utilisé et adapté en divers endroits.
+Pour construire un projet local et faciliter les comparaisons de retour d'expérience, vous pouvez utiliser la méthodologie, les ressources et les prototypes open source publiés par EDRLab pour le projet original <a href="https://edition-accessible.github.io/signalement/index.html">Signalement des livres numériques accessibles</a> qui a conduit à la <a href="https://edition-accessible.github.io/signalement/documents/EDRLab-Signalement_lettreW3C_FR.pdf">lettre de retour d'expérience (PDF)</a> adressée au début de 2022. Ce projet a déjà été utilisé et adapté en divers endroits.
 
 Dans ces projets, l'accent a été mis sur les implications pour les utilisateurs finaux. Par exemple, la formulation française proposée par EDRLab résulte d'une enquête quantitative auprès de différents groupes de lecteurs, de panels d'observations individuelles soigneusement sélectionnés et d'un processus de retour d'information étendu grâce à une formule dédiée disponible sur les 140 premières plateformes de mise en œuvre.
 
@@ -1299,7 +1299,7 @@ Faites-nous d'abord savoir le plus tôt possible que vous travaillez sur une loc
 
 Lorsque vous êtes prêt à publier votre travail, deux options sont possibles :
 
-Si vous ne savez pas ce qu'est un JSON ou une Pull Request, vous pouvez nous contacter afin que nous puissions attribuer un rôle de traducteur sur la [page Gitlocalize dédiée au projet](https://gitlocalize.com/repo/9555).
+Si vous ne savez pas ce qu'est un JSON ou une Pull Request, vous pouvez nous contacter afin que nous puissions attribuer un rôle de traducteur sur la <a href="https://gitlocalize.com/repo/9555">page Gitlocalize dédiée au projet</a>.
 Si vous vous sentez techniquement prêt ou si vous avez un collaborateur qui peut faire une demande d'extraction, le processus consiste à dupliquer le fichier canonique original UX-Guide-Metadata/draft/localizations/fr-US/display_guide_vocabulary_w3c_en-US.json, à le modifier en changeant les valeurs devant chaque clé, et à ouvrir une demande d'extraction pour que nous puissions l'examiner. Veuillez noter que nous pourrions avoir des questions ou demander des précisions au cours du processus avant d'accepter et de fusionner votre contribution.
 
 <h3>6.3 Comment choisir entre les fichiers de localisation ?</h3>
