@@ -199,7 +199,7 @@ Parmi les exemples de publications numériques figurent les livres électronique
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/epub-metadata/index.html"
-      >Métadonnées d'accessibilité de l'EPUB</a
+      >Métadonnées d'accessibilité de l'EPUB (OPF)</a
     >
   </li>
   <li>
@@ -353,13 +353,13 @@ Parmi les exemples de publications numériques figurent les livres électronique
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/epub-metadata/index.html#visual-adjustments"
-      >EPUB Accessibilité : Adaptations visuelles</a
+      >(document en cours de finalisation, en anglais) EPUB OPF : Adaptations visuelles</a
     >
   </li>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/onix-metadata/index.html#visual-adjustments"
-      >ONIX : Ajustements visuels</a
+      >(document en cours de finalisation, en anglais) ONIX : Ajustements visuels</a
     >
   </li>
 </ul>
@@ -441,13 +441,13 @@ Parmi les exemples de publications numériques figurent les livres électronique
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/epub-metadata/index.html#supports-nonvisual-reading"
-      >Accessibilité EPUB : lecture non visuelle</a
+      >(document en cours de finalisation, en anglais) EPUB OPF : lecture non visuelle</a
     >
   </li>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/onix-metadata/index.html#supports-nonvisual-reading"
-      >ONIX : lecture non visuelle</a
+      >(document en cours de finalisation, en anglais) ONIX : lecture non visuelle</a
     >
   </li>
 </ul>
@@ -616,13 +616,13 @@ Parmi les exemples de publications numériques figurent les livres électronique
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/epub-metadata/index.html#conformance-group"
-      >Accessibilité de l'EPUB : Conformité</a
+      >(document en cours de finalisation, en anglais) EPUB OPF : Conformité</a
     >
   </li>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/onix-metadata/index.html#conformance-group"
-      >ONIX : Conformité</a
+      >(document en cours de finalisation, en anglais) ONIX : Conformité</a
     >
   </li>
 </ul>
@@ -688,13 +688,13 @@ Parmi les exemples de publications numériques figurent les livres électronique
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/epub-metadata/index.html#pre-recorded-audio"
-      >Accessibilité EPUB : Audio complet</a
+      >(document en cours de finalisation, en anglais) EPUB OPF  : Audio complet</a
     >
   </li>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/onix-metadata/index.html#pre-recorded-audio"
-      >ONIX : audio complet</a
+      >(document en cours de finalisation, en anglais) ONIX : audio complet</a
     >
   </li>
 </ul>
@@ -762,13 +762,13 @@ Parmi les exemples de publications numériques figurent les livres électronique
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/epub-metadata/index.html#navigation"
-      >Accessibilité de l'EPUB : Navigation</a
+      >(document en cours de finalisation, en anglais) EPUB OPF : Navigation</a
     >
   </li>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/onix-metadata/index.html#navigation"
-      >ONIX : Navigation</a
+      >(document en cours de finalisation, en anglais) ONIX : Navigation</a
     >
   </li>
 </ul>
@@ -833,13 +833,13 @@ Parmi les exemples de publications numériques figurent les livres électronique
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/epub-metadata/index.html#charts-diagrams-and-formulas"
-      >EPUB Accessibilité : Graphiques et formules</a
+      >(document en cours de finalisation, en anglais) EPUB OPF : Graphiques et formules</a
     >
   </li>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/onix-metadata/index.html#charts-diagrams-and-formulas"
-      >ONIX : Graphiques et formules</a
+      >(document en cours de finalisation, en anglais) ONIX : Graphiques et formules</a
     >
   </li>
 </ul>
@@ -908,13 +908,13 @@ Parmi les exemples de publications numériques figurent les livres électronique
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/epub-metadata/index.html#hazards"
-      >Accessibilité de l'EPUB : Risques</a
+      >(document en cours de finalisation, en anglais) EPUB OPF : Risques</a
     >
   </li>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/onix-metadata/index.html#hazards"
-      >ONIX : Risques</a
+      >(document en cours de finalisation, en anglais) ONIX : Risques</a
     >
   </li>
 </ul>
@@ -961,13 +961,13 @@ Parmi les exemples de publications numériques figurent les livres électronique
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/epub-metadata/index.html#accessibility-summary"
-      >EPUB Accessibilité : Résumé de l'accessibilité</a
+      >(document en cours de finalisation, en anglais)  EPUB OPF  : Résumé de l'accessibilité</a
     >
   </li>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/onix-metadata/index.html#accessibility-summary"
-      >ONIX : Résumé de l'accessibilité</a
+      >(document en cours de finalisation, en anglais) ONIX : Résumé de l'accessibilité</a
     >
   </li>
 </ul>
@@ -1042,13 +1042,13 @@ Parmi les exemples de publications numériques figurent les livres électronique
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/epub-metadata/index.html#legal-considerations"
-      >Accessibilité de l'EPUB : considérations juridiques</a
+      >(document en cours de finalisation, en anglais) EPUB OPF : considérations juridiques</a
     >
   </li>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/onix-metadata/index.html#legal-considerations"
-      >ONIX : considérations juridiques</a
+      >(document en cours de finalisation, en anglais) ONIX : considérations juridiques</a
     >
   </li>
 </ul>
@@ -1160,13 +1160,13 @@ Parmi les exemples de publications numériques figurent les livres électronique
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/epub-metadata/index.html#additional-accessibility-information"
-      >Accessibilité de l'EPUB : Caractéristiques du livre</a
+      >(document en cours de finalisation, en anglais) EPUB OPF : Caractéristiques du livre</a
     >
   </li>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/onix-metadata/index.html#additional-accessibility-information"
-      >ONIX : Caractéristiques du livre</a
+      >(document en cours de finalisation, en anglais) ONIX : Caractéristiques du livre</a
     >
   </li>
 </ul>
