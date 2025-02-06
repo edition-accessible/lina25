@@ -1,6 +1,6 @@
 ---
 layout: document
-date:  2023-03-06
+date:  2025-02-06
 title: "Recommandations pour l'affichage des informations d'accessibilité"
 previous: ../pages/diffuser.html
 titlePrev: Informer
@@ -8,14 +8,14 @@ draft: false
 ---
 
 <div markdown = "1" id="principes">
-Le signalement des livres numériques accessibles signifie l’information donnée au lecteur avant achat pour lui permettre d’identifier les livres numériques qui lui permettront une lecture dans les meilleures conditions possibles.
+Le signalement des fonctions d'accessibilité des livres numériques signifie l’information donnée au lecteur avant achat pour lui permettre d’identifier les livres numériques qui lui permettront une lecture dans les meilleures conditions possibles.
 
-*Cette recommandation est établie à partir d’un travail interprofessionnel piloté par EDRLab dans le cadre d’une mission confiée par le comité de pilotage interministeriel. Elle sera mise à jour en fonction des avancées du projet et des recommandations internationales en cours de réécriture.*
+*Cette recommandation est établie au niveau international par le W3C et transcrite en français à partir d’un travail interprofessionnel piloté par EDRLab dans le cadre d’une mission confiée par le comité de pilotage interministeriel. Elle a désormais atteint une maturité suffisante mais peut être mise à jour en fonction des avancées du projet et des recommandations internationales.*
 
 <p>L'approche retenue vise à proposer un accès rapide aux informations clés en les affichant à priori, c'est à dire non masquées et clairement identifiées. 
-Les informations plus détaillées sont contenues dans un élément masqué et peuvent être consultées sur action de l'utilisateur.</p>
+Des informations plus détaillées sont contenues dans un élément masqué et peuvent être consultées sur action de l'utilisateur.</p>
 <p>Une attention particulière est portée sur l'évitement de possibles redondances. </p>
-<p>Une grille de correspondance, en fin de document, permet d'identifier les métadonnées ONIX qui assurent cette information. Un Crosswalk est disponible pour assurer l'interopérabilité des principales autres normes de métadonnées (Schema.org, MARC, MARC21 et UNIMARC).</p>
+<p>Une grille de correspondance, en fin de document, permet d'identifier les métadonnées ONIX qui assurent cette information. Une table de correspondance (crosswalk) est disponible pour assurer l'interopérabilité des principales autres normes de métadonnées (Schema.org, MARC, MARC21 et UNIMARC).</p>
 
 <h2 id="fiche-livre-informations-générales">Fiche livre&#8239;: informations générales</h2>
 <h3 id="détails-du-produit">Détails du produit</h3>
@@ -118,8 +118,14 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
 </tr>
 <tr class="even">
 <td>Texte et audio complémentaires</td>
-<td>La publication comporte des fichiers audio (y compris des vidéos) en plus du texte. Les deux sont nécessaires à la compréhension de l'ouvrage.</td>
-<td><a href="https://ns.editeur.org/onix/fr/175/E201">Liste 175 Code E201&#8239;: Format fixe.</a></td>
+  <td>La publication comporte des fichiers audio (y compris des vidéos) en plus du texte. Les deux sont nécessaires à la compréhension de l'ouvrage.</td>
+  <td><li><a href="https://ns.editeur.org/onix/fr/81/06">code 06 </a> Video</li>
+									<li><a href="https://ns.editeur.org/onix/fr/81/25">Liste 81 code 25 </a> Animation narrative</li>
+									<li><a href="https://ns.editeur.org/onix/fr/81/26">Liste 81 code 26 </a> Enregistrement vidéo d'une lecture</li>
+									<li><a href="https://ns.editeur.org/onix/fr/81/27">Liste 81 code 27 </a> Performance -visuel</li>
+									<li><a href="https://ns.editeur.org/onix/fr/81/28">Liste 81 code 28 </a> Autre vidéo</li>
+									<li><a href="https://ns.editeur.org/onix/fr/81/29">Liste 81 code 29 </a> Performance partielle -vidéo</li>
+									<li><a href="https://ns.editeur.org/onix/fr/81/30">Liste 81 Code 30 </a> (Contenu vidéo supplémentaire ne fait pas partie du travail principal</li></td>
 <td>ignorer</td>
 <td>forte</td>
 </tr>
@@ -337,25 +343,33 @@ Ces informations de premier niveau constituent les fonctionnalités cruciales po
 <td></td>
 </tr>
 <tr>
-<td><a href="https://edition-accessible.github.io/signalement/references/ace-smart-report-fr.html">Rapport de conformité</a></td>
+<td>Responsable de la conformité</td>
 <td></td>
-<td><a href="https://ns.editeur.org/onix/fr/196/94">196 94 Page web pour les informations détaillées d’accessibilité</a></td>
+<td><a href="https://ns.editeur.org/onix/fr/196/90">196 90 Certification de conformité par</a></td>
 <td>Ignorer</td>
-<td></td>
+<td>Ce champ est obligatoire si une conformité est déclarée. Si la conformité est garantie par l'éditeur, ce champ doit être identique à celui indiquant l'éditeur. On parle dans ce cas d'auto-certification.</td>
 </tr>
 <tr>
-<td><a href="https://edition-accessible.github.io/signalement/references/ace-smart-report-fr.html">Organisme de certification</a></td>
+<td><a href="../refrences/responsable-conformite.html">Lien vers la page du responsable de la conformité</a></td>
 <td></td>
-<td><a href="https://ns.editeur.org/onix/fr/196/93">196 93 Certification de conformité par.</a></td>
+<td><a href="https://ns.editeur.org/onix/fr/196/93">196 93 Certification de conformité par (URL).</a></td>
 <td>Ignorer</td>
-<td></td>
+<td>Contient un lien vers une page de l'organisme responsable de la conformité</td>
 </tr>
 <tr>
-<td><a href="infos-accessibilite-ed.html">Politique d’accessibilité de l’éditeur</a></td>
+<td><a href="../refrences/infos-accessibilite-ed.html">Politique d’accessibilité de l’éditeur</a></td>
 <td></td>
 <td><a href="https://ns.editeur.org/onix/fr/196/96">Liste 196 code 96 Page web de l’éditeur pour les informations détaillées d’accessibilité</a></td>
 <td>ignorer</td>
 <td></td>
+</tr>
+
+<tr>
+<td><a href="../refrences/ace-smart-report-fr.html">Rapport de conformité</a></td>
+<td></td>
+<td><a href="https://ns.editeur.org/onix/fr/196/94">196 94 Page web pour les informations détaillées d’accessibilité</a></td>
+<td>Ignorer</td>
+<td>Contient un lien vers une page détaillant les résultats des tests de conformité pour un titre.</td>
 </tr>
 <tr>
 <td>texte</td>
