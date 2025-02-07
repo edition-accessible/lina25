@@ -316,8 +316,8 @@
             "descriptive": "Numéros de page visibles"
         },
         "additional-accessibility-information-without-background-sounds": {
-            "compact": "Sans sons d’arrière-plan",
-            "descriptive": "Sans sons d’arrière-plan"
+            "compact": "Pas de sons d’arrière-plan",
+            "descriptive": "Pas de sons d’arrière-plan"
         }
     }
 }
