@@ -215,16 +215,16 @@
             "descriptive": "Aucune information n'est disponible "
         },
         "hazards-none": {
-            "compact": "Pas de risques ",
-            "descriptive": "La publication ne contient aucun risques"
+            "compact": "Aucun risque ",
+            "descriptive": "La publication ne contient aucun risque"
         },
         "hazards-sound": {
             "compact": "Sons",
             "descriptive": "La publication contient des sons qui peuvent être inconfortables"
         },
         "hazards-unknown": {
-            "compact": "La présence de dangers est inconnue",
-            "descriptive": "Les cadeaux des dangers sont inconnus"
+            "compact": "La présence de risques est inconnue",
+            "descriptive": "La présence de risques est inconnue"
         }
     },
     "accessibility-summary": {
@@ -268,8 +268,8 @@
             "descriptive": "Meilleur lisibilité pour la dyslexie"
         },
         "additional-accessibility-information-full-ruby-annotations": {
-            "compact": "Annotations au format RUBIS complètes (langues asiatiques)",
-            "descriptive": "Annotations au format RUBIS complètes (concerne principalement les langues asiatiques)"
+            "compact": "Annotations complètes au format ruby (langues asiatiques)",
+            "descriptive": "Annotations complètes au format ruby (concerne principalement les langues asiatiques)"
         },
         "additional-accessibility-information-high-contrast-between-foreground-and-background-audio": {
             "compact": "Contraste sonore amélioré",
@@ -288,8 +288,8 @@
             "descriptive": "Contient des marqueurs de page identiques à la version imprimée"
         },
         "additional-accessibility-information-ruby-annotations": {
-            "compact": "Annotations partielles au format RUBIS (langues asiatiques)",
-            "descriptive": "Annotations partielles au format RUBIS (langues asiatiques)"
+            "compact": "Annotations partielles au format ruby (langues asiatiques)",
+            "descriptive": "Annotations partielles au format ruby (langues asiatiques)"
         },
         "additional-accessibility-information-sign-language": {
             "compact": "Langue des signes",
@@ -312,12 +312,12 @@
             "descriptive": "Très fort contrast entre le texte et l'arrière-plan"
         },
         "additional-accessibility-information-visible-page-numbering": {
-            "compact": "Numéro de page visible",
-            "descriptive": "Numéro de page visible"
+            "compact": "Numéros de page visibles",
+            "descriptive": "Numéros de page visibles"
         },
         "additional-accessibility-information-without-background-sounds": {
-            "compact": "Sans sons de fond",
-            "descriptive": "Sans sons de fond"
+            "compact": "Sans sons d’arrière-plan",
+            "descriptive": "Sans sons d’arrière-plan"
         }
     }
 }
