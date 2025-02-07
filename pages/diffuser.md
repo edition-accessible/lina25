@@ -87,9 +87,9 @@ Les deux solutions actuellement disponibles pour le chiffrement des fichiers son
 <a href="../ressources/signalement-en" class="link color_orange" lang="en">Methodology and prototype of the French study (2021-2024)</a> (en anglais)
 </li>
 <li>
-<!-- <li>
-<a href="https://edition-accessible.github.io/signalement/index.html" class="link color_orange">Le site compagnon de l'étude française </a></li>
-<li> -->
+<li>
+<a href="../ressources/signpostingprototypefr" class="link color_orange">Prototype d'affichage des informations d'accessibilité</a></li>
+<li>
 <a href="https://edition-accessible.github.io/signalement/vocabulaire.html" class="link color_orange">Les résultats de l'étude sur le vocabulaire (2022)</a></li>
 </ul>
 
