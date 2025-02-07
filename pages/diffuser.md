@@ -75,6 +75,9 @@ Les deux solutions actuellement disponibles pour le chiffrement des fichiers son
 
 <ul>
 <li>
+<a href="../ressources/Informer" class="link color_orange" target="_self">recommandations françaises sur l'affichage des informations d'accessibilité</a>
+</li>
+<li>
 <a href="../ressources/displayguide20fr" class="link color_orange" target="_self">Guide d'affichage des métadonnées d'accessibilité 2.0 (projet)</a>
 </li>
 <li>
