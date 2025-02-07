@@ -132,7 +132,6 @@ draft: false
         </ul>
 </li>
     </ul>
-    <p>Aucune autre information d'accessibilité n'est disponible.</p>
     </div>
     </article>
 </section>
@@ -155,18 +154,8 @@ draft: false
     <li class="prototype">Protégé par LCP</li>
     <li class="prototype">Publié en 2003 par la BNF</li>
     <li class="prototype">ISBN 9780000000000</li>
-<li class="prototype"><b>Lisibilité</b>
-        <ul>
-        <li class="prototype">L'affichage peut être adapté.</li>
-        </ul>
-</li>
-    <li class="prototype"><b>Utilisabilité</b>
-        <ul>
-        <li class="prototype">Table des matières. </li>
-        </ul>
-</li>
     </ul>
-    <p>Aucune autre information d'accessibilité n'est disponible.</p>
+    <p>Aucune information d'accessibilité n'est disponible.</p>
     </div>
     </article>
 </section>

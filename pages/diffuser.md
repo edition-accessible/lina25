@@ -71,7 +71,7 @@ Les deux solutions actuellement disponibles pour le chiffrement des fichiers son
 
 <h2>Ressources</h2>
 
-### Informer sur l’accessibilité des livres numériques
+<h3> Informer sur l’accessibilité des livres numériques</h3>
 
 <ul>
 <li>
@@ -93,7 +93,7 @@ Les deux solutions actuellement disponibles pour le chiffrement des fichiers son
 <a href="https://edition-accessible.github.io/signalement/vocabulaire.html" class="link color_orange">Les résultats de l'étude sur le vocabulaire (2022)</a></li>
 </ul>
 
-### Mesures techniques de protection (DRM)
+<h3> Mesures techniques de protection (DRM)</h3>
 
 <a href="https://www.edrlab.org/readium-lcp/" class="link color_orange">Readium LCP (en anglais)</a>
 
