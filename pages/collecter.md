@@ -21,7 +21,7 @@ Comme ces informations et leur affichage s’inscrit dans un cadre légal, leur 
 
 Nous proposons un [dictionnaire des métadonnées](../ressources/metadonnees.md) pour vous aider dans cette tâche. Vous y trouverez des tableaux de correspondance définissant les conditions et l'information nécessaire en lien avec le code ONIX correspondant.  
 
-Les recommandations françaises sur l'[affichage des informations d'accessibilité](../ressources/Informer.md) (projet en cours) peuvent-être aussi utiles pour comprendre comment chaque code devrait se matérialiser sur les sites de diffusion et de distribution.
+Les recommandations françaises sur l'[affichage des informations d'accessibilité](../ressources/Informer) (projet en cours) peuvent-être aussi utiles pour comprendre comment chaque code devrait se matérialiser sur les sites de diffusion et de distribution.
 
 ## Les informations nécessaires
 
@@ -67,6 +67,9 @@ Les codes 196 94 à 99 permettent de renseigner les utilisateurs sur la démarch
 <h2> Ressources</h2>
 <ul>
 
+<li>
+<a href="../ressources/Informer" class="link color_orange" target="_self">recommandations françaises sur l'affichage des informations d'accessibilité</a>
+</li>
 <li>
 <a href="../ressources/metadonnees" class="link color_orange" target="_self">Dictionnaire des métadonnées d'accessibilité</a>
 </li>
