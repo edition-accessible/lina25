@@ -119,7 +119,8 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
 <tr class="even">
 <td>Texte et audio complémentaires</td>
   <td>La publication comporte des fichiers audio (y compris des vidéos) en plus du texte. Les deux sont nécessaires à la compréhension de l'ouvrage.</td>
-  <td><a href="https://ns.editeur.org/onix/fr/81/06">code 06 </a> Video ; <a href="https://ns.editeur.org/onix/fr/81/25">Liste 81 code 25 </a> Animation narrative ; <a href="https://ns.editeur.org/onix/fr/81/26">Liste 81 code 26 </a> Enregistrement vidéo d'une lecture ; <a href="https://ns.editeur.org/onix/fr/81/27">Liste 81 code 27 </a> Performance -visuel ; <a href="https://ns.editeur.org/onix/fr/81/28">Liste 81 code 28 </a> Autre vidéo ; <a href="https://ns.editeur.org/onix/fr/81/29">Liste 81 code 29 </a> Performance partielle -vidéo ; <a href="https://ns.editeur.org/onix/fr/81/30">Liste 81 Code 30 </a> (Contenu vidéo supplémentaire ne fait pas partie du travail principal</li></td>
+  <td><a href="https://ns.editeur.org/onix/fr/81/06">code 06 </a> Video ; <a href="https://ns.editeur.org/onix/fr/81/25">Liste 81 code 25 </a> Animation narrative ; <a href="https://ns.editeur.org/onix/fr/81/26">Liste 81 code 26 </a> Enregistrement vidéo d'une lecture ; <a href="https://ns.editeur.org/onix/fr/81/27">Liste 81 code 27 </a> Performance -visuel ; <a href="https://ns.editeur.org/onix/fr/81/28">Liste 81 code 28 </a> Autre vidéo ; <a href="https://ns.editeur.org/onix/fr/81/29">Liste 81 code 29 </a> Performance partielle -vidéo ; <a href="https://ns.editeur.org/onix/fr/81/30">Liste 81 Code 30 </a> (Contenu vidéo supplémentaire ne fait pas partie du travail principal)
+  </td>
 <td>ignorer</td>
 <!--<td>forte</td>-->
 </tr>
