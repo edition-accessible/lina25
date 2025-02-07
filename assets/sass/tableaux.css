@@ -46,12 +46,12 @@
 
 	table.zebra th {
 		border-bottom: 1px solid #bbb;
-		padding: .2em 1em;
+		padding: .2em 0.5em;
 	}
 
 	table.zebra td {
 		border-bottom: 1px solid #ddd;
-		padding: .2em 1em;
+		padding: .2em 0.5em;
 	}
 
 	table {
@@ -76,7 +76,7 @@
 
 	table.data td,  table.data th,
 	table.index td, table.index th {
-		padding: 0.5em 1em;
+		padding: 0.5em 0.5em;
 		border-width: 1px;
 		border-color: silver;
 		border-color: var(--datacell-border);
@@ -130,3 +130,10 @@
 		vertical-align: middle;
 	}
 
+
+	td{
+		padding: 0;
+		text-align: left;
+		hyphens: none;
+	}
+	

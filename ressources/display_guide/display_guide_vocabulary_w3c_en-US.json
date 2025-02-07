@@ -35,10 +35,10 @@
         },
         "ways-of-reading-prerecorded-audio-no-metadata": {
             "compact": "Aucune information sur l'audio préenregistré n'est disponible",
-            "descriptive": " No information about prerecorded audio is available"
+            "descriptive": " Aucune information sur l'audio préenregistré n'est disponible."
         },
         "ways-of-reading-prerecorded-audio-only": {
-            "compact": "Audio préenregistré uniquement",
+            "compact": "Audio préenregistré",
             "descriptive": "Livre audio sans alternative de texte"
         },
         "ways-of-reading-prerecorded-audio-synchronized": {
@@ -201,7 +201,7 @@
         }
     },
     "hazards": {
-        "hazards-title": "Risques",
+        "hazards-title": "Points d'attention",
         "hazards-flashing": {
             "compact": "Contenu clignotant ",
             "descriptive": "La publication contient du contenu clignotant qui peut affecter les personnes photosensibles"
@@ -316,8 +316,8 @@
             "descriptive": "Numéros de page visibles"
         },
         "additional-accessibility-information-without-background-sounds": {
-            "compact": "Sans sons d’arrière-plan",
-            "descriptive": "Sans sons d’arrière-plan"
+            "compact": "Pas de sons d’arrière-plan",
+            "descriptive": "Pas de sons d’arrière-plan"
         }
     }
 }

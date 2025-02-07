@@ -71,7 +71,7 @@ Les codes 196 94 à 99 permettent de renseigner les utilisateurs sur la démarch
 <a href="../ressources/Informer" class="link color_orange" target="_self">recommandations françaises sur l'affichage des informations d'accessibilité</a>
 </li>
 <li>
-<a href="../ressources/metadonnees" class="link color_orange" target="_self">Dictionnaire des métadonnées d'accessibilité</a>
+<a href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/draft/guidelines/" class="link color_orange" target="_self" lang="en">Accessibility Metadata Display Guide for Digital Publications 2.0 </a>(en anglais)
 </li>
 
 <li>

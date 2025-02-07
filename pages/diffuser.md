@@ -78,10 +78,17 @@ Les deux solutions actuellement disponibles pour le chiffrement des fichiers son
 <a href="../ressources/Informer" class="link color_orange" target="_self">recommandations françaises sur l'affichage des informations d'accessibilité</a>
 </li>
 <li>
-<a href="../ressources/displayguide20fr" class="link color_orange" target="_self">Guide d'affichage des métadonnées d'accessibilité 2.0 (projet)</a>
+<a href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/draft/guidelines/" class="link color_orange" target="_self" lang="en">Accessibility Metadata Display Guide for Digital Publications 2.0 </a>(en anglais)
 </li>
 <li>
-<a href="https://edition-accessible.github.io/signalement/index.html" class="link color_orange">Le site compagnon de l'étude française </a></li>
+<a href="../ressources/signalement" class="link color_orange">Méthodologie et prototype de l'étude Française (2021-2024)</a></li>
+<li>
+<li>
+<a href="../ressources/signalement-en" class="link color_orange" lang="en">Methodology and prototype of the French study (2021-2024)</a> (en anglais)
+</li>
+<li>
+<li>
+<a href="../ressources/signpostingprototypefr" class="link color_orange">Prototype d'affichage des informations d'accessibilité</a></li>
 <li>
 <a href="https://edition-accessible.github.io/signalement/vocabulaire.html" class="link color_orange">Les résultats de l'étude sur le vocabulaire (2022)</a></li>
 </ul>

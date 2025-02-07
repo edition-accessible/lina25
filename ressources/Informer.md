@@ -8,9 +8,12 @@ draft: false
 ---
 
 <div markdown = "1" id="principes">
-Le signalement des fonctions d'accessibilité des livres numériques signifie l’information donnée au lecteur avant achat pour lui permettre d’identifier les livres numériques qui lui permettront une lecture dans les meilleures conditions possibles.
+
+Note : *Le Guide d'affichage des métadonnées est disponible en anglais à l'adresse <a href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/draft/guidelines/">https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/draft/guidelines/</a>. De précédentes versions étaient traduites pour faciliter les retours, mais la dernière version n'a pas été traduite. Cette page est un guide de référence à jour et en français.*
 
 *Cette recommandation est établie au niveau international par le W3C et transcrite en français à partir d’un travail interprofessionnel piloté par EDRLab dans le cadre d’une mission confiée par le comité de pilotage interministeriel. Elle a désormais atteint une maturité suffisante mais peut être mise à jour en fonction des avancées du projet et des recommandations internationales.*
+
+Le signalement des fonctions d'accessibilité des livres numériques signifie l’information donnée au lecteur avant achat pour lui permettre d’identifier les livres numériques qui lui permettront une lecture dans les meilleures conditions possibles.
 
 <p>L'approche retenue vise à proposer un accès rapide aux informations clés en les affichant à priori, c'est à dire non masquées et clairement identifiées. 
 Des informations plus détaillées sont contenues dans un élément masqué et peuvent être consultées sur action de l'utilisateur.</p>
@@ -119,7 +122,8 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
 <tr class="even">
 <td>Texte et audio complémentaires</td>
   <td>La publication comporte des fichiers audio (y compris des vidéos) en plus du texte. Les deux sont nécessaires à la compréhension de l'ouvrage.</td>
-  <td><a href="https://ns.editeur.org/onix/fr/81/06">code 06 </a> Video ; <a href="https://ns.editeur.org/onix/fr/81/25">Liste 81 code 25 </a> Animation narrative ; <a href="https://ns.editeur.org/onix/fr/81/26">Liste 81 code 26 </a> Enregistrement vidéo d'une lecture ; <a href="https://ns.editeur.org/onix/fr/81/27">Liste 81 code 27 </a> Performance -visuel ; <a href="https://ns.editeur.org/onix/fr/81/28">Liste 81 code 28 </a> Autre vidéo ; <a href="https://ns.editeur.org/onix/fr/81/29">Liste 81 code 29 </a> Performance partielle -vidéo ; <a href="https://ns.editeur.org/onix/fr/81/30">Liste 81 Code 30 </a> (Contenu vidéo supplémentaire ne fait pas partie du travail principal</li></td>
+  <td><a href="https://ns.editeur.org/onix/fr/81/06">code 06 </a> Video ; <a href="https://ns.editeur.org/onix/fr/81/25">Liste 81 code 25 </a> Animation narrative ; <a href="https://ns.editeur.org/onix/fr/81/26">Liste 81 code 26 </a> Enregistrement vidéo d'une lecture ; <a href="https://ns.editeur.org/onix/fr/81/27">Liste 81 code 27 </a> Performance -visuel ; <a href="https://ns.editeur.org/onix/fr/81/28">Liste 81 code 28 </a> Autre vidéo ; <a href="https://ns.editeur.org/onix/fr/81/29">Liste 81 code 29 </a> Performance partielle -vidéo ; <a href="https://ns.editeur.org/onix/fr/81/30">Liste 81 Code 30 </a> (Contenu vidéo supplémentaire ne fait pas partie du travail principal)
+  </td>
 <td>ignorer</td>
 <!--<td>forte</td>-->
 </tr>
