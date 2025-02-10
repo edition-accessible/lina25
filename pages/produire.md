@@ -83,6 +83,9 @@ Dans ce cas, il est recommandé de prévoir une version accessible de l'ouvrage 
 <li>
 
 <a href="https://edition-accessible.github.io/ePubAccessibleCharteSNE/charte.html#charte-1-1">Charte technique pour la production d’EPUBs nativement accessibles (SNE)</a></li>
+<li>
+
+<a href="/ressources/traiter.md">Traiter le fond</a></li>
 
 <li>
 
