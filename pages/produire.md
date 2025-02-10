@@ -82,7 +82,7 @@ Dans ce cas, il est recommandé de prévoir une version accessible de l'ouvrage 
 <ul>
 <li>
 
-<a href="https://www.sne.fr/app/uploads/2020/12/ePubAccessibleCharteSNE_v1.0-au-08-12-2020.pdf" class="link color_orange">Charte technique pour la production d’EPUBs “textuels” nativement accessibles (SNE)</a></li>
+<a href="https://edition-accessible.github.io/ePubAccessibleCharteSNE/charte.html#charte-1-1" class="link color_orange">Charte technique pour la production d’EPUBs “textuels” nativement accessibles (SNE)</a></li>
 
 <li>
 
