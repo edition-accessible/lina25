@@ -3,7 +3,7 @@ layout: page
 title: Distribuer
 date: 2025-01-24
 subtitle: par la vente ou le prêt
-orientation: éviter la disparition d’un grand nombre de livres numériques
+orientation: permettre aux personnes d'acquérir ou d'emprunter un livre numérique
 audience: libraires et bibliothèques
 previous: ./diffuser.html
 next: ./afficher.html
