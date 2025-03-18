@@ -48,7 +48,7 @@ Les points d'attention principaux concernent :
 
 L'accès aux collections de livres numériques pour les lecteurs doit être rendu possible sans passer par un site web, et doit pouvoir être proposé directement depuis leur application de lecture préférée. Plusieurs solutions existent, souvent sous forme d'APIs privées qui nécessitent un développement spécifique pour être intégrées dans une application de lecture. Toutes ces APIs doivent respecter les WCAG (Web Content Accessibility Guidelines) et assurer un niveau d'information et de compréhension via les mêmes mécanismes que ceux utilisés pour les sites web.
 
-Afin de garantir l’interopérabilité et le choix de l'application de lecture sans multiplier les besoins de développement, il est conseillé de privilégier un standard ouvert comme le protocole OPDS (Open Publication Distribution System). Ce protocole permet aux applications de lecture de proposer un grand nombre de catalogues sans efforts de développement supplémentaires.
+Afin de garantir l’interopérabilité et le choix de l'application de lecture sans multiplier les besoins de développement, il est conseillé de privilégier un standard ouvert comme le protocole OPDS (Open Publication Distribution System), version 2.0. Ce protocole permet aux applications de lecture de proposer un grand nombre de catalogues sans efforts de développement supplémentaires.
 
 Les catalogues créés avec le protocole OPDS permettent leur consultation directement au sein des applications de lecture, offrant ainsi à l'utilisateur la possibilité d'utiliser un logiciel auquel il est habitué. Cela évite à l'utilisateur de changer de contexte et de devoir comprendre l'organisation d'un site web, améliorant ainsi l'expérience utilisateur.
 
