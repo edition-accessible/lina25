@@ -6,6 +6,9 @@ previous: ../pages/diffuser.html
 titlePrev: Renseigner
 ---
 
+*Le Guide d'affichage des métadonnées est disponible en anglais à l'adresse <a href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/draft/guidelines/">https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/draft/guidelines/</a>. De précédentes versions étaient traduites pour faciliter les retours, mais la dernière version n'a pas été traduite. Un guide de référence en français à jour est néanmoins disponible à l'adresse <a href="../ressources/Informer" target="_self">recommandations françaises sur l'affichage des informations d'accessibilité</a>*
+
+
 <p>
   <a href="https://www.w3.org/standards/types%23reports"
     >Projet de rapport du groupe communautaire</a

@@ -81,19 +81,18 @@ Dans ce cas, il est recommandé de prévoir une version accessible de l'ouvrage 
 <h2>Ressources</h2>
 <ul>
 <li>
-
-<a href="https://edition-accessible.github.io/ePubAccessibleCharteSNE/charte.html#charte-1-1">Charte technique pour la production d’EPUBs nativement accessibles (SNE)</a></li>
-<li>
-
-<a href="/ressources/traiter.md">Traiter le fond</a></li>
-
-<li>
-
-<span lang="en"><a href="https://kb.daisy.org/publishing/docs/" class="link color_orange">Accessible Publishing Knowledge Base <span lang="fr">(en anglais, base de connaissance maintenue par le consortium DAISY)</span></a></span></li>
-
-<li><a href="https://www.oreilly.com/library/view/accessible-epub-3/9781449329297/" class="link color_orange">Accessible EPUB 3, by Matt Garrish <span lang="fr">(en anglais, ebook publié par O’Reilly, téléchargement gratuit)</span></a>
+  <a href="/ressources/traiter.md">Traiter le fond</a>
 </li>
-<li><a href="https://w3c.github.io/epub-specs/epub33/fxl-a11y/" class="link color_orange">EPUB Fixed Layout Accessibility <span lang="fr">(en anglais, travaux en cours sur l'accessibilité des formats EPUB Fixed Layout)</span></a>
+<li>
+  <a href="https://edition-accessible.github.io/ePubAccessibleCharteSNE/charte.html#charte-1-1" class="link color_orange">Charte technique pour la production d’EPUBs “textuels” nativement accessibles (SNE)</a></li>
+</li>
+<li>
+  <span lang="en"><a href="https://kb.daisy.org/publishing/docs/" class="link color_orange">Accessible Publishing Knowledge Base <span lang="fr">(en anglais, base de connaissance maintenue par le consortium DAISY)</span></a></span></li>
+<li>
+  <a href="https://www.oreilly.com/library/view/accessible-epub-3/9781449329297/" class="link color_orange">Accessible EPUB 3, by Matt Garrish <span lang="fr">(en anglais, ebook publié par O’Reilly, téléchargement gratuit)</span></a>
+</li>
+<li>
+  <a href="https://w3c.github.io/epub-specs/epub33/fxl-a11y/" class="link color_orange">EPUB Fixed Layout Accessibility <span lang="fr">(en anglais, travaux en cours sur l'accessibilité des formats EPUB Fixed Layout)</span></a>
 </li>
 </ul>
 
