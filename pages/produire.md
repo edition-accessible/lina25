@@ -7,7 +7,7 @@ orientation: assurer la qualité des fichiers produits et leur conformité avec 
 audience: services de production et prestataires techniques des éditeurs
 previous: ./concevoir.html
 next: ./collecter.html
-titleNext: Traiter
+titleNext: Renseigner
 titlePrev: Concevoir
 ---
 
@@ -81,10 +81,10 @@ Dans ce cas, il est recommandé de prévoir une version accessible de l'ouvrage 
 <h2>Ressources</h2>
 <ul>
 <li>
-  <a href="/ressources/traiter.md">Traiter le fond</a>
+  <a href="/ressources/traiter.md" class="link color_orange">Traiter le fond</a>
 </li>
 <li>
-  <a href="https://edition-accessible.github.io/ePubAccessibleCharteSNE/charte.html#charte-1-1" class="link color_orange">Charte technique pour la production d’EPUBs “textuels” nativement accessibles (SNE)</a></li>
+  <a href="https://edition-accessible.github.io/ePubAccessibleCharteSNE/charte.html#charte-1-1" class="link color_orange">Charte technique pour la production d’EPUBs “textuels” nativement accessibles (SNE)</a>
 </li>
 <li>
   <span lang="en"><a href="https://kb.daisy.org/publishing/docs/" class="link color_orange">Accessible Publishing Knowledge Base <span lang="fr">(en anglais, base de connaissance maintenue par le consortium DAISY)</span></a></span></li>
