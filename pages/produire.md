@@ -6,7 +6,7 @@ subtitle: des structures sémantiques riches
 orientation: assurer la qualité des fichiers produits et leur conformité avec les exigences de la directive européenne.
 audience: services de production et prestataires techniques des éditeurs
 previous: ./concevoir.html
-next: ./traiter.html
+next: ./collecter.html
 titleNext: Traiter
 titlePrev: Concevoir
 ---

@@ -5,7 +5,7 @@ date: 2023-03-06
 subtitle: une expérience de lecture riche
 orientation: permettre aux lecteurs d’exploiter les fonctionnalités d’accessibilité des livres numériques
 audience: développeurs d'outils de lecture
-previous: ./diffuser.html
+previous: ./distribuer.html
 next: ./lire.html
 titleNext: Lire
 titlePrev: Informer

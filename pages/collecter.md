@@ -5,7 +5,7 @@ date: 2023-11-16
 subtitle: et référencer des informations précises
 orientation: assurer la présence d’informations de qualité sur l’accessibilité des livres numériques
 audience: personnes en charge de produire, renseigner ou améliorer les métadonnées auprès des distributeurs, organismes de référencement et agences bibliographiques
-previous: ./traiter.html
+previous: ./produire.html
 next: ./diffuser.html
 titleNext: Informer
 titlePrev: Traiter
