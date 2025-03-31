@@ -6,9 +6,10 @@ subtitle: le fonds
 orientation: éviter la disparition d’un grand nombre de livres numériques
 audience: services de production
 previous: ./produire.html
-next: ./collecter.html
-titleNext: Renseigner
+# next: ./collecter.html
+# titleNext: Renseigner
 titlePrev: Produire
+# draft: true
 ---
 
 <div markdown="1" id="principes">

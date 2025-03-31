@@ -270,7 +270,6 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
 <th>Définition</th>
 <th>code ONIX</th>
 <th>En cas d’absence</th>
-<!--<th>Importance</th>-->
 </tr>
 </thead>
 <tbody>
@@ -279,28 +278,24 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
 <td></td>
 <td><a href="https://ns.editeur.org/onix/fr/143/13/">Liste 143 Code 13&#8239;: Avertissement&#8239;: risque de clignotement</a></td>
 <td>ignorer</td>
-<!--<td>forte</td>-->
 </tr>
 <tr class="odd">
 <td>Ce livre ne comporte pas de risques liés à des Flashs lumineux</td>
 <td></td>
 <td><a href="https://ns.editeur.org/onix/fr/143/14/">Liste 143 Code 14&#8239;: Aucun avertissement nécessaire pour les risques liés à un clignotement</a></td>
 <td>ignorer</td>
-<!-- <td>Ne devrait pas être affiché</td> -->
 </tr>
 <tr class="even">
 <td>Attention ce livre inclut des bruitages sonores</td>
 <td></td>
 <td><a href="https://ns.editeur.org/onix/fr/143/15/">Liste 143 Code 15&#8239;: risque sonore</a></td>
 <td>ignorer</td>
-<!--<td>forte</td>-->
 </tr>
 <tr class="even">
 <td>Ce livre ne comporte pas de risques liés à des bruitages sonores</td>
 <td></td>
 <td><a href="https://ns.editeur.org/onix/fr/143/16/">Liste 143 Code 16&#8239;: Aucun avertissement nécessaire pour les risques liés à un niveau sonore</a></td>
 <td>ignorer</td>
-<!-- <td>Ne devrait pas être affiché</td> -->
 </tr>
 <tr class="odd">
 <td>Attention ce livre inclut des sensations de mouvement</td>
@@ -314,7 +309,6 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
 <td></td>
 <td><a href="https://ns.editeur.org/onix/fr/143/18/">Liste 143 Code 18&#8239;: Aucun avertissement nécessaire pour les risques liés à des simulations de mouvement</a></td>
 <td>ignorer</td>
-<!-- <td>Ne devrait pas être affiché</td> -->
 </tr>
 </tbody>
 </table>
@@ -335,7 +329,6 @@ Ces informations de premier niveau constituent les fonctionnalités cruciales po
 <th>Définition</th>
 <th>code ONIX</th>
 <th>En cas d’absence</th>
-<!--<th>Importance</th>-->
 </tr>
 </thead>
 <tbody>
@@ -344,43 +337,31 @@ Ces informations de premier niveau constituent les fonctionnalités cruciales po
 <td></td>
 <td><a href="https://ns.editeur.org/onix/fr/196/02">Liste 196 Code 02 Spécifications d’accessibilité EPUB 1.0 A</a> ou <a href="https://ns.editeur.org/onix/fr/196/03">Liste 196 Code 03&#8239;: Spécifications d’accessibilité EPUB 1.0 AA</a></td>
 <td>Ignorer</td>
-<!--<td></td>-->
 </tr>
 <tr>
 <td>Responsable de la conformité</td>
 <td>Ce champ est obligatoire si une conformité est déclarée. Si la conformité est garantie par l'éditeur, ce champ doit être identique à celui indiquant l'éditeur. On parle dans ce cas d'auto-certification.</td>
 <td><a href="https://ns.editeur.org/onix/fr/196/90">196 90 Certification de conformité par</a></td>
 <td>Ignorer</td>
-<!-- <td></td> -->
 </tr>
 <tr>
 <td><a href="responsable-conformite.html">Lien vers la page du responsable de la conformité</a></td>
 <td>Contient un lien vers une page de l'organisme responsable de la conformité</td>
 <td><a href="https://ns.editeur.org/onix/fr/196/93">196 93 Certification de conformité par (URL).</a></td>
 <td>Ignorer</td>
-<!-- <td></td> -->
+
 </tr>
 <tr>
 <td><a href="infos-accessibilite-ed.html">Politique d’accessibilité de l’éditeur</a></td>
 <td></td>
 <td><a href="https://ns.editeur.org/onix/fr/196/96">Liste 196 code 96 Page web de l’éditeur pour les informations détaillées d’accessibilité</a></td>
 <td>ignorer</td>
-<!--<td></td>-->
-</tr>
-
-<tr>
-<td><a href="ace-smart-report-fr.html">Rapport de conformité</a></td>
-<td>Contient un lien vers une page détaillant les résultats des tests de conformité pour un titre.</td>
-<td><a href="https://ns.editeur.org/onix/fr/196/94">196 94 Page web pour les informations détaillées d’accessibilité</a></td>
-<td>Ignorer</td>
-<!-- <td></td> -->
 </tr>
 <tr>
 <td>texte</td>
 <td>Le résumé d'accessibilité doit être considéré comme un addendum. C'est un texte écrit par l’éditeur indiquant les limites ou les particularités qui ne sont pas exprimables autrement en ONIX.</td>
 <td><a href="https://ns.editeur.org/onix/fr/196/00">Liste 196 Code 00&#8239;: Résumé sur l’accessibilité content=“lorem ipsum …”</a></td>
 <td>ignorer</td>
-<!--<td></td>-->
 </tr>
 </tbody>
 </table>
