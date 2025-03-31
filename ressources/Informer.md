@@ -357,6 +357,12 @@ Ces informations de premier niveau constituent les fonctionnalités cruciales po
 <td><a href="https://ns.editeur.org/onix/fr/196/96">Liste 196 code 96 Page web de l’éditeur pour les informations détaillées d’accessibilité</a></td>
 <td>ignorer</td>
 </tr>
+<tr>
+<td>texte</td>
+<td>Le résumé d'accessibilité doit être considéré comme un addendum. C'est un texte écrit par l’éditeur indiquant les limites ou les particularités qui ne sont pas exprimables autrement en ONIX.</td>
+<td><a href="https://ns.editeur.org/onix/fr/196/00">Liste 196 Code 00&#8239;: Résumé sur l’accessibilité content=“lorem ipsum …”</a></td>
+<td>ignorer</td>
+</tr>
 </tbody>
 </table>
 </section>
