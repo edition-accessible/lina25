@@ -81,7 +81,7 @@ Dans ce cas, il est recommandé de prévoir une version accessible de l'ouvrage 
 <h2>Ressources</h2>
 <ul>
 <li>
-  <a href="/ressources/traiter.md" class="link color_orange">Traiter le fond</a>
+  <a href="../ressources/traiter" class="link color_orange" target="_self">Traiter le fond, éviter la disparition d’un grand nombre de livres numériques</a>
 </li>
 <li>
   <a href="https://edition-accessible.github.io/ePubAccessibleCharteSNE/charte.html#charte-1-1" class="link color_orange">Charte technique pour la production d’EPUBs “textuels” nativement accessibles (SNE)</a>
