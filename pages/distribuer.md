@@ -69,7 +69,7 @@ Bien sûr, pour que le lecteur en tire tout le bénéfice possible, il est néce
 
 <a href="https://www.legifrance.gouv.fr/codes/section_lc/JORFTEXT000000809647/LEGISCTA000006125163/#LEGISCTA000006125163" class="link color_orange">Article 47 de la Loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées</a>
 
-<a href="https://www.culture.gouv.fr/Thematiques/livre-et-lecture/le-livre-et-la-lecture-en-france2/accessibilite-du-livre-et-de-la-lecture2/l-acces-a-la-lecture-pour-les-personnes-en-situation-de-handicap">L’accès à la lecture pour les personnes en situation de handicap (Ministère de la culture et de la communication)
+<a href="https://www.culture.gouv.fr/fr/thematiques/livre-et-lecture/documentation/economie-du-livre/etudes-et-rapports/etude-sur-l-accessibilite-effective-des-sites-de-vente-et-de-pret-de-livres-numeriques" class="link color_orange">Étude sur l’accessibilité effective des sites de vente et de prêt de livres numériques (décembre 2024)</a>
 
 <h3>Standards</h3>
 
