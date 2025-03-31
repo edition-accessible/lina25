@@ -6,7 +6,7 @@ subtitle: et conseiller au plus près des besoins
 orientation: informer le lecteur avant achat ou emprunt.
 audience: libraires et bibliothèques
 previous: ./collecter.html
-next: ./afficher.html
+next: ./distribuer.html
 titleNext: Afficher
 titlePrev: Renseigner
 ---
