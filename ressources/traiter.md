@@ -1,9 +1,9 @@
 ---
-layout: page
-title: Traiter
+layout: document
+title: Traiter le fonds, éviter la disparition d’un grand nombre de livres numériques
 date: 2024-07-01
-subtitle: le fonds
-orientation: éviter la disparition d’un grand nombre de livres numériques
+subtitle: 
+orientation: 
 audience: services de production
 previous: ./produire.html
 # next: ./collecter.html

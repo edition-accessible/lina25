@@ -7,7 +7,7 @@ orientation: informer le lecteur avant achat ou emprunt.
 audience: libraires et bibliothèques
 previous: ./collecter.html
 next: ./distribuer.html
-titleNext: Afficher
+titleNext: Distribuer
 titlePrev: Renseigner
 ---
 

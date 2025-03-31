@@ -8,7 +8,7 @@ audience: personnes en charge de produire, renseigner ou améliorer les métadon
 previous: ./produire.html
 next: ./diffuser.html
 titleNext: Informer
-titlePrev: Traiter
+titlePrev: Produire
 ---
 
 <div markdown="1" id="principes">

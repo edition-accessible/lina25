@@ -8,7 +8,7 @@ audience: libraires et bibliothèques
 previous: ./diffuser.html
 next: ./afficher.html
 titleNext: Afficher
-titlePrev: Informer
+titlePrev: Diffuser
 draft: false
 ---
 
