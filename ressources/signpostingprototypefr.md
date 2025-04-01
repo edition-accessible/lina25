@@ -160,7 +160,7 @@ draft: false
     </article>
 </section>
 <section id="p3_filtre" class="info js-tabcontent">
-    <h3>Options de filtrage</h3>
+    <h2>Options de filtrage</h2>
     <article class="fichelivre">
     <p><i>En complément des recherches par format et mesures de protection.</i></p>
     <ul class="facet-multiselect-checkbox">

@@ -29,4 +29,5 @@ Merci aux partenaires qui ont bien voulu nous conseiller dans la rédaction des 
 * Nord Compo
 * TiteLive
 * Service du livre et de la lecture, ministère de la culture.
+* Association Valentin Haüy
 
