@@ -57,6 +57,10 @@ Les liseuses sont des appareils grand public sans clavier, de basse consommation
 <ul>
 
 <li>
+<a href="../ressources/accessibile_adapte" class="link color_orange"><cite >Tour d'horizon de l'accessibilité des systèmes de lecture.</cite> Adaptation française de l'article <cite >Reading Systems Accessibility Support Roundup.</cite> Inclusive publishing, 2022.</a>
+</li>
+
+<li>
 <a href="https://edition-accessible.github.io/lina25/ressources/accessibilite_lecture" class="link color_orange"><cite >Tour d'horizon de l'accessibilité des systèmes de lecture.</cite> Adaptation française de l'article <cite >Reading Systems Accessibility Support Roundup.</cite> Inclusive publishing, 2022.</a>
 </li>
 
@@ -85,7 +89,7 @@ Les liseuses sont des appareils grand public sans clavier, de basse consommation
 
 <ul>
 <li>
-<a href="https://inclusivepublishing.org/rs-accessibility/" class="link color_orange" lang="en"><cite >Reading Systems Accessibility Support Roundup.</cite> Inclusive publishing, 2022.</a>
+<a href="https://inclusivepublishing.org/rs-accessibility/" class="link color_orange" lang="en"><cite >Reading Systems Accessibility Support Roundup.</cite> Inclusive publishing, 2025.</a>
 </li>
 
 <li>
