@@ -11,7 +11,7 @@ titlePrev: lire
 
 Dans le domaine de l'édition numérique, l'accessibilité est devenue une priorité pour garantir que tous les lecteurs, y compris ceux ayant des handicaps, puissent accéder aux contenus de manière équitable. Deux approches principales se distinguent et se complètent : l'édition nativement accessible et l'édition adaptée. Bien que ces deux méthodes visent à améliorer l’offre de lecture disponible aux personnes empêchées de lire le texte imprimé, elles diffèrent dans leur approche et leur mise en œuvre. Cet article explore les différences entre ces deux types d'édition et examine leur interopérabilité.
 
-## L'Édition nativement accessible
+## L'édition nativement accessible
 
 L'édition nativement accessible consiste à créer des contenus numériques conçus pour satisfaire le plus grand nombre. Ces publications permettent aux personnes de personnaliser leur expérience de lecture, dans la limite des capacités des logiciels utilisés. Cette approche repose sur l'utilisation de formats de fichiers modernes, tels que l'EPUB (Electronic PUBlication), et de règles internationales reconnues sur l'intégration de fonctionnalités d'accessibilité ([WCAG](https://www.w3.org/Translations/WCAG22-fr/)).
 
@@ -23,9 +23,9 @@ Les avantages de l'édition nativement accessible sont nombreux :
 
 Cependant, cette approche nécessite une sensibilisation et une formation dédiée des professionnels du monde de l’édition (auteurs, éditeurs, graphistes, fabricants, etc.), une vigilance constante pour s'assurer que toutes les normes sont respectées et entraîne une légère augmentation des coûts de production. 
 
-## L'Édition Adaptée
+## L'édition adaptée
 
-Aujourd’hui, l'édition adaptée, consiste à modifier des contenus existants pour les rendre accessibles pour des utilisateurs ayant des besoins spécifiques. Cette méthode est le plus souvent utilisée pour les publications qui n'ont pas été conçues de manière nativement accessible. Néanmoins, son objectif est plus large puisqu'il consiste à couvrir des besoins spécifiques qui ne peuvent pas être adressés aujourd'hui par des formats nativements accessibles, comme des adaptations pédagogiques ou des modes de lecture trop chers à produire (imprimés gros caractères, braille embossé, audio ou vidéo structurés et synchronisés, etc.). C’est pourquoi elle ne rentre pas en conflit avec l’édition nativement accessible. Elle peut impliquer la conversion de formats de fichiers, des formats différents pour les images (tactile ou en relief par exemple), la modification de la mise en page pour améliorer la lisibilité ou encore la colorisation d’unités de sens.
+Aujourd’hui, l'édition adaptée, consiste à modifier des contenus existants pour les rendre accessibles pour des utilisateurs ayant des besoins spécifiques. Cette méthode est le plus souvent utilisée pour les publications qui n'ont pas été conçues de manière nativement accessible. Néanmoins, son objectif est plus large puisqu'il consiste à couvrir des besoins spécifiques qui ne peuvent pas être adressés aujourd'hui par des formats nativement accessibles, comme des adaptations pédagogiques ou des modes de lecture trop chers à produire (imprimés gros caractères, braille embossé, audio ou vidéo structurés et synchronisés, etc.). C’est pourquoi elle ne rentre pas en conflit avec l’édition nativement accessible. Elle peut impliquer la conversion de formats de fichiers, des formats différents pour les images (tactile ou en relief par exemple), la modification de la mise en page pour améliorer la lisibilité ou encore la colorisation d’unités de sens.
 
 Les avantages de l'édition adaptée incluent :
 
@@ -52,7 +52,3 @@ Pour garantir un accès à la lecture étendu, il est indispensable que les outi
 À l’inverse, il est bienvenue que certains logiciels de lecture grand public, tels que Thorium, prenne en charge le format Daisy. De plus, l'adoption de la DRM LCP (Licensed Content Protection) permet de protéger les contenus tout en garantissant leur accessibilité. Les catalogues OPDS (Open Publication Distribution System) jouent également un rôle crucial en facilitant la distribution de contenus accessibles, permettant un parcours de lecture complet depuis une seule interface. 
 
 Cette convergence permet de créer un écosystème où les lecteurs, qu'ils utilisent des outils mainstream ou spécialisés, peuvent accéder aux mêmes contenus de manière fluide et inclusive.
-
-## Conclusion
-
-L'édition nativement accessible et l'édition adaptée jouent toutes deux un rôle crucial dans la promotion de l'accessibilité numérique. Bien que l'édition nativement accessible soit l'idéal à long terme, l'édition adaptée reste une solution viable pour rendre accessibles des contenus existants, et s‘avère indispensable pour répondre à des besoins spécifiques. En combinant ces deux approches et en veillant à leur interopérabilité, les éditeurs peuvent offrir une expérience de lecture inclusive et équitable à tous les utilisateurs.
