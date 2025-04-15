@@ -35,7 +35,7 @@ draft: false
         <li class="prototype">Lisible en en braille ou voix de synthèse.</li>
         </ul>
 </li>
-    <li class="prototype"><b>Utilisabilité</b>
+    <li class="prototype"><b>Points de repère</b>
         <ul>
         <li class="prototype">Référence à la pagination du livre imprimé 9780000000000.</li>
         <li class="prototype">Table des matières. </li>
@@ -83,7 +83,7 @@ draft: false
         <li class="prototype">Audio préenregistré synchronisé avec du texte.</li>
         </ul>
 </li>
-    <li class="prototype"><b>Utilisabilité</b>
+    <li class="prototype"><b>Points de repère</b>
         <ul>
         <li class="prototype">Table des matières. </li>
         </ul>
@@ -126,7 +126,7 @@ draft: false
         <li class="prototype">Audio préenregistré</li>
         </ul>
 </li>
-    <li class="prototype"><b>Utilisabilité</b>
+    <li class="prototype"><b>Points de repère</b>
         <ul>
         <li class="prototype">Table des matières. </li>
         </ul>

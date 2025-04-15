@@ -59,39 +59,39 @@
         }
     },
     "conformance": {
-        "conformance-title": "Conformité",
-        "conformance-details-title": "Informations détaillées sur la conformité",
+        "conformance-title": "Règles d'accessibilité",
+        "conformance-details-title": "Informations détaillées sur les règles d'accessibilité",
         "conformance-a": {
-            "compact": "Cette publication répond aux normes minimales d'accessibilité",
-            "descriptive": "La publication contient une déclaration de conformité indiquant qu'elle respecte les normes d'accessibilité EPUB et WCAG 2 niveau A"
+            "compact": "Cette publication répond aux règles minimales d'accessibilité",
+            "descriptive": "La publication indique qu'elle respecte les règles d'accessibilité EPUB et WCAG 2 niveau A"
         },
         "conformance-aa": {
-            "compact": "Cette publication répond aux normes d'accessibilité reconnues",
-            "descriptive": "La publication contient une déclaration de conformité à la norme EPUB Accessibility et WCAG 2 Level AA"
+            "compact": "Cette publication répond aux règles d'accessibilité reconnues",
+            "descriptive": "La publication indique qu'elle respecte les règles d'accessibilité EPUB et WCAG 2 niveau AA"
         },
         "conformance-aaa": {
-            "compact": "Cette publication dépasse les normes d'accessibilité reconnues",
-            "descriptive": "La publication contient une déclaration de conformité à la norme EPUB Accessibility et WCAG 2 Level AAA"
+            "compact": "Cette publication dépasse les règles d'accessibilité reconnues",
+            "descriptive": "La publication indique qu'elle respecte les règles d'accessibilité EPUB et WCAG 2 niveau AAA"
         },
         "conformance-certifier": {
-            "compact": "La conformité a été évaluée par ",
-            "descriptive": "La conformité a été évaluée par "
+            "compact": "Accessibilité évaluée par ",
+            "descriptive": "Le respect des normes d'accessibilité a été évaluée par "
         },
         "conformance-certifier-credentials": {
-            "compact": "L'évaluateur est certifié par ",
-            "descriptive": "L'évaluateur est certifié par "
+            "compact": "L'évaluateur est accrédité par ",
+            "descriptive": "L'évaluateur est accrédité par "
         },
         "conformance-details-certification-info": {
-            "compact": "La conformité a été évaluée le ",
-            "descriptive": "La conformité a été évaluée le "
+            "compact": "Accessibilité évaluée le ",
+            "descriptive": "Le respect des normes d'accessibilité a été évaluée le "
         },
         "conformance-details-certifier-report": {
             "compact": "Pour plus d'informations, voir le rapport d'évaluation",
             "descriptive": "Pour plus d'informations, voir le rapport d'évaluation"
         },
         "conformance-details-claim": {
-            "compact": "Cette publication annonce répondre",
-            "descriptive": "Cette publication annonce répondre"
+            "compact": "Respecte ",
+            "descriptive": "Cette publication indique respecter "
         },
         "conformance-details-epub-accessibility-1-0": {
             "compact": "EPUB Accessibilité 1.0",
@@ -126,19 +126,19 @@
             "descriptive": "Règles pour l’accessibilité des contenus Web (WCAG) 2.2"
         },
         "conformance-no": {
-            "compact": "Aucune information n'est disponible",
-            "descriptive": "Aucune information n'est disponible"
+            "compact": "Aucune information disponible",
+            "descriptive": "Aucune information disponible"
         },
         "conformance-unknown-standard": {
-            "compact": "La conformité aux normes acceptées pour l'accessibilité de cette publication ne peut être déterminée",
-            "descriptive": "La conformité aux normes acceptées pour l'accessibilité de cette publication ne peut être déterminée"
+            "compact": "Aucune indication concernant les normes d'accessibilité",
+            "descriptive": "Aucune indication concernant les normes d'accessibilité"
         }
     },
     "navigation": {
-        "navigation-title": "Utilisabilité",
+        "navigation-title": "Points de repère",
         "navigation-index": {
             "compact": "Index",
-            "descriptive": "Index avec liens vers les entrées référencées"
+            "descriptive": "Index comportant des liens vers les entrées référencées"
         },
         "navigation-no-metadata": {
             "compact": "Aucune information disponible",
@@ -146,7 +146,7 @@
         },
         "navigation-page-navigation": {
             "compact": "Aller à la page",
-            "descriptive": "Liste de pages pour accéder aux pages de la version source imprimée"
+            "descriptive": "Permet d'accéder aux pages de la version source imprimée"
         },
         "navigation-structural": {
             "compact": "Titres",
@@ -154,7 +154,7 @@
         },
         "navigation-toc": {
             "compact": "Table des matières",
-            "descriptive": "Table des matières des chapitres et sections"
+            "descriptive": "Table des matières"
         }
     },
     "rich-content": {
@@ -188,7 +188,7 @@
             "descriptive": "Information-rich images are described by extended descriptions"
         },
         "rich-content-open-captions": {
-            "compact": "Sous-titres incrustées dans les vidéos",
+            "compact": "Sous-titres incrustés dans les vidéos",
             "descriptive": "Des sous titres sont incrustés pour les vidéos"
         },
         "rich-content-transcript": {
@@ -196,8 +196,8 @@
             "descriptive": "Des transcriptions textuelles sont fournies pour les contenus audio ou vidéo"
         },
         "rich-content-unknown": {
-            "compact": "Aucune information n'est disponible",
-            "descriptive": "Aucune information n'est disponible"
+            "compact": "Aucune information disponible",
+            "descriptive": "Aucune information disponible"
         }
     },
     "hazards": {
@@ -227,8 +227,8 @@
             "descriptive": "La présence de sensations de mouvement susceptibles de provoquer de l'inconfort n'a pas pu être déterminée"
         },
         "hazards-no-metadata": {
-            "compact": "Aucune information n'est disponible",
-            "descriptive": "Aucune information n'est disponible"
+            "compact": "Aucune information disponible",
+            "descriptive": "Aucune information disponible"
         },
         "hazards-none": {
             "compact": "Aucun points d'attention",
@@ -254,8 +254,8 @@
     "accessibility-summary": {
         "accessibility-summary-title": "Informations d'accessibilité supplémentaires fournies par l'éditeur",
         "accessibility-summary-no-metadata": {
-            "compact": "Aucune information n'est disponible",
-            "descriptive": "Aucune information n'est disponible"
+            "compact": "Aucune information disponible",
+            "descriptive": "Aucune information disponible"
         },
         "accessibility-summary-publisher-contact": {
             "compact": "Pour plus d'informations sur l'accessibilité, contacter : ",
@@ -269,8 +269,8 @@
             "descriptive": "Cette publication fait l'objet d'une dérogation en matière d'accessibilité dans certaines juridictions"
         },
         "legal-considerations-no-metadata": {
-            "compact": "Aucune information n'est disponible",
-            "descriptive": "Aucune information n'est disponible"
+            "compact": "Aucune information disponible",
+            "descriptive": "Aucune information disponible"
         }
     },
     "additional-accessibility-information": {
