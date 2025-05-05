@@ -99,13 +99,13 @@ Malgré les progrès réalisés, plusieurs défis subsistent :
 <h3>Au sujet des livres imprimés</h3>
 <p>Les livres imprimés ne peuvent prétendre à une accessibilité universelle, à moins d'être livrés en différentes versions dans une même édition. Cependant certaines éditions spécialisées peuvent répondre à des besoins spécifiques. </p>
 <p>ONIX permet d'informer sur ces éditions. Si la liste 196 est dédiée à l'accessibilité numérique, la <a href="https://ns.editeur.org/onix/fr/21">liste 21</a> permet d'indiquer un type d'édition particulier. On retiendra en particulier&#8239;:</p>
-<ul>
-<li><a href="https://ns.editeur.org/onix/fr/21/HRE">21:HRE Édition haute lisibilité</a></li>
-<li><a href="https://ns.editeur.org/onix/fr/21/BRL">21:BRL Édition en Braille</a></li>
-<li><a href="https://ns.editeur.org/onix/fr/21/ETR">21:ETR Édition facile à lire</a></li>
-<li><a href="https://ns.editeur.org/onix/fr/21/LTE">21:LTE Édition en grands caractères</a></li>
-<li><a href="https://ns.editeur.org/onix/fr/21/ULP">21:ULP Édition en très gros caractères</a></li>
-</ul>
+
+* <a href="https://ns.editeur.org/onix/fr/21/HRE">21:HRE Édition haute lisibilité</a>
+* <a href="https://ns.editeur.org/onix/fr/21/BRL">21:BRL Édition en Braille</a>
+* <a href="https://ns.editeur.org/onix/fr/21/ETR">21:ETR Édition facile à lire</a>
+* <a href="https://ns.editeur.org/onix/fr/21/LTE">21:LTE Édition en grands caractères</a>
+* <a href="https://ns.editeur.org/onix/fr/21/ULP">21:ULP Édition en très gros caractères</a>
+  
 <p>Les libellés peuvent être utilisés tels que proposés par ONIX.</p>
 
 </div>
