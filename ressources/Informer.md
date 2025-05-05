@@ -9,7 +9,9 @@ draft: false
 
 <div markdown = "1" id="principes">
 
-Note : *Le Guide d'affichage des métadonnées est disponible en anglais à l'adresse <a href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/draft/guidelines/">https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/draft/guidelines/</a>. De précédentes versions étaient traduites pour faciliter les retours, mais la dernière version n'a pas été traduite. Cette page est un guide de référence à jour et en français.*
+*Cette page est en cours de mise à jour.*
+
+*Le Guide d'affichage des métadonnées est disponible en anglais à l'adresse <a href="https://www.w3.org/publishing/a11y/metadata-display-guide/guidelines/">https://www.w3.org/publishing/a11y/metadata-display-guide/guidelines/</a>. De précédentes versions étaient traduites pour faciliter les retours, mais la dernière version n'a pas été traduite. Cette page est un guide de référence en français.*
 
 *Cette recommandation est établie au niveau international par le W3C et transcrite en français à partir d’un travail interprofessionnel piloté par EDRLab dans le cadre d’une mission confiée par le comité de pilotage interministeriel. Elle a désormais atteint une maturité suffisante mais peut être mise à jour en fonction des avancées du projet et des recommandations internationales.*
 
@@ -59,11 +61,7 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
 * Si aucune des informations n’est fournie, afficher&#8239;: <strong>Aucune information sur l’accessibilité n’est disponible</strong>. Il est conseillé de préciser les informations suivantes : 
   * <em>peut ne pas être entièrement lisible en voix de synthèse et braille</em> ; 
   * <em>les possibilités d'adaptation de l'affichage ne sont pas connue</em> ; 
-  * <em>aucune conformité déclarée</em>.
 * Si une ou plusieurs des informations ci-dessous sont présentes, elles devraient être regroupées sous un niveau de titre logique. L’intitulé de ce titre devrait être <strong>Accessibilité</strong> ou <strong>Informations d’accessibilité</strong>. Le pictogramme de l’homme de Vitruve pourra être utilisé en complément.
-
-<p>Chaque tableau indique une catégorie d'information qui peuvent être affichées sur une seule ligne ou regroupées sous l'intitulé correspondant. Les intitulés des catégories peuvent être repris ou omis.</p>
-<p>Les éléments d'importance forte devraient toujours être affichés et visibles sans action spécifique de l'utilisateur. Les autres éléments peuvent être masqués et disponibles seulement après action de l'utilisateur (élément détail, tooltip, popup ou lien vers une portion plus lointaine de la page web). Certains éléments peuvent ne pas être affichés si une conformité est déclarée.</p>
 
 <details>
 <summary>Note sur l'usage des pictogrammes</summary>
@@ -78,6 +76,10 @@ La langue principale du contenu permet au lecteur de s’assurer qu’il pourra 
 </ul>
 
 </details>
+
+
+<p>Chaque tableau indique une catégorie d'information qui peuvent être affichées sur une seule ligne ou regroupées sous l'intitulé correspondant. Les intitulés des catégories peuvent être repris ou omis.</p>
+<p>Les éléments d'importance forte devraient toujours être affichés et visibles sans action spécifique de l'utilisateur. Les autres éléments peuvent être masqués et disponibles seulement après action de l'utilisateur (élément détail, tooltip, popup ou lien vers une portion plus lointaine de la page web). Certains éléments peuvent ne pas être affichés si une conformité est déclarée.</p>
 
 <h4>Modes de lecture</h4>
 <table  class="zebra">
