@@ -1,7 +1,7 @@
 ---
 layout: document
 date: 2025-05-05
-title: "Recommandations pour l'affichage des informations d'accessibilité"
+title: "Vocabulaire recommandé pour l'affichage des informations d'accessibilité"
 previous: ../pages/diffuser.html
 titlePrev: Informer
 draft: false
