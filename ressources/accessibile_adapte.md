@@ -42,13 +42,13 @@ Pour ce faire, il est essentiel de :
 
 * Adopter des normes d'accessibilité communes et reconnues, telles que les WCAG, pour garantir une certaine cohérence entre les contenus nativement accessibles et adaptés, et éviter dans la mesure du possible que les personnes aient à apprendre à manipuler de nouveaux formats.  
 * Les créateurs d’adaptations doivent être formés aux principes de l'accessibilité et aux outils disponibles pour créer et adapter des contenus.  
-* Utiliser un format pivot comme l'EPUB 3, qui repose sur des contenus HTML5, permet de générer d'autres formats adaptés, facilitant ainsi la conversion et la distribution des contenus dans des formes au plkus proche des besoins.  
+* Utiliser un format pivot comme l'EPUB 3, qui repose sur des contenus HTML5, permet de générer d'autres formats adaptés, facilitant ainsi la conversion et la distribution des contenus dans des formes au plus proche des besoins.  
 * Effectuer des tests réguliers permet de s'assurer que les contenus restent accessibles, même après des modifications ou des mises à jour.
 
 ## Nécessaire convergence entre outils de lecture mainstream et spécialisés
 
 Pour garantir un accès à la lecture étendu, il est indispensable que les outils de lecture mainstream et spécialisés convergent. Les formats tels que l'EPUB 3, qui intègrent des fonctionnalités d'accessibilité avancées, doivent être pris en charge par tous les types de lecteurs. 
 
-À l’inverse, il est bienvenue que certains logiciels de lecture grand public, tels que Thorium, prenne en charge le format Daisy. De plus, l'adoption de la DRM LCP (Licensed Content Protection) permet de protéger les contenus tout en garantissant leur accessibilité. Les catalogues OPDS (Open Publication Distribution System) jouent également un rôle crucial en facilitant la distribution de contenus accessibles, permettant un parcours de lecture complet depuis une seule interface. 
+À l’inverse, il est bienvenu que certains logiciels de lecture grand public, tels que Thorium, prennent en charge le format Daisy. De plus, l'adoption de la DRM LCP (Licensed Content Protection) permet de protéger les contenus tout en garantissant leur accessibilité. Les catalogues OPDS (Open Publication Distribution System) jouent également un rôle crucial en facilitant la distribution de contenus accessibles, permettant un parcours de lecture complet depuis une seule interface. 
 
 Cette convergence permet de créer un écosystème où les lecteurs, qu'ils utilisent des outils mainstream ou spécialisés, peuvent accéder aux mêmes contenus de manière fluide et inclusive.
