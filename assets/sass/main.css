@@ -60,12 +60,18 @@ body {
   margin: auto;
 }
 
-a,
+a {
+  list-style-type: none;
+  text-decoration: none;
+  color: #5c64b4; 
+  margin-bottom: 1em;
+}
+
 li,
 span {
   list-style-type: none;
-  /* text-decoration: none;
-  color: #5c64b4; */
+  text-decoration: none;
+  /*color: #5c64b4; */
   margin-bottom: 1em;
 }
 
