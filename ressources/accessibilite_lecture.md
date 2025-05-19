@@ -15,12 +15,12 @@ Nous lisons des livres numériques en utilisant une application, un appareil ou 
 
 Il existe de nombreuses applications de lecture différentes qui présentent de grandes différences en termes d'accessibilité. Les caractéristiques typiques sont les suivantes&nbsp;:
 
-* des moyens de se déplacer dans les publications, par table des matières, numéro de page imprimé et points de repères ;
-* la possibilité de modifier la présentation visuelle du contenu ; 
+* des moyens de se déplacer dans les publications, par table des matières, numéro de page imprimé et points de repères&nbsp;;
+* la possibilité de modifier la présentation visuelle du contenu&nbsp;; 
 * une fonction intégrée de lecture à haute voix (TTS) avec mise en évidence visuelle, style karaoké
 * la prise en charge des lecteurs d'écran pour les sorties vocales et braille.
 
-Avec un tel choix, comment trouver l'application qui vous conviendra le mieux ?
+Avec un tel choix, comment trouver l'application qui vous conviendra le mieux&nbsp;?
 
 Nous vous présentons ici quelques unes des applications de lecture populaires qui peuvent être utilisées avec des livres au format EPUB. Leur évaluation détaillée a été réalisées par et avec des personnes empéchées de lire les textes imprimés. Vous trouverez plus d'informations sur notre protocole d'évaluation à la fin de cet article.
 
@@ -123,7 +123,7 @@ Les évaluateurs ont aimé&nbsp;: De nombreuses fonctionnalités utiles sont pro
 Attention&nbsp;:  Il manque certaines fonctionnalités qui seraient importantes pour les lecteurs de contenu éducatif, comme les images, les tableaux et les hyperliens. Cette application est payante.
 
 
-## Comment les fonctionnalités d'accessibilité ont-elles été évaluées ?
+## Comment les fonctionnalités d'accessibilité ont-elles été évaluées&nbsp;?
 
 Les applications sont évaluées à l'aide du protocole publié sur epubtest.org. Ce protocole de test d'accessibilité a été élaboré en collaboration avec des personnes souffrant d'un handicap de lecture, des experts en accessibilité et des développeurs de systèmes de lecture.
 

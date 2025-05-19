@@ -36,14 +36,14 @@ Il n'est pas nécessaire d'inclure ces métadonnées dans la section relative à
 
 Le guide du W3C identifie huit catégories clés pour informer sur l'accessibilité d'un livre numérique&nbsp;:
 
-* Lisibilité (<span lang="en">Ways of reading</span>)&nbsp;: Peut-on modifier l'apparence du texte et de la mise en page ? Peut-on lire ce livre en braille ou avec la voix de synthèse ?
-* Règles d'accessibilité (<span lang="en">Conformance</span>)&nbsp;: Le livre respecte-t-il des normes reconnues (comme WCAG 2.1) ?
-* Points de repère (<span lang="en">Navigation</span>)&nbsp;: Le livre inclut-il des tables des matières, des index, ou des références de pagination ?
-* Contenus spécifiques (<span lang="en">Rich content</span>)&nbsp;: Les images, graphiques ou formules mathématiques sont-ils décrits de manière accessible ?
-* Points d'attention (<span lang="en">Hazards</span>)&nbsp;: Le livre contient-il des éléments potentiellement problématiques (flashs, sons intempestifs) ?
-* Informations supplémentaires (<span lang="en">Accessibility summary</span>)&nbsp;: Des détails sur l'accessibilité sont-ils fournis ?
-* Considérations juridiques (<span lang="en">Legal considerations</span>)&nbsp;: Le livre respecte-t-il les exigences légales en matière d'accessibilité ?
-* Informations complémentaires (<span lang="en">Additional accessibility information</span>)&nbsp;: D'autres fonctionnalités d'accessibilité sont-elles disponibles ?
+* Lisibilité (<span lang="en">Ways of reading</span>)&nbsp;: Peut-on modifier l'apparence du texte et de la mise en page&nbsp;? Peut-on lire ce livre en braille ou avec la voix de synthèse&nbsp;?
+* Règles d'accessibilité (<span lang="en">Conformance</span>)&nbsp;: Le livre respecte-t-il des normes reconnues (comme WCAG 2.1)&nbsp;?
+* Points de repère (<span lang="en">Navigation</span>)&nbsp;: Le livre inclut-il des tables des matières, des index, ou des références de pagination&nbsp;?
+* Contenus spécifiques (<span lang="en">Rich content</span>)&nbsp;: Les images, graphiques ou formules mathématiques sont-ils décrits de manière accessible&nbsp;?
+* Points d'attention (<span lang="en">Hazards</span>)&nbsp;: Le livre contient-il des éléments potentiellement problématiques (flashs, sons intempestifs)&nbsp;?
+* Informations supplémentaires (<span lang="en">Accessibility summary</span>)&nbsp;: Des détails sur l'accessibilité sont-ils fournis&nbsp;?
+* Considérations juridiques (<span lang="en">Legal considerations</span>)&nbsp;: Le livre respecte-t-il les exigences légales en matière d'accessibilité&nbsp;?
+* Informations complémentaires (<span lang="en">Additional accessibility information</span>)&nbsp;: D'autres fonctionnalités d'accessibilité sont-elles disponibles&nbsp;?
 
 <h3>Trois informations clés à toujours afficher</h3>
 

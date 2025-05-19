@@ -18,7 +18,7 @@ L'édition nativement accessible consiste à créer des contenus numériques con
 Les avantages de l'édition nativement accessible sont nombreux&nbsp;:
 
 * En intégrant l'accessibilité dès la conception, les éditeurs s'assurent qu’une majorité de lecteurs peuvent accéder au contenu sans délai et sans aide, favorisant l’inclusion des personnes en situation de handicap.  
-* Corriger l'accessibilité est coûteux et chronophage ; l’approche native est plus rationnelle et permet de limiter les coûts de production d'éditions dérivées et complémentaires, notamment dans des formats adaptés à des besoins spécifiques.   
+* Corriger l'accessibilité est coûteux et chronophage&nbsp;; l’approche native est plus rationnelle et permet de limiter les coûts de production d'éditions dérivées et complémentaires, notamment dans des formats adaptés à des besoins spécifiques.   
 * Les contenus nativement accessibles sont bien structurés, ce qui les rend plus durables dans le temps, et réutilisables pour d’autres usages. Les contenus sont ainsi plus faciles à comprendre et à utiliser, ce qui améliore globalement l'expérience utilisateur et favorise une utilisation plus large et diversifiée des ressources éditoriales. 
 
 Cependant, cette approche nécessite une sensibilisation et une formation dédiée des professionnels du monde de l’édition (auteurs, éditeurs, graphistes, fabricants, etc.), une vigilance constante pour s'assurer que toutes les normes sont respectées et entraîne une légère augmentation des coûts de production. 

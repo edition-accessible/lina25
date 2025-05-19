@@ -981,7 +981,7 @@ Parmi les exemples de publications numériques figurent les livres électronique
 </p>
 <p>
   Nous recherchons activement des commentaires sur cette section "considérations
-  juridiques". Si vous êtes éditeur, nous avons besoin de vos commentaires !
+  juridiques". Si vous êtes éditeur, nous avons besoin de vos commentaires&nbsp;!
 </p>
 <p>
   Cette information clé doit être cachée si les métadonnées ne sont pas
