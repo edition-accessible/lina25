@@ -14,7 +14,7 @@ draft: false
 En pratique, nous avons créé des <a href="signpostingprototypefr.html">prototypes de pages d'information sur les livres sous forme de pages web HTML entièrement accessibles</a>. Nous avons basé ces prototypes sur le guide existant, proposé par le World Wide Web Consortium (W3C).</p>
 
 <p>
-Une invitation a été envoyée à 70 personnes sélectionnées parmi tous les acteurs de l'écosystème du livre numérique, y compris les organisations représentant les personnes handicapées (aveugles, malvoyants et dys), les bibliothèques desservant les personnes incapables de lire les imprimés et les bibliothèques publiques. 51 personnes ont répondu Il leur a été demandé de manipuler les prototypes et de participer à deux ateliers pour discuter et répondre aux deux questions suivantes : 
+Une invitation a été envoyée à 70 personnes sélectionnées parmi tous les acteurs de l'écosystème du livre numérique, y compris les organisations représentant les personnes handicapées (aveugles, malvoyants et dys), les bibliothèques desservant les personnes incapables de lire les imprimés et les bibliothèques publiques. 51 personnes ont répondu Il leur a été demandé de manipuler les prototypes et de participer à deux ateliers pour discuter et répondre aux deux questions suivantes&nbsp;: 
 
 * les informations fournies sont-elles sont-elles utiles pour m'aider à choisir un livre qui répond à mes besoins ? 
 * Ces informations sont-elles présentes et accessibles aux utilisateurs ?
@@ -46,12 +46,12 @@ Ces outils se composent de publications regroupées dans une base de ressources 
 
 <h2 id="pdt">Plan de travail</h2>
 
-<p>Le projet est composé de 4 phases :
+<p>Le projet est composé de 4 phases&nbsp;:
 </p><ul>
-<li>Phase 1 : analyse et collecte des données</li>
-<li>Phase 2 : prototypes et itérations</li>
-<li>Phase 3 : mise en situation réelle</li>
-<li>Phase 4 : recommandations</li>
+<li>Phase 1&nbsp;: analyse et collecte des données</li>
+<li>Phase 2&nbsp;: prototypes et itérations</li>
+<li>Phase 3&nbsp;: mise en situation réelle</li>
+<li>Phase 4&nbsp;: recommandations</li>
 </ul>
 <figure>
 <figcaption>Le diagramme de Gantt suivant représente les 4 phases du projet au 1er
@@ -65,32 +65,32 @@ s'achever en juin 2025</figcaption>
 <article>
 <h2 id="steps">Étapes réalisées</h2>
 <ul>
-<li>Janvier à octobre 2021 : analyse du contexte et définition des enjeux (phase 1).
+<li>Janvier à octobre 2021&nbsp;: analyse du contexte et définition des enjeux (phase 1).
 </li>
 <li>
-Octobre 2021 : organisation du colloque AFNOR BNF (phase 1).</li>
+Octobre 2021&nbsp;: organisation du colloque AFNOR BNF (phase 1).</li>
 <li>
-Novembre 2021 : traduction des guides W3C et création de prototypes (phase 2).</li>
+Novembre 2021&nbsp;: traduction des guides W3C et création de prototypes (phase 2).</li>
 <li>
-Décembre 2021 : ateliers interprofessionnels (39 organisations) (phase 2).</li>
+Décembre 2021&nbsp;: ateliers interprofessionnels (39 organisations) (phase 2).</li>
 <li>
-Février 2022 : nouveaux prototypes et restitution. (phase 2)</li>
+Février 2022&nbsp;: nouveaux prototypes et restitution. (phase 2)</li>
 <li>
-juin 2022 : présentation publique au DPUB Summit et restitution au COPIL.</li>
+juin 2022&nbsp;: présentation publique au DPUB Summit et restitution au COPIL.</li>
 <li>
-mai à septembre 2022 : enquête nationale étude du vocabulaire (5 organisations)
+mai à septembre 2022&nbsp;: enquête nationale étude du vocabulaire (5 organisations)
 (phase 2).</li>
-<li>Octobre à décembre 2023 : publication des résultats de l'enquête &amp; implémentation
+<li>Octobre à décembre 2023&nbsp;: publication des résultats de l'enquête &amp; implémentation
 dans au moins un logiciel de lecture. Refonte du site comme base de ressources,
 documentation et rédaction de l’étude (phase 2).</li>
-<li>janvier à décembre 2023 : mise ne place d'une preuve de concept par au moins deux
+<li>janvier à décembre 2023&nbsp;: mise ne place d'une preuve de concept par au moins deux
 librairies en ligne. Questionnaires et retours des usagers (phase 3).</li>
-<li>Juin à décembre 2023 : participation à la réécriture du guide W3C. </li>
-<li>Janvier à juin 2024 : implémentations réelles, mise à jour ressources, documentation
+<li>Juin à décembre 2023&nbsp;: participation à la réécriture du guide W3C. </li>
+<li>Janvier à juin 2024&nbsp;: implémentations réelles, mise à jour ressources, documentation
 et rédaction de l’étude</li>
-<li>Juin à décembre 2024 : suivi des implémentations, observation de la disponibilité de
+<li>Juin à décembre 2024&nbsp;: suivi des implémentations, observation de la disponibilité de
 livres numériques nativement accessibles.</li>
-<li>janvier à juin 2025 : collecte, analyse et publication de données sur
+<li>janvier à juin 2025&nbsp;: collecte, analyse et publication de données sur
 l'implémentation. Publication finale</li>
 </ul>
 </article>

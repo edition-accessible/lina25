@@ -15,13 +15,13 @@ titlePrev: Renseigner
   > 09 novembre 2024
 </p>
 <p>Traduction française, EDRLab.</p>
-<p>Cette version : 
+<p>Cette version&nbsp;: 
   <a
     href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/draft/guidelines/"
     >https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/draft/guidelines/</a
   >
 </p>
-<p>Dernière version en cours d’écriture : 
+<p>Dernière version en cours d’écriture&nbsp;: 
    <a href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/draft/guidelines/"
     >https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/draft/guidelines/</a
   >
@@ -32,7 +32,7 @@ titlePrev: Renseigner
 * Gautier Chomel (<a href="https://www.edrlab.org/">EDRLab</a> )
 * George Kerscher (<a href="https://daisy.org/">DAISY Consortium</a>)
 
-<p>Retour d'information :  <a href="https://github.com/w3c/publ-a11y/issues/new/choose">new issue</a>.
+<p>Retour d'information&nbsp;:  <a href="https://github.com/w3c/publ-a11y/issues/new/choose">new issue</a>.
 </p>
 <p>
   <a href="https://www.w3.org/policies/%23copyright">Copyright</a> © 2024 les
@@ -91,7 +91,7 @@ titlePrev: Renseigner
   Considérons maintenant que cette personne est aveugle et qu'elle a besoin
   d'une technologie d'assistance. L'utilisateur a besoin de cette technologie
   pour l'aider dans le processus d'achat et pour lire la publication. La
-  personne peut se poser les questions suivantes : le lecteur d'écran
+  personne peut se poser les questions suivantes&nbsp;: le lecteur d'écran
   fonctionnera-t-il avec ce titre ; y a-t-il des descriptions d'images qui
   seront prononcées pour décrire ces images ; y a-t-il des numéros de page
   accessibles ; l'ordre de lecture est-il correct ? Toutes ces questions
@@ -106,7 +106,7 @@ titlePrev: Renseigner
   par des organisations tierces.
 </p>
 <h3>1.1 Terminologie </h3>
-Plusieurs termes utilisés dans les présentes lignes directrices doivent être définis pour plus de clarté :
+Plusieurs termes utilisés dans les présentes lignes directrices doivent être définis pour plus de clarté&nbsp;:
 <dl>
 <dt>publication numérique</dt>
 <dd>Le terme « publication numérique » est utilisé dans le présent document pour désigner les publications produites dans n'importe quel format numérique. Les publications numériques ne se limitent pas aux livres, mais englobent toute œuvre écrite, visuelle ou audio distribuée et lue sous forme numérique.
@@ -196,7 +196,7 @@ Parmi les exemples de publications numériques figurent les livres électronique
 </p>
 <p>
   Au moment de la publication de ce document, les techniques disponibles pour
-  les normes de métadonnées sont les suivantes :
+  les normes de métadonnées sont les suivantes&nbsp;:
 </p>
 <ul>
   <li>
@@ -233,7 +233,7 @@ Parmi les exemples de publications numériques figurent les livres électronique
 <p>
   Les détails du produit fournissent des informations précieuses sur la facilité
   d'utilisation du livre par rapport aux besoins spécifiques de l'utilisateur.
-  Les informations suivantes devraient toujours être affichées :
+  Les informations suivantes devraient toujours être affichées&nbsp;:
 </p>
 <ul>
   <li>Format de fichier (EPUB 2 ou 3, PDF, MP3, Audiobook, etc.)</li>
@@ -246,7 +246,7 @@ Parmi les exemples de publications numériques figurent les livres électronique
 </h3>
 <ul>
   <li>
-    Le format de fichier donne une forte indication de l'accessibilité : un
+    Le format de fichier donne une forte indication de l'accessibilité&nbsp;: un
     livre audio au format MP3 sera moins structuré qu'un livre au format W3C
     audiobook  ; un PDF ne permet pas de modifier la typographie, l'EPUB 2 est
     déprécié, un EPUB 3 prend en charge la navigation dans les pages et une
@@ -274,7 +274,7 @@ Parmi les exemples de publications numériques figurent les livres électronique
   Lorsque le créateur de contenu ne fournit pas de métadonnées d'accessibilité
   pour une publication, trois éléments d'information clés devraient toujours
   être présents et peuvent être affichés avec une indication que l'information
-  est manquante : <a href="#visual-adjustments">Ajustements visuels</a>,
+  est manquante&nbsp;: <a href="#visual-adjustments">Ajustements visuels</a>,
   <a href="#supports-nonvisual-reading"
     >Prise en charge de la lecture non visuelle</a
   > et <a href="#conformance-group">Conformité</a>.
@@ -350,19 +350,19 @@ Parmi les exemples de publications numériques figurent les livres électronique
 </h4>
 <p>
   Les techniques spécifiques permettant de respecter ce principe sont définies
-  dans les documents suivants :
+  dans les documents suivants&nbsp;:
 </p>
 <ul>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/epub-metadata/index.html#visual-adjustments"
-      >(document en cours de finalisation, en anglais) EPUB OPF : Adaptations visuelles</a
+      >(document en cours de finalisation, en anglais) EPUB OPF&nbsp;: Adaptations visuelles</a
     >
   </li>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/onix-metadata/index.html#visual-adjustments"
-      >(document en cours de finalisation, en anglais) ONIX : Ajustements visuels</a
+      >(document en cours de finalisation, en anglais) ONIX&nbsp;: Ajustements visuels</a
     >
   </li>
 </ul>
@@ -438,19 +438,19 @@ Parmi les exemples de publications numériques figurent les livres électronique
 </h4>
 <p>
   Les techniques spécifiques permettant de respecter ce principe sont définies
-  dans les documents suivants :
+  dans les documents suivants&nbsp;:
 </p>
 <ul>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/epub-metadata/index.html#supports-nonvisual-reading"
-      >(document en cours de finalisation, en anglais) EPUB OPF : lecture non visuelle</a
+      >(document en cours de finalisation, en anglais) EPUB OPF&nbsp;: lecture non visuelle</a
     >
   </li>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/onix-metadata/index.html#supports-nonvisual-reading"
-      >(document en cours de finalisation, en anglais) ONIX : lecture non visuelle</a
+      >(document en cours de finalisation, en anglais) ONIX&nbsp;: lecture non visuelle</a
     >
   </li>
 </ul>
@@ -567,7 +567,7 @@ Parmi les exemples de publications numériques figurent les livres électronique
     (évaluation de l'accessibilité des entreprises).
   </li>
   <li>
-    Informations détaillées sur la conformité : Cette publication fait état de
+    Informations détaillées sur la conformité&nbsp;: Cette publication fait état de
     (EPUB Accessibility 1.1 et Web Accessibility Content Guidelines (WCAG) 2.1
     Level AA.) Cette publication a été certifiée le 2021-09-07 par Foo's
     Accessibility Testing avec un certificat de "Enterprise Accessibility
@@ -578,7 +578,7 @@ Parmi les exemples de publications numériques figurent les livres électronique
   </li>
 </ul>
 <p>
-  EXEMPLE 6 : Déclaration de conformité affirmant respecter les normes minimales
+  EXEMPLE 6&nbsp;: Déclaration de conformité affirmant respecter les normes minimales
   d'accessibilité, suivie d'informations détaillées sur la conformité.
 </p>
 <ul>
@@ -589,7 +589,7 @@ Parmi les exemples de publications numériques figurent les livres électronique
     (évaluation de l'accessibilité des entreprises).
   </li>
   <li>
-    Informations détaillées sur la conformité : Cette publication fait état de
+    Informations détaillées sur la conformité&nbsp;: Cette publication fait état de
     l'accessibilité EPUB 1.1 et des directives d'accessibilité au contenu Web
     (WCAG) 2.1 niveau A. La publication a été certifiée le 2021-09-07 par Foo's
     Accessibility Testing avec la mention "Enterprise Accessibility Rating".
@@ -600,32 +600,32 @@ Parmi les exemples de publications numériques figurent les livres électronique
   </li>
 </ul>
 <p>
-  EXEMPLE 7 : Déclaration
+  EXEMPLE 7&nbsp;: Déclaration
   de conformité inconnue
 </p>
 <ul>
   <li>La publication ne comprend pas de déclaration de conformité.</li>
   <li>
-    Informations détaillées sur la conformité : Les métadonnées de conformité
+    Informations détaillées sur la conformité&nbsp;: Les métadonnées de conformité
     n'ont pas été trouvées.
   </li>
 </ul>
 <h4 id="h.2xcytpi">4.3.4 Techniques d'affichage pour l'aide à la conformité</h4>
 <p>
   Les techniques spécifiques permettant de respecter ce principe sont définies
-  dans les documents suivants :
+  dans les documents suivants&nbsp;:
 </p>
 <ul>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/epub-metadata/index.html#conformance-group"
-      >(document en cours de finalisation, en anglais) EPUB OPF : Conformité</a
+      >(document en cours de finalisation, en anglais) EPUB OPF&nbsp;: Conformité</a
     >
   </li>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/onix-metadata/index.html#conformance-group"
-      >(document en cours de finalisation, en anglais) ONIX : Conformité</a
+      >(document en cours de finalisation, en anglais) ONIX&nbsp;: Conformité</a
     >
   </li>
 </ul>
@@ -685,19 +685,19 @@ Parmi les exemples de publications numériques figurent les livres électronique
 </h4>
 <p>
   Les techniques spécifiques permettant de respecter ce principe sont définies
-  dans les documents suivants :
+  dans les documents suivants&nbsp;:
 </p>
 <ul>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/epub-metadata/index.html#pre-recorded-audio"
-      >(document en cours de finalisation, en anglais) EPUB OPF  : Audio complet</a
+      >(document en cours de finalisation, en anglais) EPUB OPF &nbsp;: Audio complet</a
     >
   </li>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/onix-metadata/index.html#pre-recorded-audio"
-      >(document en cours de finalisation, en anglais) ONIX : audio complet</a
+      >(document en cours de finalisation, en anglais) ONIX&nbsp;: audio complet</a
     >
   </li>
 </ul>
@@ -759,19 +759,19 @@ Parmi les exemples de publications numériques figurent les livres électronique
 <h4 id="h.1pxezwc">4.5.2 Techniques d'affichage pour l'aide à la navigation</h4>
 <p>
   Les techniques spécifiques permettant de respecter ce principe sont définies
-  dans les documents suivants :
+  dans les documents suivants&nbsp;:
 </p>
 <ul>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/epub-metadata/index.html#navigation"
-      >(document en cours de finalisation, en anglais) EPUB OPF : Navigation</a
+      >(document en cours de finalisation, en anglais) EPUB OPF&nbsp;: Navigation</a
     >
   </li>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/onix-metadata/index.html#navigation"
-      >(document en cours de finalisation, en anglais) ONIX : Navigation</a
+      >(document en cours de finalisation, en anglais) ONIX&nbsp;: Navigation</a
     >
   </li>
 </ul>
@@ -830,19 +830,19 @@ Parmi les exemples de publications numériques figurent les livres électronique
 </h4>
 <p>
   Les techniques spécifiques permettant de respecter ce principe sont définies
-  dans les documents suivants :
+  dans les documents suivants&nbsp;:
 </p>
 <ul>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/epub-metadata/index.html#charts-diagrams-and-formulas"
-      >(document en cours de finalisation, en anglais) EPUB OPF : Graphiques et formules</a
+      >(document en cours de finalisation, en anglais) EPUB OPF&nbsp;: Graphiques et formules</a
     >
   </li>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/onix-metadata/index.html#charts-diagrams-and-formulas"
-      >(document en cours de finalisation, en anglais) ONIX : Graphiques et formules</a
+      >(document en cours de finalisation, en anglais) ONIX&nbsp;: Graphiques et formules</a
     >
   </li>
 </ul>
@@ -905,19 +905,19 @@ Parmi les exemples de publications numériques figurent les livres électronique
 </h4>
 <p>
   Les techniques spécifiques permettant de respecter ce principe sont définies
-  dans les documents suivants :
+  dans les documents suivants&nbsp;:
 </p>
 <ul>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/epub-metadata/index.html#hazards"
-      >(document en cours de finalisation, en anglais) EPUB OPF : Risques</a
+      >(document en cours de finalisation, en anglais) EPUB OPF&nbsp;: Risques</a
     >
   </li>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/onix-metadata/index.html#hazards"
-      >(document en cours de finalisation, en anglais) ONIX : Risques</a
+      >(document en cours de finalisation, en anglais) ONIX&nbsp;: Risques</a
     >
   </li>
 </ul>
@@ -958,19 +958,19 @@ Parmi les exemples de publications numériques figurent les livres électronique
 <h4 id="h.41mghml">4.8.2 Techniques d'affichage du résumé d'accessibilité</h4>
 <p>
   Les techniques spécifiques permettant de respecter ce principe sont définies
-  dans les documents suivants :
+  dans les documents suivants&nbsp;:
 </p>
 <ul>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/epub-metadata/index.html#accessibility-summary"
-      >(document en cours de finalisation, en anglais)  EPUB OPF  : Résumé de l'accessibilité</a
+      >(document en cours de finalisation, en anglais)  EPUB OPF &nbsp;: Résumé de l'accessibilité</a
     >
   </li>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/onix-metadata/index.html#accessibility-summary"
-      >(document en cours de finalisation, en anglais) ONIX : Résumé de l'accessibilité</a
+      >(document en cours de finalisation, en anglais) ONIX&nbsp;: Résumé de l'accessibilité</a
     >
   </li>
 </ul>
@@ -981,7 +981,7 @@ Parmi les exemples de publications numériques figurent les livres électronique
 </p>
 <p>
   Nous recherchons activement des commentaires sur cette section "considérations
-  juridiques". Si vous êtes éditeur, nous avons besoin de vos commentaires !
+  juridiques". Si vous êtes éditeur, nous avons besoin de vos commentaires&nbsp;!
 </p>
 <p>
   Cette information clé doit être cachée si les métadonnées ne sont pas
@@ -989,7 +989,7 @@ Parmi les exemples de publications numériques figurent les livres électronique
 </p>
 <p>NOTE</p>
 <p>
-  Clause de non-responsabilité : rien ici ne peut être interprété comme un
+  Clause de non-responsabilité&nbsp;: rien ici ne peut être interprété comme un
   conseil juridique fourni par le W3C ou tout autre groupe ou individu ayant
   contribué à ce document. Demandez toujours un avis juridique à votre service
   interne ou à votre conseiller juridique afin d'évaluer la conformité juridique
@@ -1039,19 +1039,19 @@ Parmi les exemples de publications numériques figurent les livres électronique
 </h4>
 <p>
   Les techniques spécifiques permettant de respecter ce principe sont définies
-  dans les documents suivants :
+  dans les documents suivants&nbsp;:
 </p>
 <ul>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/epub-metadata/index.html#legal-considerations"
-      >(document en cours de finalisation, en anglais) EPUB OPF : considérations juridiques</a
+      >(document en cours de finalisation, en anglais) EPUB OPF&nbsp;: considérations juridiques</a
     >
   </li>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/onix-metadata/index.html#legal-considerations"
-      >(document en cours de finalisation, en anglais) ONIX : considérations juridiques</a
+      >(document en cours de finalisation, en anglais) ONIX&nbsp;: considérations juridiques</a
     >
   </li>
 </ul>
@@ -1157,19 +1157,19 @@ Parmi les exemples de publications numériques figurent les livres électronique
 </h4>
 <p>
   Les techniques spécifiques permettant de respecter ce principe sont définies
-  dans les documents suivants :
+  dans les documents suivants&nbsp;:
 </p>
 <ul>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/epub-metadata/index.html#additional-accessibility-information"
-      >(document en cours de finalisation, en anglais) EPUB OPF : Caractéristiques du livre</a
+      >(document en cours de finalisation, en anglais) EPUB OPF&nbsp;: Caractéristiques du livre</a
     >
   </li>
   <li>
     <a
       href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/techniques/onix-metadata/index.html#additional-accessibility-information"
-      >(document en cours de finalisation, en anglais) ONIX : Caractéristiques du livre</a
+      >(document en cours de finalisation, en anglais) ONIX&nbsp;: Caractéristiques du livre</a
     >
   </li>
 </ul>
@@ -1212,7 +1212,7 @@ Parmi les exemples de publications numériques figurent les livres électronique
   utilisateurs ayant des besoins de lecture spécifiques de trouver les livres
   qu'ils recherchent. Pour atteindre cet objectif, il est recommandé que toutes
   les plateformes présentent deux capacités minimales, centrées sur les modes de
-  consommation du contenu. Il s'agit de :
+  consommation du contenu. Il s'agit de&nbsp;:
 </p>
 <ol>
   <li>Titres favorisant la lecture non visuelle</li>
@@ -1235,7 +1235,7 @@ Parmi les exemples de publications numériques figurent les livres électronique
   aider les utilisateurs à trouver un contenu qui réponde à un besoin ou à des
   scénarios particuliers. Chaque domaine déterminera de manière unique la
   sélection des éléments appropriés. Voici quelques exemples de ces domaines
-  (non exclusifs) :
+  (non exclusifs)&nbsp;:
 </p>
 <ul>
   <li>
@@ -1300,7 +1300,7 @@ Pour concilier les deux sources de matériel de localisation, nous proposons un 
 
 Faites-nous d'abord savoir le plus tôt possible que vous travaillez sur une localisation et que vous souhaitez la soumettre. Cela nous permet de préparer un espace réservé pour votre travail. Ce n'est pas obligatoire, mais nous vous invitons à contacter le groupe et à participer à un appel régulier du groupe de travail, car ces appels sont ouverts à tous.
 
-Lorsque vous êtes prêt à publier votre travail, deux options sont possibles :
+Lorsque vous êtes prêt à publier votre travail, deux options sont possibles&nbsp;:
 
 Si vous ne savez pas ce qu'est un JSON ou une Pull Request, vous pouvez nous contacter afin que nous puissions attribuer un rôle de traducteur sur la <a href="https://gitlocalize.com/repo/9555">page Gitlocalize dédiée au projet</a>.
 Si vous vous sentez techniquement prêt ou si vous avez un collaborateur qui peut faire une demande d'extraction, le processus consiste à dupliquer le fichier canonique original UX-Guide-Metadata/draft/localizations/fr-US/display_guide_vocabulary_w3c_en-US.json, à le modifier en changeant les valeurs devant chaque clé, et à ouvrir une demande d'extraction pour que nous puissions l'examiner. Veuillez noter que nous pourrions avoir des questions ou demander des précisions au cours du processus avant d'accepter et de fusionner votre contribution.
@@ -1348,7 +1348,7 @@ Les premières clés de chaque fichier JSON contiennent des informations descrip
 <p>Cette section n'est pas normative.</p>
 <p>
   Les contributions éditoriales des personnes suivantes ont été
-  essentiels à la réalisation de ce guide :
+  essentiels à la réalisation de ce guide&nbsp;:
 </p>
 
 <ul>
@@ -1363,7 +1363,7 @@ Les premières clés de chaque fichier JSON contiennent des informations descrip
 </ul>
 <p>
   Les membres suivants du groupe de la communauté de l'édition ont contribué à
-  l'élaboration de ce document :
+  l'élaboration de ce document&nbsp;:
 </p>
 
 <ul>

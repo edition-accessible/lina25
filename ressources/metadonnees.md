@@ -18,60 +18,60 @@ Sauf précision contraire, ces informations seront utilisées par les catalogues
 
 ### Lecture non visuelle
 
-Cas d'usage : lorsque vous activez la fonction lecture audio de votre liseuse, la voix lira une description lorsqu’elle rencontre une image. Vous pourrez ainsi profiter de l’intégralité du livre sans perdre d’information.
+Cas d'usage&nbsp;: lorsque vous activez la fonction lecture audio de votre liseuse, la voix lira une description lorsqu’elle rencontre une image. Vous pourrez ainsi profiter de l’intégralité du livre sans perdre d’information.
 <details><summary>En savoir plus sur la lecture non visuelle</summary>
 <ul>
-<li>Définition : le contenu du livre numérique est intégralement consultable en texte, les autres médias nécessaires à la compréhension sont décrits ou disposent d’une alternative textuelle.</li>
-	<li>Exemple :
+<li>Définition&nbsp;: le contenu du livre numérique est intégralement consultable en texte, les autres médias nécessaires à la compréhension sont décrits ou disposent d’une alternative textuelle.</li>
+	<li>Exemple&nbsp;:
 	<div class="ckeditor-html5-video" style="text-align: center;">
 	<video controls="controls" controlslist="nodownload" src="https://raw.githubusercontent.com/edition-accessible/vocabulaire/main/docs/statics/thorium-descr-imgs.m4v" width="480px" aria-describedby="transcriptionThoriumVocal"></video>
-	</div><span id="transcriptionThoriumVocal">Transcription : la voix de synthèse lit le titre puis la description de l'image. Un surlignage jaune permet d'identifier que c'est l'image qui est lue.</span></li>
-	<li>Précisions : la plupart des publications numériques disponibles incluent leur contenu en texte numérique et peuvent indiquer qu’elles sont adaptées aux lecteurs d’écran. Les exceptions sont les publications dont une partie du contenu essentiel à la compréhension n’est inclus que dans des images, comme des graphiques, des tableaux ou des équations présentés sous forme d’images, et les publications dont l’apparence fixe est créée par une image de chaque page au lieu d’un texte véritable.</li>
+	</div><span id="transcriptionThoriumVocal">Transcription&nbsp;: la voix de synthèse lit le titre puis la description de l'image. Un surlignage jaune permet d'identifier que c'est l'image qui est lue.</span></li>
+	<li>Précisions&nbsp;: la plupart des publications numériques disponibles incluent leur contenu en texte numérique et peuvent indiquer qu’elles sont adaptées aux lecteurs d’écran. Les exceptions sont les publications dont une partie du contenu essentiel à la compréhension n’est inclus que dans des images, comme des graphiques, des tableaux ou des équations présentés sous forme d’images, et les publications dont l’apparence fixe est créée par une image de chaque page au lieu d’un texte véritable.</li>
 </ul>
 </details>
 
-<a href="https://ns.editeur.org/onix/fr/196/52">ONIX 196-52 : Tout contenu non décoratif accessible aux utilisateurs privés de la vue</a>
+<a href="https://ns.editeur.org/onix/fr/196/52">ONIX 196-52&nbsp;: Tout contenu non décoratif accessible aux utilisateurs privés de la vue</a>
 
 ### Modifier l’aspect du texte et la mise en page 
 
-<p>Cas d'usage : lorsque vous lisez, vous souhaitez pouvoir modifier la taille des caractères ainsi que les espacements pour rendre la lecture confortable en fonction de votre matériel ou des conditions.</p>
+<p>Cas d'usage&nbsp;: lorsque vous lisez, vous souhaitez pouvoir modifier la taille des caractères ainsi que les espacements pour rendre la lecture confortable en fonction de votre matériel ou des conditions.</p>
 <details><summary>En savoir plus sur les possibilités de modification de la mise en page</summary>
 <ul>
-<li>Exemple : <img alt="Dans l'interface de Thorium, l'aspect du livre est modifié : le fond passe en en sépia puis en noir ; la police est grossie puis modifiée, les espacements des lignes sont agrandis." src="https://raw.githubusercontent.com/edition-accessible/vocabulaire/main/docs/statics/thorium_adjust_txt.gif"></li>
-<li>Définition : Lors de sa lecture, la mise en forme du fichier est adaptée aux besoins de l’utilisateur (taille adaptée à l’écran, police, taille de la police, espacements, etc.) en fonction des possibilités du logiciel de lecture.</li>	<li>Précisions : cela concerne les livres numériques au format EPUB (quand la mise en page n’est pas fixe), Kindle, Books ou HTML.</li>
+<li>Exemple&nbsp;: <img alt="Dans l'interface de Thorium, l'aspect du livre est modifié&nbsp;: le fond passe en en sépia puis en noir ; la police est grossie puis modifiée, les espacements des lignes sont agrandis." src="https://raw.githubusercontent.com/edition-accessible/vocabulaire/main/docs/statics/thorium_adjust_txt.gif"></li>
+<li>Définition&nbsp;: Lors de sa lecture, la mise en forme du fichier est adaptée aux besoins de l’utilisateur (taille adaptée à l’écran, police, taille de la police, espacements, etc.) en fonction des possibilités du logiciel de lecture.</li>	<li>Précisions&nbsp;: cela concerne les livres numériques au format EPUB (quand la mise en page n’est pas fixe), Kindle, Books ou HTML.</li>
 </ul>
 </details>
 
-<a href="https://ns.editeur.org/onix/fr/196/36"> ONIX 196-36 : Tout le contenu textuel peut être modifié</a>
+<a href="https://ns.editeur.org/onix/fr/196/36"> ONIX 196-36&nbsp;: Tout le contenu textuel peut être modifié</a>
 
 ### Conserver l'aspect du texte et la mise en page 
 
-<p>Cas d'usage : vous souhaitez disposer d’une représentation exacte de la version papier pour l’imprimer ou parce que vous utilisez le livre numérique en complément d’une édition imprimée.</p>
+<p>Cas d'usage&nbsp;: vous souhaitez disposer d’une représentation exacte de la version papier pour l’imprimer ou parce que vous utilisez le livre numérique en complément d’une édition imprimée.</p>
 <details><summary>En savoir plus sur la mise en page fixe</summary>
 <ul>
-<li>Exemple : <a href="https://ressources.sesamath.net/coll_docs/cah/valide/manuel_chapitre_2014_2SP1.pdf">Une page d'un manuel scolaire dont la mise en page structure fortement la lecture.</a><br/><img alt="" src="https://raw.githubusercontent.com/edition-accessible/vocabulaire/main/docs/statics/image6.png" style="width: 319.71px; height: 502.60px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></li>
-<li>Définition : Lors de sa lecture, la mise en forme du fichier n’est pas modifiée quelle que soit la taille de l’écran. L’utilisateur ne peut pas modifier la police ou les espacements.</li>
-<li>Précisions : les mises en page fixes sont par nature difficilement accessibles car elles ne permettent pas d'ajuster le texte à sa vision ou à son écran. Il est aussi particulièrement complexe d'assurer leur restitution correcte par une technologie d'assistance comme un lecteur d'écran qui assure la restitution vocale ou braille. Par ailleurs la pagination de référence de l'original peut-être ajoutée dans un format EPUB ou HTML et rendue disponible via un menu spécifique.</li>
+<li>Exemple&nbsp;: <a href="https://ressources.sesamath.net/coll_docs/cah/valide/manuel_chapitre_2014_2SP1.pdf">Une page d'un manuel scolaire dont la mise en page structure fortement la lecture.</a><br/><img alt="" src="https://raw.githubusercontent.com/edition-accessible/vocabulaire/main/docs/statics/image6.png" style="width: 319.71px; height: 502.60px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></li>
+<li>Définition&nbsp;: Lors de sa lecture, la mise en forme du fichier n’est pas modifiée quelle que soit la taille de l’écran. L’utilisateur ne peut pas modifier la police ou les espacements.</li>
+<li>Précisions&nbsp;: les mises en page fixes sont par nature difficilement accessibles car elles ne permettent pas d'ajuster le texte à sa vision ou à son écran. Il est aussi particulièrement complexe d'assurer leur restitution correcte par une technologie d'assistance comme un lecteur d'écran qui assure la restitution vocale ou braille. Par ailleurs la pagination de référence de l'original peut-être ajoutée dans un format EPUB ou HTML et rendue disponible via un menu spécifique.</li>
 </ul>
 </details>
 
 <a href="https://ns.editeur.org/onix/fr/175/E201">
-ONIX 175 - E201 : Format fixe</a>
+ONIX 175 - E201&nbsp;: Format fixe</a>
 
 *Notez que ce code devrait être renseigné même si le format de fichier ne permet pas d'autre options (dans le cas par exemple d'un fichier PDF).*
 
 ### Livres audio accessibles
 
-<p>Cas d'usage : lorsque vous achetez un livre audio vous voulez être sûr que toute l’information est présente sous forme audio, y compris le sommaire, le temps de lecture et d’autres informations qui peuvent être communiquées sur une image de couverture jointe aux fichiers audios.</p>
+<p>Cas d'usage&nbsp;: lorsque vous achetez un livre audio vous voulez être sûr que toute l’information est présente sous forme audio, y compris le sommaire, le temps de lecture et d’autres informations qui peuvent être communiquées sur une image de couverture jointe aux fichiers audios.</p>
 <details><summary>En savoir plus sur l'accessibilité du livre audio</summary>
 <ul>
-<li>Exemple : <img alt="Capture d'écran d'un dossier contenant des fichiers MP3 et un fichier couverture.mp3" src="https://raw.githubusercontent.com/edition-accessible/vocabulaire/main/docs/statics/image3.png"></li>
-<li>Définition : indication que cette publication peut être lue intégralement en mode audio. Cette désignation s’applique même si le texte est également disponible avec l’audio.</li>
-<li>Précisions : les livres audio présentés sans texte sont considérés comme des publications optimisées. Ils ne répondent pas à toutes les exigences en matière d’accessibilité et ne seront donc pas identifiés lors du filtrage des publications “accessibles”, mais ils donnent accès à la publication à des utilisateurs spécifiques qui ont besoin de l’audio. Le fait de permettre aux utilisateurs d’être autonomes pour chercher dans une collection toutes les publications avec le son intégral aidera ces utilisateurs et le fait d’inclure cette information dans les métadonnées affichées alertera également les utilisateurs pour lesquels le son est inaccessible.</li>
+<li>Exemple&nbsp;: <img alt="Capture d'écran d'un dossier contenant des fichiers MP3 et un fichier couverture.mp3" src="https://raw.githubusercontent.com/edition-accessible/vocabulaire/main/docs/statics/image3.png"></li>
+<li>Définition&nbsp;: indication que cette publication peut être lue intégralement en mode audio. Cette désignation s’applique même si le texte est également disponible avec l’audio.</li>
+<li>Précisions&nbsp;: les livres audio présentés sans texte sont considérés comme des publications optimisées. Ils ne répondent pas à toutes les exigences en matière d’accessibilité et ne seront donc pas identifiés lors du filtrage des publications “accessibles”, mais ils donnent accès à la publication à des utilisateurs spécifiques qui ont besoin de l’audio. Le fait de permettre aux utilisateurs d’être autonomes pour chercher dans une collection toutes les publications avec le son intégral aidera ces utilisateurs et le fait d’inclure cette information dans les métadonnées affichées alertera également les utilisateurs pour lesquels le son est inaccessible.</li>
 </ul>
 </details>
 
-<a href="https://ns.editeur.org/onix/fr/196/39">196 - 39 : Accessibilité d’un matériel complémentaire à un livre audio</a>
+<a href="https://ns.editeur.org/onix/fr/196/39">196 - 39&nbsp;: Accessibilité d’un matériel complémentaire à un livre audio</a>
 
 *Plusieurs autres cas de figure existent pour ce qui concerne la présence d'audios pré enregistrés. Il peut s'agir d'audios synchronisés avec le texte ou d'audios complémentaires, parfois inclus dans une vidéo. À ce jour et à notre connaissance, peu de fichiers numériques commercialisés correspondent à ces cas de figure, c'est pourquoi ils ne sont pas détaillés ici. Il est cependant possible de les exprimer en utilisant les codes de la liste 81, et leur prise en charge est assurée dans les recommandations d'affichage. Pour des exemples techniques, voir la [section Audio pré enregistré des techniques d'affichage ONIX (en anglais)](https://w3c.github.io/publ-a11y/UX-Guide-Metadata/2.0/techniques/onix-metadata/index.html#pre-recorded-audio)*
 
@@ -80,7 +80,7 @@ ONIX 175 - E201 : Format fixe</a>
 
 Il existe des livres imprimés qui ne peuvent prétendre à une accessibilité universelle, à moins d'être livrés en différentes versions dans une même édition. Cependant certaines éditions spécialisées peuvent répondre à des besoins spécifiques. 
 
-ONIX permet d'informer sur ces éditions. Si la liste 196 est dédiée à l'accessibilité numérique, la <a href="https://ns.editeur.org/onix/fr/21">liste 21</a> permet d'indiquer un type d'édition particulier. On retiendra en particulier :
+ONIX permet d'informer sur ces éditions. Si la liste 196 est dédiée à l'accessibilité numérique, la <a href="https://ns.editeur.org/onix/fr/21">liste 21</a> permet d'indiquer un type d'édition particulier. On retiendra en particulier&nbsp;:
 
 <ul>
    <li><a href="https://ns.editeur.org/onix/fr/21/HRE">21:HRE Édition haute lisibilité</a></li>
@@ -94,7 +94,7 @@ ONIX permet d'informer sur ces éditions. Si la liste 196 est dédiée à l'acce
 
 ### Navigation
 
-*La norme WCAG indique : [2.4.5 Accès multiples](https://www.w3.org/Translations/WCAG20-fr/#navigation-mechanisms-mult-loc) : une page Web peut être située par plus d'un moyen dans un ensemble de pages Web [...]. (Niveau AA)*
+*La norme WCAG indique&nbsp;: [2.4.5 Accès multiples](https://www.w3.org/Translations/WCAG20-fr/#navigation-mechanisms-mult-loc)&nbsp;: une page Web peut être située par plus d'un moyen dans un ensemble de pages Web [...]. (Niveau AA)*
 
 <table class="zebra">
 <thead>
@@ -169,9 +169,9 @@ ONIX permet d'informer sur ces éditions. Si la liste 196 est dédiée à l'acce
 
 Si des risques existent ils doivent être déclarés. Ces informations sont transportées par les codes suivants&#8239;:
 
--   La publication contient des animations ont des vidéos avec plus de trois flashs successifs : <a href="https://ns.editeur.org/onix/en/143/13">Liste 143 Code 13&#8239;: Avertissement&#8239;: risque de clignotement</a>.
--   La publication contient des effets sonores déclenchés automatiquement qui peuvent surprendre le lecteur : <a href="https://ns.editeur.org/onix/en/143/15">Liste 143 Code 15&#8239;: Effets sonores</a>.
--   La publication contient des animations ou des vidéos qui simulent un mouvement et peuvent destabiliser le lecteur : <a href="https://ns.editeur.org/onix/en/143/17">Liste 143 Code 17&#8239;: Avertissement&#8239;: risque de simulation de mouvement</a>.
+-   La publication contient des animations ont des vidéos avec plus de trois flashs successifs&nbsp;: <a href="https://ns.editeur.org/onix/en/143/13">Liste 143 Code 13&#8239;: Avertissement&#8239;: risque de clignotement</a>.
+-   La publication contient des effets sonores déclenchés automatiquement qui peuvent surprendre le lecteur&nbsp;: <a href="https://ns.editeur.org/onix/en/143/15">Liste 143 Code 15&#8239;: Effets sonores</a>.
+-   La publication contient des animations ou des vidéos qui simulent un mouvement et peuvent destabiliser le lecteur&nbsp;: <a href="https://ns.editeur.org/onix/en/143/17">Liste 143 Code 17&#8239;: Avertissement&#8239;: risque de simulation de mouvement</a>.
 
 Même s'ils n'ont pas vocation à être affichés, les codes déclarant une absence de risque permettent de s'assurer que l'absence de ces trois codes n'est pas due à un manque de vigilance&#8239;:
 

@@ -16,22 +16,22 @@ draft: false
 
 {%- include principes.html -%}
 
-Les services de vente et de prêt en ligne sont concernés par des exigences d’accessibilité prévues par les textes européens : la directive 2016/2102 du 26 octobre 2016 relative à l'accessibilité des sites internet et des applications mobiles des organismes du secteur public et la directive 2019/882 du 17 avril 2019 relative aux exigences en matière d'accessibilité applicables aux produits et services. Ces exigences ont été transposées, pour les sites publics, dans les articles 47 et 47-1 de la Loi n° 2005-102 du 11 février 2005 et, pour les sites de commerce électronique, dans le code de la consommation (Art. D. 412-49 et suivants).
+Les services de vente et de prêt en ligne sont concernés par des exigences d’accessibilité prévues par les textes européens&nbsp;: la directive 2016/2102 du 26 octobre 2016 relative à l'accessibilité des sites internet et des applications mobiles des organismes du secteur public et la directive 2019/882 du 17 avril 2019 relative aux exigences en matière d'accessibilité applicables aux produits et services. Ces exigences ont été transposées, pour les sites publics, dans les articles 47 et 47-1 de la Loi n° 2005-102 du 11 février 2005 et, pour les sites de commerce électronique, dans le code de la consommation (Art. D. 412-49 et suivants).
 
 Ces services peuvent prendre la forme d'un site web ou d'un catalogue dans un format de distribution privé (API) ou standardisé comme OPDS. Dans tous les cas, des mesures doivent être prises pour qu’il n’y ait pas de ruptures ni d’obstacles dans le parcours utilisateur pour la consultation de livres numériques via les sites de vente ou de prêt.
 
 <h3 id="sitesweb">Accessibilité du parcours utilisateur sur les sites de vente et de prêt de livres numériques</h3>
 
-Pour s'assurer que les livres numériques peuvent être achetés ou empruntés par un grand nombre de personnes incluant celles en situation de handicap les développeurs de bibliothèques ou librairies en ligne doivent prendre en compte plusieurs aspects. Voici une liste détaillée basée sur les normes et recommandations liées dans les ressources :
+Pour s'assurer que les livres numériques peuvent être achetés ou empruntés par un grand nombre de personnes incluant celles en situation de handicap les développeurs de bibliothèques ou librairies en ligne doivent prendre en compte plusieurs aspects. Voici une liste détaillée basée sur les normes et recommandations liées dans les ressources&nbsp;:
 
 1. Assurer que le site web respecte les critères de succès des WCAG, au niveau AA.
 2. Effectuer des tests avec des utilisateurs en situation de handicap pour identifier les obstacles les plus bloquants et les stratégies de contournement.
 3. Réaliser des évaluations régulières pour s'assurer que le site web ou l'application respecte les normes d'accessibilité.
 4. Former les équipes de développement et de design aux principes de l'accessibilité numérique.
-Sensibilisation : Sensibiliser l'ensemble de l'organisation à l'importance de l'accessibilité numérique.
+Sensibilisation&nbsp;: Sensibiliser l'ensemble de l'organisation à l'importance de l'accessibilité numérique.
 5. Mettre en place des mécanismes pour recueillir le feedback des utilisateurs en situation de handicap et maintenir dans le temps un niveau correct d’accessibilité (niveau AA des WCAG).
 
-Les points d'attention principaux concernent : 
+Les points d'attention principaux concernent&nbsp;: 
 * Permettre une navigation complète au clavier, sans nécessiter l'utilisation de la souris.
 * Assurer la compatibilité avec les technologies d’assistance comme les lecteurs d'écran, les synthèses vocales, les dispositifs braille ou encore les méthodes de pointage alternatif.
 * Utiliser des combinaisons de couleurs avec un contraste suffisant et ne pas utiliser les couleurs comme seul moyen de transmettre des informations.

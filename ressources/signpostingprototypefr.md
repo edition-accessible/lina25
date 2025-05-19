@@ -12,7 +12,7 @@ draft: false
     <article id="livreex1">
     <div class="left-title-book">
     <img class="img" src="https://edition-accessible.github.io/signalement/statics/lamarquedes4-cover.jpg" role="doc-cover"
-    alt="Couverture : Arthur Conan Doyle, La Marque des quatre, Syndicat national de l’Édition, 2020" />
+    alt="Couverture&nbsp;: Arthur Conan Doyle, La Marque des quatre, Syndicat national de l’Édition, 2020" />
     </div>
     <div class="fichelivre">
     <h3>La Marque des quatre</h3>
@@ -60,7 +60,7 @@ draft: false
     <article id="livreex1">
     <div class="left-title-book">
     <span lang="en"><img class="img" src="https://edition-accessible.github.io/signalement/statics/Galdo-cover_UK.jpg" role="doc-cover"
-    alt="Couverture : Galdo's Gift" /></span>
+    alt="Couverture&nbsp;: Galdo's Gift" /></span>
     </div>
     <div class="fichelivre">
     <h3><span lang="en">Galdo's Gift - The Boovie</span></h3>
@@ -71,7 +71,7 @@ draft: false
     <summary>Détails du produit</summary>
     <ul>
         <li class="prototype">Publié en 2017 par Tapocketa</li>
-    <li class="prototype">ISBN : 9781999857608</li>
+    <li class="prototype">ISBN&nbsp;: 9781999857608</li>
     <li class="prototype">Langue anglaise</li>
     <li class="prototype">Format EPUB</li>
     <li class="prototype">Ce livre numérique n'est pas protégé</li>
@@ -104,20 +104,20 @@ draft: false
     <article id="livreex1">
     <div class="left-title-book">
     <img class="img" src="https://edition-accessible.github.io/signalement/statics/Terre-et-Fondation-cover.jpg" role="doc-cover"
-    alt="Couverture : Terre et Fondation, Isaac Asimov, Audiolib 2021" />
+    alt="Couverture&nbsp;: Terre et Fondation, Isaac Asimov, Audiolib 2021" />
     </div>
     <div class="fichelivre">
     <h3>Terre et Fondation</h3>
     <em>Isaac Asimov</em>
     <p>Tout porte à croire que le légendaire berceau de l'humanité, la Terre, se trouve au
     cœur d'un vaste plan à l'échelle galactique, destiné à garantir en coulisse la
-    pérennité de la civilisation : une synthèse parfaite entre le matérialisme de la
+    pérennité de la civilisation&nbsp;: une synthèse parfaite entre le matérialisme de la
     Première Fondation et le mentalisme de la Seconde, mise en œuvre par une mystérieuse
     puissance.</p>
     <summary>Détails du produit</summary>
     <ul>
     <li class="prototype">Format MP3</li>
-    <li class="prototype">Temps d'écoute : 18 h 45 min</li>
+    <li class="prototype">Temps d'écoute&nbsp;: 18 h 45 min</li>
     <li class="prototype">Ce livre numérique audio n'est pas protégé</li>
     <li class="prototype">Publié en 2021 par Audiolib</li>
     <li class="prototype">ISBN 9791035405311</li>
@@ -140,7 +140,7 @@ draft: false
     <article id="livreex1">
     <div class="left-title-book">
     <img class="img" src="https://edition-accessible.github.io/signalement/statics/illusions-perdues-cover.png" role="doc-cover"
-    alt="Couverture : les illusions perdues, Balzac." />
+    alt="Couverture&nbsp;: les illusions perdues, Balzac." />
     </div>
     <div class="fichelivre">
     <h3>Les Illusions perdues</h3>

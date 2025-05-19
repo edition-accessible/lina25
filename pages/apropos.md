@@ -20,7 +20,7 @@ Maquette et graphismes réalisés par Marion Raveau.
 
 Intégration et développement par Arthur Le Meur.
 
-Merci aux partenaires qui ont bien voulu nous conseiller dans la rédaction des contenus : 
+Merci aux partenaires qui ont bien voulu nous conseiller dans la rédaction des contenus&nbsp;: 
 
 * Éditions QUAE
 * Immateriel

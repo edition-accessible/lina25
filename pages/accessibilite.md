@@ -17,7 +17,7 @@ Plusieurs documents téléchargeables depuis le site web LINA 25 présentent des
 
 ## Politique d'accessibilité
 
-EDRLab prend les mesures suivantes pour garantir l'accessibilité du site Web LINA 25 :
+EDRLab prend les mesures suivantes pour garantir l'accessibilité du site Web LINA 25&nbsp;:
 * Inclure l'accessibilité comme une exigence pour tout le contenu Web. Le contenu doit répondre à la norme WCAG 2.1 AA, et devrait répondre à la norme AAA dans la mesure du possible.
 * Attribuer des objectifs et des responsabilités clairs en matière d'accessibilité.
 * S'assurer que les auteurs de contenu ont des connaissances et des compétences en matière d'accessibilité.
@@ -28,7 +28,7 @@ EDRLab prend les mesures suivantes pour garantir l'accessibilité du site Web LI
 Un audit d'accessibilité du site Lina25 a été réalisé par Katie Durand en février 2023.
 ## Commentaires
 
-Vos commentaires sur l'accessibilité de ce site Web sont les bienvenus. Veuillez nous faire savoir si vous rencontrez des obstacles à l'accessibilité. Courriel : contact@edrlab.org.
+Vos commentaires sur l'accessibilité de ce site Web sont les bienvenus. Veuillez nous faire savoir si vous rencontrez des obstacles à l'accessibilité. Courriel&nbsp;: contact@edrlab.org.
 
 Nous répondons généralement aux commentaires sur l'accessibilité par e-mail dans les 3 à 5 jours ouvrables. 
 
@@ -40,7 +40,7 @@ Le site Web LINA 25 est conçu pour être compatible avec les technologies d'ass
 Dans des navigateurs plus anciens, certains aspects du site Web peuvent ne pas s'afficher de manière optimale. 
 
 ## Spécifications techniques
-Ce site Web s'appuie sur les technologies suivantes pour être conforme aux WCAG 2.1 :
+Ce site Web s'appuie sur les technologies suivantes pour être conforme aux WCAG 2.1&nbsp;:
 * HTML
 * WAI-ARIA
 * CSS
