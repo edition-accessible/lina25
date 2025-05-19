@@ -51,7 +51,7 @@ spécialisés<sup id="fnref:5" role="doc-noteref"><a href="#fn:5" class="footnot
 
 <h3 id="exemptions">Exemptions</h3>
 
-  <p>L’article 48 de la loi n° 2005-102 du 11 février 2005 prévoit une exclusion de droit du champ d’application des obligations d’accessibilité ainsi que deux motifs d’exemptions :</p>
+  <p>L’article 48 de la loi n° 2005-102 du 11 février 2005 prévoit une exclusion de droit du champ d’application des obligations d’accessibilité ainsi que deux motifs d’exemptions&nbsp;:</p>
 
   <ul>
     <li>
@@ -62,7 +62,7 @@ spécialisés<sup id="fnref:5" role="doc-noteref"><a href="#fn:5" class="footnot
     L’exemption pour modification fondamentale : la mise en accessibilité ne doit pas entrainer une modification qui viendrait changer la nature d’un livre numérique ou d’un logiciel spécialisé. Pour ce qui est des fichiers de livres numériques, et sous réserve du contrôle de l’ARCOM, cette exemption pourrait être principalement mobilisée pour les maquettes dites complexes comme les bandes dessinées, les livres pour enfants et les livres d’art. Néanmoins, aucune disposition législative n’exclue de droit ces catégories éditoriales de livres numériques du champ d’application des exigences d’accessibilité. Il appartiendra aux éditeurs de justifier cette exemption au cas par cas par une évaluation.
   </li>
   <li>
-     L’exemption pour charge disproportionnée : la mise en accessibilité ne doit pas entraîner une charge disproportionnée pour les opérateurs économiques concernés. Le décret d’application précise, dans son article 4, les critères d’évaluation du caractère disproportionné de la charge à faire valoir dans l’évaluation opérée par l’opérateur économique : 
+     L’exemption pour charge disproportionnée : la mise en accessibilité ne doit pas entraîner une charge disproportionnée pour les opérateurs économiques concernés. Le décret d’application précise, dans son article 4, les critères d’évaluation du caractère disproportionné de la charge à faire valoir dans l’évaluation opérée par l’opérateur économique&nbsp;: 
 <ul>
   <li>
     Le rapport entre les coûts nets de la conformité avec les exigences en matière d'accessibilité et les coûts totaux (dépenses opérationnelles et dépenses en capital) supportés par les opérateurs économiques pour produire, importer ou distribuer les services.

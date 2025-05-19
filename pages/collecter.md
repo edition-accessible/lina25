@@ -25,7 +25,7 @@ Les recommandations françaises sur l'[affichage des informations d'accessibilit
 
 ## Les informations nécessaires
 
-Les exigences de la directive Européenne impliquent que des informations sont disponibles sur les quatre catégories suivantes : 
+Les exigences de la directive Européenne impliquent que des informations sont disponibles sur les quatre catégories suivantes&nbsp;: 
 * les **modes de lecture** (tout le contenu disponible en voix de synthèse et braille, affichage modifiable, synchronisation texte et audio, etc.)&#8239;; 
 * les possibilités de **navigation** dans le fichier (table des matières dans le contenu, pagination de référence d’un imprimé, etc.), 
 * les **fonctionnalités du livre** (illustrations, tableaux, schémas, math, etc.) et leur accessibilité. 
@@ -39,9 +39,9 @@ Chacune de ces catégorie est détaillée dans le dictionnaire des métadonnées
 
 Les exemptions prévues par l'EAA peuvent être renseignées sous la forme de métadonnées. Ces dernières n'ont pas vocation à être affichées mais permettront aux autorités de cibler les contrôles et à l'interprofession d'établir des statistiques sur l'impact de la directive Européenne sur le secteur du livre numérique.
 
-* Si l’éditeur est une micro-entreprise, il devrait renseigner le code [196-75 : Exception 1 EAA - micro-entreprises](https://ns.editeur.org/onix/fr/196/75).
-* Si la mise en conformité du livre numérique génére un surcout disproportionné, l'éditeur doit renseigner le code [196 - 76  : Exception 2 EAA – charge disproportionnée](https://ns.editeur.org/onix/fr/196/76).
-* Si la mise en conformité du livre numérique implique une modification fondamentale de l'oeuvre, l'éditeur doit renseigner le code [196 - 77 : Exception 3 EAA – modification fondamentale](https://ns.editeur.org/onix/fr/196/77)
+* Si l’éditeur est une micro-entreprise, il devrait renseigner le code [196-75&nbsp;: Exception 1 EAA - micro-entreprises](https://ns.editeur.org/onix/fr/196/75).
+* Si la mise en conformité du livre numérique génére un surcout disproportionné, l'éditeur doit renseigner le code [196 - 76 &nbsp;: Exception 2 EAA – charge disproportionnée](https://ns.editeur.org/onix/fr/196/76).
+* Si la mise en conformité du livre numérique implique une modification fondamentale de l'oeuvre, l'éditeur doit renseigner le code [196 - 77&nbsp;: Exception 3 EAA – modification fondamentale](https://ns.editeur.org/onix/fr/196/77)
 
 #### La conformité
 

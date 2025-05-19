@@ -23,9 +23,9 @@ Le guide est accompagné de documents techniques pour faciliter l’implémentat
 
 Toutes les métadonnées utilisées pour déterminer l'accessibilité d'une publication ne sont pas strictement classées dans la catégorie d'accessibilité. Les détails du produit, par exemple, fournissent des informations importantes sur la facilité d'utilisation d'un livre électronique par rapport aux besoins spécifiques de l'utilisateur.
 
-En particulier, les informations suivantes devraient toujours être affichées :
+En particulier, les informations suivantes devraient toujours être affichées&nbsp;:
 
-* **Format de fichier** (EPUB 2 ou 3, PDF, MP3, livre audio, etc.) - Le format de fichier donne une forte indication de l'accessibilité : un PDF ne permet pas de modifier la typographie, l'EPUB 2 est déprécié, un EPUB 3 prend en charge la navigation dans les pages et une meilleure sémantique structurelle ; un livre audio au format MP3 sera moins structuré qu'un livre audio, etc.
+* **Format de fichier** (EPUB 2 ou 3, PDF, MP3, livre audio, etc.) - Le format de fichier donne une forte indication de l'accessibilité&nbsp;: un PDF ne permet pas de modifier la typographie, l'EPUB 2 est déprécié, un EPUB 3 prend en charge la navigation dans les pages et une meilleure sémantique structurelle ; un livre audio au format MP3 sera moins structuré qu'un livre audio, etc.
 * **Mesure de protection** ou absence de mesure de protection - La mesure de protection peut bloquer les technologies d'assistance telles que les lecteurs d'écran. En outre, de nombreux appareils de lecture électronique spécifiques, tels que les lecteurs DAISY ou les appareils de prise de notes en braille, ne sont pas équipés pour lire les fichiers cryptés.
 * **Nom de la maison d'édition** - Le nom de la maison d'édition peut mettre en évidence les efforts qu'elle a faits en matière d'accessibilité.
 * **Langue principale du contenu** - La langue principale du contenu permet aux lecteurs d'être sûrs qu'ils pourront lire avec leur technologie d'assistance qui utilise la voix synthétisée ou la table de traduction en braille correspondant à la langue.
@@ -34,23 +34,23 @@ Il n'est pas nécessaire d'inclure ces métadonnées dans la section relative à
 
 <h3>Les principales catégories d'accessibilité</h3>
 
-Le guide du W3C identifie huit catégories clés pour informer sur l'accessibilité d'un livre numérique :
+Le guide du W3C identifie huit catégories clés pour informer sur l'accessibilité d'un livre numérique&nbsp;:
 
-* Lisibilité (<span lang="en">Ways of reading</span>) : Peut-on modifier l'apparence du texte et de la mise en page ? Peut-on lire ce livre en braille ou avec la voix de synthèse ?
-* Règles d'accessibilité (<span lang="en">Conformance</span>) : Le livre respecte-t-il des normes reconnues (comme WCAG 2.1) ?
-* Points de repère (<span lang="en">Navigation</span>) : Le livre inclut-il des tables des matières, des index, ou des références de pagination ?
-* Contenus spécifiques (<span lang="en">Rich content</span>) : Les images, graphiques ou formules mathématiques sont-ils décrits de manière accessible ?
-* Points d'attention (<span lang="en">Hazards</span>) : Le livre contient-il des éléments potentiellement problématiques (flashs, sons intempestifs) ?
-* Informations supplémentaires (<span lang="en">Accessibility summary</span>) : Des détails sur l'accessibilité sont-ils fournis ?
-* Considérations juridiques (<span lang="en">Legal considerations</span>) : Le livre respecte-t-il les exigences légales en matière d'accessibilité ?
-* Informations complémentaires (<span lang="en">Additional accessibility information</span>) : D'autres fonctionnalités d'accessibilité sont-elles disponibles ?
+* Lisibilité (<span lang="en">Ways of reading</span>)&nbsp;: Peut-on modifier l'apparence du texte et de la mise en page ? Peut-on lire ce livre en braille ou avec la voix de synthèse ?
+* Règles d'accessibilité (<span lang="en">Conformance</span>)&nbsp;: Le livre respecte-t-il des normes reconnues (comme WCAG 2.1) ?
+* Points de repère (<span lang="en">Navigation</span>)&nbsp;: Le livre inclut-il des tables des matières, des index, ou des références de pagination ?
+* Contenus spécifiques (<span lang="en">Rich content</span>)&nbsp;: Les images, graphiques ou formules mathématiques sont-ils décrits de manière accessible ?
+* Points d'attention (<span lang="en">Hazards</span>)&nbsp;: Le livre contient-il des éléments potentiellement problématiques (flashs, sons intempestifs) ?
+* Informations supplémentaires (<span lang="en">Accessibility summary</span>)&nbsp;: Des détails sur l'accessibilité sont-ils fournis ?
+* Considérations juridiques (<span lang="en">Legal considerations</span>)&nbsp;: Le livre respecte-t-il les exigences légales en matière d'accessibilité ?
+* Informations complémentaires (<span lang="en">Additional accessibility information</span>)&nbsp;: D'autres fonctionnalités d'accessibilité sont-elles disponibles ?
 
 <h3>Trois informations clés à toujours afficher</h3>
 
-Parmi ces catégories, trois informations sont jugées essentielles et devraient toujours être présentées aux lecteurs :
-* Lisibilité (<span lang="en">Ways of reading</span>) : Par exemple, "L'apparence du texte et la mise en page peuvent être modifiées."
-* Points de repère (<span lang="en">Navigation</span>) : Par exemple, "Le livre contient une table des matières navigable."
-* Règles d'accessibilité (<span lang="en">Conformance</span>) : Par exemple, "Ce livre respecte les normes WCAG 2.1 Level AA."
+Parmi ces catégories, trois informations sont jugées essentielles et devraient toujours être présentées aux lecteurs&nbsp;:
+* Lisibilité (<span lang="en">Ways of reading</span>)&nbsp;: Par exemple, "L'apparence du texte et la mise en page peuvent être modifiées."
+* Points de repère (<span lang="en">Navigation</span>)&nbsp;: Par exemple, "Le livre contient une table des matières navigable."
+* Règles d'accessibilité (<span lang="en">Conformance</span>)&nbsp;: Par exemple, "Ce livre respecte les normes WCAG 2.1 Level AA."
 
 <h3>Flexibilité</h3>
 
@@ -83,17 +83,17 @@ Le guide est accompagné de deux documents techniques détaillant les algorithme
 
 <h3>Outils de test</h3>
 
-* <a href="https://daisy.github.io/a11y-meta-viewer/">DAISY Accessibility Metadata Viewer</a> : Le visualiseur de métadonnées d'accessibilité DAISY est un outil de test gratuit basé sur un navigateur qui permet aux utilisateurs d'examiner les métadonnées qui seront générées selon les directives et les techniques d'affichage. Il peut être exécuté en ligne ou téléchargé et exécuté localement. La visionneuse permet d'afficher les mentions descriptives ou compactes, de sélectionner la langue d'affichage et de supprimer les champs pour lesquels aucune information n'est disponible.
-* <a href="https://thorium.edrlab.org/">Thorium Desktop</a> : Cette application de lecture développée par EDRLab affiche les informations d'accessibilité disponibles dans les livres au format EPUB ainsi que celles fournies via un flux de catalogue OPDS.
+* <a href="https://daisy.github.io/a11y-meta-viewer/">DAISY Accessibility Metadata Viewer</a>&nbsp;: Le visualiseur de métadonnées d'accessibilité DAISY est un outil de test gratuit basé sur un navigateur qui permet aux utilisateurs d'examiner les métadonnées qui seront générées selon les directives et les techniques d'affichage. Il peut être exécuté en ligne ou téléchargé et exécuté localement. La visionneuse permet d'afficher les mentions descriptives ou compactes, de sélectionner la langue d'affichage et de supprimer les champs pour lesquels aucune information n'est disponible.
+* <a href="https://thorium.edrlab.org/">Thorium Desktop</a>&nbsp;: Cette application de lecture développée par EDRLab affiche les informations d'accessibilité disponibles dans les livres au format EPUB ainsi que celles fournies via un flux de catalogue OPDS.
 
 <h3>Les défis à relever</h3>
 
-Malgré les progrès réalisés, plusieurs défis subsistent :
+Malgré les progrès réalisés, plusieurs défis subsistent&nbsp;:
 
-* **Enrichir les métadonnées** : Tous les éditeurs ne fournissent pas encore des métadonnées d'accessibilité complètes, cela est encore plus vrai lorsqu’il s’agit d’ajouter de l’information aux livres du fond. Des règles d’inférence existent et peuvent être mise en oeuvre, notamment en utilisant l’utilitaire <a href="https://github.com/readium/cli">Readium CLI</a> (précédement inclut dans le Readium Go Toolkit).
-* **Implémenter le guide à tous les niveaux** : que ce soit sur un catalogue en ligne comportant des centaines de milliers de référence ou bien sur la page du site de l’éditeur, ces informations devraient être disponibles partout. Le guide et son appareillage permettent une implémentation facile.
-* **Associer les lecteurs** : Les utilisateurs doivent être informés de la présence de ces métadonnées pour choisir des livres adaptés à leurs besoins, il est suggéré de mettre en oeuvre des pages de documentation dédiées, des sondages et des communications pour associer les lecteurs.
-* **Collecter et comparer** : des études statistiques devraient être mises en oeuvre pour faire connaître et mesurer l’évolution du nombre de livres disponibles avec des fonctionnalités d’accessibilité. 
+* **Enrichir les métadonnées**&nbsp;: Tous les éditeurs ne fournissent pas encore des métadonnées d'accessibilité complètes, cela est encore plus vrai lorsqu’il s’agit d’ajouter de l’information aux livres du fond. Des règles d’inférence existent et peuvent être mise en oeuvre, notamment en utilisant l’utilitaire <a href="https://github.com/readium/cli">Readium CLI</a> (précédement inclut dans le Readium Go Toolkit).
+* **Implémenter le guide à tous les niveaux**&nbsp;: que ce soit sur un catalogue en ligne comportant des centaines de milliers de référence ou bien sur la page du site de l’éditeur, ces informations devraient être disponibles partout. Le guide et son appareillage permettent une implémentation facile.
+* **Associer les lecteurs**&nbsp;: Les utilisateurs doivent être informés de la présence de ces métadonnées pour choisir des livres adaptés à leurs besoins, il est suggéré de mettre en oeuvre des pages de documentation dédiées, des sondages et des communications pour associer les lecteurs.
+* **Collecter et comparer**&nbsp;: des études statistiques devraient être mises en oeuvre pour faire connaître et mesurer l’évolution du nombre de livres disponibles avec des fonctionnalités d’accessibilité. 
 
 
 <h3>Au sujet des livres imprimés</h3>

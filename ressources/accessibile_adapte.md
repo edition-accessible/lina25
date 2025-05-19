@@ -9,13 +9,13 @@ titlePrev: lire
 
 # Édition accessible et adaptée, une approche complémentaire
 
-Dans le domaine de l'édition numérique, l'accessibilité est devenue une priorité pour garantir que tous les lecteurs, y compris ceux ayant des handicaps, puissent accéder aux contenus de manière équitable. Deux approches principales se distinguent et se complètent : l'édition nativement accessible et l'édition adaptée. Bien que ces deux méthodes visent à améliorer l’offre de lecture disponible aux personnes empêchées de lire le texte imprimé, elles diffèrent dans leur approche et leur mise en œuvre. Cet article explore les différences entre ces deux types d'édition et examine leur interopérabilité.
+Dans le domaine de l'édition numérique, l'accessibilité est devenue une priorité pour garantir que tous les lecteurs, y compris ceux ayant des handicaps, puissent accéder aux contenus de manière équitable. Deux approches principales se distinguent et se complètent&nbsp;: l'édition nativement accessible et l'édition adaptée. Bien que ces deux méthodes visent à améliorer l’offre de lecture disponible aux personnes empêchées de lire le texte imprimé, elles diffèrent dans leur approche et leur mise en œuvre. Cet article explore les différences entre ces deux types d'édition et examine leur interopérabilité.
 
 ## L'édition nativement accessible
 
 L'édition nativement accessible consiste à créer des contenus numériques conçus pour satisfaire le plus grand nombre. Ces publications permettent aux personnes de personnaliser leur expérience de lecture, dans la limite des capacités des logiciels utilisés. Cette approche repose sur l'utilisation de formats de fichiers modernes, tels que l'EPUB (Electronic PUBlication), et de règles internationales reconnues sur l'intégration de fonctionnalités d'accessibilité ([WCAG](https://www.w3.org/Translations/WCAG22-fr/)).
 
-Les avantages de l'édition nativement accessible sont nombreux :
+Les avantages de l'édition nativement accessible sont nombreux&nbsp;:
 
 * En intégrant l'accessibilité dès la conception, les éditeurs s'assurent qu’une majorité de lecteurs peuvent accéder au contenu sans délai et sans aide, favorisant l’inclusion des personnes en situation de handicap.  
 * Corriger l'accessibilité est coûteux et chronophage ; l’approche native est plus rationnelle et permet de limiter les coûts de production d'éditions dérivées et complémentaires, notamment dans des formats adaptés à des besoins spécifiques.   
@@ -27,7 +27,7 @@ Cependant, cette approche nécessite une sensibilisation et une formation dédi�
 
 Aujourd’hui, l'édition adaptée, consiste à modifier des contenus existants pour les rendre accessibles pour des utilisateurs ayant des besoins spécifiques. Cette méthode est le plus souvent utilisée pour les publications qui n'ont pas été conçues de manière nativement accessible. Néanmoins, son objectif est plus large puisqu'il consiste à couvrir des besoins spécifiques qui ne peuvent pas être adressés aujourd'hui par des formats nativement accessibles, comme des adaptations pédagogiques ou des modes de lecture trop chers à produire (imprimés gros caractères, braille embossé, audio ou vidéo structurés et synchronisés, etc.). C’est pourquoi elle ne rentre pas en conflit avec l’édition nativement accessible. Elle peut impliquer la conversion de formats de fichiers, des formats différents pour les images (tactile ou en relief par exemple), la modification de la mise en page pour améliorer la lisibilité ou encore la colorisation d’unités de sens.
 
-Les avantages de l'édition adaptée incluent :
+Les avantages de l'édition adaptée incluent&nbsp;:
 
 * La réponse individualisée à des besoins particuliers, offrant ainsi une solution aux personnes qui ont des difficultés à manipuler les livres numériques ou pour lesquelles des solutions génériques restent insuffisantes.  
 * Les adaptations peuvent être spécifiquement conçues pour répondre aux besoins particuliers de certains groupes de lecteurs qui bénéficient de formats génériques spécifiques comme le Braille ou le Daisy, reconnus pour apporter une expérience de lecture équivalente à celle du livre imprimé, notamment en termes d’utilisabilité et de compréhension cognitive.
@@ -38,7 +38,7 @@ Néanmoins, l'édition adaptée reste coûteuse et nécessite du temps et des co
 
 Trop souvent oubliée, l'interopérabilité entre l'édition nativement accessible et l'édition adaptée est pourtant cruciale pour garantir une expérience utilisateur cohérente. Les éditeurs doivent s'assurer que les contenus adaptés peuvent être intégrés sans heurts dans des environnements nativement accessibles, et vice versa.
 
-Pour ce faire, il est essentiel de :
+Pour ce faire, il est essentiel de&nbsp;:
 
 * Adopter des normes d'accessibilité communes et reconnues, telles que les WCAG, pour garantir une certaine cohérence entre les contenus nativement accessibles et adaptés, et éviter dans la mesure du possible que les personnes aient à apprendre à manipuler de nouveaux formats.  
 * Les créateurs d’adaptations doivent être formés aux principes de l'accessibilité et aux outils disponibles pour créer et adapter des contenus.  
