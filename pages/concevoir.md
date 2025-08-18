@@ -14,6 +14,8 @@ titlePrev: Accueil
 <div markdown="1" id="principes">
 {%- include principes.html -%}
 
+L'accessibilité est une démarche d'amélioration continue, pour se tenir informer, le Consortium pour des Livres Accessibles (<span lang="en">Accessible Book Consortium</span>, ABC) et le consortium DAISY sont des sources d'information fiables.
+
 La grande majorité des livres ont ou auront une version numérique, et cette version numérique doit sauf exception être nativement accessible. Dès l’écriture d’un ouvrage, il est donc nécessaire que ses auteurs et éditeurs préparent le matériel qui permettra de produire facilement un livre numérique accessible.
 
 Les objets éditoriaux sont divers, chaque collection peut nécessiter une liste d’attention différente. Nous présentons ici les cas les plus communs pour lesquels les services de fabrication auront besoin d’éléments pour assurer un résultat satisfaisant.
