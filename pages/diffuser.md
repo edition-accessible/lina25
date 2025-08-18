@@ -70,7 +70,7 @@ Les deux solutions actuellement disponibles pour le chiffrement des fichiers son
 <a href="../ressources/Informer" class="link color_orange" target="_self">Afficher les informations d'accessibilité</a>
 </li>
 <li>
-<a href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/draft/guidelines/" class="link color_orange" target="_self" lang="en">Accessibility Metadata Display Guide for Digital Publications 2.0 </a>(en anglais)
+<a href="https://www.w3.org/publishing/a11y/metadata-display-guide/guidelines/" class="link color_orange" target="_self" lang="en">Accessibility Metadata Display Guide for Digital Publications 2.0 </a>(en anglais)
 </li>
 <li>
 <a href="../ressources/signpostingprototypefr" class="link color_orange">Prototype d'affichage des informations d'accessibilité</a>
