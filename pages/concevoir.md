@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Concevoir
-date: 2023-03-13
+date: 2025-08-18
 subtitle: des contenus complets
 orientation: fournir des contenus permettant la production de livres numériques accessibles.
 audience: auteurs et éditeurs.
