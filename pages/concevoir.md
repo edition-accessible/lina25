@@ -61,13 +61,25 @@ Voici une liste non exhaustive des situations que vous pouvez rencontrer et auxq
 
 ## Ressources
 
+### Compréhension générale
+
+<ul>
+
+<li class="color_orange"><a href="https://www.accessiblebooksconsortium.org/publishing/fr/" class ="link color_orange">
+Consortium pour des livres accessibles (ABC)</a></li>
+
+<!-- <li><a href="https://www.inclusivepublishinginpractice.org/" class ="link color_orange">L'édition inclusive en pratique</a></li> -->
+
+<li><a href="https://inclusivepublishing.org/" class ="link color_orange" lang="en">Inclusive publishing <span lang="fr">(en anglais)</span></a></li>
+
+<li><a href="https://daisy.org/webinar-series/" class ="link color_orange">Webinaires du consortium Daisy <span lang="fr">(en anglais)</span></a></li>
+</ul>
+
 ### Alternatives aux images
 
 <ul>
 
-<li><a href="https://www.sne.fr/app/uploads/2022/10/SNE-Normes-et-stanrdards-Textes-alternatifs-image-Document-de-synthese-.._vdef2.pdf" class ="link color_orange"><cite>Mise en accessibilité des images dans les EPUBs - synthèse des travaux du groupe normes et standard du SNE.</cite> octobre 2022 (PDF non balisé, 2 Mo)</a></li>
-
-<li><a href="https://www.sne.fr/app/uploads/2022/10/SNE_Atelier_Normes-et-Standards_Accessibilite_Textes-alternatifs_2022.pptx.pdf" class ="link color_orange">Présentation de l’atelier sur la production de textes alternatifs aux images du groupe normes et standard du SNE, octobre 2022 (PDF non balisé, 5.6 Mo)</a></li>
+<li><a href="https://edition-accessible.github.io/ePubAccessibleCharteSNE/charte-image.html" class ="link color_orange"><cite>Mise en accessibilité des images dans les EPUB - Groupe normes et standard du SNE.</cite> Août 2025.</a></li>
 
 <li><a href="https://github.com/benetech/AccessibleImageSampleBook/blob/master/AccessibleImageSampleBookFrench/DIAGRAM_Image-Description-Guidelines_FR.epub?raw=true" class ="link color_orange"><cite>Comment décrire les images&#8239;?</cite> DIAGRAM Center&#8239;; NCAM&#8239;; Association BrailleNet (EPUB, 7.7 Mo) </a></li>
 
@@ -77,21 +89,4 @@ Voici une liste non exhaustive des situations que vous pouvez rencontrer et auxq
 
 </ul>
 
-### Compréhension générale
-
-<ul>
-
-<li class="color_orange"><a href="https://www.accessiblebooksconsortium.org/publishing/fr/" class ="link color_orange">
-Site web du Consortium pour des livres accessibles (ABC)</a></li>
-
-<li><a href="https://www.accessiblebooksconsortium.org/documents/102554/102064/abc_charter.pdf" class ="link color_orange">Charte de l’édition accessible</a></li>
-
-<li><a href="https://www.accessiblebooksconsortium.org/documents/102554/254117/best_practice_guidelines.doc" class ="link color_orange"><cite>Édition accessible, Pratiques recommandées à l’intention des éditeurs</cite> (fichier .doc).</a></li>
-
-<li><a href="https://www.inclusivepublishinginpractice.org/" class ="link color_orange">L'édition inclusive en pratique</a></li>
-
-<li><a href="https://inclusivepublishing.org/" class ="link color_orange" lang="en">inclusive publishing <span lang="fr">(en anglais)</span></a></li>
-
-<li><a href="https://daisy.org/webinar-series/" class ="link color_orange">Les webinaires du consortium Daisy <span lang="fr">(en anglais)</span></a></li>
-</ul>
 </section>
