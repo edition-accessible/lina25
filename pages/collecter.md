@@ -52,7 +52,7 @@ La meilleure façon d’assurer que les informations sont juste consiste à prat
 
 Dans les cas où il vous parait nécessaire d'ajouter une information concernant l'accessibilité du livre, il est possible de rédiger un texte à placer dans l'Addenda sur l’accessibilité (<a href="https://ns.editeur.org/onix/en/196/92">Liste 196 Code 92&#8239;: </a>). Ce peut aussi être une URL vers une page plus détaillée. Cette métadonnée est particulière car c'est un champ libre dans lequel ce que vous écrirez sera transporté et affiché tel quel. Il faut partir du principe que les autres métadonnées d'accessibilité ont déjà été présentées et que cet addenda sert à indiquer des caractéristiques ou des lacunes qui ne sont pas exprimées par les autres métadonnées. 
 
-Cet addenda devrait être le même que celui contenu dans le fichier EPUB sous le code (<span lang="en"><i>schema.org accessibility summary</i></span>) et préciser notamment les déficiences potentielles. Le guide d'usage des métadonnées d'accesisbilité du W3C (*Expressing Accessibility Metadata in the EPUB Package Document*) comporte une section explicative sur le sujet. 
+Cet addenda devrait être le même que celui contenu dans le fichier EPUB sous le code (<span lang="en"><i>schema.org accessibility summary</i></span>) et préciser notamment les déficiences potentielles. Le guide d'usage des métadonnées d’accessibilité du W3C (*Expressing Accessibility Metadata in the EPUB Package Document*) comporte une section explicative sur le sujet. 
 
 Dans le passé, les métadonnées d'accessibilité n'étaient pas affichées par les catalogues en ligne, le résumé d'accessibilité (<a href="https://ns.editeur.org/onix/en/196/00">Liste 196 Code 00&#8239;: </a>) permettait alors de palier à ce manque. Il ne devrait plus être utilisé aujourd'hui.
 
@@ -84,9 +84,9 @@ Expressing Accessibility Metadata in the EPUB Package Document</a></span>
 <a href="https://ns.editeur.org/onix/fr/196" class="link color_orange">ONIX liste 196</a>
 </li>
 
-<li>
+<!-- <li>
 <a href="https://edition-accessible.github.io/signalement/references/references.html" class="link color_orange">Tableau de correspondances schema.org et ONIX en Français</a>
-</li>
+</li> -->
 
 <li>
 <a href="https://w3c.github.io/publ-a11y/drafts/a11y-crosswalk-MARC/" class="link color_orange">Tableau de correspondances schema.org, ONIX, MARC21 et UNIMARC en Anglais</a>
