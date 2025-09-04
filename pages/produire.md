@@ -100,6 +100,9 @@ Dans ce cas, il est recommandé de prévoir une version accessible de l'ouvrage 
 <li>
   <a href="../ressources/traiter" class="link color_orange" target="_self">Traiter le fond, éviter la disparition d’un grand nombre de livres numériques</a>
 </li>
+<li>
+  <a href="../ressources/soliman" class="link color_orange">Retour d'expérience de l'analyse du corpus FeniXX (projet Soliman)</a>
+</li>
 </ul>
 
 ### Les référentiels
