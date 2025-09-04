@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Renseigner
-date: 2023-11-16
+date: 2025-09-04
 subtitle: et référencer des informations précises
 orientation: assurer la présence d’informations de qualité sur l’accessibilité des livres numériques
 audience: personnes en charge de produire, renseigner ou améliorer les métadonnées auprès des distributeurs, organismes de référencement et agences bibliographiques
@@ -19,9 +19,9 @@ Afin de rendre possible l’information de l’utilisateur, les métadonnées re
 
 Comme ces informations et leur affichage s’inscrit dans un cadre légal, leur exactitude revêt une importance particulière car elle engage les différents acteurs, éditeurs, intermédiaires et revendeurs. Une démarche d’information et de validation devrait être mise en œuvre pour assurer cette exactitude.
 
-Nous proposons un [dictionnaire des métadonnées](../ressources/metadonnees.md) pour vous aider dans cette tâche. Vous y trouverez des tableaux de correspondance définissant les conditions et l'information nécessaire en lien avec le code ONIX correspondant.  
+Nous proposons un *dictionnaire des métadonnées* pour vous aider dans cette tâche. Vous y trouverez des tableaux de correspondance définissant les conditions et l'information nécessaire en lien avec le code ONIX correspondant.  
 
-Les recommandations françaises sur l'[affichage des informations d'accessibilité](../ressources/Informer) (projet en cours) peuvent-être aussi utiles pour comprendre comment chaque code devrait se matérialiser sur les sites de diffusion et de distribution.
+*L'étude française sur l'affichage des informations d'accessibilité* ajoute des ressources utiles pour comprendre comment chaque code devrait se matérialiser sur les sites de diffusion et de distribution.
 
 ## Les informations nécessaires
 
@@ -33,29 +33,30 @@ Les exigences de la directive Européenne impliquent que des informations sont d
 * le **blocage** éventuel des fonctionnalités d’accessibilité par des mesures de protection inadéquates (DRM) devrait aussi être renseigné.
 
 Chacune de ces catégorie est détaillée dans le dictionnaire des métadonnées d'accessibilité. 
-### Les informations supplémentaires utiles
 
-#### Les exemptions
+## Les informations supplémentaires utiles
+
+### Les exemptions
 
 Les exemptions prévues par l'EAA peuvent être renseignées sous la forme de métadonnées. Ces dernières n'ont pas vocation à être affichées mais permettront aux autorités de cibler les contrôles et à l'interprofession d'établir des statistiques sur l'impact de la directive Européenne sur le secteur du livre numérique.
 
-* Si l’éditeur est une micro-entreprise, il devrait renseigner le code [196-75&nbsp;: Exception 1 EAA - micro-entreprises](https://ns.editeur.org/onix/fr/196/75).
+* Si l’éditeur est une micro-entreprise, il doit renseigner le code [196-75&nbsp;: Exception 1 EAA - micro-entreprises](https://ns.editeur.org/onix/fr/196/75).
 * Si la mise en conformité du livre numérique génére un surcout disproportionné, l'éditeur doit renseigner le code [196 - 76 &nbsp;: Exception 2 EAA – charge disproportionnée](https://ns.editeur.org/onix/fr/196/76).
 * Si la mise en conformité du livre numérique implique une modification fondamentale de l'oeuvre, l'éditeur doit renseigner le code [196 - 77&nbsp;: Exception 3 EAA – modification fondamentale](https://ns.editeur.org/onix/fr/196/77)
 
-#### La conformité
+### La conformité
 
 La meilleure façon d’assurer que les informations sont juste consiste à pratiquer des tests de contrôle pour s’assurer que le document est conforme à EPUB accessibility AA (<a href="https://ns.editeur.org/onix/en/196/03">liste 196 code 03</a>) ou A (<a href="https://ns.editeur.org/onix/en/196/02">liste 196 code 02</a>). Dans ce dernier cas il faudra aussi assurer que la mise en forme est modifiable (<a href="https://ns.editeur.org/onix/en/175/E200">Liste 175 Code E200&#8239;: Redimensionnable</a>) pour rester dans les conditions acceptables de la directive européenne.
 
-#### Le résumé d'accessibilité 
+### Addenda et résumé d'accessibilité 
 
-L'ajout d'un résumé d'accessibilité (<a href="https://ns.editeur.org/onix/en/196/00">Liste 196 Code 00&#8239;: Résumé sur l’accessibilité</a>) est fortement recommandé. Le nom de ce dernier est trompeur. Il ne s'agit pas d'un résumé complet, mais d'un complément d'information, d'une clarification et d'une amélioration des autres métadonnées d'accessibilité. Cette métadonnée est particulière car c'est un champ libre dans lequel ce que vous écrirez sera transporté et affiché tel quel.
+Dans les cas où il vous parait nécessaire d'ajouter une information concernant l'accessibilité du livre, il est possible de rédiger un texte à placer dans l'Addenda sur l’accessibilité (<a href="https://ns.editeur.org/onix/en/196/92">Liste 196 Code 92&#8239;: </a>). Ce peut aussi être une URL vers une page plus détaillée. Cette métadonnée est particulière car c'est un champ libre dans lequel ce que vous écrirez sera transporté et affiché tel quel. Il faut partir du principe que les autres métadonnées d'accessibilité ont déjà été présentées et que cet addenda sert à indiquer des caractéristiques ou des lacunes qui ne sont pas exprimées par les autres métadonnées. 
 
-Lors de la création du résumé d'accessibilité, il faut partir du principe que les autres métadonnées d'accessibilité ont déjà été présentées et que le résumé d'accessibilité sert à améliorer ces métadonnées. Si la publication présente des caractéristiques ou des lacunes qui ne sont pas exprimées dans les autres métadonnées d'accessibilité, le résumé d'accessibilité est l'endroit approprié pour inclure ces informations. 
+Cet addenda devrait être le même que celui contenu dans le fichier EPUB sous le code (<span lang="en"><i>schema.org accessibility summary</i></span>) et préciser notamment les déficiences potentielles. Le guide d'usage des métadonnées d'accesisbilité du W3C (*Expressing Accessibility Metadata in the EPUB Package Document*) comporte une section explicative sur le sujet. 
 
-Ce résumé devrait être le même que celui contenu dans le fichier EPUB (<span lang="en"><i>schema.org accessibility summary</i></span>) et préciser notamment les déficiences potentielles. Un guide de rédaction de ce résumé est en cours d'élaboration au sein du groupe des éditeurs du W3C. 
+Dans le passé, les métadonnées d'accessibilité n'étaient pas affichées par les catalogues en ligne, le résumé d'accessibilité (<a href="https://ns.editeur.org/onix/en/196/00">Liste 196 Code 00&#8239;: </a>) permettait alors de palier à ce manque. Il ne devrait plus être utilisé aujourd'hui.
 
-#### Certificats et démarches d'accessibilité
+### Certificats et démarches d'accessibilité
 
 Les informations relatives à la certification d'accessibilité contenues dans les codes 196 01 et 93 sont délivrés par des tiers qui engagent leur responsabilité.
 
@@ -68,15 +69,15 @@ Les codes 196 94 à 99 permettent de renseigner les utilisateurs sur la démarch
 <ul>
 
 <li>
-<a href="../ressources/Informer" class="link color_orange" target="_self">recommandations françaises sur l'affichage des informations d'accessibilité</a>
+<a href="../ressources/Informer" class="link color_orange" target="_self">Étude française sur l'affichage des informations d'accessibilité</a>
 </li>
 <li>
 <a href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/draft/guidelines/" class="link color_orange" target="_self" lang="en">Accessibility Metadata Display Guide for Digital Publications 2.0 </a>(en anglais)
 </li>
 
 <li>
-<span lang="en"><a href="https://w3c.github.io/publ-a11y/drafts/schema-a11y-summary/" class="link color_orange">
-Accessibility Summary Authoring Guidelines for EPUB Publications Draft Community Group Report 07 December 2022</a></span>
+<span lang="en"><a href="https://w3c.github.io/publ-a11y/epub-a11y-meta-guide/1.0/draft/index.html" class="link color_orange">
+Expressing Accessibility Metadata in the EPUB Package Document</a></span>
 </li>
 
 <li>
