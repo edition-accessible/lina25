@@ -69,5 +69,3 @@ D’autre part, FeniXX sait désormais quels efforts sont nécessaires pour rend
 Étant donné que l’outil est disponible en open source et déjà utilisé par des acteurs majeurs de l’industrie comme De Marque, les deux aspects ont un impact non seulement sur les collections FeniXX, mais aussi sur un nombre significativement plus important d’ebooks, et l’effet continuera de se propager au cours des prochaines années. Nous nous attendons à une adoption significative de l’outil par d’éminents acteurs de la préservation du patrimoine, tels que les bibliothèques nationales, et espérons que cela s’accompagnera de nouvelles améliorations du Readium CLI ou de solutions dérivées.
 
 L’engagement de FeniXX à sauvegarder le patrimoine culturel est démontré par cet effort, car il s’efforce activement d’éliminer les barrières au contenu numérique et de garantir qu’un lectorat plus large et plus diversifié puisse pleinement découvrir et apprécier ses riches ressources littéraires. Cette entreprise souligne le rôle vital de la conception inclusive dans la promotion d’un accès équitable à la connaissance et à la culture à l’ère numérique.
-
-</div>
