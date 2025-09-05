@@ -1,11 +1,25 @@
 ---
 layout: document
-date: 2025-05-05
+date: 2025-08-18
 title: "Vocabulaire recommandé pour l'affichage des informations d'accessibilité"
 previous: ../pages/diffuser.html
 titlePrev: Informer
 draft: false
 ---
+
+Cette page présente, pour information, le vocabulaire en français proposé pour l'affichage des informations d'accessibilité. 
+
+La méthode pour déterminer quelles valeurs déclenchent un affichage déterminée est décrite par le document du W3C <a href="https://www.w3.org/publishing/a11y/metadata-display-guide/guidelines/" target="_self" lang="en">Accessibility Metadata Display Guide for Digital Publications 2.0 </a>(en anglais) et détaillée par les documents techniques &nbsp;:
+<ul>
+				<li>
+					<p><a href="https://www.w3.org/publishing/a11y/metadata-display-guide/techniques/epub/" spellcheck="false" lang="en">Display Techniques for EPUB Accessibility Metadata 2.0</a> (en anglais)</p>
+				</li>
+				<li>
+					<p><a href="https://www.w3.org/publishing/a11y/metadata-display-guide/techniques/onix/" lang="en">Display Techniques for ONIX Accessibility Metadata 2.0</a> (en anglais)</p>
+				</li>
+			</ul>
+
+Pour les besoins des développeurs, le vocabulaire présenté ici, ainsi que les vocabulaires proposés pour d'autres langues, est [disponible sur un dépot GitHub](https://github.com/w3c/publ-a11y-display-guide-localizations/tree/main/lang) sous la forme d'un fichier `.json`.
 
  <section hidden="hidden">
  <select id="json-source-select">

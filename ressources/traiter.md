@@ -42,6 +42,8 @@ Il existe cependant des possibilités pour traiter certains problèmes à grande
 
 <h2>Ressources</h2>
 
+<a href="../ressources/soliman" class="link color_orange">Retour d'expérience de l'analyse du corpus FeniXX (projet Soliman)</a>
+
 <a href="https://www.abelab.eu" class="link color_orange">Site du projet européen ABE Lab (en anglais)</a>
 
 <a href="opds://rawcdn.githack.com/ABELaboratory/publications/5bb58ce9826a9bdce35405e86bf3b243c11b75e3/public-deliverables/feeds/ABELab_deliverables.json

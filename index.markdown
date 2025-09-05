@@ -24,13 +24,12 @@ title: Accueil
 <li class="pourquoi_paragraphe">
   <i class="fa-solid fa-circle-right"></i>
 
-  <p>L’acte européen d’accessibilité, qui vise l’ensemble des services et produits dans l’Union Européenne, et parmi ceux-ci la chaîne du livre, rend nécessaire une adaptation des opérateurs économiques afin de se mettre en capacité de répondre aux exigences d’accessibilité qui leurs seront posées à l’horizon 2025.</p>
+  <p>L’acte européen d’accessibilité, vise l’ensemble des services et produits dans l’Union Européenne, et parmi ceux-ci la chaîne du livre. Ce site constitue une base de connaissance pour les acteurs de la chaîne du livre numérique, afin de leur apporter les outils nécessaires à une démarche réussie, qu'il s'agisse de concevoir, produire, décrire, informer, distribuer, afficher et lire des contenus. Il est issu du travail du comité de pilotage interministériel pour le développement d’une offre de livres numériques nativement accessibles aux personnes en situation de handicap.</p>
 </li>
 
 <li class="pourquoi_paragraphe">
   <i class="fa-solid fa-circle-right"></i>
-
-  <p>Ce site constitue une base de connaissance pour les acteurs de la chaîne du livre numérique, afin de leur apporter les outils nécessaires à une démarche réussie, qu'il s'agisse de concevoir, produire, décrire, distribuer des contenus, créer ou sélectionner des outils de lecture accessibles. Il est issu du travail du comité de pilotage interministériel pour le développement d’une offre de livres numériques nativement accessibles aux personnes en situation de handicap.</p>
+  <p>Ce site est mis à jour en fonction des annonces ou de la publication de nouvelles ressources. Si vous souhaitez être informé des ajouts ou modifications de contenus, nous vous proposons un <a class="link color_navy" href="https://ec.europa.eu/eusurvey/runner/fd17005b-558f-0050-4e7f-a3294314708a">formulaire d'inscription à notre liste de contact</a>. Ce même formulaire vous permettra aussi de nous donner votre avis et vos commentaires sur l’intérêt et l'usage de ce site. Merci pour votre participation !</p>
 </li>
 </ul>
 
@@ -38,5 +37,5 @@ title: Accueil
 développement d’une offre de livres numériques accessibles aux
 personnes en situation de handicap</a></p>
 
-<p>Le site LINA25 est mis à jour en fonction des annonces ou de la publication de nouvelles ressources. Si vous souhaitez être informé des ajouts ou modifications de contenus, nous vous proposons un <a class="link color_navy" href="https://ec.europa.eu/eusurvey/runner/fd17005b-558f-0050-4e7f-a3294314708a">formulaire d'inscription à notre liste de contact</a>. Ce même formulaire vous permettra aussi de nous donner votre avis et vos commentaires sur l’intérêt et l'usage de ce site. Merci pour votre participation !</p>
+
 </section>

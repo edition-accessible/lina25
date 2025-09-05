@@ -1,6 +1,6 @@
 ---
 layout: document
-date:  2025-05-05
+date:  2025-08-18
 title: "Recommandations pour l'affichage des informations d'accessibilité"
 previous: ../pages/diffuser.html
 titlePrev: Informer
@@ -9,15 +9,9 @@ draft: false
 
 <div markdown="1" id="principes">
 
-À partir du 28 juin 2025, les sites et portails proposant des livres numériques en prêt ou à la vente doivent informer les personnes des caractéristiques d’accessibilité des livres numériques qui leur sont proposés.
+Depuis le 28 juin 2025, les sites et portails proposant des livres numériques en prêt ou à la vente doivent informer les personnes des caractéristiques d’accessibilité des livres numériques qui leur sont proposés. Afin de faciliter la compréhension, mais aussi la tache des équipes qui doivent mettre en place l'affichage de ces informations, la communauté des éditeurs au W3C (<a href="https://www.w3.org/community/publishingcg/"><span lang="en">Publishing community group</span></a>, un espace ouvert et public auquel il est possible de participer sans adhérer au W3C) propose un Guide d'affichage des métadonnées d’accessibilité <a href="https://www.w3.org/publishing/a11y/metadata-display-guide/guidelines/"><span lang="en">(Accessibility Metadata Display Guide for Digital Publications 2.0)</span></a> accompagné de documents techniques pour faciliter l’implémentation, ainsi que d’une série de fichiers de formulations en différentes langues pour permettre la localisation du vocabulaire au plus proche des réalités culturelles et, potentiellement, des audiences spécifiques.
 
-Le W3C, à travers son groupe de travail sur l'accessibilité des publications numériques, a publié en avril 2025 la version 2.0 de son guide de présentation des métadonnées d'accessibilité. Ce guide, intitulé <a href="https://www.w3.org/publishing/a11y/metadata-display-guide/guidelines/">"<span lang="en">Accessibility Metadata Display Guide for Digital Publications 2.0"</span></a> (Guide d'affichage des métadonnées d’accessibilité), vise à standardiser la manière dont les informations d'accessibilité sont présentées aux utilisateurs. Il est disponible en anglais, de précédentes versions étaient traduites pour faciliter les retours, mais la dernière version n'a pas été traduite. Cette page résume les informations à connaître pour utiliser au mieux ce guide.
-
-Ce guide a été élaboré dans le cadre du <a href="https://www.w3.org/community/publishingcg/"><span lang="en">Publishing community group</span></a>, un espace ouvert et public auquel il est possible de participer sans adhérer au W3C. Les discussions sont publiques et les décisions prises au consensus. C’est un espace de collaborations internationales où des organisations professionnelles, comme EDRLab, DAISY Consortium, Benetech, Fondazione LIA, et des acteurs industriels, comme Kobo et VitalSource, travaillent ensemble pour développer des outils et des standards communs.
-
-Le guide est accompagné de documents techniques pour faciliter l’implémentation par les équipes techniques ainsi que d’une série de fichiers de formulations en différentes langues pour permettre la localisation du vocabulaire au plus proche des réalités culturelles et, potentiellement, des audiences spécifiques.
-
-*Cette recommandation est établie au niveau international par le W3C et transcrite en français à partir d’un travail interprofessionnel piloté par EDRLab dans le cadre d’une mission confiée par le comité de pilotage interministeriel. Elle a désormais atteint une maturité suffisante mais peut être mise à jour en fonction des avancées du projet et des recommandations internationales.*
+Il est disponible en anglais, de précédentes versions étaient traduites pour faciliter les retours, mais la dernière version n'a pas été traduite. Cette page résume les informations à connaître pour utiliser au mieux ce guide.
 
 <h3>Métadonnées généralistes</h3>
 

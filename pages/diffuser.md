@@ -22,7 +22,7 @@ Pour homogénéiser cette expérience utilisateur, une discussion internationale
 
 Le guide d'affichage des métadonnées d'accessibilité du W3C est désormais la référence à mettre en oeuvre. La ressource en français *"Afficher les informations d'accessibilité"* donne les grandes lignes et indique comment utiliser ce guide.
 
-Une première implémentation de ces recommandation est visibles sur 140 sites de librairies opérés par Titelive, comme par exemple la fiche concernant le [Cours de Poétique de Paul Valéry sur epagine](https://www.epagine.fr/ebook/9782072907098-cours-de-poetique-tome-1-le-corps-et-l-esprit-1937-1940-paul-valery/#targetAccess).  
+Ces recommandation sont désormais visibles sur une grande majorité de catalogues de vente, que ce soient les librairies indépendantes ou les plateformes internationales. Voici un exemple, la fiche concernant le [Cours de Poétique de Paul Valéry sur epagine](https://www.epagine.fr/ebook/9782072907098-cours-de-poetique-tome-1-le-corps-et-l-esprit-1937-1940-paul-valery/#targetAccess).  
 
 ### Les informations nécessaires
 
@@ -70,7 +70,7 @@ Les deux solutions actuellement disponibles pour le chiffrement des fichiers son
 <a href="../ressources/Informer" class="link color_orange" target="_self">Afficher les informations d'accessibilité</a>
 </li>
 <li>
-<a href="https://w3c.github.io/publ-a11y/a11y-meta-display-guide/2.0/draft/guidelines/" class="link color_orange" target="_self" lang="en">Accessibility Metadata Display Guide for Digital Publications 2.0 </a>(en anglais)
+<a href="https://www.w3.org/publishing/a11y/metadata-display-guide/guidelines/" class="link color_orange" target="_self" lang="en">Accessibility Metadata Display Guide for Digital Publications 2.0 </a>(en anglais)
 </li>
 <li>
 <a href="../ressources/signpostingprototypefr" class="link color_orange">Prototype d'affichage des informations d'accessibilité</a>

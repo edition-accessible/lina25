@@ -1,6 +1,6 @@
 ---
 layout: document
-date:2025-02-06
+date: 2025-02-06
 title: "Méthodologie et prototype de l'étude de signalisation française (2021-2024)"
 previous: ../pages/diffuser.html
 titlePrev: Informer
