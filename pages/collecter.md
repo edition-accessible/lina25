@@ -32,7 +32,7 @@ Les exigences de la directive Européenne impliquent que des informations sont d
 * les **risques** physiologiques éventuels liés à l'épilepsie ou à l'hypersensibilité.
 * le **blocage** éventuel des fonctionnalités d’accessibilité par des mesures de protection inadéquates (DRM) devrait aussi être renseigné.
 
-Chacune de ces catégorie est détaillée dans le dictionnaire des métadonnées d'accessibilité. 
+Chacune de ces catégorie est détaillée dans le <a href="https://www.lina25.fr/ressources/metadonnees">dictionnaire des métadonnées d'accessibilité</a>. 
 
 ## Les informations supplémentaires utiles
 
@@ -67,7 +67,8 @@ Les codes 196 94 à 99 permettent de renseigner les utilisateurs sur la démarch
 <section  class="ressources" markdown="1">
 <h2> Ressources</h2>
 <ul>
-
+<li> <a href="https://www.lina25.fr/ressources/metadonnees" class="link color_orange" target="_self">Dictionnaire des métadonnées d'accessibilité</a>
+</li>
 <li>
 <a href="../ressources/Informer" class="link color_orange" target="_self">Étude française sur l'affichage des informations d'accessibilité</a>
 </li>
